@@ -1,9 +1,0 @@
-e Curved-Lane-Lines that indicating traffic flow and where a vehicle should drive. It's also a good starting
-point when developing a self-driving car.
-e Working with Transformer’s, Sate-of-the-art models in Deep learning.
-e Web Development with Flask framework.
-e Implementing stock market forecasting using LSTM algo.
-Declaration:
-I hereby certify that the details mentioned above are true to the best of my
-knowledge and belief.
-(Mahadev S H)

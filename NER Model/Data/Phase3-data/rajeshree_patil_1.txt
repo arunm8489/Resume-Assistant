@@ -1,7 +1,0 @@
-Mtech project
-Design and implement of brain computer interface using
-wheel chair control
-BE
-Gesture control wheel chair
-Data science
-Face recognition

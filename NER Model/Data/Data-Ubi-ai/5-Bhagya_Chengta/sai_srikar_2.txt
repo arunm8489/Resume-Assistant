@@ -1,8 +1,0 @@
-TECHNICAL PROFICIENCY:
-Languages: C, Python, Selenium
-UI Technologies: Angular JS, JSON,
-API: XML, Azure API, Google Cloud Platform API
-Development-Tools (IDEs): Eclipse, Visual Studio
-Unit-Testing Frameworks: pytest
-Platforms: Windows, LINUX, RHEL OS
-SDLC Methodologies: Agile Methodology
