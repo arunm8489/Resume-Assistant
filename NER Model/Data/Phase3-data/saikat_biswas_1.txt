@@ -1,0 +1,22 @@
+Senior Process Associate | Infosys | Feb-2015 to April-2017
+- Communication with clients and deadline-driven response to issues within the agreement period.
+- Projects dealt were for British Telecom United Kingdom region.
+- Resolved Production tickets.
+- Worked on SQL scripts and generation of dashboards using Power BI.
+Skills & Abilities
+Programming Language
+- Python
+-SQL
+- Power BI
+- Machine Learning
+- Deep Learning
+Software
+- Power BI
+- Anaconda
+- Linux Shell
+- Microsoft Office.
+Communication
+- Have good verbal and written communication skills. Enabled to deliver sessions for teammates.
+Profile links
+- Github: https://github.com/SaiBiswas
+- Medium: https://medium.com/@imsaikatb

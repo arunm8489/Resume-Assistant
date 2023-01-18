@@ -1,0 +1,40 @@
+EBIN K THOMAS
+Mobile: +91 9496357986 Email: ebinkl1O0@gmail.com Nationality: Indian
+SUMMARY OF QUALIFICATIONS
+e Data Scientist with a strong background in Machine Learning, Deep Learning, Natural Language
+Processing (NLP), Python and Statistics.
+e Worked on various POC on Machine Learning Projects and Transformer based models.
+e Played Key roles in Design, Development, Testing, Maintenance and Troubleshooting.
+e Proficient in major data analytics and visualization tools like Python.
+e Experienced in Requirement Gathering & Analysis, coordinating the project activity between team and
+client.
+WORK EXPERIENCE
+INFOSYS Bangalore, India
+Senior Associate Consultant — Data science Jan 19-Present
+Infosys Intelligent Assistant (IIA)
+Technologies: Python, Angular, Flask, Mongo DB
+Models Used : Logistic Regression, Naive Bayes, Random Forest, XG Boost.
+Description: The motive of this tool is to reduce the resources of L1 support in Maintenance projects. It reduces the
+human intervention needed to classify and assigning the tickets and helps to resolve the repeated tickets.
+e Implemented with four algorithms Logistic Regression, Random Forest, Naive Bayes and XG Boost. These
+algorithms are used to train the historical tickets and then to classify the tickets and also assign to the available
+support engineer.
+e Implemented with other features showing the related tickets based on the historical tickets by using the
+Word2vec algorithm.
+e Repeated tickets can be automatically resolved by invoking the python scripts.
+Responsibilities:
+e Worked on the training module and retraining module on implementing the algorithms to train the historical
+tickets.
+e Worked on the Data Pre-processing for different internal accounts and demonstrated and installed the IIA in
+many key accounts.
+e Worked on the integration with different ITSM tools (SNOW,JIRA) for getting the tickets and updating the tickets
+from the IIA tool.
+e Implemented Solution to Related Tickets functionality using Word2Vecmodel.
+Infosys Fraud Detection
+Technologies: Python, PyTorch, Angular, Flask, Mongo DB
+Models Used: LSTM
+Description: To identify an employee is potential fraud or not.
+Responsibilities:
+e The background verification takes 2-3 months of time and usually done with help of third party vendors.
+e To avoid the delay in the background verification process.
+e Implemented a deep learning model to predict the data is fraudulent or not.

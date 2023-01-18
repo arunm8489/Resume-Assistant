@@ -1,0 +1,38 @@
+Name : Yempati Karthik
+Mobile number’: +91-8008527441
+Email : karthikyempati997@gmail.com
+LinkedIn : https://www.linkedin.com/in/yempati-karthik/
+Summary
+Having approx 3 years of industry working experience. For the past 2 years working in Data
+Science, Machine Learning, Deep Learning and Computer Vision Development.
+Certified Tensorflow Developer recognized by Google.
+Professional Synopsis
+e Excellent Data Cleaning, Data Exploration Analysis skills, Data Engineering( ETL)
+skills, Quantitative Analysis and Data Visualization. Maintaining Data Quality.
+e Design, Build, Develop and Implementing end-to-end ML pipelines and building both
+batch and real-time model pipelines with existing applications.
+e Create/Maintain CI/CD MLOps pipeline(Continuous Integration/Continuous
+Delivery/Deployment), Verification/Validation and Monitoring of AI/ML models in
+Kubernetes(K8s) clusters. Scheduling automated retraining based on data drifting.
+e Good knowledge of Advanced Analytics like NLP, Predictive/Prescriptive models,
+Demand Forecasting(Anomaly Detection), Descriptive modeling and Data Mining.
+e Experienced in varied technology environments and platforms such as image
+processing and image manipulation techniques — image enhancement, contour
+detection, edge detection, feature point tracking etc. Image Classifiers and Object
+Detection/Detectors. Developing state-of-the-art (SOTA) data products.
+e Proficient in Natural Language Processing (LSA, LDA, TF-IDF, Tokenizer, Bag of
+Words), Natural Language Understanding (Sentiment Analysis, Word Embedding such
+as Word2Vec) and Text Mining.
+e Experience in Statistical Techniques and ML such as Hypothesis Testing(A/B Testing),
+Regression, Classification and Time Series Analysis.
+e Done custom training tesseract 4.0 to extract Arabic text from documents (Optical
+Character Recognition [OCR]).
+Experience
+Data Scientist
+Organization : Amnet Digital
+Tenure : May 11, 2021 to Present
+Machine Learning Engineer
+Organization : Metagogy Learning Systems Pvt Ltd
+Tenure : Jan 08, 2020 to May 08, 2021
+Data Science - Intern
+Organization : Techolution

@@ -1,0 +1,28 @@
+Using python libraries(pandas, numpy, matplotlib, Plotly, Seaborn) to
+extract the data into the working environment
+Done Exploratory Data Analysis to extract insights from the data.
+Verifying data quality, and/or ensuring it via data cleaning.
+Defining the pre-processing or feature engineering to be done on a given
+dataset
+Exploring and visualizing data to gain an understanding of it, then identifying
+differences in data distribution
+Enhancing data collection procedures to include information that is relevant for
+building analytic systems
+Processing, cleansing, and verifying the integrity of data used for analysis
+Discover interesting transactional patterns of different customers and
+countries
+Project Name - EHR YOUR WAY
+Role
+Data Engineer
+Technical Environment : Python, numpy, pandas, matplotlib, seaborn
+Plotly.
+Electronic Health Record Your Way [EHR Your Way] is an application powered by
+Adaptamed, head quartered at San Diego, which was made by Clinicians useful for
+all types of Clinicians who are dealing with Behavioral Health, Clinical, In Patient etc.,
+It provides a vast features which involves Electronic Prescription eRx, Drug
+Formularies, Electronic Medical Notes, Patient Appointments etc.,
+DECLARATION
+I am also confident of my ability to work in a team. I solemnly declare that the
+information furnished above is correct and true to the best of my knowledge.
+Hyderabad
+(M.Srinivas)

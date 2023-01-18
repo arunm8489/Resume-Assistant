@@ -1,0 +1,24 @@
+Nirmala Auti
+Phone: 8793272534\
+ebetroyenetcle-me(celetie autinirmala2016@gmail.com®
+2.1 years™
+ 
+To secure a challenging position in a reputable organization to expand my learnings,
+knowledge, and skills.
+Python, MySql Flask Web framework
+Pandas, Numpy, Regex AWS
+Linear & Logistic Regression, Naive Bayes, Windows, Conda, VS Code
+K-NN, K-Means, Decision Tree, Random ML lib & NLP
+Forest, Boosting Algos, NLP ,Deep Postman
+Learning Power BI
+Experience using ML libraries, such as scikit learn, Seaborn, Matplotlib, Pandas, numpy,
+RegEx etc.
+Experience diving into data to discover hidden patterns
+Take ownership of the data science model end-to-end from data collection to model
+building to monitoring the model in production.
+Solid understanding of the mathematics related to data science probability, statistics,
+linear algebra etc.
+Ability to understand business concerns and formulate them as technical problems that
+can be solved using data and math / stats / ML
+Experience working as part of a product team, along with engineers and product
+managers, to define the problem and execute the data science solution.

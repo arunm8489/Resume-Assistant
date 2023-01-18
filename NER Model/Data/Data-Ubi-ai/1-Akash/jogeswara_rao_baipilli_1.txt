@@ -1,0 +1,36 @@
+2. NDS Info Serv Inc (Dec’ 19- Mar’ 21)
+Project: Automation of e-mail reply system
+Role: Data Scientist
+Upgrading from e-mail manual process to automatic e-mail reply message system of different
+customer email requests, preparing reply message according to customer email request and client
+policies. . Client have fixed manual reply functions, to fix the how many functions required for as per
+customer request text using NLP algorithms.
+Responsibilities:
+¢ Understanding the customer email text using NLP techniques
+¢ Finding type of customer request as per client process (Manual handling functions)
+¢ Understanding client policies and updating of customer data in database
+¢ Preparing email reply text and choosing suitable reply template
+Tools and Technologies:
+e Programming Language: Python
+e Frameworks: scikit-learn, Tensor Flow, NumPy, SciPy, Pandas.
+e Tool: Anaconda, NLTK
+3. Research Internship (Jan’18- Nov’19 )
+Company Name: Rastriya Ispat Nigam Limited
+Project: Customer Sales and Risk Management
+Y Formulating machine learning approaches while identifying fraud risk and credit risk within real-
+time transaction streams and attention to business metrics, designing features from the Risk
+management data available from many sources, and training, evaluating, and deploying ML models.
+Y Developed a new framework utilizing business knowledge on credit management data
+with machine learning techniques to achieve valuable insights into business data
+Y Developed predictive models for ERP system having varying strengths and
+weaknesses that are highly industry specific.
+Tools and Technologies:
+Programming Language: Python, Java.
+Frameworks: scikit-learn, Tensor Flow, NumPy, SciPy, Pandas. and Advanced MS
+Excel
+Database Systems: MySQL
+Tool: Anaconda, Weka.
+Education:
+PhD: Research Scholar under the guidance of Prof B.Prajna in the Department of Computer Science and
+System Engineering in Andhra University (AP) from 2014 to 2019(converted part time scholar from
+January 2020).

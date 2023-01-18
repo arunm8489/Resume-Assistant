@@ -1,0 +1,31 @@
+Self Driving Car (Deep Learning Case-Study)
+Description In this case study i have used convolutional neural
+networks (CNNs) to map the raw pixels from a front-facing
+camera to the steering commands for a self-driving car. This
+powerful end-to-end approach means that with minimum training
+data from humans, the system learns to steer, with or without
+lane markings, on both local roads and highways. The system
+can also operate in areas with unclear visual guidance such as
+parking lots or unpaved roads.
+Key Skills . EDA: Steering Angles.
+Mean Baseline Model
+Deep Learning Model : Deep Learning for Regression
+Convolutional Neural Network
+ 
+Awards & Certification:
+e Certified in Introduction to Programming using Python on 18 July,2020 by Microsoft .
+Strengths:
+> Time Management
+> Good Team Player.
+> Adaptability
+Hobbies:
+> Gym
+> Listening to music
+Personal details:
+Father’s name :G. Venkata Ramana
+Mother’s name - G. Santhi
+Languages known : Telugu, English, Hindi (Basics)
+Date of Birth ' 11-11-1997
+DECLARATION:
+| do hereby declare that the information furnished above is true to the best of my knowledge.
+(TRINAYAN)

@@ -1,0 +1,26 @@
+DATA ENGINEER
+Name M.Srinivas
+Phone No +91 9291337777
+Email-Id srinivas.pydev@gmail.com
+ERE _ _ —_——————
+CAREER OBJECTIVE
+To work with maximum potential in a challenging and dynamic environment, with an
+opportunity of working with diverse group of people and enhancing my professional
+Skills with learning and experience for career growth.
+SKILLS SUMMARY
+@ Around 2.5 years of experience in data Analysis and visualization.
+Primary technical skills in Python and Pandas.
+@ Expertise skill set in Python programming especially related to Functional and
+Object-Oriented Programming.
+@ Sound knowledge in Python related Data Structures, Functions, OOPS,
+Exception Handling, modules and Database connectivity etc.
+@ Hands on experience in Python functional programming like, pure function,
+higher order functions, decorators, generators, lambda functions and user
+defined functions.
+@ Expert hands on experience in Python OOPS principles like class, objects,
+methods (instance, static & class), inheritance, polymorphism etc.
+@ Having experience on essential libraries numpy, pandas, matplotlib, Plotly,
+seaborn etc.
+@ Understanding business objectives and converting raw data into usable format.
+@ Exploring and visualizing data to gain an understanding of it, then identifying
+differences in data distribution.

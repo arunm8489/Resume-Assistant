@@ -1,0 +1,64 @@
+ 
+July 2017 ~present
+December 2019
+~ August 2020
+July 2019
+~ December 2019
+July 2019
+~ December 2019
+Mini Projects
+February - 2020
+October - 2018
+Model in loop testing of vehicle software using real world vehicle data
+In this project the OBD software in the vehicle is developed,tested and
+implemented using real world sensor data available in the vehicle.
+e It involves the Model in loop testing of the application software in
+Simulink via simulation.
+Tools used: Matlab , Simulink and m-scripting.
+Modelling of a physical temperature sensor using deep learning
+Here a temperature sensor in an engine is modelled using deep learning
+techniques ,And is now in implementation stage in the vehicle
+e Understanding of the issue by going through the vast vehicle real time
+data
+e Translating the vehicle data to numerical vectors for deep learning
+computations
+e Building of a deep learning model from basic mathematical functions
+like numpy from scratch so to make the model compatible with
+different platforms
+Tools used: Pycharm, numpy ,Simulink and Matlab
+Automated dataset comparison using deep learning techniques
+It isa NLP based tool used to automate the process of documentation
+e The Documentation of the Engine software for legal approval is long
+and time consuming process and is done mostly manually as it
+requires human intuition to understand the logic and describe it
+e Apart of this activity involves comparing the difference between two
+documents but the simple comparison yields highlights lot of
+insignificant changes and it is time consuming to go through all of them
+»hence a deep learning approach is used which will recognise only the
+significant changes
+e Here the words in the documents were converted to numerical vectors
+and was trained using a deep learning model.
+e This tool automates that particular effort by 95%.
+Tools used: Pycharm ,excel vba scikit learn, nltk, openpyexcel, numpy
+jpandas etc
+Dataset calibration tool in python
+A GUI based tool for deriving functional saftety calibrations for the engine
+from the main calibrations was developed
+e The functional safety calibrations were derived by applying
+transformations to the 3 dimensional matrices .
+e With the help of this tool the process of functional safety calibrations
+was automated by 90%.
+e The tool is now being used by many engineers of Mercedes Benz in
+Germany ,India and North America
+Tools used: Pycharm ,tkinter,pyinstaller , openpyexcel, numpy ,pandas etc
+Al for tic tac toe game
+To explore the practical implementation strategies for reinforcemt learning
+an Al based player was created.
+Software used: Pycharm,keras,numpy etc.
+Implementation of different types of gradient descent optimization
+methods using Numpy
+Implemented and plotted different types of gradient descent algorithms like
+e Stochastic gradient descent
+e Momentum based gradient descent
+e Adam gradient descent
+e Adaptive gradient descent

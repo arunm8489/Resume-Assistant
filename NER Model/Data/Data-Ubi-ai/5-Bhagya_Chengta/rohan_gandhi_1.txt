@@ -1,0 +1,34 @@
+Desire to use modern technologies as a disruptive influence within the Finance domain.
+Knowledge in Statistics, Empirical Data Analysis, Machine Learning or
+Natural Language Processing.
+e Knowledge and in-depth knowledge of Python and other modern
+programming languages.
+Knowledge in a specialized statistical computing environment, preferably R.
+Knowledge in practical data processing, data mining, text mining and
+information retrieval tasks.
+e Knowledge in scalable data management tools - Relational and NoSQL databases.
+TECHNICAL SKILLS
+Machine Learning and Data Science :
+e Knowledge of Machine Learning and Deep Learning Fundamentals.
+e Python/ML/DL/CV Packages : Pandas, Numpy, Scikit Learn, Tensorflow, Keras, OpenCV.
+e Text Processing : NLTK,Term Frequency-Inverse Document Frequency (TF-IDF), Bag of Words.
+e ML Algorithms : Linear Regression, Logistic Regression, Naive Bayes Classifier, k-NN, Support
+Vector Machine, Decision Trees, Random Forest, Gradient Boosting, Ada Boost, XGBOOST.
+Supporting Technologies :
+e Programming Languages : Python
+e Cloud Platforms/Services : AWS
+e Framework : Flask
+@ DevOps : Git, Github
+e Operating Systems : Linux, Windows
+e Database : MongoDB
+PROFESSIONAL / EDUCATIONAL QUALIFICATION
+e Bachelor of Engineering from Savitribai1 Phule Pune University, Pune. [2020]
+PROFESSIONAL WORK EXPERIENCE
+Intern at Isash IT Solution Pvt Ltd., Pune
+PYTHON DEVELOPER [ AUGUST 2019 TO AUGUST 2020 |
+Currently Working at Isash IT Solution Pvt Ltd., Pune
+ASSOCIATE DATA SCIENTIST [ AUGUST 2020 TO TILL DATE |
+PROJECT IN COMPANY
+Project #1
+Project : Credit Risk Analysis
+Team Size : 6

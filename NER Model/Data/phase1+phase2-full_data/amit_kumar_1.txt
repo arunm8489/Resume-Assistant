@@ -1,0 +1,42 @@
+Certifications:
+¢ Certified in Machine Learning, Deep Learning and Natural Language Processing from
+Ineuron.ai
+¢ Certified in Statistics from Ineuron.ai.
+¢ Certified in feature-engineering process from in machine learning from Udemy.
+¢ Certified in sql language in Oracle database from Udemy.
+IT Skills:
+¢ Languages: Python, Machine Learning, Deep Learning, Natural Language Processing,
+Sklearn Libraries, Java, SQL, Windows PowerShell.
+¢ Database: SQL Server, Oracle, PostgreSQL .
+¢ Platform: Windows, Mac-os.
+¢ Tools & Technologies: Anaconda Distribution, Sublime Text, Pycharm, Jupiter
+Notebook, Eclipse.
+¢ Additional Skills of Core Java, Spring mvc, Spring Boot, hibernate and JDBC.
+¢ CNN architectures like LeNet-5, AlexNet, VGG16, VGG19, ResNET-50.
+Professional Experience
+¢ Worked as Software Engineer at Sasken Technology limited from April 201 7-
+October2020
+¢ Working as Associate Technical Engineer with SISA Information Security Pvt. Ltd.
+from October 2020- present.
+Key Result Areas:
+¢ Providing data & technical support for projects & programs for clients in life sciences
+& cyber security domain covering Data Science, Data Quality, Big Data, AWS, Data
+Science, Data Governance, Reporting and Visualization)Provided insightful
+knowledge of business process analysis ans design.
+¢ Applying Exploratory Data Analysis before processing, cleansing and verifying the
+integrity of data used for analysis
+¢ Devising and implementing:
+o Data-driven strategies to enhance growth including revenue and profits.
+O Statistical / Predictive Models and Machine Learning Algorithms utilizing
+diverse sources of data.
+¢ Coordinating with stakeholders to identify opportunities for leveraging company data and
+using predictive modeling to increase & optimize customer experiences, revenue
+generation & other business outcomes.
+¢ Developing software solutions by studying information needs, conferring with
+users, studying system flows, data usage and work process; providing insightful
+knowledge of business process analysis and design.
+¢ Managing application based process re-engineering and process optimisation.
+¢ Mentoring sophisticated organizations on large scale data & analytics using
+advanced statistical & machine learning models.
+¢ Developing audience extension models relying on decision trees, random
+forest, logistic regression, neural networks and other categorical data.

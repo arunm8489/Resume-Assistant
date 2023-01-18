@@ -1,0 +1,56 @@
+PROJECTS
+KYC Chatbot
+May’ 2019- Oct’ 2019
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Saved human effort to filling the KYC form by answering customer
+queries using chatbot:
+Automate process to ease the KYC process
+Use various data mining techniques to extract KYC data for
+different countries from pdf and docx
+Implemented cosine similarity and LDA topic modelling to find
+the relevant information required to filling KYC form based on
+user query
+Reduced KYC form filling time considerably
+Smart Study Builder
+iAug’ 2018- April’ 2019
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Saved human effort to find the appropriate details of drugs based on
+their composition present in their respective medical protocols:
+Worked with product team and medical team to identify which
+entities are more important in establishing a relationship
+between SAP and protocols
+Data mining to extract medical data from different protocols
+and SAP
+Implemented Custom Named Entity recognition model to find
+appropriate entities in medical data
+EDUCATION
+B. Tech- Computer Science and Engineering
+KIET Group of Institutions Ghaziabad
+August’ 2013 — May’ 2017
+12" Science
+Agra Public School
+May’ 2011- March’ 2012
+ 

@@ -1,0 +1,39 @@
+Suraj Dhanaji Kashid
+Software Engineer
+935 905 3205
+M4 surajkashid2222@gmail.com
+e 2 Years of overall experience on Web Application and Rest-Api develooment along with good
+Skills in core python and exposure over object oriented concepts( OOP ).
+e Good experience in Software Development Life Cycle( SDLC ) , database design and Agile
+methodology.
+e Hand on experience on the developing web application by implementation of Model View
+Controller (MVC ) architecture using the FLASK web application framework.
+e Have good understanding and experience in the front end languages like HTML and
+JavaScript.
+e Good knowledge and understanding of the Structured Query Language ( SQL ) fo use logical
+query in structuring the database. Worked with rational databases(RDBMS) like MySQL..
+e Good experience in using of ORM framework like Flask-SQLAIchemy .
+e Strong skills of writing efficient testing code using PyTest and UnitTest.
+e Good experience of using logging framework like a Logger with good formatting skills.
+e Worked with the API testing tools like Postman and have knowledge of HTTP method and
+strong experience with webservices like RESTful Api.
+e Good understand and familiar with version controller tool like GIT.
+e Strongly familiar with efficient code writing in IDE's like PyCharm and Jupyter Notebook.
+e Good in use of project management tools like Jira software.
+e Capable to working independently as well as team player with strong interoersonal skills.
+e Always like to learn new technology and have good problem solving skills .
+wk Technical skills
+Ww
+e programming language: python 3.X and SQL
+e Frameworks : FLASK , DJango(novice)
+e Databases : MYSQL and SQLite3
+e Web Services : REST and DRF
+e ORM Framework : FLASK- SQLAIchemy,Django ORM
+e Api Testing Tool : Postman,sSwagger
+e Logging Framework: Logger
+e Version Control Tool : GIT
+e Testing Frame Work: UnitTest and PyTest
+e Code Editors : PyCharm, JUupyter Notebook and Visual Studio
+e Project Management Tool: JIRA
+e Data Science Libraries : Pandas,Numpy
+e Frontend Languages : HIML ,JavaScript,react js and Jinja template

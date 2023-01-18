@@ -1,0 +1,33 @@
+© Projects
+Projecti1 :Loan Management System
+Domain : Finance
+Description:
+Extracting the meaningful patterns from a variety of data sources and types to describe
+and predict key outcomes. Approach that High-quality analytics, grounded in clean,
+secure data, enables compelling, actionable data stories, scorecards, and dashboards into
+a financial domain to cater the need of a secure Loan Management System.
+Responsibilities:
+Design and conduct examinations to measure the learning outcome of participants
+Identify Solve interesting problems involving rich datasets in various domains.
+Accordingly, create capstone projects on the evolving use cases in the industry
+Identify key emerging trends in the industry and maintain a rich reference material
+Identify key reporting metric sand create dashboards to enable quick decision making
+Project2 :Automated Document Classification (NLP)
+Domain_: Finance
+Description:
+A platform is able to recognize and categorize all types of incoming documents by
+content type, and automate the extraction of relevant index data per document type. The
+process of extracting all relevant index data allows Extract to more intelligently, and
+consistently, route documents to desired levels within a database,.
+Responsibilities:
+Mine and analyze data from company databases to drive optimization and improvement
+of product development, marketing techniques and business strategies.
+Search for ways to get new data sources and assess their accuracy
+Assess the effectiveness of new data sources and data gathering techniques.
+Use predictive modeling to increase and optimize customer experiences, revenue
+generation, ad targeting and other business outcomes.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data
+accuracy.
+© Education
+MSC(CS)| Pune University

@@ -1,0 +1,45 @@
+Dhruv Bhatt
+\% +91 9510217058 & bdhruv32@gmail.com % +91 9408101763
+in https://www.linkedin.com/in/dhruv-bhatt-21892210b/
+KEY SKILLS
+e Data Analysis * Feature Engineering * Natural Language Processing * Data Mining e Recommendation System ¢ Data Visualization
+ 
+TECHNICAL SKILLS
+Tools/Languages: Python(Numpy, Pandas, Scikit-Learn, Keras, TensorFlow, Streamlit), R (Basic), Jupyter Notebook, , Java, C, C#
+(Basic), C++ (Basic), Visual Studio, Visual Studio Code, Net Beans
+EDUCATION
+Master of Technology in Computer Science '19 - '21
+BITS Pilani 85.0
+e Data Mining | Introduction to Machine Learning and Linear Regression | Data Analysis | Deep Learning
+e Natural Language Processing | Information retrieval | Time Series Analysis | Advanced Operating System
+Bachelor of Technology in Computer Science '14 - '18
+DHARMSINH DESAI UNIVERSITY 81.8
+e C Programming | Data Structure & Algorithm | Java Technology | Devilopmetin .Net | Operating System
+e Artificial Intelligence | Network Information and Security | Knowledge Discovery | Computer Networks
+PROFESSIONAL EXPERIENCE
+Member of Technical Staff-!! '20 - '21
+NetApp India Bengaluru, IN
+Testcase Migration
+e Contributed to Test migration from which convert old framework to new framework.
+Comparison of backup systems
+e Finding which backup system is space and time-effective for the organization.
+Report Generation & Troubleshooting.
+e Producing reports and finding common faults with execution runs and including commands to solve them.
+e Resolving issues with nodes in clusters and making sure that node has upto date information
+Machine Learning Consultant '18 - '20
+Upwork, Fiver and More
+e Most focus on Machine Learning projects for start-ups.
+e Helped different clients and startups to solve business problems in the area of machine learning, software development.
+e Working as a freelancer give me a unique perspective in dealing with clients. How to achieve deadlines, self-disciple and more.
+Internship '18 - '18
+Mevan Infosoft Ahmedabad, IN
+e Developed document management system. Work on document upload, download, and version control.
+TEST SCORE
+GATE Examination
+Cleared GATE exam and achieved rank 1797 / 7.8 Lacs
+JEE
+Cleared JEE exam with score 145
+KEY PROJECTS
+Stock Price Prediction and Forecasting | Tech Stack: Python
+e This project based on the stock name automatically fetches the data and then trains the model and after that forecast price. Users
+can select the model and also no of forecast days wanted for the forecast. And also shows the result on the Dashboard.

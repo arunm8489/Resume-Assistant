@@ -1,0 +1,43 @@
+Ajay Kumar Kaushik
++91 7024335234 * ajaykaushik396@gmail.com * LinkedIn * GitHub
+Profile
+An IT professional having 3 years working experience in developing web application and 1 years Data Science
+projects. Fast learning, results-oriented employee, utilizing organizational skills to drive business goals.
+Possessing exceptional problem-solving and analytical skills, also have a strong knowledge in Data Analysis, Data
+Visualization, Data Extraction (Web Scrapping, Web APIs), Machine Learning and Deep Learning model creation.
+Data Science Skills
+e Python
+e Python Libraries: Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, OpenCV
+e Machine learning: XGBoost, Cat Boost, Random Forest, Logistic Regression, etc.
+e Deep Learning: CNN, RNN (NLP and Computer Vision)
+e Tools: PyCharm, Visual Studio, Jupyter Notebook, Google Colab, MS Office
+e Database: SQL server, Oracle
+¢ Operating Systems: Windows, Linux, Android
+e Version Control: TFS, GitHub
+Experience
+Programmer Analyst
+Cognizant Technology Solutions « Bengaluru, Karnataka 05/2021 - Present
+e Designed and developed new enhanced functionality for American International Group (AIG) software
+applications.
+e Provided technical and analytical support for AIG, improving productivity and user experience
+e Confirmed program operations by conducting tests and modifying program sequences
+e = Resolved 2+ Jira tickets per week to optimize and stabilize app performance
+Software Engineer
+Surya Software Systems Pvt. Ltd « Bengaluru, Karnataka 02/2019 - 06/2021
+e Created new employees mentoring program
+e Analysing business specification and design technical specification for batch and report, get Approval from
+team lead
+e Wrote, modified, and debugged software for clients
+e Design and Developed batch files
+e Design and Developing backend logic of reports, show the report using a RDLC (Report Definition language
+client side)
+Education
+B. Tech (Computer Science)
+CSVTU Bhilai ¢ Bhilai, Chhattisgarh 05/2018
+Intermediate
+NJS Takhatpur ¢ Takhatpur, Chhattisgarh 05/2014
+Certificates
+e Machine Learning and Deep Learning Masters (I Neuron)
+e Deep Leaning Foundation Certification Training (Udemy)
+e Machine Learning- From Basics to Advanced (Udemy)
+e Oracle Database Certified (Naresh IT, Hyderabad)

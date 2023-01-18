@@ -1,0 +1,40 @@
+GANESH DHUMAL
+Machine Learning Engineer with 3.5 years of Experience
+Mobile : +91-7020240084 ~ E-Mail : gsdhumal4u@gmail.com
+SYNOPSIS
+A dynamic professional with over 3.5 years of functional experience in Machine learning, Deep learning,
+Natural language processing. Passionate about building models that fix problems. Have expertise in
+preparing data, developing and deploying highly scalable machine learning models.
+Nexus Software System, Pune.
+Working as a Machine Learning Engineer from August, 2018 to till date.
+A. Project Name: Financial Document Classification using Machine Learning and NLP
+Domain: Document Classification
+Description:
+Mortgage industry is performing mortgage loan audits of thousands of people using documents and the
+amount of paperwork involved. Our task to develop machine learning model to classify different classes
+of documents using OCR, Text prepossessing, text vectorizer and classification algorithm. This model
+helped to reduce the manual effort and automated the task of Document Classification.
+Contribution:
+e Involved in requirement gathering.
+e Building data cleansing by Text prepossessing.
+e Applying suitable algorithms for achieving better accuracy
+e Preparing daily status report, weekly status report
+B. Project Name: Medical Report Generation Using Encoders and Decoders
+Domain: Healthcare
+Description:
+To build a deep learning model that automatically write the impression part of medical report of chest
+X-rays and alleviate some of the burden of the medical professional. Our task is to create an Image
+captioning deep learning model which can write automatic medical reports using Encoders and
+Decoders.
+Contribution:
+e Involved in feature extraction from the images.
+e Pre-processing the text data from reports
+e Involved in parameter tuning process for optimal model hyper parameters
+e Involved in development of model architecture
+C. Project Name: Digital transformation in Baking sector
+Domain: Finance
+Description:
+Bank has a growing customer base where the majority of them are liability customers vs. borrowers.
+The bank is interested in expanding the borrowers base rapidly to bring in more business via loan
+interests. Our task to develop a machine learning model to perform focused digital marketing by
+predicting the potential customers who will convert from liability customers to asset customers.

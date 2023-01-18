@@ -1,0 +1,38 @@
+CURRICULUM VITAE
+Tamal Chowdhury
+Profile: | ,
+Deep Learning Researcher Email: = tgchowdhury101@gmail.com
+An autodidactic and passionate Deep Learning practitioner and Phone: +91-9647128980, 8617363783
+researcher. Proficient in using state of the art approaches for Address: 566/7, Kalyangarh, North 24
+developing intelligent systems and with a dream to decipher the Parganas, PIN: 743272, West Bengal
+cornerstone of General Intelligence. india
+EDUCATIONAL QUALIFICATIONS:
+e B.Tech in Electronics and Communication Engineering 2016-2020
+National Institute of Technology, Durgapur GPA: 8.27
+e Higher Secondary 2015
+Board: West Bengal Board of Higher Secondary Education Percentage: 90.2
+e Secondary 2013
+Board: West Bengal Board of Secondary Education Percentage: 89.4
+WORK EXPERIENCE:
+e Data Science Analyst June 2021 - Present
+Accenture Al
+e Project Linked Person September 2020 — June 2021
+Indian Statistical Institute, Kolkata
+RESEARCH EXPERIENCE:
+e Project Linked Person at ISI Kolkata (2020-2021)
+1. Developed an end-to-end system for remote heart rate detection from RGB video of a subject
+using image processing, Eulerian video magnification technique and 1D CNN.
+2. Developed a novel Deep Learning method for Brain Computer Interfacing (BCI) system towards
+digit recognition and classification using EEG signals
+3. Working on Deep Learning based Drug Generation and Repurposing techniques towards
+developing a faster and more efficient drug discovery pipeline
+4. Worked on the development of a Remote Intelligent Baby Monitoring System.
+e Research Projects at NIT Durgapur (2016-2020)
+1. Developed a novel framework for Autonomous Brain MRI segmentation using Convolutional
+Neural Network and Mathematical Morphology
+Developed a new learning framework for ischemic stroke lesion segmentation
+3. Developed a novel Deep learning approach towards Breast Lesion Segmentation in Ultrasound
+Images
+e Distance Research Project at Oxford University
+1. Developed a novel Deep Learning based solution towards autonomous detection of various skin
+cancers (fine-grain object recognition).

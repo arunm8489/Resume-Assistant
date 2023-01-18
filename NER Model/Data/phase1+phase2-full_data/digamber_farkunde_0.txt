@@ -1,0 +1,51 @@
+Phone: 8766770355, Email: digamberfarkunde21@gmail.com
+Digamber Farkunde
+3+ years of IT experience in historic data and apply statistical concepts to make cross-sectional
+Profile predictions. Predictive analytics uses many techniques from data mining, statistics, modelling, machine
+learning, and artificial intelligence to analyse current data to make predictions about future.
+Machine Learning Engineer — HCL Pune (Dec 2018 > Present)
+Experience using ML libraries, such as scikit learn, Seaborn, Matplotlib, Pandas, Numpy, RegEx etc.
+= Experience diving into data to discover hidden patterns
+= Ability to understand business concerns and formulate them as technical problems that can be solved
+using data and Math / Stats / ML
+Work
+Experience
+Project Business Lending Solutions
+= Perform the full range of advanced analytics and visualization methodologies, techniques and outputs
+associated with the area of expertise
+= Extract, manipulate, analyse interpret data from various corporate data sources developing advanced
+analytic solutions, deriving key observations, findings, insights, and formulating actionable
+recommendations
+Document Classification Model
+= Design, develop and implement analytical solutions using a variety of commercial and open source tools
+(common tools include Python, NLP).
+= Connect and collaborate with subject matter experts in R&D
+= Commercial and Medical.
+Store Sales Analysis
+= Time series analysis comprises methods for analyzing time series data in order to extract meaningful
+statistics and other characteristics of the data.
+= Insights prediction with AR, MA, ARIMA, SARIMA
+Skills & Core Python/ ML Packages:
+(Oeyan petencies Python, Numpy Pandas, Scikit-Learn, Matplotlib, Seaborn, OOPs ,Regular Expression, Sci-Py
+= API using Flask web Framework
+= Machine learning algorithms for regression, classification, clustering, statistical modelling.
+= Python for machine learning with scikit Learn.
+= SQL & MongoDB for data exploration and data analysis
+Machine Learning Algorithms:
+Linear Regression, Logistic Regression, Naive Bayes Classifier, K Nearest Neighbor, Decision Tree, Ada-Boost,
+X-GBoost, K-means Clustering, Support Vector Machine, Random Forest
+NLP & Time Series:
+NLTK, Term Frequency-Inverse Document Frequency (TF-IDF), Bag of Words, Count Vectorizer, Unigram,
+bigram, Word2Vec, RE
+AR, MA, ARMA, ARIMA, SARIMA
+Others: Postman, Git, MongoDB, SQLite
+xo lUler-1i(e)a BE (2018)
+Manoharbhai Patel Institute of Engineering & Technology Gondia - 6.75 CGPA
+Dargowe] Date of Birth: 21/09/1995 oo |
+= Address: At: Zilmili, Post : Kamtha, Taluka : Gondia, Distric : Gondia
+Details = Hobbies: Traveling
+= Languages known: English, Hindi, Marathi
+= Status: Unmarried
+= Appreciation: Certificate of Appreciation at Allocation Competition, Esmriti'18 Exhibition Certificate
+References Available on Request
+ 

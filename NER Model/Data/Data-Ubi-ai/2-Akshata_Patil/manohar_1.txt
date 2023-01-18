@@ -1,0 +1,25 @@
+EXPERIENCE
+Project:
+Title: Enjoy Fresh.
+Role: Python Developer
+Duration: Feb 2020 to till date
+PROJECT ENVIRONMENT:
+Front-end HTML, CSS, Bootstrap, JavaScript, jQuery
+Backend , Python, Django, Django REST Framework
+Database MySQL
+Deployment AWS
+Third Party Integrations PayPal, Stripe, Twilio and Firebase
+Description:
+New culinary experiences. Enjoy Fresh finds exclusive chef-curated dining experiences and food offerings
+near you and gives you an opportunity to book your seat at the chef’s table, or have it delivered.
+Personalize your preferences on Enjoy Fresh and you'll be notified when new events or menu items are
+available to match your interests, such as favorite restaurants, dietary choices, and lunch delivery options
+Chefs, their unique dishes and would like easier access to their great food without lot of hassles. Where
+the user can register and login for selecting or personalizing the dishes and to place an order or to schedule
+the booking or delivery by paying online.
+Responsibilities:
+> User Module - Involved in building search functionality where User can search for the dishes using the
+zip code and date field.
+> Restaurant Module — Responsible for implementing backend code for marking favorite dish
+functionality, view favorite dishes functionality, get cuisine functionality, get all cusine types
+functionalities. Where User can get all the dishes for a particular cuisine type.

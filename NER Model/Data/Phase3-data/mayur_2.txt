@@ -1,0 +1,33 @@
+Question generation from Paragraph.
+The question generation is a transformer-based model based off of GPT-2 and BERT QA.
+GPT2 used for generation of questions. BERT QA used for validating generated question has
+belong to paragraph or not.
+Roles and Responsibilities: -
+1. Research and Validation of GPT2 and BERT QA for use case
+2. End-End Pipeline Implementation using components like Python Flask for API, Docker,
+Cl/CD and AWS GPU Instance.
+3. Worked on reducing response time of model by validating different system like Ram or
+GPU configurations. Response time reduced to 1-2 sec per paragraph from 2-3 minute
+by using GPU enabled instance.
+Data Science Intern
+BRCA Test Prediction (Oncology)
+BRCA Test used for detection of Breast and Ovarian cancer. In this project data used is
+insurance claim data of patients. Using patient journey (i.e. claim data) predicting whether
+he or she requires undergone to BRCA Test. Stacked GRU Model architecture used for
+prediction of BRCA Test.
+Malignant Nodules Classification and Detection from X-Ray
+Classifying the malignant nodules in Chest X-ray images as abnormal using state of the art
+CNNs like DenseNet-121, ResNext50, Transfer-Learning by fast.ai libraries to help
+Radiologists (89% AUC is achieved in classification which is the best in industry).
+Data Scientist
+IOT Analytics
+In this project created Dashboards for real time monitoring of Sensor Data. Collected
+data from sensors and push the data onto cloud. Analysed and Cleaning of acquire data
+was done. Identified various conditions from data using clustering algorithm.
+Inventory Demand Forecasting
+This product helps customers to maintain right inventory level of the products in the stock.
+The input is a Time Series Data related to the product sales and quantity sold. The product
+does data analysis, shows trends, seasonality. It also makes the data non stationary if
+required. The product supports various time series models for accurate forecasting (e.g.
+S-ARIMA, Holt-Winters, LSTM, and XGBOOST). The user shall have an option to apply
+a model of choice, compare the forecasting accuracy and then finalize the model.

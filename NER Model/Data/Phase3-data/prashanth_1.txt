@@ -1,0 +1,34 @@
+Lasso Regression
+Gradient Descent
+K-means Clustering
+Naive Bayes Classifier
+Support Vector Machine
+Principal Component Analysis
+Natural Language Processing
+> TF-IDF
+> Bag of Words
+> Dynamic Language Modeling & Count Vectorization
+> NLTK
+e EDA, Preprocessing, Feature Scaling Feature Selection
+Normalization Standardization, Regularization,
+Source code Management Git, Gitbash & Github
+Database Management MongoDB, SQL
+Data Visualization Seaborn, Matplotlib, Pivot Charts
+Web Stack Flask Framework
+Cloud Platform AWS
+“+ Supporting Technologies:
+e Python
+Machine Learning
+Natural Language Processing,
+MongoDB, SQLite3, Excel & JSON
+Flask Framework & REST APIs
+MS Studio Code, Anaconda, Jupyter
+AWS
+Git, GitHub, Postman
+Linux, Windows10
+PROFESSIONAL WORK EXPERIENCE
+Currently working at Afour Technologies Pune as a ML Engineer from Jun 2018 to till date.
+EDUCATION
+|
+University of Pune 65.66
+ 

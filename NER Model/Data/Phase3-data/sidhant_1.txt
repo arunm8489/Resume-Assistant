@@ -1,0 +1,44 @@
+BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE
+Guru Gobind Indraprastha University (GGSIPU)- MAIT, Delhi | 2010 -
+2014
+Done my graduation in computer science engineering.
+PROJECTS ON AI/ML
+SENTIMENT ANALYSIS OF TWITTER TWEETS
+e Implemented BERT and other attention models to classify sentiments of
+different tweets extracted
+e -ntegrated an intelligent chatbot that accommodates for differences in syntax
+of the questioning grammar
+e Designed UI using Angular and deployed on AWS using Docker and EC2
+buckets.
+e Project Demo: https://www.youtube.com/watch?
+v=dAP6SnTM71U&feature=youtu.be
+Audio Finger Printing
+e Spectrogram of the songs are created
+e peaks from the spectrogram are used to create hashcodes for
+the song and saved to a database
+e These hash codes are the identifiers for the songs
+e backend is deployed to VM
+e socket programming is used to send the new song recording
+for detection.
+STOCKS PREDICTION USING GENETIC ALGORITHM AND DECISION
+TREE
+e Developed an intelligent stock price prediction system which helped in
+enabling the user to understand the visibility into the following day’s stock
+price trend using Decision Tree and Genetic Algorithm
+e The interface was designed using Angular and was deployed on AWS using
+docker and glassfish services
+e -Project Demo: https://www.youtube.com/watch?
+v=hzJfZM6C5YU&feature=youtu.be
+IMAGE CLASSIFICATION FOR HEALTHY AND UNHEALTHY FOOD
+e Created the image dataset using a web crawler
+e Build different deep learning models from scratch using TensorFlow
+Keras.
+e Experimented with different hyperparameters to get the best results
+SIMILAR IMAGES PREDICTION
+e Trained autoencoder to encode images of the dataset using Pytorch.
+e Performed experiments by tuning hyperparameters to achieve the
+best encoding.
+e Applied the encoded output to train the KNN model to find the 5
+nearest neighbors to each image.
+MORE PROJECTS ON GITHUB.
+ 

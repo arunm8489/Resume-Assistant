@@ -1,0 +1,34 @@
+04 EDUCATION
+ 
+Aug 2015 — May 2019
+Jun 2012 — May 2021
+Jun 2012 — Jun 2012
+05 SKILLS
+ 
+06 CERTIFICATIONS :
+ 
+Leaf Recognition
+Leaf recognition model is implemented using deep learning algorithms . Flavia dataset is used
+for developing model . Artificially intelligence model will automatically detects features of leaf
+image and classify image according to it's label
+Pune Institute of Computer Technology
+B.E.
+S.G.P.A :- 8.42
+St. Patricks jr College
+H.S.C.
+Percentage :- 90%
+JVJ High School Jintur
+S.S.C.
+Percentage : 92.91%
+Machine Learning(Regression and Swift
+Classification) D L
+eep Learning
+Predictive Modelling
+Python(NumPy, Pandas, Scikit-learn)
+Microsoft Azure Certified Data Scientist DP 100
+Microsoft Azure Al fundamentals Al 900
+IBM Data Science Specialization
+DeepLearning.Al TensorFlow Developer Specialization
+Pune
+Hyderabad
+Jintur

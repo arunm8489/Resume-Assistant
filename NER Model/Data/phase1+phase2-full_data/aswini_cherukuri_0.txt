@@ -1,0 +1,41 @@
+ASwinl Cherukuri aswini.ch2013@gmail.com | +917075134285
+https://www.linkedin.com/in/aswini-cherukur1-953b86aa
+https://github.com/aswinicherukuri
+SUMMARY
+Innovative Data Scientist with 2+ years of experience in implementing data-driven solutions. Passionate about
+building AI models that solves real world problems.
+EDUCATION
+Bachelor of Technology Sep 2014 — July 2018
+RVR&JC College of Engineering — Guntur, AP, India GPA: 8.3/10
+TECHNICAL SKILLS
+Programming Languages: Python, HTML, CSS
+Algorithms: Machine Learning, AI, Deep Learning
+Python Packages: Tensorflow, Keras, Pytorch, NLTK, Pandas, Numpy, Spacy, Gensim, Scrapy, Matplotlib,
+Seaborn, Plotly
+Frameworks: Flask, FastAPI
+Databases: MongoDB, SQLite, SQL
+Tools: Git/GitHub, Bitbucket, Docker, LINUX, AWS, REST API
+EXPERIENCE
+Data Scientist - Searchblox Software Inc Jan. 2021 - Present
+e Implemented personalization AI model for US client ecommerce website
+Built topic modelling system using LDA technique
+Created title and summary generation model using state of the art techniques of NLP
+Worked on keywords prediction model
+Implemented text classification model using deep learning model
+@ Deployed AI models using Docker and Nvidia in AWS server
+Data Scientist - StartUs Insights Gmbh Aug. 2020 — Dec. 2021
+e Done research on transformer based deep learning models like BERT, ELMO and GPT
+e Worked on NLP tag tagger for company search engine
+e Created an NLP model for predicting the most relevant words for the given input word
+e Created web scrapers for extracting startups data from different websites
+Software Developer — Jaaji Software technologies Pvt Ltd July 2019 — Aug. 2020
+@ Worked on inSis ProSense product which is built for remote monitoring of KPI's in Manufacturing
+industries
+e Implemented the machine learning models (Random Forest & XG Boost) for detecting the Fault in
+waters based on sensor data
+e Built chatbot for answering some queries of customers
+PERSONAL PROJECT
+Automatic Number Plate Recognition Sept. 2020
+e Implemented the AI system which is capable of reading vehicle number plates without human
+intervention
+e [tis used in Vehicle surveillance and Intelligent Transportation Systems

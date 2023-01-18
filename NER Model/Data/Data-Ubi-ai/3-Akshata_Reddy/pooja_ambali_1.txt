@@ -1,0 +1,24 @@
+Certifications and Awards
+¢ Deep Learning Specialization Coursera.
+¢ Awarded as a best project under the Innovative Project for the year 2021 (Innov@TE)
+Patents
+“Method and System for Imprinting Source Identifier for Identifying Unauthorised and Pirated
+Media Content”
+Projects
+e Implementation of Covert Watermarking Solution.
+The solution helps in determining unauthorized and pirated video copies.
+e Face Similarity Check and Model Deployment in AWS.
+This solution is responsible for getting the Face Similarity score between two persons.
+e Ad Analytics for placing the approriate ads.
+Gathering the useful information from the videos analysis to place appropriate ads.
+e Binge Watch Feature Implementation.
+This feature helps in determining the skip-intro start time, skip-intro end time, and end credits start time
+of the video.
+e Video Analytics
+The solution helps in determining the violent scenes in the video using Blood Gore Classifier and Object
+Detection.
+Education
+10/2020 - 10/2022 Masters in Technology, Birla Institute of Technology and
+Science (Work Integrated Learning Program 2nd Sem)
+08/2014 - 06/2018 Bachelor of Engineering, Basaveshwar Engineering College.
+GPA - 8.67

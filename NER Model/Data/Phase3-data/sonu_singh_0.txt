@@ -1,0 +1,63 @@
+SONU SINGH
+Data Analyst
+@ sonurydberglive@gmail.com \ +91 9502702414
+in www.linkedin.com/in/sonu-kumar-singh-07b620b0
+SUMMARY
+Innovative and passionate Data Analyst with more than 2.5
+years of experience in working with analytics team on
+developing analytical application. Hands on experience in
+Python and statistical testing.Seeking to use knowledge of
+data science and algorithm design combined with problem
+solving skills to meet business needs.
+WORK EXPERIENCE
+Data Analyst
+Lithium Urban Technologies Pvt Ltd
+Project 1-Vehicle Replacement Strategy
+e Provide the Vehicle Replacement strategy for
+vehicles.Used Predictive Models and Regression Models
+to determine the optimum period of replacement for
+each of the vehicle.
+Developed the cluster for the vehicle depending upon
+the features and usage.
+Developed Linear regression models to forecast the
+operating expenditure for each vehicle.
+After analyzing the trends of operating expenditure,
+calculated depreciation capital expense and age of
+vehicles was estimated.
+Project 2-Account Segmentation
+Account Segmentation for Identifying High Value
+Accounts
+Written Python script for preparing the data and created
+the derive variable.
+e Written scripts for data transformation.
+e Used K-mean clustering algorithm.
+EDUCATION
+B. Tech in Computer Science And Engineering
+Gandhi Institute For Technology, Bhubaneswar
+f} July 2012 - May 2016 9 Bhubaneswar, Odisha
+Higher Secondary-Xxll
+RBPIC, Bairgania
+f} June 2010 - May 2012 9 Sitamarhi, Bihar
+9 Bangalore, Karnataka
+Calculated the capital depreciation price for each vehicle.
+SKILLS
+Python MySQL = GCP
+AWS(RDS,EC2) GIT = Tableau
+MS-Excel Linux — Statistics
+PySpark Hive
+CERTIFICATIONS
+Data Science in R and Python
+Udemy.com
+ff} Mar 2021 - No Expiration Date
+Automation Anywhere Masters
+Automation Anywhere
+ff} Dec 2019 - No Expiration Date
+Network Management
+l1T-Khadagpur
+f) June 2014 - No Expiration Date
+Oracle 10G
+Oracle
+ff} Jan 2013 - No Expiration Date
+HOBBIES
+e Playing Cricket and Chess.
+e Fishing and Travelling.

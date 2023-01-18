@@ -1,0 +1,49 @@
+HARSHAL KULKARNI
+Flat No. 22 & 23, Pratibha Residency, Phone: +91 93078688 12
+Wakdewadi, Old Pune Mumbai Highway, E-mail: harshalkulkarni92@qmail.com
+Pune: 411003 LinkedIn: Linkedin Profile
+GitHub: Github Profile
+A Data Scientist and lifelong learner with demonstrated success delivering innovative and actionable
+Machine Learning solutions, partnering cross functionally, and presenting to all levels of leadership
+Analytical Programs, tools & platforms: R, Python, SQL, Azure Synapse Analytics, Databricks, R Studio, Spyder,
+Jupyter Notebook, Power Bl, Tableau
+Real world experience with: Regression, Classification, NLP, Ensemble Learning, Feature Engineering, Model
+Evaluation, Pipelines, Data Wrangling, Data Storytelling
+PROFESSIONAL EXPERIENCE
+Bajaj Housing Finance Limited, Pune, India Jan 2020 - Ongoing
+Manager Analytics & BIU
+e Created Propensity models for Existing and Prospect Customers for different business verticals. Tested and
+verified the created model by calculating efficacy and campaign leads.
+Utilized NLP and regex to extract key words and digit such as extracting salary or credit/debit date from
+huge unstructured text data.
+Implemented key data centric projects and coordinated with marketing and various teams within the
+company to increase business output.
+Optimized and Automated SQL Script. Slice and dice huge amount of data in Microsoft SQL server in cloud
+environment to understand and analyze the pattern and trend.
+Oh! White, Paris, France June 2017 — May 2018
+Junior Data Scientist
+e Converted business problem to data problem and provided solution to the data problem by being part of
+Data Science Life-Cycle process and applying structured thinking and communication.
+e Generated hypothesis, collected data, applied data transformation, conducted Exploratory data analysis,
+build the model and implemented the model according to the data problem at hand.
+e Worked cross-functionally to implement best analytical practices across the organization.
+Market Forward — Publicis Group Company, Paris, France July 2016 — Jan 2017
+Data Analyst Intern
+e Applied data wrangling process and provided clean data to BI team for reporting.
+e Conducted proof of concept to select appropriate BI tool and produced functional and technical
+specification documents to integrate BI tool into companies existing solution.
+e Automated Ad-hoc reporting process which significantly reduced number of analyst hours for reporting.
+Pungliya Tyres, Pune, India May 2014 -— May 2015
+Data Analyst Trainee
+e Created and analyzed KPI dashboards to report on and track the health of the business, dashboard
+influenced business decision.
+e Provided solutions to various stakeholders utilizing root cause analysis to uncover opportunities for
+improvement, provided recommendations to the business.
+e Prioritized workload including communications with various stakeholders.
+CERTIFICATION
+Al & ML Black Belt Analytics Vidhya Ongoing
+Data Scientist Nanodegree Udacity March 2019
+Data Analyst Nanodegree Udacity Nov 2018
+EDUCATION
+ESIEE PARIS, Paris, France M.Sc. Management in Information Systems Sept 2015 — May 2017
+University of Pune, Pune, India B.Sc. Computer Science June 2010 — April 2014

@@ -1,0 +1,83 @@
+Ashwin Joshi
+Machine Learning | Data Science | Python
+PySpark | NLP | Power BI | Cl CD
+¢ Aspiring for a career in Data Science and Machine Learning that places me
+in a challenging position in a_ fast-paced and_ learning-oriented
+environment for developing my technical and interpersonal skills with my
+abilities, skills and commitment.
+¢ A competent professional with 3 years of enriching experience in data
+science and machine learning platform and related visualisation tool
+¢ Strong statistical knowledge .
+e Extensively used Numpy, Pandas, Scikit-learn, PySpark for data analysis for
+classification ,regression and prediction model building.
+e Hands on experience on Predictive modeling,regression ,classification and
+clustering algorithm
+¢ Hands on experience in implementing PCA,LDA, Random Forests, Decision
+Trees, Linear and Logistic Regression, SVM, Clustering, neural networks.
+¢ Wide experience in Natural Language Processing using Spacy ,NLTK libries.
+¢ Experience on pretrained models like BERT to develop QA systems
+e Experience in image processing deep learning architecture like
+CNN,AlexNet.
+e Experience with cloud-based platform on Azure as deployment tool.
+¢ Pursuing a Ph.D. in Mechanical Engineering.
+Experience
+Mass Technologies , Pune
+Machine Learning Specialist
+From Nov 2018 working with Mass Tech on DS and ML
+platform.
+1.Design machine learning systems.
+Nov 18 — ; ;
+oY 2.Select appropriate datasets and data representation methods.
+till date ; ,
+3.To perform statistical analysis and fine-tune models using test
+results.
+4.To develop Machine Learning algorithm according to
+requirements..
+5.Utilized PySpark to develop Machine Learning algorithms.
+Savitribai Phule Pune University.
+Jan‘09— Assistant professor in engineering college.
+-May‘18 1.Built strong industry institute interaction.
+2.Career counseling and project guide
+Siemens PLM Software (I )Ltd.
+Implementation Engineer.
+1.To generate Teamcenter ITK, plugin customization programs for
+setting up workflows, writing handlers, item creation and
+enhancements.
+2.Expert knowledge of routers product life cycle and change.
+management, flow management.
+3.Expert in PLM & PDM technologies .
+Sept’ 07 —
+Dec ‘09
+Kalyani Forge— Pune, India.
+1.Expert of cutting edge technology.
+July ‘03-— 2. Design and development of
+Aug’?07 —- 3. various auto components.
+Technical Skills
+Python for DS & ML
+Intermediate @ @ @ @
+Numpy, Pandas, Sklearn
+Intermediate @ @ @ @
+Data Visualization,
+Matplotlib, Seaborn
+Intermediate @ @ @
+PySpark
+Intermediate @ @ @
+Feature Engineering
+intermediate @e@@®
+Statistics, EDA
+Intermediate eeee@
+NLP
+Intermediate eee
+AWS sagemaker
+Beginner ee
+Open CV
+Beginner eee
+Neural Network
+Intermediate eee
+SQL
+Beginner ee
+BI Tools
+Power BI , Tableau
+Intermediate eee
+Azure
+Beginner @ ®

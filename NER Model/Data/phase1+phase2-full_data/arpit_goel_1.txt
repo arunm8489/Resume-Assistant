@@ -1,0 +1,42 @@
+recency which were leveraged with prominent weightages replacing the earlier weightages based on
+random mathematical calculation. Overall we succeeded to segment with transition from Heuristic
+segmentation approach towards automated Scientific Segmentation approach with greater confidence
+lift towards technographics scoring.
+Intern Data Scientist
+BCG GAMMA
+March 2021 to March 2021
+Mar 2021 - Mar 2021 (1 month)
+Badge of completion for the Open-Access Data Science & Advanced Analytics Virtual Experience
+Program has been awarded.
+Works Include:
+1.Business Understanding & Problem Framing.
+2.Exploratory Data Analysis & Data Cleaning.
+3.Feature Engineering.
+4.Modeling & Evaluation.
+5.Insights & Recommendation.
+Intern Data Scientist
+Quantium
+December 2020 to March 2021
+Over the period of December 2020 to March 2021, completed practical task module in:
+Data preparation and customer analytics.
+Intern Data Scientist
+ANZ
+December 2020 to March 2021
+Dec 2020 - Mar 2021 (4 months)
+Over the period of December 2020 to March 2021, | completed practical task modules in:
+Exploratory Data Analysis
+Predictive Analytics
+Data Analytics Consulting Virtual Internship
+KPMG India
+October 2020 to December 2020
+Over the period of October 2020 to December 2020, | have completed practical task modules in:
+Data Quality Assessment
+Data Insights
+Data Insights and Presentation
+Intern Data Scientist
+JPMorgan Chase & Co
+August 2020 to December 2020
+Over the period of August 2020 to December 2020, | have completed practical task modules in:
+Interface with a stock price data feed
+Use JPMorgan Chase frameworks and tools
+Display data visually for traders

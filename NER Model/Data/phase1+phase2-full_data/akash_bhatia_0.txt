@@ -1,0 +1,111 @@
+Senior Data
+Engineer
+ 
+How to reach me:
+Cell:
+9971735084
+Email:
+akashbhatia92@gmail.com
+Linkedin:
+linkedin.com/in/akash-bhatia-
+17aa1784
+Adress:
+3E-133 N.1.T. Faridabad,
+Haryana 121001
+Certifications :
+Azure DP-100
+Neo4j Graph Database
+Developer
+Professional Skills
+Coding Languages:
+Pyspark, R, SQL ,HTML/CSS,
+Python
+Frameworks/Technologies:
+Machine Learning, Natural
+Language Processing, Neural
+Network, Flask, TensorFlow,
+Pytorch
+Personal Profile
+MBA Graduate and full time Data
+Engineer with passion for Data
+Practices. Proven experience in
+creating and designing Data
+Science/ Engineering solutions.
+Highly experienced Data Scientist
+with over 5 years’ experience in Data
+Extraction, Data Modelling,
+Statistical Modeling, Data Mining,
+Machine Learning and Data
+Visualization, Natural Language
+Processing (NLP) using modern
+architectures with CI/CD pipelining
+Educational
+Niit University
+MBA in Data Science
+e Attended from 2018 to 2020
+e Taking up specialization
+courses in data science to
+broaden skill set
+e Worked as an intern in
+Coforge Technologies for 2
+Years
+MDU, Rohtak
+B.Tech in Electronics and
+Communication Engineering
+e Attended from July. 2010 to
+June 2014
+e Conducted Workshops on
+Robotics and Embedded
+Systems
+Tools:
+Pycharm, Jupyter Notebook, Git,
+Denodo Express, PowerBI,
+Tableau, PostGre SQL, JIRA ,
+SVN, AWS Elastic Container
+Career Summary
+Senior Data Engineer
+Coforge Technologies
+Aug 2018 to present
+e Created various statistical
+models , performed Hypothesis
+testing, Principal Component
+Analysis, Factor Analysis, Cluster
+Analysis, Discriminant Analysis
+on customer data.
+e Worked on review segmentation
+and prioritize using NLP libraries
+e Worked on price suggestion of
+used and refurbished product
+using gradient Boosting
+algorithms
+e Worked on Customer Predictive
+Lifetime Value Modelling
+e Worked on K- Means clustering
+for customer segmentation.
+Senior Associate
+Nagarro Softwares
+Dec. 2017 to July 2018
+e Created multiple regression
+models like ElasticNet, XGB
+Regressor
+e Created PowerBl Dashboards
+and Reporting for European
+Banks
+e Worked on Creating Data
+Virtualization using Denodo
+Software for multiple Data
+Sources integration
+Software Engineer
+InterGlobe Technologies
+Aug. 2014 to Dec. 2017
+e Created Customer
+Segmentation Models for
+E-commerce Platform
+e Ad-hoc analysis on Python to
+implement client request and
+present reports in PowerBi.
+Character References Ankur Srivastava Pankaj Madaan
+Team Lead, Incedo Technologies
+Cell: 8447768015
+SAS Developer, EXL Services
+Cell: 8700460383

@@ -1,0 +1,71 @@
+Priyanka Singhal
+EXPERIENCE
+Saara.io
+Data Scientist - Computer Vision
+March 2020 -Present
+We help online stores and fulfilment centres to Reduce, Automate
+and Monetize returns.
+e Build aretail analytics system to track people in a store. Our
+system calculates the number of people passing by a line.
+Our clients include Decathlon, fossil, airbnb, etc.
+e Build asystem that grades the products(footwear and
+apparel). Also identify the defect in the product which
+includes tear, stain, etc.
+e Worked on product tagger for footwears and apparel to
+identify the multiple properties of the products.
+e Used AWS sagemaker for model deployment.
+e Used azure system for training and azure api for multiple
+projects.
+e Worked on raspberry, jetson nano.
+InterProducTec Virtual Lab Pvt. Ltd, Navi Mumbai
+Jr Software Engineer - AI/ML Developer
+July 2019 - Feb 2020
+Trainee Software Engineer - AI/ML Developer
+Dec 2018 - June 2019
+Applying AI to various areas of the food industry and building
+intelligent sensor systems which helps the clients to achieve the best
+quality and most efficient production processes.
+e Building deep learning models to identify the products
+location and classify them.
+e Used yolov3 for object detection.
+e Worked on ROS and data management
+Om Siddh Vinayak Impex Pvt. Ltd, Gandhidham
+Computer Vision Intern
+Jan 2018 - June 2018
+Worked on the automation in the cloth recycling process that is rag/wiper
+making. The goal here is to take the garment and remove any extra parts that
+may stop it from working perfectly as an industrial grade wiper like removing
+Bajaj Colony, Mandawari, Dausa
+Rajasthan(303504)
+8469305520
+priyankasinghal410@gmail.com
+SKILLS
+Experience Area:
+Deep learning, Computer Vision,
+Machine learning and Software
+development
+Area(s) of Interest: Machine
+learning, Computer Vision, Deep
+learning, Algorithm design,
+Data structure, Image
+processing
+Programming Languages:
+Python, Java, C, C++
+Tools and Technologies:
+Numpy, Pandas, PyTorch,
+TensorFlow, Docker, ROS(Robot
+Operating System), Git,
+Tensorboard, AWS sagemaker,
+Azure API
+Operating Systems: Linux,
+Windows, Raspberry Pi, Jetson
+nano
+CERTIFICATES
+© Finalists of the grand
+finale of Smart India
+Hackathon 2018 held in
+Kurnool.
+e Introduction to Modern
+Application
+Development, IIT
+Madras

@@ -1,0 +1,36 @@
+HAMEED ALI SHAIK
+hameidshaik@gmail.com +91-9110363774
+PROFILE SUMMARY
+Over 3 years of Experience in in Data Science and Data Analysis with capability to quickly understand
+business requirements & apply business logic to solve complex problems
+Skilled in Machine Learning Algorithms entailing in Multiple Linear Regression, Logistic Regression,
+Decision Trees, Random Forest, KNN, K-means Clustering
+Proficient in Deep Learning Algorithm such as Neural Network, CNN, LSTM.
+Proficient in Natural Language Processing.
+Hands-on experience in using Python, SQL, R
+Insightful knowledge of Tableau, Excel.
+Expertise in using analytical processes and techniques to improve and optimize information and decision
+systems.
+Responsible for deliverables.
+Knowledge and experience of Microsoft Office tools like MS Access, MS word, MS PowerPoint andMS
+Excel.
+Ability to meet tight deadlines, quick learner, good interpersonal skills and team player.
+Excellent communication and management skills
+SKILLS
+Data Science Tools: Python, Oracle SQL, R
+Machine Learning Algorithms: Multiple Linear Regression, Logistic Regression, Decision Trees, Random
+forest, KNN, K-means Clustering, Hierarchical Clustering.
+Deep Learning Algorithms: Neural Network, CNN, RNN, LSTM.
+Visualization tools: Tableau, Power BI, Excel.
+WORK EXPERIENCE
+TechNVision Ventures Limited (Solix Group) Feb. 2018 — Present
+Jr Software Engineer Hyderabad, Telangana
+Designation: Jr Software Engineer
+Roles and Responsibilities:
+Understanding the Business requirement document and analyzing the data as per client required formats.
+Participated in requirement gatherings.
+Built some key performance dashboards and maintaining the tableau server.
+Interacting with database team to get the required data from the database based on theclient requirements
+for tableau dashboards and machine learning models.
+Preparing PPT for presentations and basic document for each project
+Understanding the new enhancements in the application and sharing knowledge with team members.

@@ -1,0 +1,30 @@
+Project Details
+Project Name Customer Churn Analysis
+Software e Languages, IDE, Tools: Python, Jupyter
+Notebook, Spyder, MySQL, Tableau
+Algorithms: Random Forest, XGBoost,
+KNN, SVM, Naive Bayes, Sentiment
+Analysis, Logistic Regression, Decision Tree
+ 
+Project Description:
+Customer churn is one of the biggest challenges in the telecommunications industry. Several studies have
+shown that attracting new customers is much more expensive than retaining existing ones. The project
+aimed at customer Churn Analysis where the loyalty of the customer needs to be identified using descriptive
+analytics and provide insights on how to retain the existing customers in the company.
+Roles and Responsibilties:
+e Processing, cleaning and verifying the integrity of data used for analysis.
+e Performed data analysis and visualizations to identify patterns and meaningful business insights.
+e Evaluated the tenure and behavior of the customer to determine the loyalty of the customer to the
+company.
+e Worked with unbalanced data using under sampling, oversampling, SMOTE techniques.
+e Performed ad-hoc analysis for POC' s and presented results in a clear manner.
+e Selected the important variables and engineered new ones in order to improve the performance of the
+model.
+e Applied different machine learning algorithms to evaluate churn probabilities and analyzed the accuracy
+with each algorithm.
+e Worked with internal and external teams to develop and evaluate models, identify the best performing
+model and put it into production.
+e Developed the predictive model (Customer Churn) to estimate whether the customer will leave the
+company and the loss suffered by the company in total ,of all the churns observed.
+e Improved the accuracy of prediction from 84% to 96%.
+e Provided actionable insights to the business in order to retain current customers with strategic offers.

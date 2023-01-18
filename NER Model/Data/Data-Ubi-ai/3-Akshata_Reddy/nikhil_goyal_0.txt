@@ -1,0 +1,44 @@
+Phone: +91-7742102922
+E-mail: er.niksiet@gmail.com
+LinkedIn: https://www.linkedin.com/in/nikhil-goyal-3bb689108
+GitHub: https://github.com/nikku90
+Seasoned & versatile Data Scientist professional with cross-functional experience across highly reputed organizations,
+over 8 years of excellence in delivering optimal results in a high-growth environment through initiatives that exceed
+business performance targets and achieve measurable outcomes.
+| PROFILE SUMMARY
+*» Data Scientist proficient in designing and developing Predictive machine
+learning and statistical modelling algorithms/techniques for identifying
+patterns and extracting data insights. Directing end-to-end model
+development and deployment lifecycle, accomplishing mission-critical user-
+centric deliveries.
+» Possess expertise in data analytics, data science and data engineering and
+performance improvement.
+» Adept in managing entire operations with a focus on top & bottom-line
+profitability by ensuring optimal utilization of resources.
+* Coordinate planning and conceptualizing of various data science, data
+visualization, data modeling, machine learning, and strategies to achieve
+business goals of the businesses across the region, aimed towards the
+growth in business volumes as well as profitability as per the need and
+resources available.
+» Certified in Tableau Analyst, Tableau Data Scientist and Azure DP 100.
+SKILL SET
+Data Mining: Exploratory Data Analysis, Predictive Modellings, Python NumPy,
+Pandas, Scikit-learn, Matplotlib, Seaborn, Scipy, NLTK, SpaCy, and statsmodel
+ 
+ 
+Deep Learning: Python Neural Network, Keras- CNN, RNN, LSTM and GRU
+Database: SQL, Teradata, DB2, MS Excel, MS Access, SSIS, SAP HANA and Databricks
+Cloud: Azure, AWS, GCP
+EMPLOYMENT DETAILS Ly
+COFORGE LTD — BANGALORE
+| Data Scientist, July'18 — Present
+SUMITOMO MITSUI INDIA LTD (PMC) — DELHI
+Management Executive, May 2012 - July 2018
+ 
+ 
+KEY RESPONSIBILITIES
+Insurance Client — Summarizing Claim reports and Generating Categories using Natural Language Processing (Insurance)
+» Working with solution designers across the globe to understand their requirements in designing & developing
+analytical solutions
+» The design solution was delivered in Azure Data lakes and Azure Data Bricks and the dashboards were published in
+ 

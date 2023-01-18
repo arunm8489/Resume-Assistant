@@ -1,0 +1,41 @@
+PROJECTS
+e Smart Study: ( On-going)
+o A UI based topic search platform where user can get information and newspaper editorial, up on user request,summary
+is provided for the given topic. A feature for query resolution has been provided with Elastic search, Hugging Face
+transformer as back end.
+o Vocabulary and Quiz at the end helps to gain and test knowledge respectively. This Product is hosted on Google
+compute engine in a Docker Environment.
+e Spark Streaming based sentiment analysis: Streaming pipeline is built on twitter real time data with the help of
+Kafka and Spark Streaming and real time data is sent to spark Mlib Logistic regression classification model and result
+are tabulated.
+PROGRAMMING SKILLS
+o Languages: Python
+o Bigdata: Pyspark,Hive,Hbase, Kafka
+o Cloud Data: Dataflow,Bigquery,Bigtable,Elastic search,Datastore
+o Cloud Infrastructure: Docker,Kubernets,Terraform
+o Machine learning: Sklearn,Tensorflow
+o Time series database: Timescaledb,Opentsdb
+o Backend: Django,Flask
+o Business Intelligence: Tableau
+CERTIFICATIONS
+o Google Associate Cloud Engineer
+o AWS Certified Developer Associate
+ 
+o Microsoft Certified Azure Fundamentals
+COURSES
+o Applied Machine Learning Course - Applied roots
+O
+Getting Started with AWS Machine Learning -Coursera
+O
+Fundamentals of bigdata - Databricks
+O
+Natural Language Processing With Transformers in Python - Udemy
+Foundations of Data science -Guvi
+O
+O
+PySpark Essentials for Data Scientists (Big Data + Python) -Udemy
+COMMUNITY OUTREACH
+o Community Member at Data talks a Data science Community forum
+o Attendee :Application of AI in Health-care
+o Core member for mining tech fest part of Engineer.2018..
+o Coordinator in CRRESCENDO club for recreation.

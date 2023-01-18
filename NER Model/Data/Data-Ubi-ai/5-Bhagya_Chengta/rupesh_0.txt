@@ -1,0 +1,48 @@
+RUPESH $
+Data Analyst
+ 
+Experienced Data Analyst with full flexible of inspecting, cleansing, transforming
+and modelling data with the goal of discovering useful information, informing
+conclusions and supporting decision-making.
+ 
+&) 9790637125 © rupeshsubramani@gmail.com
+EDUCATION
+July 2019 - December 2019
+SSN School of Advanced Career Education, Chennai, Tamil Nadu
+Post Graduate Diploma in Business Analytics & Data Science, 9GPA
+June 2016 - April 2019
+Sri Sairam Engineering College, Chennai, Tamil Nadu
+B.E - Mechanical Engineering, 9GPA
+EXPERIENCE
+June 2020 - present
+Solverminds Solutions and Technologies Pvt Ltd
+Position: Data Analyst
+1) Time Series Forecasting Project - SEDGE Product
+a) Developed Time series forecasting for SEDGE product from scratch exploring the data to forecasting
+future periods.Applied visual Analytics for TSA is Resampling method (Up & Down sampling), Seasonal Decomposition
+(Trend, Seasonality, Residual), Stationarity check (Rolling statistics, ADF Test, KPSS Test, Granular Casuality test, Co-
+integration Test), ACF & PACF plots.
+b) Used Algorithms- SES, AR, MA, Holtliner, HWES, ARIMA, SARIMA, AUTO-ARIMA, VAR, VARMAX, FB-Prophet.
+c) Created LSTM model for time series data to get better accuracy and also LSTM models have capability to
+learn long term sequence of data
+d) Developed project report book for future analysis and project scheduled work using MS Project.
+2) OCR Project - SEDGE Product
+a) Developed OCR function code to extract the string from given image used technologies are tesseract and
+google cloud platform.
+b) Once extracted the string we are translating text from one language to another language using google
+translator.
+c) Finally we converted text-to-speech using gTTS package.
+d) Developed project report book for future analysis and project scheduled work using MS Project.
+3) ETL Project - Keppel Smit Towage Company, Singapore Client
+a) Combined 3 Databases (MS-SQL, Postgresql, MySQL) and pushed to AWS MYSQL server using talend open
+studio.
+b) Based on PowerBl edit query we created mapping work in Talend tool which are used for powerBi
+visualization.
+c) Developed project report book for future analysis and project scheduled work using MS Project.
+4) Email Parser Python Automation Project - Hapag Lloyd, Germany Client
+a) The aim of this project is to automate manual ticket raising to JIRA Tool and created function code based
+on client given flowchart.
+b) Created MySQL DB to store all ticket details which is extracted from JIRA Tool
+c) Based on scheduler the python script will run
+d) Devel dped Project report book for future analysis and project scheduled work using MS Project. ue
+_ AFT

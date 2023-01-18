@@ -1,0 +1,36 @@
+Sethupathi Subramaniyam
+BTM Layout, Bangalore. | +91 7373155129 |imsethuS@gmail.com | LinkedIn
+Career Objective:
+Enthusiastic and motivated Data Engineer with a passion for innovation, learning
+technology. 3+ year experience in data engineering with proven track record in solutio
+designing in python. A big proponent of prioritizing tasks and taking ownership. | am
+interested in working on Big Data, Data Science, Predictive Analytics, Machine Learning
+and Cloud based techniques.
+Experience:
+DATA ENGINEER | MATCHMOVE PAY PVT LTD | 02/2020 - PRESENT
+Roles and Responsibilities :
+e Developed Data pipelines for ETL pipeline which loads data from OLTP systems to
+OLAP layers for analysis.
+Migrated data from AWS Redshift to PostgreSQL
+Cross Team Data related Support.
+Working in BAU requests, particularly where data plays a role.
+Taking ownership of monthly and daily tasks to run successfully mainly RBI reports.
+Developed 25+ Report flows for regulatory purposes which are scheduled daily,
+weekly or monthly on Airflow.
+e Responsible for Kafka CDC and streaming from the Application database into the
+middle layer.
+e@ Built a data pipeline for the AML and Risk Analysis which is mainly focused on
+detecting the fraud transactions.
+e Updated entire Codebase from python 2.7 to 3.7
+Developed package which contains most of the commonly used functions by
+others across the system.
+Replaced all the hardcoded configs to centralised configuration.
+Re-designed all the data pipelines which reduced runtime from 1 hour to 7 mins.
+Developed framework to send emails which includes inline html report, table.
+Developed an internal settlement system which adjusts the user’s balance based
+on the settlement.
+Hands on experience in Tableau, Power BI dashboards and workbooks.
+Responsible for the Internal Business Intelligence tool which was built on top of
+Tableau.
+@ Developed an alerting mechanism for the transactions which are considered as
+fraud transactions.

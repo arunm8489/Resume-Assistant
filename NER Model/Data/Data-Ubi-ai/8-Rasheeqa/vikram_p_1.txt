@@ -1,0 +1,33 @@
+Technical Details:
+e Languages: Python
+e Technologies: Machine Learning, NLP, MS-SQL, 83, API, Docker
+Project Details
+Project: Identification of Check boxes in PDF’s
+Description: Check box (OpenCV) detection and retrieve the values for that check box is major task where
+Check box location is not fixed and identical in all pdfs. This Check box detection is not applicable to universal
+documents. It is constrained to COIMS, MedWatch, SAE forms which can be in any language.
+Project: Article Identification
+Description: Client Database has tons of pdf documents. These documents contain Literature articles which are
+related to Medical domain. Manually identifying those Literature articles and analyzing them is very difficult
+because of Literature documents contain 10:1 ratio. So, we have developed a Machine Learning model (Random
+Forest Algorithm) to identify either the document is Literature or not. ML model works based on the keyword’s
+availability in the document.
+Project: Detection of Table in PDF’s
+Description: Detecting Table (CNN) in the pdf which also helps in data extraction while do reading literature
+articles these table creates lot of noise in plain. So, identifying and removing that text in pdf reduces the noise in
+NLP on pdf text.
+Project: Identifying the Lines in Images in PDF’s
+Description: Lines detection (OpenCV) is not a simple task in Scanned Image PDFs. These Lines detection 1s
+necessary in Data extraction of those Images PDF’s. With the help OpenCV and post-processing, lines in CIOMS
+& MedWatch can be detected. After detecting those line data extraction from the Images pdf can be easy not
+Project: Database Administrator
+Role: SQL Server DBA
+Environment: SQL Server 2008/2008R2/2012, Windows 2008, Windows 2008 R2, VMware, Clustered,
+Profiler, Tuning Adviser.
+Description: The Vanguard Group is an American investment management company that manages
+approximately trillions in assets. It is the largest provider of mutual funds and now the second-largest provider of
+exchange traded funds.
+Declaration:
+I hereby declare that the particulars mentioned in the resume are best of my knowledge and belief.
+Date:
+Place: Bangalore Vikram

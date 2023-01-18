@@ -1,0 +1,36 @@
+e Course Modules:
+°
+Data Analysis in Excel | Analytics Problem Solving | Data Analysis using SQL |
+Introduction to Python
+Programming in Python | Python for Data Science | Inferential Statistics |
+Hypothesis Testing
+Introduction to Machine Learning and Linear Regression | Logistic Regression | Tree
+Models
+B.Tech (Chemical Engineering) Apr '10 - Apr '14
+Indian Institute of Technology, Kharagpur Bengaluru, IN
+KEY DATA SCIENCE PROJECTS
+e Domain: Research Project | BFSI Application Scorecard development | Tech Stack:
+Python | Jan '21
+°
+Objective: Build an interpretable application scorecard classification algorithm on
+HomeCredit dataset (Kaggle).
+Solution: Designed an explainable machine learning model via custom model
+development framework using tree based models and chemical engineering
+based binary distillation column.
+Key Achievement: Developed a model with an AUC score of 0.89, in process for
+writing a research paper and filing a patent, got AUC higher than all the
+research papers on this dataset.
+e Domain: Energy sector | Anomaly detection | Tech Stack: Python | Aug '21
+°
+°
+Objective: Identify stable region in a chemical plant via anomaly detection
+Solution: Designed autoencoder based anomaly detection and explained the
+anomaly using SHAPely explanation
+Key Achievement: Created a model with an recall of 0.77
+¢ Domain: BFSI Application Scorecard development | Tech Stack: Python | Sep'16
+°
+°
+Objective: Build an application scorecard for Asia Pacific Bank.
+Solution: Designed application scorecard using FICO model builder via GAM based
+modelling technique.
+Key Achievement: Developed a model with Gini of 0.83

@@ -1,0 +1,30 @@
+= Responsible for end to end sanity testing Mindsphere IoT platform along with
+functional testing of backing services.
+= Adhere to architectural guidelines, standards and delivery discipline processes,
+while also influencing architectural planning; document the various computer
+systems enhancements/modifications or information retrievals/updates and
+update/create procedures
+=" Debugged issues and located root causes of problems by reviewing configuration
+files and logs per Service-Now ticketing tool incidents.
+Project: Goli Factory
+Duration: February’2021 to July’2021
+Role: Devops Engineer
+Key Responsibilities:
+» Video-surveillance cameras virtual configure, manage, patch upgrade and monitor
+the production lines and other factory areas
+= Surveillance Application such as Milestone XProtect Management, Smart Client,
+Mobile Server application configuration support and maintenance.
+=" Responsible for maintaining historical data retention policies, server and audit log
+analyzing and make the system up and scalable.
+=" Responsible for backup management of the whole infrastructure- Servers, Network
+devices and Application including Access Control.
+=" Regularly exchange update with Customer and Vendors in ongoing issues.
+PROFESSIONAL ACHIEVEMENTS AND CERTIFICATION
+=» Awarded with Accolade Award for contribution in Egelet Factory (Better
+Nutritional’s) in April - 2021
+= Completed PTC Thingworx Fundamental Training and Certification successfully in
+2020
+EDUCATION
+= B.Tech (ECE) |Techno India Banipur (Approved By AICTE, Affiliated to
+MAKAUT), Kolkata, WB
+AUGUST 2014 - July 2018 | with DGPA 7.39

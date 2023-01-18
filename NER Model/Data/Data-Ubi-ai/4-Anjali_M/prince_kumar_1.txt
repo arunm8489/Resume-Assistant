@@ -1,0 +1,36 @@
+Professional Projects
+Telehealth Services
+e Designed and developed a real time dashboard for monitoring patients’ medical data like Ejection Fraction, ECG
+images, Potassium level, Heart Rate.
+e (Cleaned and Preprocessed 1 million FHIR medical data records.
+e Technologies used : Python, SQL, Oracle DVD and Oracle BI
+Smart City Solution
+e Designed and Developed Convolutional Neural Network (CNN) models for pothole detection on the roads and helmet
+detection in construction sites.
+e Technologies used : Python ,YOLO framework, TensorFlow, Keras.
+Analysis of Service Performance
+e Developed dashboards for the analysis of Service Performance.
+e Dashboards include reports and visualizations showing Service Metrics, Maintenance Metrics, Customer
+Performance.
+e Technologies used: Oracle Analytics Cloud (OAC),Enterprise Performance Management (EPM)
+Semiconductor Manufacturing -Data Analysis
+e Created a set of analytics dashboards which can be utilized by the semiconductor product/process personnel
+and by the managers who are responsible for manufacturing.
+e Developed a clustering model to analyze the root cause of defects in semiconductor chips.
+e Technologies used: Python, Oracle SQL, Scikit-learn, Pandas, NumPy,Matplotlib and Oracle Machine
+Learning (OML)
+Personal Projects
+Project- “Heart Risk Assessment”
+¢ Designed and developed a machine learning model using Logistic Regression and Random Forest algorithms that
+can predict risk of developing coronary heart disease (CHD) and was able to achieve a Precision of 0.90 and
+Accuracy of 0.87. Github
+Project- “Recommendation Systems”
+¢ Implemented various type of Recommendation Systems such as Content Based, Correlation Based, Popularity Based
+and Classification Based for suggesting movies based movies data and users demographic data. Github
+Project- “Article and Review Tagging”
+¢ Implemented the KNN (K-Nearest Neighbor) algorithm from scratch and trained the KNN classifier on review and
+article text data to predict the categories of Reviews and Articles.
+e Achieved Accuracy score of 0.90. Github
+Project- “House Price Prediction”
+¢ Trained a Random Forest Regression model to predict the house prices based on different parameters such location,
+area of the house. Github

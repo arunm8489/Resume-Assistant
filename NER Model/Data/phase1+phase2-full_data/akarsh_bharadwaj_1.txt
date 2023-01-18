@@ -1,0 +1,46 @@
+2.Menu Maker Tool - Cognitive on Cloud /UberEATS, Bengaluru- Karnataka
+Description: Developing a ML Model for detecting the items in a Menu and generate a custom
+csv format for further process
+Role: Data Scientist
+Language: Python
+Technology & Packages: Computer Vision, NLP, Machine Learning, Deep Learning, Data Analysis,
+TensorFlow, Object Detection, Flask, GCP, Al Platform.
+Responsibilities:
+e Used python on Visual Studio Code to clean and analyze Large Datasets.
+e Developed Object Detection model using TensorFlow (Trained on Faster RCNN Model)
+e Automated this ML solution completely with GCP pipeline by using Cloud Build, Cloud Scheduler
+and Cloud Function, Cloud Run and Google Kubernetes components.
+e Also created an Al Pipeline in Al Platform for getting a CI/CD ML Solution.
+3.Document Image understanding/Form Parser/CME Client, Bengaluru- Karnataka
+Description: This Project aims in Document Image Understanding and Information Extraction
+Task from Forms and Receipts Data using NLP Techniques and Deep Learning Transformer Models. And
+building an Airflow Pipeline for orchestrating the Solution.
+Role: Data Scientist.
+Language: Python
+Technology & Packages: NLP, Deep Learning, Transformers, LayoutLM -hugging face Transformer
+Model, Pytorch , MLflow, Airflow, Bentoml .
+Responsibilities:
+e Understanding the whole documentation of the Business problem and acquiring knowledge.
+e Gathering Data [FUNSD Data] and annotating the Images on Label studio Platform into their
+respective Labels.
+e Pre-processing the obtained Json Data from Label Studio to the input format of Transformer
+Model.
+e Model Training and Evaluation using Pytorch and layoutLM Transformer.
+e Storing the Updated Model and its features in MIflow for future use.
+e Serving the Final Model using Bentoml Service.
+e Building a Airflow Pipeline for the above mentioned steps to orchestrate the Solution
+automatically.
+4.E-Newspaper Segmentation/Digital Works Client, Bengaluru- Karnataka
+Description: Project aims in Image segmentation of Newspaper for CME Client using Vision
+Based Deep Learning Model for Segmentation tasks
+Role: Data Scientist.
+Language: Python
+Technology & Packages: Computer Vision, Deep Learning, Image Segmentation, Pytorch, Detectron 2,
+Airflow, MLflow.
+Responsibilities:
+e Understanding the whole documentation of the Business problem and acquiring knowledge.
+e Data Annotation using LabelMe tool with Indian Newspapers (Economic Times, Times of India,
+etc.).
+e Preprocessing of data to the suitable formats (Mask Images, json)
+e Building the Detectron Model for Newspaper Segmentation task.
+e Creating an Airflow pipeline for the entire solution and automate the runs.

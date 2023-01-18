@@ -1,0 +1,89 @@
+DISHA SHAH
+M.TECH | DATA SCIENTIST
+ 
+EDUCATION
+ 
+M.TECH in Computer Science
+(2015-2017)
+NMIMS, NMIMS University
+3.95/4 CGPA
+B.E. in Information
+Technology (2009-2013)
+Thakur College,Mumbal
+University
+74%
+HSC (2009)
+T.P.Bhatia, MSBSHSE
+75%
+SSC (2007)
+St.Lawrence High School,
+MSBSHSE
+80%
+ACADEMIC
+PROJECTS
+ 
+1. Prediction of
+Cardiovascular Diseases
+using Data Mining
+e Description- Prediction of
+heart diseases using
+machine learning
+techniques like SVM, Naive
+Bayes, Logistic Regression
+and Neural Network.
+2. VOIP (Voice Over Internet
+Protocol)
+e Description-VOIP exhibits
+chatting, video
+chatting/conferencing,
+whiteboard sharing, screen
+sharing between two users
+on LAN.
+3. Shell CRM
+Performed data pre-processing for Post campaign analysis(PCA) by sampling the
+data further to reduce processor running time and memory requirements and
+implemented standard and an adhoc queries from 11 different markets.
+Implemented Random forest technique for selecting fields from the data that are
+relevant to clients queries and calculated KPI's like uplift, ROI,C3,C5.
+Implemented Logistic Regression for predicting the future customer churn by
+building the model that relates the behavior of customer before the churn
+happened to the responses of the customer already have churned.
+Machine Learning Engineer
+Powerweave Software Services Pvt. Ltd. (Mumbai)
+JUL 2017 - DEC 2018
+1.
+3.
+Marketing Automation
+Developed recommender system using Collaborative Filtering like User-based and
+Item-based CF.
+Developed a rule based machine learning method called association rules for
+product personalisation.
+Developed Apriori algorithm for generating association rules in recommendation
+system.
+Developed evaluation of the recommender engine using statistical accuracy
+metrics.
+Optimized the performance of recommender system through re-learning
+mechanism.
+Worked with database team on integration of recommender with mailchimp and
+google analytics reports.
+. Fintech Strategy Application
+financial strategies like Mean Reversion, Pair's Trade, Asset
+Allocation, Commitment of Traders (COT), Commodity Momentum, Weekly Option
+Developed
+Trade, Agreement in Moving Averages etc. on Equities, Commodities & Options.
+Integrated API's from various financial sources and developed strategic insights
+for stock markets.
+Worked with the outsourcing team on UX/UI designs and its integration with RYPE
+application.
+Ensured quality standards are maintained as per organization's policy by
+conducting Self & Peer reviews.
+Conducted
+members.
+transfer of technical and domain (business) knowledge to team
+Time Series Forecasting for Mondeléz International Inc.
+Developed a procurement strategy for Cadbury, a subsidiary of Mondeléz
+International Inc.
+Developed a univariate time series models like Autoregressive Integrated Moving
+Average (ARIMA) to make predictions on the future time points.
+Developed time series modelling on a volatile commodity like Cocoa to manage
+risks and control the impact of fluctuating prices.

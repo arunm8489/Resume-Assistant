@@ -1,0 +1,21 @@
+Tools and Technologies: NodeJS, ExpressJS, Angular 11, MongoDB, PosgreSQL, Neo4j and
+Bitbucket.
+Description: Mahaveer Distributors are seller and distributors of ITR hammers, Lubricants, ORT
+tyres and heavy vehicle spare parts. Mahaveerekart is an ecommerce application to shell their projects
+online.
+Roles and Responsibilities:
+Leading the team and training the juniors.
+Worked on creating Microservices using ExpressJS.
+Worked on Microservice integration with Angular.
+Created Admin settings screens using Angular.
+Involved in performing the unit testing.
+Personal Profile:
+Father name : Narayanagouda Policepatil
+Address : #92, Hulasanahatti, Tq: Gangavathi, Dist: Koppal-583283.
+Languages Known : Kannada, English and Hindi.
+Hobbies : Swimming, Travelling, Drawing and playing Cricket.
+Declaration:
+All the information given above is true to the best of my knowledge and belief.
+Date: 11/06/2021
+Place: Bengaluru
+Raghuveeranagouda Policepatil

@@ -1,0 +1,31 @@
+PROJECTS
+An Advanced Document Understanding System using Machine Learning:
+Developed Machine Learning based software system to develop text-classification for custom labels on
+sections (paragraph, title, etc) of the document:
+Machine Learning model using Traditional Machine Learning Algorithms viz. tree-based model, boosting and
+bagging.
+Developed model using the LSTM model for text-classification.
+The F1-score of 0.84 is achieved on the validation set.
+Developed and Deployed the Software pipeline for training the model and predicting using trained models
+Worked on the Software Engineering aspect of the system to ensure High Coding Standard.
+Writing Code for generic & utility function.
+Social Media Spam Detection using Transformer Model:
+Frameworks used -BERT, PyTorch, Pandas, Scikit-learn
+Studied various algorithms for textual data like N-gram, RNN, LSTM.
+Pre-processed textual data, cleaned noisy data using Pandas framework and custom codes.
+Implemented bidirectional encoding representation (BERT) model in PyTorch.
+Evaluated results with Scikit-learn library.
+Scored F1 score 0.91
+TECHNICAL SKILLS
+Programming Languages: Python(Advanced), C/C++, MATLAB
+Natural Language Processing Models: Word2Vec,RNN,LSTM,Attention Mechanism, BERT
+Natural Language Processing (NLP) Libraries: NLTK, Gensim.
+Machine Learning: K-Means Clustering, Association rule mining, Decision tree, Random
+Forest, Naive Bayes Classifier, Linear Regression, Logistic Regression, SVM, AdaBoost,
+Bagging and Boosting Techniques.
+Data Pre-processing and Machine Learning Libraries: Scikit-learn, NumPy and Pandas,
+Matplotlib,Seaborn
+Deep Learning Frameworks: PyTorch and TensorFlow.
+Data Structures and Algorithms: Linked List,quick sort ,pointers, Dynamic programming,
+time and space Complexity
+Web Technologies: MySQL, Linux, Django ,HTML,CSS

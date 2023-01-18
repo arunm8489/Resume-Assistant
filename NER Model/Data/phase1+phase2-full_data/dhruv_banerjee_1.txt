@@ -1,0 +1,22 @@
+e Global Cyber Security Survey & Global Compensation Management: Lead and managed the Survey, setting
+up the survey, validating the client incumbent data, interacting with the clients over the phone or E-mail
+regarding Data Validation, Statistical Analysis (whole survey) and Reporting of various markets statistics in
+excel based format. Providing insights through visualization with the help of Tableau.
+| Academic Projects
+e Capstone Project: Online News Popularity
+Description: The dataset is about articles published by mashable, and we want to predict the popularity of a
+news article. This can be solved as both regression and classification problem using the target column “number
+of shares”. For classification, the “number of shares” was classified in 2 and 4 classes. Making analysis which
+factors (types of words to be used) will help to increase the popularity of a news article which will help
+organizations to rightly tackle any online content and influence marketing strategies and thus selling
+advertisements
+Old Car Price Prediction
+Description: Prediction of Car Prices using sales price as Target Column by regression.
+Academic Details
+e 12t from Delhi Public School, Gurgaon under CBSE
+in 2010 with 80%.
+e 10 from Delhi Public School, Gurgaon under CBSE
+in 2008 with 70%.
+BCOM (H) from Delhi University in 2015 with 51%.
+Post Graduate program in Data Science and Engineering from Great lakes in 2020 with Excellent Grade.
+ 

@@ -1,0 +1,43 @@
+ANUSHA N
+anushaswamy.n@gmail.com | +91 9980854247 | Bengaluru, IN | GitHub | LinkedIn
+DATA SCIENTIST
+Motivated data scientist with 3+ years of experience as a freelance data scientist. Passionate about building models
+that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking.
+Armed with a passion to solve real-world business challenges using data analytics. Coming with proficiency in
+Microsoft Office applications.
+TECHNICAL SKILLS
+Oe
+Languages: Python 3.7, MySQL, Shell Script, PostgreSQL, Snowflake
+Packages: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, Stats Models
+Statistics/ML: Linear & Logistic Regression, K-Means, Hierarchical Clustering, PCA, Decision Tree, Random Forest,
+XGBoost.
+Tools: Tableau, Excel, PowerPoint, SharePoint
+KEY SKILLS
+On
+e Machine Learning e Exploratory Data Analysis e Statistics
+e Data Pre-processing e Data Mining & Data Wrangling e Natural Language Processing
+e Data Visualization & Sanitization §« Database Management e Team Player & Leadership
+EDUCATION
+OO Ooeouao
+e Masters on Data Science |Liverpool John Moores University | Sept ’20 —Jul’21
+e PG Diploma in Data Science | IIIT Bangalore & UpGrad | Sept ’19- Sept ‘20
+e BE- Information Science | Bangalore University | 80.07% - First Class with Distinction | Jun’14 - Jun ‘18
+KEY DATA SCIENCE & MACHINE LEARNING PROJECTS
+ 
+Masters: Customer Segmentation — Online Retail Data | Dec’20 — May’21 | Tech Stack: Python, Jupyter Notebook
+e Objective: Identifying the customers into their respective segments for larger reach over customers
+e Solution: Data Preparation, Calculate RFM value, analysed a variety of models and selected K Means which best
+worked on the data. After which items were suggested based on FP Growth Data Mining technique.
+Payment Card Industry — Credit Industry | Apr'20 | Tech Stack: Python, Jupyter Notebook
+e Objective: A Credit card company wants to detect Fraud transactions using the data that is highly sparse on fraud
+cases.
+e Solution: Handled Class imbalance, analysed a variety of models and selected XGBoost which best worked on the data.
+Domain: Telecom | Nov '19 | Tech Stack: Python and Jupyter Notebook
+e Objective: A Telecom company wanted to build a predictive model to identify customers at high risk of churn and
+identify the main indicators of churn.
+e Solution: Designed a logistic classification model to predict the high risk of churn customers and identified main
+indicators
+Domain: Taxi Industry | Jan '20 | Tech Stack: Hive, HDFS
+e Objective: A taxi Corporation wants to explore their data and get meaningful insights out of it to get a better
+understanding of the taxi system in the city.
+e Solution: Analysed the dataset using Hive queries and got useful insights about the trip behaviour

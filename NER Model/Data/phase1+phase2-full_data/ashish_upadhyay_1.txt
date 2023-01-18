@@ -1,0 +1,31 @@
+PROJECTS UNDERTAKEN
+Project: Financial Risk Prediction
+Description: For any organization, even the slightest chance of financial risk cannot be ignored. Organizations conduct regular
+inspections on their expenditures and revenue to make sure that they do not fall below the critical limit.
+1. Used different algorithms like Decision Tree, Random Forest, SVM, Logistic Regression, Adaboost to train a model.
+2. Variety of algorithms used in python to prepare models to predict financial crunch.
+Project: Heart-Attack Prediction
+Description: Heart diseases have become more than necessary. The project involved analysis of the Heart attacks patient dataset
+with proper data processing.
+1. Trained models and predictions were made using different algorithms KNN, Decision Tree, Random Forest, SVM, Logistic
+Regression, etc.
+2. |have used a variety of Machine Learning algorithms, implemented in python, to predict the presence of heart diseases.
+Project: Loan eligibility prediction.
+Description: A Classification Problem which predicts if a loan will get approved or not.
+1. Used pandas, matplotlib and seaborn libraries to extract insight from the data and various machine learning algorithm.
+2. Hyperparameter tuning using grid search cross validation for the xgboost machine learning model.
+3. Pickled the model for deployment for backed team to be served for real time prediction..
+Project: Saferwatch
+Description: SaferWatch is a web and mobile based security system that was built to provide a higher level of safety for individuals
+and enhance security for organisation including schools, corporations, public venues, neighbourhoods and communities.
+1. Involved in developing portal for admin user in nodejs.
+2. Maintained brand standards under company guidelines.
+EDUCATIONAL QUALIFICATION
+Institution/ Board Year of Passing CGPA / Percentage
+B.Tech (ECE) Lovely Professional University, Phagwara, Punjab 2015
+ACHIEVEMENTS
+ 
+e Top 5 winner of Hindi pakhwada.
+e Received “Best Performer” award at Swap infotech for Q4 FY 2018-19.
+e Received “League of Champions” award at Swap infotech for Process improvement.
+e Received “Achiever” award at Swap infotech for Q1 FY 2019-20.

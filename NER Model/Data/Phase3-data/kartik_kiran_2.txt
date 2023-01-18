@@ -1,0 +1,37 @@
+3.Text classification using BERT (internship Project): In this project we are trying to
+classify the text , in previous methods like LSTM and RNN we are not able to understand the context
+(meaning) of text hence sometime it is hard for classification . But in this project we are using
+Transformers based NLP state of the art models which is able to understand context from both
+direction of sentence . So it is robust in classification , I'm using pytorch and BERT-small uncased
+model for model making and performing EDA using sklearn library this is project is under construction
+ROLE 1) gathered Data from Kaggle 2) text preprocessing (stopword removal ) 3) use skearn to
+perform train test split 4) use pretrained BERT TOKENIZER to tokenize the text 5) Use [CLS] , [SEP ]
+[MASK ]tokens for data processing .creating Encoding od the data and covert text features to
+encoding 5) choose the max length and sentence . sentences which are small than max length are
+padded with zero in the end and sentence bigger than max length are Chop off 5) creating a pytorch
+dataLoder class to load the data
+Recommendation Engine (ongoing internship project): created a recommendation
+Engine using user - user similarity which can be used for similar product recommendation In this
+project | used , content based , user-user and Item-item similarity approach , | used Matrix
+factorization And Singular Value decomposition for Dimensionality reduction
+ROLE: this model can be used for different-different use cases with some tuning( for similar product
+suggestion and songs of movie recommendation) 1) gathered the data 2) done data preprocessing
+calculate text similarity 3) use cosine similarity and pairwise distance to calculate text similarity 4)
+remove duplicates text 5) removed outliers 6) convert high amount of data to low amount by
+converting 2D array to sparse array using SciPy (32 GB to approx 1.5 GB 7) convert text to vectors
+using TF-IDF and Word2Vec and calculate similarity between then 8) used KNN for choosing same
+products
+Education
+__—_Cettificate _ Certificate Board/University
+PUNE Universit 2017-2021
+Maharashtra Board 2015-2017
+ 
+Maharashtra Board 2015
+PERSONAL DETAILS
+Name kartik kiran karande
+Date of Birth 2™4 Sep 1999
+Languages Marathi, English ,Hindi ,German
+Passport applied
+Phone No 9527722700 / 7972852912
+E-mail id karandekartik777@gmail.com
+Page 3

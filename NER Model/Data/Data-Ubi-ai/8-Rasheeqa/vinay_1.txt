@@ -1,0 +1,38 @@
+e Manipulating, cleansing & processing data using Excel,
+Access and SQL.
+SOFT SKILLS: e Responsible for loading, extracting and validation of client
+data.
+e Experience in configuring Firewalls, Load balancers.
+» e Familiar with AWS User Accounts, Security Groups, VPC, RDS,
+Intellectual curiosity EC2 AWS storage services like S3, EBS.
+Business sense
+Effective communication
+Proactive problem solving
+TECHNICAL SKILLS:
+Operating Systems: Windows, Mac OS Queensland University of Technology | GPA 5.53/7
+Master of Information Technology | February 2018 - December 2019
+Cloud Technologies: AWS
+Core Subjects (GPA):
+Programming Language: Python ;
+- Advanced Topic on Multi-view Clustering (7)
+NV Hete=lileya exe) Fal BW In=NZe)NZ= - Data Mining and Application (7)
+- Understanding Research (7)
+Automation tool: Rundeck - Advanced Concepts in Artificial Intelligence (5)
+- Advanced Concepts in Information Retrieval (5)
+Database Systems: My SQL Server
+Research Projects (GPA):
+- Research Project 1: Knowledge Graph to find missing Information (6).
+Vln Wee) oweeValo ll ate=Vantew rela com Mey atsveya at (oN - Research Project 2: scRNA seq to Detect cancer or mutant cells (6).
+Keras, Scipy, numpy. Pandas
+Data Visualization: Quicksight.
+Conference Proceedings:
+Aws Services: IAM, Sagemaker, Athena, - Multi-view Clustering by using advanced Machine Learning models.
+RDS, Redshift, S3, EC2
+peoiect Management: ITILVS, Si Sri Siddhartha Institute of Technology | GPA 8.03/10
+Bachelor of Engineering | September 2011 - June 2015
+CERTIFICATIONS: Core Subjects:
+- Computer Networks
+AN Wism \irekerall atm cts aalialemO@x-vadliler-lilele -DBMS
+CCNA
+Checkpoint Security Certification
+ 

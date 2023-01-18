@@ -1,0 +1,41 @@
+Domain Specific Question with Context Extraction from Slack, MS-Teams, Emails, Web and
+Mobile.
+To provide answers for user asked question through Slack, MS-Teams, Emails, Web and
+Mobile designed pipeline for domain specific question and context extraction using Machine
+Learning, NER and rule-based approach.
+Roles and Responsibilities: -
+1. Data cleaning by analysing different Email formats, Slack, MS-Teams chat conversation
+and Signature patterns.
+2. Intent and question classification of Emails and chats into domain specific and generic
+categories (Meeting request, Follow Up) using W2V and SVM.
+3. NER Model for context keyword extraction and evaluated performance with RAKE/YAKE
+model.
+Search Relevance Architecture design and development.
+It includes Semantic based search on Question-Answer (FAQ), PDF extracted paragraph,
+Historical email threads. Relevance based ranking of search results. Removing or collapsing of
+Duplicates answers. Autosuggest questions on user typed query based on characters.
+Roles and Responsibilities: -
+1. Solr Core setup for implementation of Full text search on QA, PDF paragraph and
+vectors.
+2. For Semantic search created domain specific W2V model using historical email data,
+crawling domain specific data from websites, pdf.
+3. Built relevancy classifier using features like word share, distance based, Fuzzy logic and
+Word vector based to classify into relevant and irrelevant and re-rank obtained search
+results using confidence score.
+4. Implementation of Multiword Synonyms and Edismax query parsing in Solr.
+5. Key-Phrase Extraction using LSTM and W2V for boosting Solr results.
+6. Research on NLP Pretrained Model like BERT for Domain specific and IR use case.
+7. Fine-tuned and end to end implementation of BERT MLM, NLI and Cross Encoder
+Model. Achieved around 89% search accuracy on top 3 results.
+PDF parsing.
+Extracting, parsing and re-structuring pdf documents into head, paragraphs and title.
+Roles and Responsibilities: -
+1. Researching and validation of available open-source pdf parser. Based on comparison
+GROBID well suit for our use case.
+2. Retraining of specific components of model based on custom tag. Created tagged data on
+business specific pdf. Retraining of Segmentation and Header extraction model to get
+head, paragraphs and title and to remove unwanted text from pdf like header, footer,
+caption of images and tables.
+3. Worked on creation of API. It takes input as pdf and output as paragraphs with heads and
+title of pdf.
+4. Production ready deployment of solution using Docker and CI/CD on AWS.

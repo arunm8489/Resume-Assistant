@@ -1,0 +1,63 @@
+PROFESSIONAL EXPERIENCE
+Poject 3: Brain Tumor Detection
+Employer
+Environment
+Description
+Roles
+Key
+Responsibilit
+les
+>
+>
+learn zone solutions Pvt Ltd
+Segmentation, Object Labeling, Machine Learning, Supervised Learning,
+K-Means, Decision Tree, Random Forest, Linear Regression, Logistic
+Regression, Pattern Mapping, Pattern Matching, SVM, MRI, Clustering,
+Euclidian distance, CNN, SQL, Python , R
+The project aim is to detection of brain tumor in early stages of cancer. This
+application is used by physicists to get better/precise idea about brain tumor
+with 87.69% accuracy. Currently working on increasing the accuracy by
+using Deep Learning techniques on GPUs.
+Data scientist
+Involve in Data pre-processing stage which involves cleaning of
+MRI images by using median filter in MATLAB, R and Python
+Created various data frames from the MRI images using R
+Image segmentation and Object Labeling done by using MATLAB and
+feature matrices extracted in R, Python
+Used data imputation techniques for missing data using R,Python
+Involved in coming up with various visualizations using ggplot package
+Involved in cleaning up various discrepancies in data to make it analysis
+ready using R and Python
+Analyzed and prepared with patterns of classified data, made a model to
+test new data for prediction
+Analyzed and used advanced analytical techniques such as Logistic
+Regression, Decision Tree, Random forests, SVM in comparing the
+accuracies that help in decision making of analyst to detect type of tumor
+exists in patient’s brain
+Project 2: Ecommerce product classification
+Employer
+Environment
+Description
+Roles
+Key
+Responsibilit
+ies
+learn zone solutions Pvt Ltd
+Python, machine learning , Deep Learning, Artificial Neural Networks.
+There are many tasks in the ecommerce industry that require cognitive tasks
+such as categorization of millions of products sold Online.
+The aim is to develop a model to correctly classify the product according to
+its attributes
+This would help optimizing product taxonomy and hence ensure that
+customers can browse through
+Online product catalogs smoothly.
+data scientist
+Website Breadcrumb , Inode Breadcrumb.
+Taking the Product Name and Website Breadcrumb as input, we have to
+predict the Inode Breadcrumb.
+Removing the brand names
+Also some other product features like Brand, Color,
+Description, Image URL are available, some of which can used for
+Classification .
+Initially we had tried classifying using machine learning algorithms like
+SVM, Naive bayes etc ()

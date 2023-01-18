@@ -1,0 +1,20 @@
+Prognosis of Reman factors : Demand Forecasting of value like return quantity for core parts to enhance
+inventory management and meet demand on time.
+— Historical time series data is used. Data preprocessing and feature engineering to ensure
+stationary data.
+— Visualisation plot, ACF Plots and statistical test like ADF test, P-valueTime are used to determine
+stationary data..
+— Univariate Spline regression is used to determine the quantities for next 6 month with accuracy
+reaching upto 97% for some parts.
+Support of PreSales activities, i.e. presentations, customer events, preparation of offers and efforts
+estimation
+AGILE METHODOLOGY
+e Good Knowledge of agile methodology
+e Have done sprint planning, sprint retrospective
+AWARDS/DISTINCTION
+e Rewarded with ‘Best of Best’- Award (Quarter 3,4, 2019) for exceptional performance,
+leadership & powerful solution ATCS.
+e PM Scholarship Recipient
+SKILLS
+Data Analysis, Predictive modelling and analytics, Probability and Statistics, Project Management and
+Delivery

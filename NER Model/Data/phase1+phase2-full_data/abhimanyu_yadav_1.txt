@@ -1,0 +1,35 @@
+2017-01 - 2017-08
+2016-07 - 2017-01
+2015-10 - 2016-07
+2014-03 - 2015-09
+a Education
+2009-07 - 2013-05
+SharePoint Developer
+PC Solutions Pvt. Ltd, New Delhi, Delhi
+e Project Developed
+e Vardhman Textile Portal
+e Role: Development, design list and library, create Custom web part, crate
+workflow to automate the process, create Custom timer job and Event Receiver.
+e Environment: SharePoint 2013, JSOM, jQuery, SSOM, C#
+Software Developer
+Omnie Solutions Pvt. Lid, Noida, UP
+e Project Developed
+e Arysta
+e Role: Develooment, Design List and Library, Migrate Project from SharePoint 2010
+to SharePoint Online using Sharegate.
+e Environment: SharePoint online/Office 365, JSOM, CSOM, OOTB.
+Software Engineer
+TechCompller Data Systems Pvt. Ltd, Noida, UP
+e Project Developed
+e The Grassley Group's Project Management System
+e Role: Create List, Library, and Survey and manage permission using OOTB.
+e Environment: SharePoint 2010, OOTB.
+Software Engineer
+An Cloud Infotech Systems Pvt. Ltd, New Delhi, Delhi
+e Project Developed
+e Egsale.in
+e Role: Develooment, Database Design Environment: Asp.net, MVC, JavaScript,
+jQuery, SQL Server, C#
+Bachelor of Technology: Electronics And Communications
+Engineering
+NIMS University - Jaipur, Rajasthan

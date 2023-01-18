@@ -1,0 +1,41 @@
+PROJECTS
+> Tesco Platinum: This project was related to a new card launch (card upgrade). Using
+the existing features like account open date, credit limit, delinquency, BOT criteria, block
+codes, we built a classifier model to check whether the customer is eligible or not for the
+new upgraded product. Here we used Logistic regression, Naive Bayes, KNN and SVM
+models to train and test the data. Compared the results and implemented SVM model as
+it was more suitable and efficient for the project compared to other models.
+> Falcon I: This was the POC project we had worked on. It is a credit card transaction
+fraud detection system. Here we used random sampling, outlier detection and removal,
+PCA for dimensionality reduction, classification models like Logistic regression, Support
+vector classifier, Random Forest classifier and KNN. Here as we had multiple features
+and since it was a multiclass classification Random Forest performed well compared to
+SVM and other models. SVM was computationally intensive for these kinds of scenarios
+where we use huge data (large number of data points).
+> X Entity: This project was designed to check the probability of a customer who is likely
+to buy a new product across entities. Here we have used PCA for dimensionality
+reduction as the project impacts whole base, SVM model, standardized the data, treated
+outliers with z-score, KNN imputer, etc.
+ACADEMIC PROJECTS
+> Advanced Computer Vision - Object Detection and recognition - The project
+involves 4 sub segments. Part 1 Implement an object detection model for highlighting
+human faces to automate the process of providing information of cast and crew while
+streaming. Part 2 Curate a training dataset to be used for highlighting human faces. Part
+3 Implement a face identification model for a company, which intends to recognize human
+faces form images.
+> CNN Architecture and Transfer Learning - This project involves 5 sub projects
+including a CV powered GUI to solve the problem of a botanical research group. Part 1
+Image classifier capable of determining a plant's species. Part 2 Detailed analysis on how
+CNN is a better image classifier over traditional methods Part 3 Curating an image
+dataset for a brand research company Part 4 Image classifier capable of determining a
+flower’s species Part 5 Submit the strategy to maintain and support the AIML the model in
+production.
+> Sequential NLP — This project 2 sub projects. Part 1 (Sentiment Analysis): Build a
+sequential NLP classifier which can use input text parameters to determine the customer
+sentiments. Part 2 (Sarcasm Detection): Build a sequential NLP classifier which can use
+input text parameters to determine the customer sentiments.
+> Statistical NLP — This project involves 2 sub projects including an interactive semi - rule
+based chatbot. Part 1 The need is to build an NLP classifier which can use input text
+parameters to determine the label/s of the blog. Part 2 A semi rule-based chat bot which
+can accept dynamic text-based questions from the user and reply back with relevant
+answer from the designed corpus.

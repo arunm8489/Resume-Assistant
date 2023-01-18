@@ -1,0 +1,113 @@
+v
++91 7483304437
+\ ABVILG San sialePansi@eaaarlineelan
+9
+Bangalore
+Ta MaAAVAVAAAVA Tal. <ovellame@e) aalalavaaalisialas\\a7
+SUMMARY
+Experienced Machine Learning/NLP Engineer
+with proven success in building successful
+algorithms & predictive models for different
+working domain. Highly adept at regression,
+classification, data analysis & visualization to
+increase business efficiency. Passionate
+engineer & thriving analyst with the ability to
+apply ML techniques & algorithm
+development to solve real-world business
+problems.
+KEY SKILLS
+Data Visualization, Statistics
+Predictive Analysis
+Statistical Modeling
+Mentoring and Training
+Clustering & Classification
+Data Analytics * Data Mining eSQL
+ML/DL Algorithms, Neural Networks
+Problem solving, Text Analytics
+Team Work, Customer Management,
+Presentation, Communication,
+Leadership Skills
+TECHNICAL SKILLS
+Tools: Python, PostgreSQL, MySQL,
+Tableau.
+Packages: Scikit-Learn, Numpy, SciPy,
+Pandas, Pyspark, Matplotlib, Seaborn,
+Statsmodels, Jupyter Notebook, Databricks,
+Tensorflow, Keras
+Statistics/Machine Learning: Statistical
+Analysis, Linear/Logistic Regression,
+Classification, Regularizations, PCA, RFE,
+SVM, KNN, Decision Tree, Ensemble
+techniques, Unsupervised Learning. Deep
+Learning, NLP
+CERTIFICATIONS
+Information Visualization: Applied
+Perception
+Python for Machine Learning and Data
+science master class.
+Tableau 2020 A-Z: Hands-On Tableau
+Training for Data Science
+Statistics for Data Science and Business
+Analysis
+Statistics: Khan Academy
+ACHIEVEMENTS
+Received 3 On spot and best Team Award.
+Received client appreciation and early
+promotion to ITA.
+Subject expert (statistician) at Chegg
+VIKAS KUMAR MISHRA
+Machine Learning Engineer
+ 
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer Jun'16 - Present
+Tata Consultancy Services Bangalore
+Responsibilities and Key Learning
+e Performed preliminary analysis, EDA, Descriptive Stats. on a data volume of 5 Lacs
+odd rows & visualized using Matplotlib and Seaborn
+e Created BI dashboards using Tableau for various KPls and successfully automated
+the same
+e Handled data imbalance, performed feature engineering and feature selection
+to make the data fit for model building
+e Analyzed problem solving capabilities of ML/DL algorithms on business cases
+and rank them based on there performance.
+e Improved model performance though various Hyperparameter Optimization
+techniques.
+ 
+Projects:
+Complaint Categorization
+e Segregated complaints based on respective complaints category
+e Reduced time/effort and human errors were eliminated by automating the
+segregation
+e Developed model using NLP to tokenize the text and algorithm used was Naive
+Bayes
+Determination of strength of surgical cement
+e Instituted model to predict bone cement Polymethyl methacrylate (PMMA)
+strength
+e Prepared data for building regression model
+e Developed and tested regression models and XGboost turns out to be most
+efficient.
+Sentiment Analysis
+e Data Cleaning - Converting unstructured into structured data using Python
+e Preparation and conversion of text data into vector notation though one hot
+encoding and prepared the embedded layer.
+e Used CNN and LSTM for model building as the accuracy obtained was close to
+96%.
+Customer Behavioral analytics for a Bike Showroom for determining window
+shopping customers
+e Identification of key parameters leading to bike purchase
+e Cleaned and pre-processed Data for building classification model.
+e Built and Tested-Logistic Regression, KNN, Naive Bayes, SVM etc.
+e Formulated a machine learning model for determining probability of purchase
+e Analyzed and performed evaluation on Models for best classification Accuracy
+Other Projects
+e Designed Recommendation system for users using K Means clustering for a
+audio streaming company.
+e Constructed classification model to predict the chances of stroke based on the
+given health conditions.
+EDUCATION
+INSTITUTE OF TECHNICAL EDUCATION
+AND RESEARCH
+B.Tech
+Mechanical Engineering
+Apr ‘12 - Apr ‘16
+CGPA: 9.01

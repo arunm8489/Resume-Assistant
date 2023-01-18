@@ -1,0 +1,30 @@
+Manda Srikanth srikanthmanda51@gmail.com
+Data Scientist +91-8885265728
+Career Summary:
+Over 4 years of Experience of which 3 years in Data Mining, Data Manipulation, Predictive Modelling
+with various Machine learning and Deep Learning Algorithms using various libraries and frameworks
+(tensorflow) as a Data scientist and 2 years in Data gathering, Data Quality Management using Hadoop
+Eco system and Spark as a Data Science Analyst.
+Professional Summary: _
+Company : Spectra Info systems.
+Role : Data Scientist. Duration: Sep 2018 - Present
+Responsibilities:
+e Validating and pre-processing the data using EDA and statistical techniques.
+e §6Processing, cleansing, and verifying the integrity of data used for analysis.
+e Identify, analyze, and interpret trends or patterns in complex data sets.
+e Applying various visualization techniques for better understanding of the data.
+e Understanding and analyzing the data pertaining to various domains, build best- fitmodels
+based on data and provided appropriate insights to business.
+e Preparing the presentation and documentation of the project report.
+Projects Description:
+Project 1 : Question Answering Engine for Market search.
+Client : Business-pointers (Investment Advisory)
+Description : Developed a Web application based on NLP to fetch the data related
+to Question on Market risk and investment in English language.
+Tools & Techniques used: Python, Pycharm IDE, BOW, Transformers, LSTM, BERT
+Spacy(NLP), Flask, MongoDB.
+Project 2 : Quantitative Report For Investment Potfolio
+Client : Business-pointers (Investment Advisory)
+Description : Developed a Web application based on Machine Learning to assess
+company’s financial year data and suggest best company to invest.
+Tools & Techniques used : Python, Pycharm IDE, Random Forest, Flask, SQL.

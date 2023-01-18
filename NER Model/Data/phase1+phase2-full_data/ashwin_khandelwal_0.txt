@@ -1,0 +1,52 @@
+Ashwin Khandelwal
+Email id — khandelwal.ashwin5@gmail.com
+Phone no - 8669130756
+https://www.linkedin.com/in/ashwin-khandelwal-46a002135/
+OBJECTIVE
+I seek challenging environment to work in, that invigorates continuous learning and creativity providing exposure to
+new ideas and instigates personal and professional growth.
+EDUCATION
+Institute Board/University
+B.Tech | Narsee Monjee Institute of SVKM’S NMIMS April,2019 2.88/4.00
+Management Studies - MPSTME
+Mangalam Dav Public School - Kota | CBSE 2015 73.60%
+Mangalam Dav Public School - Kota’ | CBSE 2013 95% or 10 CGPA
+EXPERIENCE
+Sentiment analysis
+Hershey's e Guest reviews impacts the business, influence people’s
+Entertainment and booking decision and help in developing marketing
+Resort strategies. Developed ML model to extract emotions from
+Infogain reviews which can help them to improve the customer
+(July 2019 - Present) experience and ratings by analyzing the negative feedbacks.
+Sales Forecasting
+Bluestar Projects e Forecasting sales of bluestar air conditioners for
+determining incremental impacts of new initiatives and plan
+resources 1n response to expected demand.
+Sentiment analysis
+e Used ML algorithm for product planning of air conditioners
+to comprehensively meet market needs.
+e Used sentiments for the implementation of prompt measures
+against risks such as social media flaming and recall.
+ 
+ 
+TECHNICAL SKILLS
+Machine Learning Matlab, Python (Framework- Keras, Packages-Pandas, Numpy, Scipy, Pytorch,
+Scikit-learn) Tensorflow
+Computer Languages Python, Java Core, Java Advance, SQL, Hibernate, Spring, Spring MVC,
+Compater Languages JQuery , JUnit , Microservices, Maven, Tomcat
+Applications Microsoft office , Matlab,le3d,PSpice,Keil Embedded Development, Orcad,
+Netsim , Xilinx, Power BI, Qlickview, Oracle, MSSQL DWG Editor
+Web designing REST Web services ,Java Server Pages, Servlets , HTML , XML, JSF
+ACADEMIC PROJECTS IN MACHINE LEARNING
+Project Title Brief Description
+Sentiment Analysis Implementation of sentiment analysis model using Support Vector Machine, Naive
+Bayes and Linear regression with nltk for preprocessing in order to understand the
+ 
+ 
+ 
+ 
+social sentiment of product or brand.
+Street Score Street Score is a machine learning algorithm that predicts how safe the image of a
+street looks to a human observer. Used background subtraction for the
+implementation.
+ 

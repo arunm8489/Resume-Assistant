@@ -1,0 +1,73 @@
+Pallavi Bhalerao
+Data Scientist
+Proactive Professional with 2 years of industrial experience in delivering valuable insights using data
+analytics and advanced data driven methods for business decisions.
+ 
+><]
+pallavibhalerao25@gmail.com
+U
+8999768682, 9156425016
+9
+Banglore
+He
+25 September, 1995
+in
+linkedin.com/in/pallavi-bhalerao-
+08b86b147
+TECHNICAL
+SKILLS
+Python MySQL
+0}318¢] K=hs1@)
+Machine Learning
+Data Analysis
+Text Mining
+Statistical Modeling
+Predictive Modeling
+Deep Learning
+PASSIONS
+Listening Music
+Playing Batminton
+Car Driving
+Travelling
+EDUCATION
+M.Tech CSE with specialization in Big Data Analytics
+Vellore Institute of technology, Chennai
+B.tech Computer Science And Technology
+Shivaji University, Kolhapur
+PROFESSIONAL EXPERIENCE
+Data Science Developer
+Antrigulum Labs
+04/2019 — Present
+Achievements/Tasks
+O Analyzed and processed complex data sets using advanced querying, visualization and analytics
+tools.
+O Enhancing data collection procedures to include information that is relevant For building
+analytic system using web scraping and API based data collection.
+O Applied statistical and predictive modeling to generate actionable insights from exceedingly
+large datasets.
+© Developed procedures for data validation and reporting data errors and anomalies.
+© Involved in product development for various business needs such as Shipping Operations Data
+Analytics, Retail, Manufacturing and Financial Services.
+Data Science Intern
+Antrigulum Labs
+06/2018 - 04/2019
+Achievements/Tasks
+O Analyzed datasets and helped to make decisions based on Findings.
+© Used NLP and machine learning techniques to create scalable solutions for business problems.
+O Managed Data quality & integrity using skills in Data Warehousing, Databases and ETL.
+Oo Executed Exploratory data analysis for data profiling.
+O Strong analytical and problem solving skills with a solid understanding of business.
+O Ability to work both independently and collaboratively within a team.
+PROJECTS
+Shipping Operations Data Analytics (12/2019 - 04/2020)
+Predicting the ships Fuel consumption based on speed and suggesting the optimal speed to be maintained
+For efficient Fuel consumption and visualizing the shipping dataset.
+Retail Data Mart And Analytics (07/2019 - 11/2019)
+Predicting the quantity of the product that shall be sold for next one month in the conventional retail
+store and visualizing the dataset.
+Text mining for named entity recognition and building ontology (11/2018 - 05/ 2019)
+O Performing the POS Tagging on the text content of documents using the spacy dictionary to identify the
+entity and anlyze the similarity between the documents and then building the ontology.
+Segmentation and opinion mining on sentence level (09/2017 - 04/2018)
+O The model segments the tweets to find the opinion using beam approach with spacy dictionary. Then
+calculating the score using BLEU technique for each segment to identify polarity .

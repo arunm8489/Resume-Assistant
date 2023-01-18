@@ -1,0 +1,24 @@
+M.Tech Project: Process Parameter Selection for Ultra-Precision Machining Processes with Deep Learning
+Guide: Prof. Rakesh Mote, IIT Bombay | July’20-July’211 |
+Tools Used: Python, Excel
+e Applyed Computer Graphics concepts such as synthesis of planer and space curves, modelling of freeform
+surfaces for data generation.
+e Implemented Neural Network Configurations for the recognition of geometric features and process parameter
+prediction.
+KEY COURSES
+e Engineering Data Mining and Applications e Database Management system
+e Deep learning- Theory and Practice, e Data, Al and Policy (Natural language Processing)
+e Anomaly Detection in Time Series Data with Keras
+POSITION OF RESPONSIBILITIES
+Teaching Assistant for ME 119: Engineering Graphics & Drawing |Prof. Sandip K. Saha |Jan’20 — May’20|
+e Mentored 120+ undergraduate students to help build their skills in Engineering Drawing by guiding them
+in using software like AutoCAD and SolidWorks.
+Mood Indigo (MI) Media and Publicity Organizer, IIT Bombay | Nov’19-Dec’19 |
+e Data-based and contacted 50+ Instagram, YouTube influencer, helped in organizing influencer meet.
+Interview Coordinator, Placement cell, IIT Bombay | Nov’19-Dec’19 |
+e Coordinated with a team of 250+ members for interviews of 1600+ students.
+e Assisted in conducting Pre-placement talks and test 15+ firm.
+EXTRA CURRICULAR ACTIVITES
+e Participated in 12 km Cyclothon with the quote “Brake Pollution to Break Pollution “, IIT Bombay. | Oct’19 |
+e Career Counselling Campaign & climate change | Organised by Abhyuday, IIT Bombay | Nov’19|
+e Successfully completed 10 km race distance in the Daily World Marathon 2018. | Apr’18 |

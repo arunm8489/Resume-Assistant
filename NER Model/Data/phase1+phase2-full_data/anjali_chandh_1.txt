@@ -1,0 +1,20 @@
+ZYCUS / FEB 2019 - DEC 2020 / SOFTWARE TEST ENGINEER
+e Deployed ZKH (Multi-Nomial Naive-Bayes) model which tags almost 70% Accurate categories for Vendor transactions.
+e Developed a Java Application to pull data from MongoDB collection to Excel file
+e Developed an application to transfer millions of records from multiple DBs to a single DB table which reduced users efforts by
+almost 30%
+e Checking the data integrity and consistency after performing required transactions and operations from end to end.
+e Collaborate with Functional Team to evaluate or analyze problems and recommend possible solutions.
+MAJESCO / NOV 2016 - FEB 2019 / SOFTWARE TEST ENGINEER
+e Analyzed possible anomalies in General Ledger accounts of insurance transactions and reported them.
+e Worked closely with data to analyze the flaws in database entries made after performing end-to-end transactions.
+e Worked closely with payment data and identified issues in fees and premium transactions.
+e Provide feedback and recommendations to developers on software usability and functionality.
+EDUCATION uu... .ccccccececcecsecueneceueecusceeueeucuecesaueusaueuseucusesueaueusaueuseueuseusueeuaueceeausueausuenscusaesueausueaesuseeeuseusueneaueceeaesess
+EXECUTIVE POST GRADUATION PROGRAM / APR 2019 - MAR 2021 GPA
+Aegis School Of Business , Data Science & Telecommunication | 3.2 / 4.0
+GRADUATION (BACHELOR OF ENGINEERING - IT) / SEP 2012 - MAY 2016
+Shree L R Tiwari College of Engineering | 7.32 / 10.0
+AWARDS. 1... ee cece eee eee eee ee eee eee ee eee eee eee eee eee eee eee eee eee eee eee
+e Awarded twice for on-time and quality delivery (2 spot awards) in Zycus
+e Awarded thrice for outstanding performance in consecutive releases (2 Spot Awards and 1 Stellar Award) in Majesco

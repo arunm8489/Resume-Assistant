@@ -1,0 +1,34 @@
+Ashish Upadhyay
+M.P., India (474006)
+Contact No.: +91-9131811694
+Email: ashishupadhyay268@gmail.com
+Github: https://github.com/ashish-pandit
+PROFESSIONAL SUMMARY
+Data Scientist with 3.2+ years of experience in developing Machine Learning and Deep Learning models like ANN, CNN,
+Logistic Regression, Naive Bayes, SVM, Decision Trees, Random Forest, XGBoost, Dimensionality Reduction algorithms
+using Tensorflow and Sklearn.
+Extensive experience in doing Data Analysis, Data Cleaning, Exploratory Data Analysis, Feature Engineering, Feature
+Transformation, Feature Selection as well as developing and deploying solutions via Rest Web services.
+Experience working with unstructured data like text to perform task like sentiment analysis, named entity recognition,
+classification etc.
+Advance engineering skills in designing, developing, productionizing and maintaining Al solutions using best practices like
+DataOps, MLOps, and tools like docker.
+Hands on exposure with SQL for efficient data retrieval and transformation and Python for building scalable application
+and deploying solutions in production.
+KEY SKILLS
+ 
+Statistics Descriptive Statistics, Inferential Statistics, Predictive Statistics
+PROFESSIONAL EXPERIENCE
+“Data Scientist”at Swap infotech pvt. Ltd, August 2018 to Present
+Development of end-to-end machine learning prototypes with aim to use the models in real time.
+Support and extend existing predictive models for marketing forecast, employee retention, churn prediction etc.
+Apply agile approaches for proof-of-concept requirements. Using iterative methods to help drive and refine information
+requirements, mockups, and prototyping.
+Identification of areas and domains to apply data science skills using Python, SQL, Predictive modelling, Machine Learning, Deep
+Learning and NLP.
+Strong skills in data manipulation, cleaning and exploratory analysis. Able to make logical conclusions about complex data that
+help properly format it for statistical analysis.
+Financial risk prediction using Random Forest with ROC of 0.93.
+Insurance quote acceptance using Decision Trees with accuracy of 95%.
+Visualization of complex data and analytical result using data visualization.
+Mentoring junior associates and ensuring best practices to be followed.

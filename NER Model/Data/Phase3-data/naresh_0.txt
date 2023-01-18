@@ -1,0 +1,36 @@
+(+91 - 7829457966
+x Maa leivalelaalel telarelaacial yd aarelimeelan
+N d res a MI Che a U aa U la © https://github.com/muthumula1999/ML.git
+in| NAVAN Tal.<cxellameelaavalavAatclaccialaaleiaalelaalelte
+ 
+SUMMARY
+An result oriented professional with nearly 1 year of experience in data analytics design and development,
+seeking a quality environment that will serve as a platform to learn and enhance my skills where on my
+knowledge and experience can be shared and enriched.
+Technical Skills:
+Programming Languages:
+e Python
+e MySQL
+e TensorFlow
+e OpenCVv
+Knowledge in Technology:
+e Data Analysis with Pandas, NumPy
+e SQL Queries Joins, Nested Queries
+e Data Visualization with Seaborn, Matplotlib
+e Statistics with Hypothesis test, KS-test, Confidence Interval
+e Machine Learning with Python (Linear Regression, Logistic Regression,
+K Means Clustering, PCA, Decision Tree, Random Forest, Bayesian)
+e Ensemble methods Bagging, Boosting and Stacking
+e Deep Learning with TensorFlow and Keras (Neural Networks, CNN, LSTM,
+Transfer Learning, GAN’s, Transformers, BERT)
+e Depth Knowledge in Probability and Statistics
+e Cloud Technology AWS
+e Image pre-processing with OpenCV
+e Neural Network Architecture Design with TensorFlow and Keras
+e Image Classification using Convolution Neural Network
+e Alex Net, VGGNet, Residual Network
+e Image Segmentation using UNet and CANet
+e Application Programming Interface with Flask
+e Docker container
+e MongoDB Queries
+@ Web Scrapping (Beautiful Soup)

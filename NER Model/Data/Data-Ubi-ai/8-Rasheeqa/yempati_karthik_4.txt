@@ -1,0 +1,24 @@
+Project3):
+Project details : Real Time Photos, Cartoons, Logo’s, Maps Extraction From
+Documents
+Roles and Responsibilities |: Responsible for collecting document data (images) from different
+sources through the internet and outside world.
+Conversion of pdf files into images as part of preprocessing.
+Done data annotation using open source Labellmg tool.
+Built model to extract photographs, cartoons, logo’s, maps from documents using YOLOv4
+architecture.
+Project4):
+Project details : Cricket Analytics using Computer Vision
+Roles and Responsibilities |: Responsible for data collection, data cleaning, data preprocessing
+and data labelling.
+Built model using SOTA (state-of-the-art) model yolov4-tiny for Object Detection, pose
+estimation for batsman cricket shot angle calculations.
+Education
+B.Tech (Electronics Marri Laxman
+and Communication JINTU Reddy Institute of
+Engineering) Hyderabad Technology 2018 66.08
+and Management
+Certifications
+ 
+co
+CLICK HERE : Google’s Tensorflow Developer Professional Certificate

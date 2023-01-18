@@ -1,0 +1,75 @@
+LINKS
+LinkedIn: palak-jain c?
+Github: Palak-J9760 77
+EDUCATION
+IIT KHARAGPUR
+M. TECH, 2015 - 2017
+in Multimedia Information
+Processing (CET)
+CGPA: 8.72
+GEU DEHRADUN
+B. TECH, 2011 - 2015
+in Electrical and Instrumentation
+Engineering (EIE)
+CGPA: 9.10
+SKILLS
+PROGRAMMING
+¢ Python « Pytorch « TensorFlow «+
+OpenCV « Keras
+ML TOOLKIT/LIBRARIES
+« NLTK + Hyperopt « TextBlob +
+NumPy « Pandas « Scikit-Learn «
+Matplotlib
+PROFICIENCY AREAS
+¢ NLP « Sequence Modelling » Deep
+Learning « Machine Learning +
+Computer Vision
+PERSONAL PROJECTS
+- Analysing sentiments of Google
+News articles
+Designed a complete pipeline for
+automatic scraping, visualization,
+Sentiment Analysis &
+summarization.
+~a.ak Jain
+palak.g760@gmail.com | +91 8967127002
+EXPERIENCE
+TCS Research | RESEARCHER
+JULY 2017 - PRESENT | GURUGRAM, HARYANA
+¢ Implemented BERT-backend model (TAPAS) to verify complex natural
+language facts from semi-structured tables. Building knowledge graphs to
+incorporate table relations for improved representation learning and
+complex reasoning.
+« Designed a domain-agnostic automatic system to extract tabular
+information for Question-Answering from PDFs. Improved performance
+by 25% against open-source tools (Camelot & Tabula).
+¢ Designed a two-level deep neural network model to forecast sales across
+72 categories (6M SKUs).
+PUBLICATIONS
+¢« Mining company sustainability reports to aid financial
+decision-making 7 AAAI-KDF 2020 | NEw York, USA
+¢ Extracting Tabular data for Question-Answering from Documents
+% COoDS-COMAD 2021
+¢ Submitted two papers for review in AAAI and WSDM 2021.
+PROJECTS
+¢ Non-linear, competitive, dynamic price optimization system
+Designed a system that recommends optimal price for millions of
+products for online retailers to maximize overall yield. It uses factors like
+competitor price, seasonality, external events etc. The system increased
+overall margin of the client by 4% (approx. 3M USD).
+« Scalable Content Based Image Retrieval (Scalable CBIR)
+IIT KHARAGPUR | M. TECH THESIS
+Designed a system that efficiently searches large database and retrieves
+best matched images for a query image.
+ACHIEVEMENTS
+« Session Chair in two conferences (2020)
+SoCTA (Track — Computer Vision & Natural Language Processing)
+CAMSE (Track - Application of Machine & Deep learning for quality
+assurance)
+¢ Delivered Expert talk at NIT Jalandhar in e-short-term course tilted
+‘Data Analytics Tools and Techniques’ on NLP.
+« Gate Achiever Award For securing AIR 183 in GATE 2015.
+¢ Gold Medalist of EIE department (2011-2015 batch).
+PATENT
+¢ System and method for dynamic pricing with two level deep learning
+architecture for sales prediction (in process).

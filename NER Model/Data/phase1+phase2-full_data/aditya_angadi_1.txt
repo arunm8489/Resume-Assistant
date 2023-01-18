@@ -1,0 +1,30 @@
+e DEEP LEARNING PROJECTS
+1.Pneumonia Detection
+We use the concept of transfer learning ( training on a huge set , but implementing it on a
+relatively smaller data ) , and a pre trained VGG 16 architecture . We work with huge data set
+of Images classified along with their corresponding labels into of being pneumonic or not.
+After the pre processing , building model and compiling , the model can differentiate the
+pneumonic from non pneumonic when fed with new image . Our data comes from Kaggle and
+we make use of Keras , Tensorflow .
+e 2. Driver Drowsiness Detection
+The aim of this project is to detect the drowsiness of the driver while driving . We use OpenCV
+and Dlib , which is a tool kit for facial detection with its 68 defined landmarks . We use the six
+land marks around the eyes . We calculate the Euclidean distance between the points located
+vertically and horizontally around the eyes and check the ratio . If the ratio is below the
+required threshold over a certain time period , we conclude the driver is sleepy else the driver
+might be drowsy or alert . We input the live data through camera and get the required output
+whether drowsy or not.
+e 3. Mask Detection
+A critical component to fight with covid is the usage of simple mask . The task at hand is a
+simple binary classification whether a person wears mask or not. We feed the input data
+through live camera and as the output the model recognises if we have mask or not. We
+gather the Dataset with 1000's of images and the associated labels with and without masks .
+We used Keras , Tensorflow , Mobilenet and OpenCV to build a model . We pre process the
+data , train the model with appropriate fine tuning of the parameters till we achieve better
+accuracy .
+Languages
+e English, Telugu , Hindi
+Achievements & Awards
+e * Wrote UPSC Civil Services Mains Twice ( selection rate of 0.008 %) . *Recognition as an Employee with
+best communication skills in Mahindra Satyam . * Cleared NTSE Exam. * State ranks in other competitive
+exams by Govt of Telangana . * Volunteer in the areas of Health and RTI (Right to Information ) .

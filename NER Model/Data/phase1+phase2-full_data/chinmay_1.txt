@@ -1,0 +1,36 @@
+4) Introduced additional capabilities such as Email Trigger Functionality of Test
+Reports ,Auto-Retry for failed Test Cases, Adding Timestamp to data and
+generating unique random types of data like Phone Number , Names etc for
+Iterative Testing of Test suites.
+5) Working closely with Clients for understanding the various applications and
+functionalities.
+Education
+Bachelor’s Degree in Electronics and Telecommunication, Vishwakarma Institute of
+Information Technology , Pune
+2012-2017
+Diploma in Advance Computing , Centre of Development in Advance Computing ,
+Mumbai
+Feb 2018 - Aug 2018
+Courses
+Machine And Deep Learning Course, AppliedAiCourse.com
+Apr 2020 - Apr2021
+Secondary Skills
+Web Technologies : HTML,CSS, Bootstrap,Javascript.
+Languages : C/C++, Java, C#
+Testing Tools : Ranorex Studio, Selenium Visual Studio Code.
+Database : MySQL
+Projects
+Machine Learning and Deep Learning Projects
+1. Preprocessing , Exploratory Data Analysis, Hyper-parameter Tuning various ML
+Algorithms like Logistic Regression,Naive Bayes,GBDT on Donor Choose Dataset.
+2. NLP over Amazon Food Reviews dataset using various vectorizers (BOW, TFIDF,
+weighted W2V) for prediction of positive and negative reviews.
+3. Deep Learning with Transfer Learning, Callbacks and Image augmentation for
+CIFAR-10 using DenseNet network.
+4. Predicting Backorder of Products using 8 weeks data which includes
+sales,forecast,performance features,inventory related and categorical features.
+5. Using CountVectorizer techniques for Feature Extraction and hyperparameter
+tuning in Microsoft Malware Detection case study which deals with identifying
+whether a given piece of file/software is a malware.
+6. Predict the rating for giver UserlD,MovielD pair using Recommendation
+Systems and Truncated SVD SGD algorithm.

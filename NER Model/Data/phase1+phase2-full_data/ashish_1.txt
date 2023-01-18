@@ -1,0 +1,47 @@
+SAP Hybris Commerce Developer, NexGen, May 2018 - till now
+Responsibilities:
+e Worked closely with functional analyst and gathered client requirements to
+design and develop the application.
+e Involved in importing IMPEX files through Service Layer.
+e Executed Data import/Export using Hybris Impex Scripts.
+e Performed Customization of Hybris Data Modelling as per project requirement.
+e Creation & use of item specific Interceptors.
+e Created custom content and component.
+e Involved in writing and scheduling the CronJobs.
+e Implemented the Cron jobs using Hybris to pass over the orders, received
+from the web, to the ERP Intuitive systems. For the order fulfilment process.
+e Involved in development of Shopping Cart functionalities.
+e Involved in writing the Flexible Search.
+e Involved in writing the controller classes.
+e Involved in writing the items.xml files.
+e Involved in using flexible search service and Model Service.
+e Experience on HOT folder Implementation.
+e Experience on SOLR Facets, search and indexing.
+e Experience on Smartedit and Product cockpit workflows customization.
+e Application has been developed using Hybris Multichannel Suite with Spring
+MVC.
+e Actively involved in developing JSP Pages.
+e Involved in development of jasper reports using iReport with Virtual JDBC
+Extension.
+e Involved in development of Extension for particular functionality.
+e Instituted Agile, Scrum methodology to ensure delivery of high quality work
+with bi-weekly iteration.
+Environment: Hybris, Java, J2EE, Spring, JSP, JavaScript, HTML, CSS, AJAX,
+JQuery and Tomcat
+Java Developer, NexGen, March 2016 - April 2018
+Responsibilities:
+Developed technical platform for global client-to-vendor connectivity.
+Uphold quality control and data validity for Java programs.
+Resolve application and connectivity problems in Java programs.
+Maintained and debugged applications.
+e Unit tested and documented website applications and code.
+e Built a complex Enterprise Java ecosystem in collaboration with development
+team.
+e Upheld program quality and delivery standards in developing software
+solutions.
+PROJECTS
+Boohoo (UK), 2018 (B2C)
+PrettyLittelThing (UK), 2020 (B2C)
+EDUCATION:
+Bachelor of Computer Engineering, Savitribai Phule Pune University, India, 2010-
+2015.

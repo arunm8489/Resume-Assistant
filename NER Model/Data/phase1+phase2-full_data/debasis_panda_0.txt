@@ -1,0 +1,72 @@
+Debasis Panda
+Accomplished Senior Software Developer with 3+ years' experience leading projects by acting as a collaborator and mentor. A passionate
+team player who likes to resolve problems in a innovative way.
+Mx debasispanda999@gmail.com
+Q Bhubaneswar, India
+©) github.com/teddcp2
+WORK EXPERIENCE
+Senior Software Engineer
+Wipro Technology
+05/2018 - Present
+Tasks
+© Supported in the development and deployment of a web
+application to AWS for processing resumes end to end which in
+turn reduced the processing time up to 40-50%.
+© Participated in developing another web application which will
+parse the grievance form with in 1 minute andcollect the
+Factual events that would have caused it.
+® Developed a predictive solution which classifies a complaint
+Formas product complaint or an adverse event , with a 88%
+correctness.
+® Conceptualized and implemented a predictive model to detect
+the presence of barcodes from the images which lessened the
+processing time up to 1.5 hour For an analyst
+© Devised a named-entity recognition model to label the entity
+From the given sentences with a 92% accuracy.
+e Pioneered development of a multi-class classification model to
+evaluate the seriousness pattern from the patient's complaints
+which will signify the level of impact.
+® Curated an intelligent dashboard(BI report) that provides
+different insights based on the data collected From different
+sources within 4 months.
+® Developed a conversational skill based on Alexa to guide the
+lab analysts on hazardous spills.
+EDUCATION
+B.TECH , CSE
+Silicon Institute of Technology
+07/2014 - 04/2018 8.7 CGPA
+Achievements
+® Major project on SMOTE
+analysis got published on
+our college journal
+e Awarded for securing 3rd
+rank of my 2nd year
+7978019717
+Ua <qxel nee) aaVAlayAucxeleres)
+stackoverflow.com/story/tedd
+ 
+SKILLS
+PERSONAL PROJECTS
+Todo App on Heroku (01/2021 - 02/2021)
+© Designed a todo CRUD app to test the Functionalities and deployed to
+Heroku
+Real-time Task List App (09/2019 - 10/2019)
+© A real time app where you can add list of different tasks which will
+reflect instantly across all the user sessions.
+Dummy YouTube app (07/2019 - 08/2019)
+@ A fictional YouTube video site on which a video will be played with the
+options on a given search
+ACHIEVEMENTS
+Creativity and Innovation
+For innovative ideas and expert thinking toward application design
+Best Performer award
+For taking the ownership and enhancing the modules consistently on
+quarter 2, 2079.
+Extraordinary Commitment
+For developing the customer web application end to end
+LANGUAGES
+English Odia
+Full Professional Proficiency Full Professional Proficiency
+INTERESTS
+Cooking Travelling watching animes
+surfing on Stack Overflow

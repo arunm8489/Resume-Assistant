@@ -1,0 +1,81 @@
+DISHA SHAH
+M.TECH | DATA SCIENTIST
+ 
+CONTACT
+ 
+Phone: +91-9920685009
+Date of Birth : 1Oth May 1991
+Email: shahdishal991@gmail.com
+Linkedin:
+https:/Awww.linkedin.com/in/
+disha-shah-59508249/
+SKILLS
+ 
+e Python
+e Power Bl
+e Machine Learning
+e Time Series Analysis
+e Data Mining
+e Deep Learning
+e Artificial Intelligence
+e R programming
+e SQL server
+e Mongo DB
+e Docker
+e Team Management
+e Tableau
+e WEKA
+e IBM SPSS Statistical Software
+WORK EXPERIENCE(6.3 YEARS)
+Data Science Specialist
+Hindustan Unilever Pvt. Ltd. (Mumbai)
+NOV 2020 - PRESENT
+1. Price Tier Evolution Forecasting:
+Developed scalable predictive modelling technique to define the relevant drivers
+followed by an econometric regression analysis at aggregate market level.
+For all the four price tiers (Value, Mainstream, Premium, and Super-premium), share of
+volume has been modelled by using Multi-level modelling techniques.
+Developed LSTM (Long Short Term Memory) and GAM(Generalized Additive Model) for
+the following business:
+1.Brand positioning & Volume expectations
+2.Changes in each price tiers based on changes in macro-economic & shopper variables
+3.Focus on which price tier due to its likelihood of growth
+Outcome of the forecasting are sales forecast trend and Drivers’ uplifts.
+2. Time Series Forecasting:
+Business Winning scalable approach to project monthly share change.
+Developed time series SARIMAX model for monthly seasonality and annual
+downward/upward movement.
+Validated actual vs. predicted UL LI2W and MAT share change direction.
+Developed time series forecasting for 483 cells (country + category).
+3. Marketing Mix Modelling (MMM):
+Modelling approach that quantifies the impact of marketing drivers on sales and enables
+investment optimization.
+Developed Multiple linear regression algorithm to identify the most effective channel
+(Price, Promotion, Distribution and Media) to achieve maximum returns (ROI).
+Dynamic mix optimization strategic is used to differentiate between base and
+incremental sales.
+Brand Power represents the ease with which a product or brand comes to mind for a
+consumer which in turn gives us a prediction of the brands volume share.
+The results from MMM enable fact-based decision-making, which leads to more effective
+spend, driving greater growth.
+Analytical Advisory Analyst
+Accenture Solutions Pvt. Ltd. (Mumbai)
+JAN 2019 - NOV 2020
+1.Telecom Industry
+e Implemented Customer Sentimental Analysis for Telecom Products using Python
+Jupyter Notebook and visualization is done using Power BI tool.
+e Performed data gathering, data pre-processing, feature engineering and modeling
+for analyzing the customer sentiments.
+e Managed and guided the team members to meet the timelines.
+e Identified the revenue leakages for combined billed products by using Lavastorm
+tool.
+2. Retail Analytics
+e Implemented Parallel Processing of data in R by using "Parallel" Package to
+decrease processing time of millions of data and to increase the model efficiency.
+Code is parallelized by Socket approach i.e. PSOCK
+e Implemented forecasting models like Trend Decomposition, UCM, XGBoost and
+Prophet and compared the performances to predict the inventory of each store
+using pre-season and In-season planning.
+Forecasted time series data based on an additive model where non-linear trends
+are fitted with yearly, weekly, and daily seasonality, plus holiday effects or large
+events that impacts business time series.

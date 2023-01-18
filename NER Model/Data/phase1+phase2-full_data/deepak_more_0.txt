@@ -1,0 +1,31 @@
+Deepak More
+Email deepak.m161091@gmail.com
+Phone +91-8553820886
+Work Experience: 5 Years
+Proficiency: Python, VBA, RPA, CV
+1. Executive
+Tata Communication Transformation Services Ltd. (TCTSL)— Pune, India
+July 2016 — Present (5 Year)
+Building Machine Learning models on Computer Vision for Object detection and Segmentation.
+Worked on Robotic Process Automation, web tools, web scrapping and automated report generation
+using Python, Selenium, HTML, VBA and Advance Excel macros.
+Project: Rider with Helmet Detection
+Key roles and Responsibilities
+e Data collected from client security desk.
+e Annotated the images for Rider with Helmet using Labellmg tool.
+e Implemented YOLO v3 to detect the rider with helmet in the image.
+e Trained the model with 416x416 image size and achieved 32 mAP and 0.10 sec inference
+time.
+e Created the Flask app using fastapi, containerized with Docker and Deployed the model in
+Server.
+Project: Sentiment Analysis on Employee feedback
+Key roles and Responsibilities
+e Data collected from the database.
+e Pre-processing and Cleaning the data.
+e Used TF-IDF vectorization.
+e Applied logistic regression to predict the sentiment of the feedback.
+Project: POC on Intrusion Detection
+Key roles and Responsibilities
+e Data collected from the client.
+e Annotated the images for intruder and non-intruder based on the safety gears.
+e When intruder moves close to equipment an alarm will be raised.

@@ -1,0 +1,35 @@
+  
+     
+    
+   
+Wafer Sensor Detection
+Technologies Scikit-Learn, Flask, Data Analysis, Python, ML
+algorithms (classification)
+MySQL
+Role | Machine Learning Engineer
+TemSve
+e Developed a high-quality ML Framework that
+Responsibilities supports all Scikit-learn, classification models and
+integrated and resolving issues.
+   
+With internal application to perform the training
+and to get the Predictions in AWS. It helps in
+identifying the Working and Non-Working
+Sensors.
+Performed Exploratory Data Analysis (EDA),
+Class Imbalance and Dimensionality reduction
+while developing Machine Learning algorithms.
+e Performed ML model deployment in AWS.
+Description: - Wafer Sensor Detection is a project to build a classification methodology to
+predict the quality of wafer sensors based on the given training data.
+It is a major application which helps in detecting and managing the huge number of
+sensors. Our team has automated Sensor detection through the ML framework.
+Megatron
+Responsibilities e Making Megatron answer the questions
+asked on the dashboards.
+e Co-ordination with users,
+workflow, integrating individual modules.
+Description: - Megatron is a Chat-bot for the dashboards, which enables user to navigate
+through the page showing different results for the user inputs, also shows the key insights to
+the user to make effective decision in a faster manner.
+ 

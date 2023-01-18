@@ -1,0 +1,67 @@
+XJ
+mauryaratnakar@gmail.com
+Ratnakar Maurya Pe
+U
+Data Scientist 2+ Mumbai, India Q
+linkedin.com/in/ratnakar-maurya-a12203191
+ 
+github.com/Ratnakarmaurya €)
+"Hello world" I'm a Data Scientist with 2+ years of experience, seeking a Machine learning Engineer Position. who seeks challenges that
+make him go through multiple learning curves.
+__WORKEXPERIENCE =———————————S_—CTECHNICAL SKILLS
+Data Scientist Data Science
+Capdeal Pvt ltd Python, Pandas, Numpy, Data Warehousing, Data Analysis,
+Exploratory Data Analysis, Data Visualization, Statistical,
+11/2020 - Present Predictive & Regression Analysis
+Capdeal is a Prop tech Company which provides a OneStop Service for
+Purchasing Underconstructed Properties
+Achievements/Tasks
+— Responsible to Enrich Data, and take managerial
+decisions to gather Data From different sources.
+Machine Learning | Deep Learning
+Scikit Learn, Natural Language Programming (NLP), Apache
+Spark, Tensorflow, PyTorch, ANN, CNN, RNN, Unsupervised,
+Supervised, Ensemble learning.
+- Ranking System Classification
+- Predicting Price trend in Cities Algorithms , wy: 1s
+Logistic, SVM, Linear/Multilinear, Decision Tree, Random
+~ Successfully Implemented 100+ Featured Engineered Forest, KNN, N-Bayes, PCA, Clustering, Gradient Boosting
+Data to analyze human psychology behind buying any
+property and helped implement in CRM Software Sell.do Web Development
+- Built Explore Neighborhood and Nearby Feature using Django, Rest-API, Postgres SQL, Sass ,Css, Html, Javascript
+Geospatial API.
+Data Scientist SOFT SKILLS
+StepSetGo - Pepkit Media
+02/2020 - 07/2020
+Step Set Go is an Application that incentivizes your daily steps to Virtual
+Critical Thinking Communication Proactive
+coins which can be later used to redeem goods and offers. Leadership Business Development Learner
+Achievements/Tasks
+- Predicted user’s home location and Commuted locations
+using steps. EDUCATION
+— Analyzed sentiments of reviews on Play-Store and gave
+an insight into how and why users give negative reviews °
+and how to convert them to Positive which helped us IBM Data Science Program
+climb From 3.6 stars to 4.5 stars. Cousera IBM Program
+- Found out top 10 issues of the app that users were 01/2019 - 10/2019
+Facing For years by analyzing Customer -Support data
+using NLP, which reduced support tickets escalation by B.E Electonics
+30 percent. Mumbai University
+— Responsible to detect and ban cheaters on the platform. 05/2013 - 05/2017
+Data Scientist Intern
+Try Catch PERSONAL PROJECTS
+02/2019 - 11/2019
+Achievements/Tasks
+—- Responsible to built a recommendation system.
+Audio to Transcript (02/2019 - 04/2019)
+Business Recommendation System
+~ Predicted and reduced churn of students based on (08/2019 - 10/2019)
+pattern of their attendance, installments.
+- Feature Engineered top 5 projects of the company Breast Cancer Detection (02/2020 - 02/2020)
+. . Hacker Classifier (12/2019 - 12/2019)
+Data Scientist (Freelance)
+MedExpress Fashion Ecommerce Analysis (12/2019 - 01/2020)
+04/2020 - 07/2021 Sales-Report System (07/2021 - Present)
+Achievements/Tasks
+— Responsible to built a model that predicts Ailment by
+using doctor's prescription and lab reports.

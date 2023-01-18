@@ -1,0 +1,33 @@
+PROJECTS HANDLED
+Project #1
+Project Title —: Credit Risk Analysis
+Domain Type_: Finance
+Work Description: Drive efficiency in lending origination software, syndication in forecasting loan
+approvals
+Responsibilities:
+e Evaluating and preprocessing clients’ credit data and financial statements 1n order to determine the
+degree of risk involved in lending money to them.
+e Analyzing client records and using the data create recommendation system for payment plans.
+e Evaluating the financial status of clients by producing financial ratios using machine learning.
+Project #2
+Project Title : Medi Assist Disorder Classification
+Domain Type _ : Health Insurance
+Work Description:
+e Document Classification can help an organization to meet legal and regulatory requirements for
+retrieving specific information in a set timeframe. Document classification 1s an example of
+Machine Learning (ML) in the form of Natural Language Processing (NLP).
+e Preprocessing documents: OCR (pytesseract, Amazon Textract, Google Vision)
+e Text processing
+e Classifier: Naive Bayes (Multinomial)
+Responsibilities:
+e Building models with different algorithm and choosing be stones per the expectations.
+e Create various documentations required as part of implementation
+e Develop custom reports and analytics, dashboards for the various business requirements.
+e Build Machine learning models for Predictions, Image processing, Natural Language Processing
+and other related areas.
+PERSONAL DETAILS
+Date of Birth : May 05, 1993
+Gender : Male
+Status : Unmarried
+Languages Known _: English, Hindi, Marathi
+Address : Sneha Homes near warje bridge, Pune.

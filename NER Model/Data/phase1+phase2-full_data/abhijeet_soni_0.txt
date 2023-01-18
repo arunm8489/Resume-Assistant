@@ -1,0 +1,48 @@
+Abhijeet Soni
+Gender: Male DOB: 04-07-1995
+Phone no. : 7307421706 Email: abhijeetsoni53@gmail.com
+M.Tech. (Mechanical Engineering)
+ 
+Indian Institute of Technology, Bombay
+Examination University Institute Year CPI/%
+Post-Graduation IIT Bombay IIT Bombay 2021 388.39
+Graduation L.P.U. Punjab L.P.U. Punjab 2018 9.09
+Graduation Specialization: Mechanical Engineering
+Intermediate CBSE Jawahar Navodaya Vidyalaya, Korba 2013. = 81.00%
+Matriculation CBSE Jawahar Navodaya Vidyalaya, Jashpur 2011 8.60
+TECHNICAL SKILLS
+e Programming - C++, Python, SQL
+e Python Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, TensorFlow, Keras
+e Additional skills/software: Power BI, Excel, Qlikview
+SCHOLASTIC ACHIEVEMENTS
+e Secured 98.78 percentile in GATE 2018 (Mechanical), among 1.94 lac candidates in the first attempt. | Mar’18 |
+e Secured First Division with Distinction in B. Tech (Mechanical) at LPU, Phagwara |Jun’18 |
+e Awarded AA grade in Manufacturing Automation course for the performance in Data Analytics for Predictive Maintenance
+with Johnson and Johnson Pvt. Ltd. |Jun’20|
+INDUSTRY SPONSORED PROJECTS
+Data Analytics for Johnson and Johnson Pvt. Ltd. (Mulund Plant)
+Industrial Mentor: Manish Singh, J&J Pvt. Ltd. | Guide: Prof. K. P. Karunakaran |Jan’20- May’20|
+Tools Used: Python, SQL, Power BI
+e Data preprocessing was done on raw data. Provided raw data consisted of 11000+ failure instances of last 1 year.
+e Improved Overall Equipment Effectiveness dashboard.
+e Developed a Machine Learning model to Predict Remaining Useful Life (RUL) of various equipment for 98% target
+reliability.
+Unsupervised Machine Learning Model for Customer Segmentation to Assist Ad Targeting In Digital Marketing
+Internship: BlueBanyan Technologies Pvt. Ltd. | Dec’20- Mar’21|
+Tools Used: Python, Excel, Power BI
+e Developed dashboard to visualize customer behaviour and characteristics from diverse aspects.
+e Trained unsupervised ML model using K-Means clustering after preprocessing of data.
+DATA SCIENCE PROJECTS
+Data Compression and Visualization using Principle Component Analysis | Aug’19-Nov’19 |
+Course Project: Engineering Data Mining and Applications
+Tools Used: Python, Excel
+e Understanding the evaluation process by data visualization plots and preprocessing.
+e Removing non-significant features and created new features through Principal component analysis.
+e Used Elbow method and k-means algorithm to classify the data.
+Tracing politico-economic trends by analyzing Indian budgets using Natural Language Processing |Feb’21-May’21|
+Course Project: Al, Data and Policy
+Tools Used: Python, Excel
+e Analyzing if positive description of something follow up with actual increase in financial allocation for that field.
+e Tracing correlation between electoral consideration and budget allocation.
+e Implementing named entity recognition, PoS tagging, and sentiment analysis (Lexicon based).
+e Analyzing if some particular issues becomes governmental priority in particular time period.

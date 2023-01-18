@@ -1,0 +1,44 @@
+PROJECTS
+Title — Prioritization Of Appointment (Ongoing)
+Libraries Used : Pandas,Numpy,Matplotlib,Seaborn,Sklearn preprocessing,Feature
+extraction,Clustering algorithms — Kmeans,Agglomerative, PCA, XG Boost, flask, Html
+Platform : Pycharm, Google colab
+Runtime Environment: Python3
+Data Visualisation tool : Tableau, Excel
+Business objective:
+To build a model which can cluster the patients and prioritize their appointment with the doctor
+considering various attributes of their health condition .
+Responsibilities:
+¢ Collecting the data ,Data pre-processing, Exploratory Data analysis (EDA)
+¢ Building and testing the models using clustering, boosting techniques.
+¢ Deploying the model using python flask code using html script
+Title - Product Demand Forecastor (‘Time Series Analysis)
+Libraries Used : LSTM, Gluonts-DeepAREstimator, Pandas, Numpy, sklearn, Matplotlib, Seaborn
+Platform : Pycharm, Google colab
+Runtime Environment: Python3
+Data Visualisation tool : Tableau
+Deployment : Flask,html, GCP (google cloud platform)
+Business objective:
+To develop a machine learning model for forecasting the demand of a particular automobile spare
+part considering the Time-Series data
+Responsibilities:
+¢ Exploratory Data analysis (EDA) , Data pre-processing
+¢ Data Visulaizations for finding the patterns of the time series data
+¢ Built different models using gluonts package with LSTM algorithm
+¢ Involved in developing models using other techniques
+¢ Evaluating the built model and involved in the preparation of power point presentation(PPT)
+¢ Deployed the model using the python flask , html and GCP platform
+Title — Topic Semantic Analysis ( ACADEMIC)
+Libraries Used : Gensim, LSI , Parsing, CohereneModel, Pathlib, Bs4 (BeautifulSoup), Matplotlib,
+Tool / Platform : Pycharm , Google Colab
+Runtime Environment : Python3
+Business objective:
+To develop a model which can analyse the text and can segregate the the documents based on the
+hidden topics in it.
+Responsibilities:
+¢ Writing a user defined method for cleaning of the data (numbers, spaces, symbols)
+¢ Using BeautifulSoup for extracting the contents from the documents
+¢ Preparing the documents,coverting the documents to bag of words
+¢ Creating the Lsi model with the user defined number of topics
+¢ Calculating the coherence scores for the accuracy and generating the visulaization
+ 

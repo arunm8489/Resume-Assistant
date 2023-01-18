@@ -1,0 +1,34 @@
+CH HARISH KUMAR
+Contact No - +91 8639775180/9989212028
+Email-lId > chilukuri.harishkumar2@gqmail.com.
+Executive Summary:
+Experienced DataScientist/ML Engineer with Demonstrated History of Working In
+FinTlech and Research field with Applying Statistics and Deep Learning ,Machine
+Learning ,NLP for Solving Problems of Business..
+Technical Skills:
+> Experience on Python.
+PdftoText Extraction frameworks(pdftika,pdfplumber,ect.)
+Expertised in Conversational Al platform (RASA).
+GATE(General Architecture for Text Engineering)
+Experience on Flask and Django Frameworks.
+Expertised in Natural Language Processing.
+Expertised In ML and DL with Tensorflow or Keras or Scikit Learn.
+VV VV VV WV
+Explosure on Cloud Platform AWS. Version Control Software tools:
+git,svn,pachyderm.
+> Experience On Data Engineering kafka ,pyspark.
+> Proficiency in Databases(Mysql,Mongo,Vertica)
+> Experience on Kubernative for Machine learning.
+Education
+1.B.Tech in ECE -- CGPA 7.6, IIIT Basara(2013-2017).
+2.PUC(Pre-University Course) CGPA 7.2 ,IIIT Basara(2011-2013).
+3.8.S.C (Govt High School) -> 91.5 %
+Employment
+Roles:-
+Ness Digital Engineering (Crisil Onsite)
+¢ DataScientist --- 2020- Present
+Alpha Labs Founded by Achala IT Solutions.
+¢ DataScientist -- 1 year 4 months (2018-2019 DEC)
+WayZ2online Interactive India Pvt Ltd.
+¢ Product Engineer(ML Engineer)  -- 1 year (2017-2018)
+ 

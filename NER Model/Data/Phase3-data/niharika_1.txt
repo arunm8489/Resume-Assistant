@@ -1,0 +1,40 @@
+Niharika
+Email ID: niharikachandra1995@gmail.com
+Contact No: Mobile: +91-9891228773
+LinkedIn: https://www.linkedin.com/in/niharika-chandra-183964140
+PROJECT EXPERIENCE
+PROJECT 1: Identifying intents and entities in various domain contracts.
+Client: Broadcom Corporation
+Business Objective: Identifying and extracting various intents/clauses and entities from legal
+documents using Deep Learning Models for different domain contracts. Creating knowledge base on
+extracted intents and entities which was used for querying and visualizing the data. Thus, deriving
+important insights from the data and thereby preventing losses and eliminating contract
+inefficiencies.
+Duration: Jun’2020-Till Date
+Technology Used: Machine Learning, Deep Learning, NLP
+Tools and Languages: NIACA, Python, SQL
+Responsibilities: -
+e Training Deep Learning models for various intent classification.
+e Testing the model efficiency by validating metrics and increasing its accuracy by
+hyperparameter tuning.
+e Writing Python scripts for post-processing of data to convert into client consumable format.
+e Writing SQL queries to pull data from database for visualization thereby deriving key insights
+from the data.
+e Development for various python snippets for building end-to-end orchestration pipeline.
+PROJECT 2: Identifying Legal Clauses in Employment and Settlement Contracts
+Client: Infosys Global Legal UK
+Business Objective: Identifying quantifiable information from employment and settlement
+contracts in form of intents and entities by leveraging machine learning techniques to gain insights
+from the contracts.
+Technology Used: Machine Learning, Deep Learning, NLP
+Tools and Languages: NIACA, Python, SQL
+Duration: June’ 2019-May’2020
+Responsibilities: -
+e Training Deep Learning models for classifying various clauses via Deep Learning Models.
+e Validating the models by evaluating metrics and choosing the model to be used for prediction
+of unseen data.
+e Writing Python scripts for pre-processing and post-processing of data
+e Responsible for validating NER entity tagging to ensure proper training and prediction of
+entities from clauses.
+e Writing SQL queries to pull data from database for post-processing the data as per Business
+requirement.

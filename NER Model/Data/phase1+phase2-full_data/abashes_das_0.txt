@@ -1,0 +1,90 @@
+ABASHES DAS
+ 
+ 
+ 
+ABOUT ME
+e Date of Birth- September 15, 1998.
+e Gender- Male.
+e Languages Known- Bengali, Hindi,
+English, Oria.
+e Open minded, Keen observer,
+Quick learner, able to work
+individually as well as in team
+environments.
+ 
+TECHNICAL SKILLS
+e Operating System -
+Linux.
+Windows,
+Tools - Jupyter, MS Office, Eclipse,
+Google Data Studio, Tableau,
+Google Colab, Git, Docker,
+QlikView.
+Programming Languages —
+Python, Java, C++, R.
+DATABASE KNOWLEDGE- Oracle,
+SQL Server.
+Specialization: Strategic
+Consulting, Program Management,
+Resource Management, Data
+Management, Machine Learning,
+Deep learning, Natural Language
+Processing, Image Processing, ETL,
+Text Mining, API.
+CONTACTS
+@® DANTAN, PASCHIM MEDINIPUR,
+PIN-721426, WEST BENGAL, INDIA.
+| +91-9083157236
+[rr] abshes464@gmail.com
+CONSULTANT ASSOCIATE
+CAREER OBJECTIVE:
+Quest to work and learn in the real professional and vying ambience of a globally
+recognized organization where | can deliver my best with my technical knowledge and
+functional expertise as well as can get global exposure to enhance my skills and
+knowledge that can be utilized to achieve personal as well as organizational goals.
+ACADEMIC CREDENTIALS & PROFESSIONAL CERTIFICATIONS:
+e Amongst top rank holders in W.B.B.S.E (94%) and W.B.C.H.S.E(93%).
+e Graduated with distinction (CGPA: 8.04/10) in Computer Science and Engineering
+from NIT Durgapur in 2019.
+e Academic project on “LINE SEGMENT COVERING USING DISKS” in the field of
+computational geometry.
+Internship on “Stock Market Clustering” using K-means Clustering in Machine
+Learning from IIT B.H.U.
+e One-month training on Core java with android certified by Oracle university.
+e One-month training on Web development from Intern Shala.
+WORK EXPERIENCE:
+e Current Company: Nation with Namo
+e Designation: Consultant Associate
+e Duration: May 2020 to May 2021
+e Project Description:
+e As the Zonal- in-Charge, | managed a team of 32 people who were involved in
+conducting surveys (CAPI & CATI) across West Bengal during the 2021
+assembly elections and share the insights with client team members to
+develop strategy for different assembly constituencies;
+e Developed Macro & Micro level strategies targeting different Caste based and
+occupational cohorts to increase the vote share of Client;
+e Assisted Campaign team in the development and implementation of campaign
+and event planning;
+e Developed Google Data Studio Dashboard containing the qualitative and
+quantitative data of all the assembly constituencies of West Bengal;
+e Prepared Python scripts for Surname to Caste mapping, Electoral roll data
+extraction and candidate dossier report automation;
+e Developed Predictive model for election result forecasting;
+e Technologies Used: Strategic Consulting, Program Management, Resource
+Management, Campaign Management, Python, Machine Learning, Advanced
+Excel, SQL, Google Data Studio, Tableau.
+e Previous Company: ABZOOBA INDIA INFOTECH Pvt Ltd.
+e Designation: SOFTWARE ENGINEER (DATA SCIENCE).
+e Duration: MAY 2019 to APRIL 2020.
+e Project Description:
+e Developed Forecasting model for “Thomas Jefferson University Hospital” &
+Price Recommendation system for “Hy-Vee” companies using Machine
+Learning techniques;
+e Developed Dashboard using python Dash for viewing everyday job status;
+Technologies Used: Python, Machine learning, Pandas, SQL, DataStage.
+EXTRA, CURRICULAR ACTIVITIES:
+Active participant in Kaggle & Analytics Vidhya Data Science competitions.
+e Asa Freelancer | share my expertise with many companies, entrepreneurs, or
+nonprofits to help them with an area of operation.
+e Hackerrank Gold badge holder in Python Programming.
+e Selection in SVMCM scholarship scheme thrice and in CSS scholarship scheme twice.

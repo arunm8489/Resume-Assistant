@@ -1,0 +1,87 @@
+Lo +91-7978170929 / 9437506691
+S10 elarelaameclalelarsze 9
+Bengaluru
+wy subhamkanungo55@gmail.com
+ 
+Career Objective
+Result-oriented professional with
+knowledge and experience in
+Statistical Modelling, Data
+Extraction, Data Processing, Data
+Analysis, Machine Learning;
+targeting assignments in Data
+Analysis or Data Science in the IT
+Industry that provides ample
+opportunities to showcase the
+knowledge and skills acquired over
+the years, preferably in Bengaluru
+LinkedIn:https://www.linkedin.com
+/in/subham-kanungo-78436b202/
+GitHub:https://github.com/subham
+kanungo55
+Skill Set
+e Data Analysis
+e Program Management
+e Project Management
+e Statistical Analysis
+e Business Intelligence
+e Client Engagement
+e Machine Learning
+e Agile Methodology
+Technical Skills
+e Python
+e Shell Scripting
+e § Plotly
+e Matplotib
+e Seaborn
+e ScikitlearnKeras
+e Pyspark
+e Power Bl
+e MySQL
+e Cassandra
+e PyCharm
+e Jupyter Notebook
+e Django
+e Flask
+e Rest API
+PROFILE SUMMARY
+WORK EXPERIENCE
+ 
+A hardworking & goal oriented professional with over 2 years of working experience as
+a Data Analyst in Accenture Solutions Pvt. Ltd., Bengaluru
+Experience in Formulating, suggesting, and managing data-driven projects, aimed at
+furthering the business interests
+Skilled in simulating, designing, developing & deploying computationally complex and
+practical data; built and delivered comprehensive data strategy roadmap; ensured final
+deliverables were of the highest quality
+Knowledge of defining service standards and guidelines for smooth delivery of end-to-
+end projects while evaluating risks, costs, resource requirements & schedules and
+submitting delivery opinions as well as in communicating data findings to key
+stakeholders to help the organization meet business challenges
+Capabilities to enhance data collection procedures to include information that was
+relevant for building analytic systems
+Achieved On the Spot Award for excellence in working and delivering a unique
+solution for KPI Dashboarding and getting it live
+Facilitated with ACE Award for the Accenture’s quarterly recognition of project
+ 
+July’19 — Till Now | Data Analyst | Accenture Solutions Pvt. Ltd., Bengaluru
+Projects:
+Client: Anheuser-Busch InBev
+Period: January 2020-Till Date
+Role: Data Scientist
+Technologies Used: Python, Machine Learning, Data Extraction, Data Analysis, Data
+Visualization, Hive, Spark, HBase, Azure Cloud, AWS, SAP, Power BI (Dashboard)
+Brief: This project focuses on Product Sales/Manufacturing Forecasting in FMCG domain as
+well as predicting the gross sales and revenue for the upcoming quarter
+Responsibilities:
+Working on/With:
+o Developing a better and robust Data science pipelines encompassing Data
+standardization, Data Transformation and aggregation with HDFS which helped
+to reduce the latency to a maximum extent for a very huge data-set nearly
+100GB of data
+o Data extraction from SAP / client web based systems using scrapper techniques
+like Beautiful Soup / Selenium in-build packages, Connecting sap generated
+VBS scripts to ETL pipeline to generate bulk data processing in less time
+o Application of Regression and Classification Machine Learning models and
+increased model accuracy for some KPI’s datasets by 1-2% through
+Regularizing, Ensemble Techniques, Hyper-parameter Tuning

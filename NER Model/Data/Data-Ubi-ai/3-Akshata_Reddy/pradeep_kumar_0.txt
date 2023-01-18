@@ -1,0 +1,30 @@
+K Pradeep Kumar
+8977425239 | pradeepkumar89774@gmail.com
+Professional Summary:
+e Dynamic and motivated professional having 4.5+ years of experience in IT industry which includes 3
+years of experience in Machine Learning. Experienced in creating data regression models using
+predictive data modeling, and analyzing data mining algorithms to deliver insights and Implement
+action-oriented solutions to complex business problems.
+e Having a thorough knowledge of mathematical and statistical concepts behind various supervised
+and unsupervised Machine Learning algorithms, analyzing large, complex, multidimensional data
+sets, developing analytical solutions and predictive analytics using Python.
+e Exceptional analytical, interpersonal skills with proficiency at grasping new technical concepts
+quickly and utilize the same in productive manner.
+Technical Skills:
+Machine Learning: Linear Regression, Logistic Regression, Decision Trees, Gradient Boosting,
+Random Forest, Support Vector Machines, Naive Bayes & K-Nearest Neighbors, K- Means
+Clustering, Principal Component Analysis, NLP.
+Deep Learning: Convolution Neural Network, Recurrent Neural Network, LSTM
+Statistics: Hypothesis Testing, Z-Test, Chi-Square, ANOVA, Normal/Gaussian Distribution, Bayes
+theorem.
+Python Libraries: Pandas, Numpy, Scipy, Matplotlib, Seaborn, Sklearn, NLTK, Keras, Tensorflow.
+Data Base: SQL.
+Professional Experience:
+Working as Data Analyst for Mindtree from 01.04.2019 to till date
+Worked as Data Associate for Mindtree from 10.11.2016 to 31.03.2019
+Projects Summary:
+Project 1: Demand Forecasting
+Project Description: Build a model to predict the sales of the product given the market indicators and
+other factors that affect the demand and price of the product.
+Roles and Responsibilities:
+e Involved in understanding the data flow and business requirements.

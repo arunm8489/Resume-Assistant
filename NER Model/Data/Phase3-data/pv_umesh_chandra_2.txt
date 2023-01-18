@@ -1,0 +1,51 @@
+Description:
+Microbots minimizes the service engineers efforts by entering into the servers and reduces
+the Memory,CPU,Disk and Patching for both windows and Linux client devices. We majorly created
+the bots using ansible and AWX (Tower) for execution of bots using Git for storing the bots. By
+Microbots creation majorly reduces the time and human intervention and increases revenue these
+were majorly integrated with the lot of Ticketing tools as well.
+Core Responsibilities:
+«Developed Ansible Playbooks for Automate the patching activity for Service engineers used to
+work for lot of Hours. The Report will be shared to the stakeholders with the required
+information like patches installation status, services will be captured before installation process
+like pre checks after installation it will gather the services snapshot compare both pre and post
+if any service found to stop will restart automatically send report successfully implemented in
+the production environment for all the clients.
+¢ Developed a Python Script for integrating the Microbots Platform with service now using APIS.
+«Developed Python Scripts for automatic reassignment of incidents in the service now using
+APIS.
+¢ Developed Python Script for inserting data into Mongo DB using APIS.
+¢ Developed Ansible Playbook for automatic restart of the services for both windows and Linux.
+«Developed Ansible Playbooks for adding the users and creation of groups in Active Directory
+Services in Windows.
+« Developed Ansible Playbooks for creation and deletion of roaming profiles in the Active directory
+services.
+«Developed Ansible Playbooks for creation and deletion of Service Principal name in the Active
+directory services.
+¢ Configured Scheduled builds for application deployment on non-prod environments.
+«Installed and configured AWX Tower Environment for various customers.
+¢ Expertise in creation of Docker containers and pods for non-prod deployments.
+«Developed PowerShell scripts for automating the process for Service Manager Incident
+Management.
+« Developed flask APIS for Integration Microbots Platform with Service Manager.
+#Project 3:- Data Science.
+Name: Exploratory Data Analysis on Distribution of food works Dataset.
+Client: Jubilant Life Sciences
+Role: Data Science Engineer
+Description:
+Implemented exploratory data analysis on the Jubilant Life Sciences food works distribution,
+Exploratory Data Analysis is a method of uncovering important relationships between the variables by
+using Graphs, plots, and tables. Exploratory Data Analysis (EDA) is a very useful technique especially
+when you are working with the large unknown dataset. It allows you to investigate the interesting
+relationships between the variables, study the different subsets of data to unlock the different patterns
+in the data. Similarly Jubilant Life Sciences is having huge data of distribution of food works across
+the country and have to understand the process of investigating the data to discover patterns,
+trends, relationships and anomalies (outliers), and form hypotheses based on understanding of the
+data predict the major profits of the distribution across the world.
+Core Responsibilities:
+e Defined exploratory data analysis with an overview of the whole project.
+e Distrubution of food works data will be inserted to database.
+e Devloped python script which retrives the data from database and store in the form of CSV
+files in Linux server with in a specified path.
+e Developed python script to read the data from a CSV file from a specified path into a Pandas and
+Numpy DataFrame.

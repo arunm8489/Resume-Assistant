@@ -1,0 +1,50 @@
+UOC CAR MRE ARE CAREC AE EE CE CAE CARE CRE CARE CANE CEC RE CE CARE CRE CRE CRE CAREC EC RE CAE CARE CARE CRE CRE CREO EC EE CAE CARE CRE CARE CARE CAREC DEC EC AE CARE CARE CARE CARE CAREC REC AE CAE CARE CARE CARE CRE CAREC AE CAE CATE CAE CARE CARE CARE CAREC AE CAE CAE CAE CAE CARE CARE CANE CEC AE CAE CAE CAE CAE CARE CAREC EC AE CAE CAE CARE CRE CREO MRE DE ECE CE CME (MRE CRE CME CRE
+Description:
+@ Medical Insurance company looking to create a system, which predicts amount to be reimbursed
+to patient based on Invoice and Discharge summary
+Responsibilities:
+@ Mine and analyze data to prepare disease wise categories to drive optimization and improvement
+of product development.
+@ Coordinate with different functional teams to implement models and monitor outcomes.
+e Develop processes and tools to monitor and analyze model performance and data accuracy.
+O Professional Synopsis:
+A Knowledge of Python’s Data Analysis and Machine Learning Libraries.
+A Implementation of regularization techniques like Lasso and Ridge in regression.
+A Data mining algorithm experience in the families of predictive algorithms (Regression, KNN, Decision
+Trees), clustering algorithms (k-means clustering) and Ensemble Techniques (Bagging and Boosting
+Algorithm)
+A Ability to process Text Processing using NLTK library and other NLP techniques.
+A Source code management and Version Control system using Git and GitHub.
+A Strong communication and interpersonal skills. Ability to interact with customers with ease and
+professionalism.
+A Ability to achieve in-depth understanding of the problem domain and available data assets.
+A Able to investigate Data Visualization and summarization techniques conveying key findings.
+A Communicates findings and obstacles to team members to achieve best approach.
+A Ability to write a clean and production code with Object Oriented Programming in Python.
+A Development of REST APIs in Python.
+Machine Learning and Data Science:
+A Python/ML Packages: NumPy, Pandas, Sci-py, Scikit-learn, Seaborn, Matplotlib, Flask.
+A. Machine learning: Linear Regression, Ridge & Lasso Regression, Logistic Regression, Naive Bayes
+Classifier, k Nearest Neighbor’s Classifier, Support Vector Machine, Decision Tree, Random Forest,
+Gradient Descent, Ada-Boost, Gradient Boosting, XGBoost, K-means Clustering.
+A Text Processing: NLTK, Term Frequency-Inverse Document Frequency, Word2Vec, Bag of Words.
+Supporting Technologies:
+A Languages: Python, SQL.
+A Cloud Platforms/Services: AWS.
+A Web stack: Flask.
+A Operating Systems: Linux, Windows.
+A Database: SQLite, MongoDB.
+Educational Qualification:
+B.E. Distinction in(Computer Science) 2019 from GSM COE Pune, Pune University.
+Diploma in EnTC With 69.36% in 2014, MSBTE Maharashtra
+SSC with 59.60 % in 2010 from State Board, Maharashtra.
+Personal Details:
+e Date of Birth :10-06-1994
+Permanent Address : At Navgharwadi Tq. Kandhar Dist. Nanded, 431714
+e Current Address : Mamta Hostel Balewadi Pune,411045
+e Language known — : English, Hindi, Marathi
+SSS SSS OSS SS
+HOE SER a a aU UCU UC UC UCU UU UCU CU UCU CU CU UE EEE EEE ERR RR UU UU UU UN UC UU UU UN UN UU UU EEE EEE UU UR UR UN UU UN UN UN UU UCN CU UU UE RE
+as
+PERERA LLL ZLLEZLLELLEELELZ@ZL@ZZLL@@L@@L@E
+x

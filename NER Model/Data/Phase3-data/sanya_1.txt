@@ -1,0 +1,31 @@
+2. Telemarketing Campaign
+Goal - Predicting the success of the telemarketing campaign for a bank to identify potential customers
+who would be willing to opt for the term deposit and expand the term deposit portfolio.
+Responsibilities -
+e Perform preprocessing of structured and unstructured data.
+e Transform the data into information by performing EDA and feature engineering.
+e Present information using data visualization techniques .
+e Built a predictive model using classification algorithms to increase the hit ratio.
+Tools - Python , Feature Engineering , EDA , Scikit Learn , Classification Algorithms
+¢~ Personal Project
+1. Clustering of Product Parameters- Identify the buyers’ purchasing behavior and divide them on the
+basis of the products they have previously bought from the store.
+2. Hotel Booking Prediction - Leverage Guest Data and Booking Behavior Patterns to devise a strategy
+for Hotel Revenue Management using Classification algorithms and EDA.
+3. Telecom - Develop a predictive framework for enabling a proactive retention strategy for a telecom
+company using classification algorithms.
+4. HR Attrition - Analyzed employee behavior data to predict attrition propensity and enable HR to
+design and take targeted retention actions for the organization using classification algorithms.
+f/ *ducation
+New Horizon College of Engineering , Bangalore 9014-2018
+= B.TECH (Computer Science) 85 %
+VTU University
+DPS Dhanbad 9012-2014.
+= 12th Science 94%
+C.B.S.E
+Carmel School , Dhanbad 9012
+= 10th 94%
+LC.S.E
+—: Certifications [) Languages
+e Python (HackerRank) e English
+e MYSQL ( HackerRank) e Hindi

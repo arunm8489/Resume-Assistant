@@ -1,0 +1,93 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Abdul Sathar
+Computer Vision Engineer
+Computer vision Engineer with 3 years of
+experience. Cover all stages of ML life cycle
+From problem understanding to model
+deployment and evaluation. Quick learner of
+new technologies.
+WORK EXPERIENCE
+Software Engineer
+Quest-global
+10/2018 - Present
+Achievements/Tasks
+® Wave peak Detection from Ultrasound doppler image for calculating E/A
+Ratio of the heart using YOLO V3 network. Got accuracy 95.8% which is
+superior in performance to customer’s competitor.
+Trivandrum
+© Wave segmentation from normal and noisy ultrasound Dopler image
+using UNET for calculating left ventricle outflow tract velocity of the
+heart.
+Edge detection of carotid artery From ultrasound image to calculate its
+thickness Using RCF network.
+Classification of machine parts For guiding the user to set up an X-Ray
+diffractometer using Googlenet.
+Optimization and integration of deep learning models in low-end
+devices using Intel OpenVINO.
+Experience in using OpenCV and Numpy for data preprocessing, post-
+processing and other image processing tasks.
+Training, testing, Optimization and deployment of the Deep learning
+model to real machines using various deep learning frameworks like
+PyTorch, TensorFlow and integration Tools like TensorRT, ONNX
+Runtime, OpenVINO etc.
+Deployment of deep learning model in the server using NVIDIA Triton
+Server for scalability and speed.
+Experience in using Docker containers.
+Expertise in Python, C++, scripting & Automation.
+Software Engineer
+Factweavers
+07/2017 - 10/2017
+Achievements/Tasks
+® Gained exposure to Big Data Analysis in Java using Elastic search.
+Kochi
+EDUCATION
+B.Tech
+Govt. Model Engineering College, Kochi
+08/2013 - 04/2017
+Courses
+© Computer Science and Engineering
+CGPA - 6.9
+Higher Secondary Education
+GVHSS Madappally
+06/2011 - 03/2013 Percentage - 94%
+High School Eduction
+NAMHSS Peringathur
+03/2011 Percentage - 98%
+ 
+abdulsathar.mec@gmail.com
+8891441130
+Vadakara, Kozhikode, India
+linkedin.com/in/abdulsatharst j
+github.com/abdulsatharst €)
+SKILLS
+ACADEMIC PROJECTS
+Solution for Recognition and Execution
+of Handwritten Code
+© AnAndroid app that captures the picture of
+handwritten program code using an android
+phone and displays its Output.
+® Technology: Android studio, Django, Python,
+OpenCV, Tesseract OCR, Git.
+ACHIEVEMENTS
+Got ON THE FLY AWARD for integrating
+RCF network on low-end CPU with good
+performance.
+LANGUAGES
+Hindi
+Limited Working Proficiency
+English
+Professional Working Proficiency
+Malayalam
+Native or Bilingual Proficiency
+Arabic
+Limited Working Proficiency
+INTERESTS
+Deep learning SOTA Reading
+Learning Youtube Badminton
+XJ
+Oo OO

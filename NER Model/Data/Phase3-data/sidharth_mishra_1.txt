@@ -1,0 +1,35 @@
+Responsibilities:
+Worked on AWS ECZ Instances creation, setting up AWS VPC, launching AWS EC2
+instances, different kind of private and public subnets based on the requirements for each
+of the applications.
+Launching Amazon EC2 Cloud Instances using Amazon Web Services (Windows/Linux) and
+Configuring launched instances with respect to specific applications.
+Managed AWS infrastructure provisioning AWS services like $3, ELB, EC2, RDS, Route 53,
+IAM, security groups, VPC and deployment and EC2 Installs with CentOS and Ubuntu.
+Created and Configured Red Hat, CentOS Virtual Machines in AWS using EC2, Elastic-IP,
+VPC, Subnets, Route Tables, NAT Gateway.
+Good experience in Terraform infrastructure-as-a-code.
+Creating CI/CD pipelines by integrating Git, Terraform, Jenkins and AWS.
+Using Jenkins as a continuous integration tool to creating new jobs, managing required
+plugins, configuring the jobs selecting required source code management tool, build trigger,
+build system and post build actions, scheduled automatic builds, notifying the build reports.
+Automate Continuous Build and Deploy Scripts for Jenkins Continuous Integration tools.
+Defined branching, labeling, and merge strategies for all applications in Git.
+Integrated GIT into Jenkins to automate the code check-out process.
+Responsible for version control Management, Branching, Merging, and user group
+permissions.
+Worked on creating Docker containers and Docker consoles for managing the application
+life cycle.
+Installed Docker Registry for local upload and download of Docker images and even from
+Docker hub.
+Experience with container-based deployments using Docker, working with Docker
+images, Docker hub and Docker registries.
+EDUCATION
+Masters of Computer Application (MCA)
+Silicon Institute of Technology, Bhubaneswar, Odisha
+(03/2019)
+DECLARATION
+I hereby declare that all the above information furnished by me is true to best of my knowledge.
+Place: Bangalore
+Date:
+Sidharth Mishra

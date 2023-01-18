@@ -1,0 +1,48 @@
+Vijaya Lakshmi Alaparthi
+ 
+Contact: 8639934018 E-Mail: vijaya.alaparthi0 1@gmail.com
+A multi-faceted professional accustomed with proven Data science skills; targeting challenging opportunities in
+Data Scientist / Machine learning with an organization of repute.
+Profile Summary
+e Creative, innovative, enthusiastic professional with over 2 year of experience in Data analysis, Business
+analysis, Machine Learning.
+ 
+e Skills in developing and implementing Data cleansing and Data modeling strategies that increase product
+awareness, customer acquisition, market share, penetration, and revenue.
+e Leveraged market research, industry analysis, and customer insights to anticipate and counter competitive
+actions, build customer loyalty, and position brand for enhanced market share.
+e Knowledgeable in performing Machine Learning models SVM, Linear Regression, Clustering, Random Forest,
+Ensemble, ANN, CNN and XGBOOST.
+e Successfully delivered projects titled as Customer Churn, Fraudulent Transactions, Quantity of materials & HR
+Dashboard.
+e Aresult-oriented individual with strong analytical, communication, interpersonal and organizational skills.
+Core Competencies
+Data Science Corporate Communications Marketing Research & Analysis
+Machine Learning Client Engagements Python
+Deep Learning Tableau SQL
+Work Experience
+ 
+Since May’19 Arik infotech , Bengaluru as Jr Data Scientist
+Key Result Areas:
+ 
+e Performing exploratory data analysis on large and complex data sets comprising of structured, semi-structured and
+unstructured data.
+e Working on unstructured problems to deliver insights, end-to- end solutions.
+e Improve our clients- understanding of their customers using analysis, statistics and machine learning algorithms.
+e Conceptualizing Highly Motivated to use strong quantitative, analytical and communication skills in a position within
+the field of Analytics.
+e Implementing research and analytics insight to develop new strategies, improve program performance,
+make recommendations and influence business decisions.
+Projects Undertaken with Arik infotech,Bengaluru
+Project Title: Customer Churn
+Description: The project aimed at Prediction probability of customer churn who are going to churn, Market
+retentionstrategies and best offers recommendation.
+Tools/Technologies used: Python, XGBoost.
+Project Title: Quantity of materials
+Description: The project aimed Implementing Regression Model to predict the quantity of materials for the defined
+future timeframe for a vendor and plant - Reliance Industries.
+Tools/Technologies used: Python, FBProphet.
+Project Title: HR Dashboard
+Description: Created a Predictive Dashboard in recruiting and attrition rate
+Tools/Technologies used: Tableau, MySQL
+ 

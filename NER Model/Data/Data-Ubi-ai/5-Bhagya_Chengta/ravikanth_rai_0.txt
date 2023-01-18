@@ -1,0 +1,60 @@
+RAVI KANT RAI
+DATA SCIENTIST
+ 
+CONTACT
+rkrai2805@gmail.com
+8860189093
+Gurugram, Haryana
+EDUCATION
+B.Tech
+Computer Science
+Dr. A.P.J Abdul Kalam Technical
+University
+2011 - 2015
+Lucknow, Uttar Pradesh
+GENERAL SKILLS
+Machine Learning
+Statistical Analytics
+Data Preparation
+Data Analysis
+Data Visualization
+Languages
+Python, R Programming, SQL
+Packages
+Pandas, Numpy, NLTK, Scikit-learn,
+SpaCy, Pytesseract, geopandas etc
+PROFILE
+A Data Scientist with total 5+ years of experience in IT domain, experience in
+executing data-driven solutions to increase efficiency, accuracy, and utility of
+internal data processing. Experienced at collecting, analyzing, and interpreting large
+datasets, developing new forecasting models, and performing data management
+tasks.
+WORK EXPERIENCE
+Data Scientist
+Goods and Service Tax Network
+July 2020 - current / Aerocity, Mahipalpur, Delhi
+" Developed a logic to catch suspicious vehicle movements by using Eway bill
+part B dataset.
+" Built machine learning model to predict the Risk Score for RFDO1(Inverted
+Tax Structure under the GST) Refund Applications.
+" Developed a model using softmax regression to suggest relevant HSN codes
+as per the goods/service name or description entered by the user.
+" Developed a ML model to catch Fraud Taxpayers by using a supervised
+machine learning model Logistic Regression.
+Data Scientist
+Pernod Ricard
+Aug 2019 - July 2020 / DLF Cybercity, Gurugram
+" Developed and implemented new forecasting models which increased
+company productivity and efficiency.
+" Build a document classification model, to labialize .pdf files into their
+categories according to their contents by using NLP and Unsupervised
+Machine Learning
+Data Analyst
+Citibank
+July 2018 - Aug 2019 / Udyog Vihar Phase 3,Gurugram
+" Consulted and worked with development team to determine, execute, and
+deliver relevant solutions.
+" Provided information, feedback, and guidance to clients to support
+technology-related decision making
+" Analyzed old information architectures and contributed to the design and
+development of the new one

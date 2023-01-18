@@ -1,0 +1,67 @@
+Keshav Sarda
+Data Scientist
+Contact
+Address
+Hyderabad, Telangana, 500037
+Phone
+775-305-8503
+E-mail
+keshavsarda503@gmail.com
+Profiles
+e GitHub
+e AWS Certifications
+e GCP Certifications
+e Medium
+e Freelancer
+e LinkedIn
+Education
+2013-08 - 2018-12
+Bachelor of Science:
+Physics
+ITT - Kanpur
+Skills
+Python wT TTT
+Excellent
+R |
+Average
+SQL | tf
+Good
+PySpark ae
+Experienced Data Scientist and Machine Learning
+Engineer with additional experience on Cloud
+Platforms like AWS and GCP.
+Motivated and Ambitious to learn, grow and excel in
+solving complex problems and having excellent
+communication skills.
+» Work History
+2019-07 - Associate Consultant Technology
+Current
+Virtusa, Hyderabad, Telangana
+e Implemented and experienced with Regression,
+Classification, Supervised and unsupervised
+techniques and Machine Learning Algorithms like
+Linear, Logistic, Multinomial Regression, Random
+Forest, Decision tree, SVM, KNN, Clustering, PCA,
+Naive Bayes, Deep Learning and Neural Networks,
+ARIMA, LSTM, etc.
+e Performed and expert with data analysis and model
+improving techniques like EDA, Feature engineering,
+Dimensionality Reduction, Hyperparameter
+tuning, etc.
+e Deployed end-to-end ML Pipeline using AWS
+Sagemaker, MLFlow, Docker Containers,
+Kubernetes, CI/CD pipelines, MLOps and DevOps
+techniques and tools.
+e Implemented various workflows using Cloud AI
+Services like AWS Textract, Translate,
+Comprehend, Polly, GCP Speech-to-text, Text-to-
+speech, Natural Language, Vision AI,
+Recommendation AI, Vertex AI, AUtoML, etc.
+e Managed and monitored 900+ Cloud Big Data ETL
+Pipelines using GCP BigQuery, Dataflow, Dataproc
+(Hadoop), Cloud Storage, DataStudio, Stackdriver,
+PubSub, Cloud Function, etc to migrate on-prem
+data.
+e Implemented transform jobs using PySpark on Azure
+Databricks.
+e Experienced with Python, SQL, PySpark, R, Scikit-

@@ -1,0 +1,21 @@
+Email Spam/Non-Spam Dataset
+The spam classification system is created to identify the spam and non-spam mails. Here I have used the Naive Bayesian
+Classifier and extracted the words using word-count algorithm. After calculation, found that the naive Bayesian classifier
+error rate is very low and it has classified the emails appropriately into spam and non-spam.
+HR Analytics Dataset
+In this dataset, I performed descriptive, inferential statistics and different statistical tests to analyze based on what factors
+people are leaving the company.
+Earlier experience
+Reliance Jio Infocomm Limited (Fiber Engineer) Feb 2017 — Dec 2019
+¢ Responsibility of local procurement and maintenance of horizontal direction drilling machine.
+¢ Dealing with the warehouse activities and breakdown notification by using SAP MM and PM Module.
+Certifications
+¢ Machine Learning Using Python
+¢ Course in AutoCAD and NX
+Education Percentage
+M. Tech. (Machine Design) B.MLS. Institute of Technology 2014 — 2016 74
+& Management
+Mechanical Engineering KBN College of Engineering 2010 — 2014 71
+PUC 2 Faraan Composite College 2008 — 2010 68
+SSLC Tiny Pearls English Medium 1995 — 2008 73
+High School

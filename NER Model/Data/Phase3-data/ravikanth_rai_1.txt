@@ -1,0 +1,41 @@
+L2 Engineer
+Wipro Infotech
+Aug 2016 - Jul 2018 / Gurugram
+" Providing solutions and problem resolution to customers, with a strong sense
+of commitment and drive towards customer service.
+" Collaborating with all levels of senior management at multiple organizations
+to meet organizational IT goals and expectations
+. Developing or refining organizational performance measurement or security
+metrics.
+PROJECTS
+Refund Risk Score
+" Designed a classification model to predict the risk score of RFD-01 Refund
+Applications(Inverted Tax Structure under the GST).
+" To build this model used historical data of RFDO1 Refund applications, and
+GSTIN network properties, with Income tax returns data. Prepared the
+dataset by cleaning and scaling
+" Applied logistic regression to predict the Risk Score of the Refund
+Applications.
+Search HSN code by Product name or Description
+" Developed a ML based model to suggest relevant HSN codes as per the
+goods/service name or description entered by the user
+" prepared a data dictionary for the model using historical data, cleaned up the
+raw data to create a data dictionary, and then converted this data from
+textual format to tabular format by using FastText.
+Document Classification
+" Using the document classification technique, we need to label .pdf files into
+categories according to their contents
+" Extracted content from editable and scanned pdf files by using tesseract ocr,
+and then applied Data Cleaning techniques (Lemmatization, convert to
+lowercase, removal of stopwords and special characters etc.), and after that
+used feature Engineering techniques (TF-IDF,Word2Vec) to convert data from
+textual format to tabular format.
+" Applied unsupervised machine learning algorithms on tabular data to create
+the desired clusters of documents, so that document retrieval can be
+accelerated.
+Fraud Taxpayer Detector
+" Build ML model or calculating the Probability to default by GST Tax payers.
+" Used data of the GST-Ri, GST-R2A and GST- R3B, PAN, Aadhar to build a ML
+model, to catch those taxpayers. Who may be defaulter in future.
+" Build a scoring model by using a supervised machine learning model Logistic
+Regression

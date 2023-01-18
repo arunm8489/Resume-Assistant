@@ -1,0 +1,34 @@
+Experience
+Client: Companies inside Dassault Group are clients.
+Project Brief: Design and develop machine learning and artificial intelligence models for analytics and
+business development. Perform Data warehousing & ETL tasks using SAP BODS. Create BI reports on SAP BO.
+Day to day responsibilities
+Work with stakeholders throughout the organization to identify opportunities for leveraging
+company data to drive business solutions.
+Mine and analyze data from company databases to drive optimization and improvement of
+product development, marketing techniques and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad
+targeting and other business outcomes.
+Develop company A/B testing framework and test model quality.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Experience creating and using advanced machine learning algorithms and statistics: regression,
+simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Hands on experience in Python libraries like NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn,
+Plotly, Cufflinks, etc.
+Knowledge of advanced statistical techniques and concepts (regression, properties of
+distributions, statistical tests and proper usage, etc.) and experience with applications.
+Experience with distributed data/computing tools: Hive, Spark, PySpark, etc.
+Experience visualizing/presenting data for stakeholders using: Power BI, SAP Business Objects,
+Tableau, etc.
+Experience in Natural Language Processing.
+Knowledge of AWS connectivity for data processing.
+Experience in creating and using deep learning models with TensorFlow and Keras.
+Design and development of ETL jobs for Data Warehousing purpose with SAP BODS ETL tool.
+Data Migration experience on SAP Success Factors Cloud Solution.
+Hands on experience for handling Oracle PL SQL, Oracle SQL and Microsoft SQL server.
+Personal Details
+Date of Birth: 6" NOV 1993
+Languages known: English, Hindi, Marathi

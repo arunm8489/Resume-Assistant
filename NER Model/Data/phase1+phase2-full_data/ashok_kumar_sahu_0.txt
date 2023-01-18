@@ -1,0 +1,35 @@
+ASHOK KUMAR SAHU
+Odisha -Ganjam
+Mob-9937179547
+ashok.ipynb@gmail.com
+Data Scientist
+ 
+To seek the challenging position in Software industry that needs innovation, creativity, dedication
+and enable me to continue to work in a challenging and fast paced environment, leveraging my
+current knowledge and fostering creativity with many learning opportunities
+SUMMARY
+e Total 2.4 years of experience in IT industry using Technology like Python, Machine
+Learning,Predictive Modelling and other Statistical Programming Data analytics and
+visualization skills, Risk Management, Deep Learning. Expertise on python
+libraries like scikit-learn, SciPy, Matplotlib, Pandas,NumPy.
+e Handling and building the complex prediction engines and models.
+e Involved in Data Preprocessing Techniques for making the data useful for creating Machine Learning
+models.
+e Involved in creating various regression and classification algorithms by using various sklearn libraries
+such as Linear Regression, Decision Trees, Naive Bayes’.
+e Experience of working in the development, architecting and maintaining end to end projects.
+e Ability to work well in both a team environment and individual environment.
+e Efficient in Developing Supervised/Unsupervised Learning Models.
+e Responsible for day-to-day client handling.
+EDUCATION
+JULY 2019
+M. TECH, IGIT SARANG, ODISHA
+CGPA-— 8.94
+JULY 2016
+B. TECH, BPUT, ODISHA
+CGPA-— 8.24
+EXPERIENCE
+e Currently working as Software Engineer Systems at Mphasis Limited from June
+2021 till Date.
+e Worked as Software Engineer at Indigen Technologies Pvt Ltd from Aug 2019 to
+June 2021

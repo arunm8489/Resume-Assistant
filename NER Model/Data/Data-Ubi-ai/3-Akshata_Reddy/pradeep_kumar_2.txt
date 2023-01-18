@@ -1,0 +1,18 @@
+e Tools & Techniques: Python, NLTK, Sentiment classification.
+Project 4: Customer Medical Insurance Claim Prediction
+Project Description: The aim was to develop a risk predict model based on the demographic information
+and pre-existing diseases given by the customer to decide the premium and design policies accordingly.
+Roles and Responsibilities:
+e Analyzed the modelling data using data mining techniques, including dimensionality reduction,
+data enhancement and data transformations.
+e Managed imbalanced data by using imbalanced techniques like oversampling and under sampling
+and SMOTE.
+e Performed Predictive Modelling for predicting claim of customer with different demographics and
+pre-existing conditions.
+e Build a best fit model using machine learning algorithms (Logistic Regression, XGBoost, Random
+Forest).
+e Evaluated the model performance using confusion matrix, precision, recall, f1 score & AUC-ROC
+Curve.
+Educational Qualifications:
+e Completed B Tech (Electronics and Communication Engineering) from Meenakshi College Of
+Engineering, ANNA University in the year 2012.

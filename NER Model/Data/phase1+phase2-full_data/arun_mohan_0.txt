@@ -1,0 +1,101 @@
+ 
+ 
+ 
+ 
+ 
+Arun Mohan
+Machine Learning Engineer
+A proactive and fast-learning individual data science candidate with
+good problem solving skills and well versed in machine learning and
+scientific research.
+EDUCATION
+Bachelor of technology in electronics and
+communication
+Jawaharlal college of engineering and
+technology
+07/2012 - 07/2016
+WORK EXPERIENCE
+Data Science Analyst
+UL Technology Solutions Pvt Ltd
+10/2019 - Present Calicut
+Achievements/Tasks
+© Implemented an image segmentation model to detect
+building footprint from drone images and thus reduced the
+manual annotation cost by 75% .
+© Developed and deployed a chatbot which is able to clear
+customer queries based on taxation using Rasa
+framework.
+e Engaged in various other activities including building and
+deploying explainable machine learning models using
+classical machine learning techniques for root cause
+analysis.
+© Developed and deployed an OCR which extracts text from
+scanned documents like pan card, aadhar card and license
+card using deep learning and image processing
+techniques(POC).
+Software Developer
+Infolks Pvt Ltd
+05/2019 - 10/2019 Palakkad
+Achievements/Tasks
+© Converting json output of annotation tool to other formats
+like xml, png etc as per client requirements.
+e Automated bounding box annotation of vehicles using
+deep learning (YOLO) to ease annotation process(POC).
+Cloud Engineer
+G7CR Technologies
+08/2017 - 04/2018 Bangalore
+Achievements/Tasks
+e Installing,configuring Lamp, Magento, WordPress, nagios,
+guacamole etc in Linux machines in Aws and Azure cloud.
+e Managed various services like Ec2,ELB,VPC etc in Aws
+cloud and configuring servers using ansible and python
+scripts.
+mail2arun34@gmail.com
+XJ
+9544226883 []
+www.kaggle.com/arunmohan003 &
+linkedin.com/in/arun-mohan-05152612a jn
+github.com/arunm8489 €)
+arunm8489.medium.com WR
+SKILLS
+2) ls os
+PERSONAL PROJECTS
+IEEE CIS Fraud Detection(Top 3.5% On Kaggle LB)
+© Implemented various machine learning models to detect online
+fraudulent transactions . Final model was based on Xgboost with an
+AUC of 0.928
+® Detailed solution : https://towardsdatascience.com/ieee-cis-fraud-
+detection-top-5-solution-5488fc66e9 5f
+ 
+ 
+SIIM Pneumothorax Segmentation(Top 10% Kaggle LB)
+® Detected regions of Pneumothorax from Chest Xray images using
+various image segmentation and deep learning techniques.
+© Experimented with various models including Unet,Unet++,ReSUnet
+and FPN.
+© Final model was based on Unet with ResNet Encoder and deep
+supervision branch which achieved an dice coefficient of 0.83.
+® Deployed the final model using Flask after converting it to onnx
+runtime.
+® Detailed solution: hitps://medium.datadriveninvestor.com/siim-acr-
+pneumothorax-segmentation-top-1 0-result-abff760e0cab
+ 
+ 
+Sentiment Analysis On Amazon Food Reviews
+© Using machine learning and deep learning techniques to classify
+whether the review of any food in Amazon is positive or negative. For
+better and trusted system various algorithms like logistic regression,
+Naive Bayes, Xgboost, Random Forest and deep learning models like
+LSTM were tried.
+© Final model based on LSTM was deployed using Flask
+® Detailed solution: https://towardsdatascience.com/sentiment-
+analysis-on-amazon-food-reviews-from-eda-todeployment-
+£985c417b0c
+ 
+ 
+ 
+CO-CURRICULAR ACTIVITIES
+Active Contributer in Kaggle
+Blogging regarding data science on various medium
+publications like towardsdatascience, datadriven
+investor and thestartup.

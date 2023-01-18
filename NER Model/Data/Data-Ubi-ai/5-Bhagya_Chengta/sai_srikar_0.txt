@@ -1,0 +1,35 @@
+Name: Sreeyapureddy Sai Srikar Reddy
+Email: saisrikarreddy98@gmail.com PH: 7660001745
+System’s Engineer | Machine Learning Developer
+PROFESSIONAL SUMMARY
+System’s Engineer with 2+ years of experience in analysis, development, testing and implementing
+frameworks like flask, django along with connecting front-end applications.
+Hands on experience in building Rich reusable algorithms using Python, OpenCV, Deep Learning and
+Machine learning algorithms.
+Expertise in design and development of frameworks like Flask, Django and API calls from
+GCP/Azure.
+Deep understanding of Python concepts including Lists, Tuples, Dictionary, Exception handling,
+Functions, List Comprehensions.
+Expertise in working on various packages like Pandas, Scikit learn, Numpy, PIL, OpenCV, Scipy,
+Matplotlib, Seaborn, NLTK, Keras, Tensorflow.
+Experienced in Robotic Process Automation using Selenium web driver along with python.
+Test driven programmer with through knowledge in Unit testing with using pytest and using manual
+testing whenever required.
+Experience in working with relational and non-relational databases like Mongo DB, MySQL.
+Expertise in manually developing log files which is incorporated in code which can be reusable in all
+python related usecases.
+Worked with Microsoft teams planner for tracking stories progress, follow agile methodology and
+sprint planning.
+Experience in development and deployment of applications in Client environments using WINSCP.
+PROFESSIONAL EXPERIENCE
+System’s Engineer | Machine Learning Engineer | Technical Team Lead
+Trivandrum, India Mar 2021 — Present
+Roles and Responsibilities:
+Followed Agile Scrum methodology that include iterative application development and stand-up
+meetings by involving in various phases of development cycle starting from requirements gathering to
+deploying in client environment.
+Responsible in developing reusable code by making a minimum of 40% code reusable.
+Responsible for leading 5 teams and 40 members in developing multiple projects in parallel.
+Implemented Deep Learning algorithms on Image and Text data.
+Responsible in training 100 associates on Machine Learning, Deep Learning and Python along with
+Hands-on.

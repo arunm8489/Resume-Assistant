@@ -1,0 +1,37 @@
+Saikat Biswas
+9902767367 | imsaikatb@gmail.com
+Career Summary
+Y Self-Motivated and Hardworking Analytics Professional with more than 3 Years of experience in the Data Science &
+Analytics domain with another 3 years in Process Analysis.
+Y Astute learning gained Hands-on experience in Machine Learning, Deep Learning & Big Data Analytics
+VY Upgraded with Data Pre-Processing, Feature Engineering, Statistical Modelling, Visualization & Optimization
+Y Seeking an opportunity to work in an organization to prove my skills and utilize Data Science, Development & Domain
+Knowledge & Analytical intelligence for the growth of the organization.
+Education
+B. TecH | 2008 - 2013 | East West Institute of Technology, Bengaluru
+Higher Secondary School | 2008 | Govt Higher Secondary School, Khonsa
+Certification
+Post Graduate Program in Big Data Analytics and Optimization from INSOFE, Bangalore.
+Industry Experience
+Data Scientist | UST | March-2021 to Present
+- Analyzed User database for the international client for Europe, Americas, Latin, Asia Pacific Region and helped the
+management make data-based sound decisions.
+- Used various Machine Learning And Deep Learning Algorithms to help businesses with more clarity with their data.
+- Did extensive Feature Engineering to find the best features that affected the business and helped the stakeholders get a
+grasp of the factors affecting the sales in various regions across the globe.
+- Put the model in Production with AWS & continuous monitoring of the results from the model.
+Data Scientist | Thinkbridge | May-2020 to Nov-2020
+- Analyzed Datasets and helped the management make data-based sound decisions.
+- Served as a thoughtful adviser, working in tandem with the software development team.
+- Used Machine Learning algorithms and python to build helpful predictive models.
+- Tracked the performance for improvement and identified business improvement trends.
+Junior Data Scientist | Maxgen Tech | Feb-2019 to Feb-2020
+- Spent a significant amount of time in pre-processing & cleaning the data for further modelling.
+- Identified new external data sources for mining for text-related problems.
+- Explained complex modelling in an understandable and relatable way.
+Senior Process Associate | Accenture | May-2018 to Oct- 2019
+- Software Process Associate for an International client in the UK region.
+- Well versed with basic statistics and terms involved in the day to day business and used it while discussing with
+stakeholders.
+- Handled client’s production-related queries & resolved them in a timely manner.
+- Used Power BI for the generation of customer data related dashboards.

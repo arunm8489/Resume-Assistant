@@ -1,0 +1,73 @@
+Work Experience
+“* Innover Systems Private Limited
+Python Developer
+Oct 2021 — Till Date
+“* Skylex Technologies Private
+Limited
+Software Engineer
+April 2019 — Oct 2021
+¢¢ AVIG Techdraitions Private
+Limited
+Co-Founder
+Jan 2018 — March 2019
+Interests
+e Writing
+e Designing
+e Photography
+e Trekking
+e Travelling
+e Editing
+e Blogging
+e YouTube
+Languages
+e English
+e Hindi
+e = Marathi
+Personal Details
+e Name: Vishwajeet Vijay Jagtap
+e Address: Ambegaon Khurd,
+Pune-411046[MH]
+e Mobile No.: +91 8668625854
+e E-mail: vj44.job@gmail.com
+e Date of Birth: 4" April 1996
+e Gender: Male
+e Marital Status: Single
+e Nationality: Indian
+«* Company Name: Innover Systems Private Limited
+Role: Python Developer
+Technologies: Django, MySQL, PostgreSQL, Azure Cosmos DB, JSON,
+HTMLS, CSS3, Bootstrap, jQuery
+Responsibilities:
+> MEDA RMS Government Project - Design, Develop, Test, Deploy
+Company Name: Skylex Technologies Private Limited
+Role: Software Engineer
+Technologies: Python, MySQL, JSON, HTMLS, CSS3, Bootstrap
+Responsibilities:
+> Monitoring and finding the issues in the web portals.
+> Developing and maintaining the primarily developed portals.
+> Writing models, views and templates for portals.
+> Involved in building database and APIs in different portal.
+> Created, write and maintained technical documentation for different formats
+like TXT, PDF, DOC, CSV, XLS etc.
+> Redesign portals using backend and front-end web technologies.
+Company Name: AVIG Techdraitions Private Limited
+Technologies: Python, MySQL, HTML, CSS, Bootstrap
+Project: Republic Hyundai Service Centre
+Client: Alsis Technologies Private Limited
+Technologies: Django, MySQL, HTML, CSS, Bootstrap
+Project: Verifer - A College ERP System
+Client: Tansar Solutions Private Limited
+Technologies: C#, MySQL
+Project: DC and Mercedes GL350 Motors — A Car Dashboard App
+Client: Sunshine Powertronics Private Limited
+Technologies: Android, SQLite
+Project: ZEALIA and PDEA — An IOT Lab Automation App
+Technologies: Android, SQLite
+Project: AVIGA — A Home Automation App
+Technologies: Android, SQLite
+Declaration
+I hereby solemnly declared that the information furnished above is correct and true
+to the best of my knowledge and belief.
+e Passport: [3297878 Date:
+Place:
+Vishwajeet Vijay Jagtap

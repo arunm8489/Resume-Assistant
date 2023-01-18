@@ -1,0 +1,55 @@
+PRABHTAJ SINGH BHASIN 101) soveciesoe
+. . prabhtaj.bhasin@gmail.com
+Avid problem solver and ML/AI Enthusiast linkedin.com/in/prabhtaj-bhasin
+Results-oriented, highly adaptable Software Engineer, passionate about research and github.com/arkouda
+skilled in developing elegant and scalable solutions in the context of ML, focusing on
+CV and NLP. A quick learner with excellent problem solving and leadership skills
+ 
+Work Experience
+&,
+J
+SA
+i
+©)
+Senior Software Engineer (ML/Al), Accolite Digital October 2020 ~ Present
+e@ eE-KYC
+Client - Prudential PLC
+A project spanning across a set of backend ML/AI services and edge Al models driving decision metrics for a complete eKYC module
+for an insurance application
+Tasks-
+O Developed edge Al models for Image Classification, categorizing images into ID / Non-ID and into known ID types
+and Heatmap Regression based Landmark Localizer for document auto-cropping
+Implemented React Native component for Real-Time Blink Detection, Iris Tracking and Facial Orientation Estimation
+O Developed a React-Native component for inferencing Facial Recognition/Verification results using TensorflowJS and
+MobileNet architecture for matching faces between PhotolDs and real-time Video
+e ID-OCR
+Client - Prudential PLC
+This project enables Information retrieval from Identity Cards and Documents of thirteen countries and a total of thirty distinct ID
+types, serving as backend for multiple Sign-up, Verification and enrollment journeys in three different applications
+Tasks-
+O Developed a DL model using Transfer Learning to categorize input images into ID, Photocopy or Non-I!D (ID-Detect)
+O Developed DL models using Transfer Learning to classify an ID image into known ID types for various countries
+(ID-Classify)
+O Developed Heatmap Regression based |D-card Landmark Localizer to detect the 4 corners of an ID / Document in an
+image to facilitate auto-cropping
+e@ Ro es & RESPONSIBILITIES
+O Define AP! Architectural Design and Pipelines (end-to-end Solution Architecture) for Al/ML services
+oO Identify areas of improvement in existing services and investigate new technologies for the same
+O Incorporation of developed models into scalable production-grade APIs and deployment on AKS
+O Owned full responsibility of developing CI/CD pipelines, migrating and modifying PROD and UAT clusters
+© Actively collaborated with stakeholders to improve the developed APIs and modules
+Software Engineer (ML/Al), Accolite Software July 2019 ~ September 2020
+e ID-OCR
+Client - Prudential PLC
+This project enables Information retrieval from Identity Cards and Documents of thirteen countries and a total of thirty distinct ID
+types, serving as a backend for multiple Sign-up, Verification and enrollment journeys in three different applications
+Tasks-
+O Developed a Config driven backend service to extract information from ID images of various countries using OCR
+Implemented Redis Caching for updating API configurations, taking effect without the need to deploy the APIs
+O
+O Implemented a Metric for Reference-less text quality in ID images as proposed in CG-DIQA ‘18 (Hongyu Li et al.)
+O
+Developed an Image Processing based ID Background removal algorithm for crop-aligned ID cards along with other
+image enhancement techniques to enhance OCR capture accuracy
+oO Increased Image Processing API throughput by leveraging GPUs for number crunching, resulting in a multi-fold
+performance increase (Image-Match)

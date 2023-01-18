@@ -1,0 +1,90 @@
+INTEREST
+Exploring the
+Concepts that
+nature connects
+to develop Al.
+EDUCATION
+RAJIV GANDHI UNIVERSITY OF
+KNOWLEDGE TECHNOLOGIES
+(RKVALLEY)
+B.TECH IN ELECTRONICS AND
+COMMUNICATION ENGINEERING
+Grad: May 2019 | KADAPA, AP, INDIA.
+RAJIV GANDHI UNIVERSITY OF
+KNOWLEDGE TECHNOLOGIES
+(RKVALLEY)
+PUC IN MPC
+Grad: May 2015 | KADAPA, AP, INDIA
+Z.P.HIGH SCHOOL
+Class 10
+Grad. : Apr 2013 | MUCHIVOLU, AP, INDIA
+SKILLS
+SCRIPTING LANGUAGE
+e Python
+PROGRAMMING LANGUAGE
+C e Basic C++ e Basic Java
+LIBRARIES PROFICIENT
+eNumpy ¢ Pandas ¢ Matplotlib « OpenCV
+e Tensorflow ¢ PyTorch e Keras @ Flask
+e Matlab © FASTapi ¢ Seaborn ePytorch
+TOOLS
+eGit ¢ Linux ¢ Jupyter Notebook
+eVisual Studio , Soyder
+MOOC UNDERTAKEN
+e ML; Stanford University , Coursera
+e Python ; Udacity
+e ML Crash Course ; Google
+COMMUNITY
+e Organizer at astronics and
+swachbot workshops(Rgukt-
+Rkvalley)
+e Served as NCC cadet in RGUKT
+Hemanth
+MUDUSU HEMANTH
+mhemanthk1723@outlook.com | +91-8106928397
+PROFILE SUMMARY
+Passionate Data Scientist professional and data-driven analyst with the ability to apply ML and DL Techniques
+and Leverage algorithms to solve real world business problems .Highly adept at data analysis and
+Visualization.Worked on Python, Tensorflow, Keras, Pytorch, OpenCV, MySQL, Data Mining, Flask, Excel. Strong
+Knowledge and Experience in Machine Learning ,Deep leaning ,computer vision and Statistics.
+PROFESSIONAL EXPERIENCE :
+MulticoreWare | DATA SCIENTIST
+JUN 2019 - Till Date
+e We Efficiently relied on Convolutional neural network to solve ADAS, Security,
+Surveillance, Robotics with the help of Computer Vision, and Machine learning
+state of art technique.We enable everything in Low power Embedded ,and GPU
+Hardware.Our Development Solutions are in Strict Specification.
+e Microscopic image segmentation for medical image analysis. We Used Systematic
+cancer detection algorithms which developed to enable the automation of
+detection as per user eye sight.
+e Research and Development of various Deep Learning and Machine learning
+algorithms for business prediction modelling with cutting edge state of art of
+ML/DL techniques Worked on classification, Clustering, Instance image
+Segmentation, Computer Vision.
+INFERIGENCE QUOTIENT | COMPUTER VISION INTERN
+MAY 2018 - AUG 2018
+e Working on Cutting edge computer vision Problems using Image Processing
+Techniques with Python , OpenCV tools. Automated the process of extracting
+3D Depth information from Images ,process was named Stereo Imaging.
+¢ Develop Solution Ideas with given object and constraints.And Applied
+Exploratory analysis on Distinct Images And assist full time research with
+various problems.
+RECENT PROJECTS
+VISUAL PERCEPTION |
+e Detection and segmentation of image/videos objects using advanced
+Convolutional Neural Networks to breakthrough in Advance Driver
+Assistance,Security,Surveillance, Robotics and Manufacturing industries. We
+Made Optimized Solutions for those problems with low computing power.
+MEDICAL IMAGE ANALYSIS |
+e Microscope for cancer segmentation is instrumental for the diagnosis and staging
+of cancer, and thus guides therapy.Deep Learning Algorithm(CNN) to enable on
+images captured by camera mounted to the digitalize microscope for image
+analysis. It enabling seamless integration of Al into routine workflows.
+IMAGE MATTING |
+e Matting of images using auto-encoder architecture as base encoder and
+refinement of achieved 2k quality using another auto-encoder at end.We Used
+it for making Foreground Object to experiment.
+IDENTIFICATION OF USER DETAILS |
+e Using Deep Learning We verify details whichever given by web development
+team,Whether every phrase is in position or not as per user requirements in
+User table in database.Mostly rely on LSTM structure.

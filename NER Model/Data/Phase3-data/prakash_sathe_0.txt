@@ -1,0 +1,47 @@
+\% 9689038709/9689641070
+™% prakash.sathe3012@gmail.com Prakash Sy-laals
+9 Sinhgad Collony Rahatani Pune-17 DY-he- Me lelr-lala is
+ 
+SUMMARY
+Data Scientist with 3 years of experience executing data-driven solutions to increase efficiency, accuracy, and utility of internal data
+processing. Experienced at creating data regression models, using predictive data modeling, and analyzing machine learning
+algorithms to deliver insights and implement action-oriented solutions to complex business problems.
+PROFESSIONAL EXPERIENCE
+Data Scientist Oct '18 - Present
+Mphasis Pune, Maharashtra
+Data and Machine Learning integration design & Data modelling
+Project 1-
+Description:
+A financial company is providing loan where individuals can either invest in personal loans or request to borrow money provides full
+performance and detailed transaction reporting from an easy-to-use merchant dashboard.
+Roles:
+¢ Evaluating client’s credit data and financial statements in order to determine the degree of risk involved in lending money to them.
+¢ Analyzing client records and using the data to recommend payment plans.
+¢ Evaluating the financial status of clients by producing financial ratios.
+Project 2-
+Description:
+Involves Text-Pre-processing, Dynamic Language modelling, Natural Language Processing. TF-IDF is used to find the features of intra-
+class documents. A statistical model is used to find and differentiate the inter-class features. K-Nearest Neighbor, Support Vector
+Machine, Naive Bayes classifiers are used to classify the documents.
+Roles:
+¢ Connect and collaborate with subject matter experts in R&D, Commercial and Medical.
+¢ Make impactful contributions to internal discussions on emerging machine learning methodologies.
+¢ Educate the organization both from IT and the business perspectives on these new approaches, such as testing hypothesis and
+statistical validation of results.
+EDUCATION
+BTech (GSMCOE PUNE)
+* 66%
+Diploma (SD Polytechnic Ahmednagar)
+* 70.91%
+ADDITIONAL INFORMATION
+Languages: English, Hindi, Marathi
+Hobbies: Martial Art, Outdoor games, Reading
+KEY SKILLS
+¢ Python, SQL, MongoDB
+¢ Linear & Logistic Regression, Naive Bayes Classifier, K-NN, Support Vector Machines, Decision Trees, Random Forest, Adaboost
+¢ Flask Web framework
+« AWS
+¢ Windows, Linux
+¢ ML libraries & NLP
+¢ Time Series
+¢ AR, MA, ARMA, ARIMA, SARIMA, FBProphet

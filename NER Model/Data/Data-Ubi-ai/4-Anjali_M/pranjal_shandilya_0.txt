@@ -1,0 +1,116 @@
+ 
+ 
+ 
+ 
+ 
+PRANJAL
+SHANDILYA
+Data Science Consultant
+Proven experience in Data science role and
+Passionate about Machine Learning and
+Analytics for business strategy and decision
+making!
+WORK EXPERIENCE
+Decision Scientist- Consultant
+Fractal Analytics (fractal.ai)
+07/2021 - Present Bengaluru, India
+Achievements/ Tasks
+e Product design of time series models to predicts sales
+volume of a CPG account
+e Net Revenue Management Analysis, Food and
+Refreshment industry, Fabric Solutions for European,
+Asian and Southern american region
+® Developing fucntions for web-scraping data and eye
+ball competitor analytics
+Aftersales Product Analyst
+Renault Nissan Technology And Business
+Centre India Pvt. Ltd.
+07/2017 - 08/2020 Chennai, India
+Achievements/ Tasks
+© Received, cleaned, and prepped vehicle level CAN
+data from our client using SQL, and Excel to help
+Decision sciences team for preparing meaningful
+dashboards.
+Pitched a business model selected worldwide in Paris
+under CSR category to improve business and
+sustainability. Received excellence in meeting
+business goals by DVP.
+Responsible for developing Powertrain Diagnostic
+Codes for vehicles in South-Korea and Romania and
+delivering quality products to customers.
+EDUCATION
+Post Graduate Program in Data Science
+Praxis Business School
+08/2020 - 06/2021
+Courses
+@ Machine Learning,
+Deep Learning,
+Statistics, NLP
+CQP! 6.32/8.0
+e Ranked 3rd for
+academic excellance,
+Best Capstone Project
+Award
+B.Tech Automobile Engineering
+Manipal Institute of Technology
+07/2013 - 05/2017 CGPA 7.95/10.0
+Project:
+e Bachelor's Thesis:
+Advanced safety
+bumper for 4 wheelers.
+ 
+pranjal.shandilya@praxis.ac.in 5%
++91-7975527081 ff
+Bangalore, India °)
+linkedin.com/in/pranjal-shandilya- in|
+41224627
+github.com/pranjalshandilya ©)
+SKILLS
+Python Machine Learning SQL
+Microsoft Excel Google Data Studio Tableau
+PERSONAL PROJECTS
+COVID-19 DETECTION USING X-RAY IMAGES
+(04/2021 - 05/2021)
+e@ The objective of this project is to identify whether a person is COVID
++ given his X-ray image (posteroanterior view) available.
+Data collected from IEEE hosted GITHUB folio and Kaggle. Cross-
+referenced the image using a function and filtered out only the
+images where RT-PCR test came out as positive after testing and
+only the posteroanterior view of the images as in Normal X-ray
+dataset we have only posteroanterior image.
+Model is a traditional CNN with 3 Conv layers, all having pooling
+layers and ReLU as activation function. A dropout of 0.25 has been
+added to all the three dense layers in order to remove overfitting.
+The output layer has a single neuron unit with sigmoid function.
+® GitHub Link
+LOAN STATUS PREDICTION (02/2021 - 02/2021)
+@ Learned and identified the important features in the dataset with
+EDA and labelling the data according to ordinal and binary variables.
+ 
+@ Understanding the difference between different models used to
+predict the outcomes (Logistic model vs SVM).
+® Github Link
+BIKE BUYER'S PREDICTION (08/2020 - 09/2020)
+@ Learned the importance of Data wrangling by cleaning the raw data
+with missing value imputation techniques which helped us in
+obtaining better features. Data visualization and storytelling helped
+us in gaining better understanding of the data. We used Univariate,
+Bivariate and multivariate analysis to explore the hidden insights.
+Used k-NN and Decision Tree Classification algorithm for model.
+Github Link
+CERTIFICATES
+Microsoft Azure Fundamental - Fractal Certified
+(07/2021)
+Fractal Analytics Academy
+CutShort Certified Deep Learning - Basic (05/2021)
+Credential URL
+ 
+Paper Published in ICBAI @ IISc Bangalore on Prediction
+of Hit Hindi songs science (12/2021)
+(PDF) Predicting the Commercial Success of a Hindi Song
+(researchgate.net)
+ 
+ 
+LANGUAGES
+English Hindi
+Full Professional Proficiency Full Professional Proficiency

@@ -1,0 +1,39 @@
+Abhinav Anand
+\% +918123910869 & anand.abhinav46é@gmail.com in www.linkedin.com/in/abhinav-anand-2101 @ Bangalore
+a SUMMARY
+5+ years of IT experience in handling and analyzing data across multiple domains. Having a good track record of building successful
+predictive models on gathered data by implementing Machine Learning and Neural Network techniques and algorithms. Highly adept
+at classification, regression and clustering ML techniques and leverage algorithms to provide better automated solution of repetitive
+business problems. Well versed in creating and tuning Artificial Neural Network , Computer vision and Text Analytics . Efficiently
+implemented Deep Learning techniques in multiple use cases related to Gesture recognition, Image recognition etc.
+a KEY SKILLS
+ 
+a KEY PROJECTS
+Project EWSA (Early warning system on Artis)
+Domain : ITES | Tech Stack: Python ,Pandas
+© Objective : Early warning to database engineer about probable Transaction failure
+© Solution : Designed a machine learning model using logistic regression algorithm to predict status of transactions.
+o Key Achievement: Model able to predict with 97% accuracy and with a balanced precision and recall
+Project : Technician Dispatch Automation
+Domain : TELECOM | Python, pandas, NLTK
+© Objective : Recommending best suited technician on faulty site
+© Solution : Used the combination of machine learning and Natural language processing to achieve goal
+o Key Achievement: This intelligent randomization process speed-up trouble shooting process , reduces TAT(turn around time)
+which lead to significant increase in customer satisfaction rate.
+Project Name: Doc Auto Vision
+Domain : Human Resource (HR) | Tech Stack : Python, Tensor Flow
+© Objective :To provide first line of support while filling document data .
+© Solution : Used computer vision concept with the help of deep neural network to extract information from the given document.
+o Key Achievement: Expedite and hassle free solution for document filling , this Al powered approach help to eliminate human
+error and repetitive Task.
+a WORK EXPERIENCE
+Software Engineer Aug '18 - Present
+Lumen Technologies Bangalore
+Lumen is formerly known as CenturyLink , it is a 90 years old telecom company and 3rd largest in USA.
+Analytics & Machine Learning Methodologies
+Conducted extensive research on resource optimization in database and IT infrastructure sector
+Applied various ML Algorithms to maximize profits by optimizing resource utilization and allocation.
+Gathering resource allocation data from more than 300 instances for performing exploratory data analysis.
+Assembling best suited algorithms regularization and boosting techniques for any problem sets.
+Created models for image processing using deep neural network and computer vision to reduce the human effort in document
+reading.

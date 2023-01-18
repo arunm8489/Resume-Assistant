@@ -1,0 +1,35 @@
+Client — Indosat Indonesia
+e Recharge value prediction model-
+o Target: Predict MSISDN’s wise total recharge amount in next
+month.
+o Business Impact: Combining propensity and the RFM matrix,
+Customer can decide whether a customer should be subjected to
+higher number of small denomination recharge or less frequent large
+denomination recharges. This should help increase overall recharge
+amount.
+e Data upselling predictive model-
+o Target: Predict MSISDN’s wise total data usage in next month.
+o Business Impact: The leads with potential increase in usage could
+be subjected to data packages of increased denomination. Hence,
+increasing data ARPU.
+e Universal Control Group (UCG)-
+Client: Telekom Kenya, H3I Jakarta
+Objective: Outcome of the statistic model is to divide subscriber base into
+UCG and UTG, in order to calculate campaign effectiveness
+o Developed the scripts and logics, which takes data from different
+data marts of the client and create the aggregated level data required
+for UCG run.
+o Major techniques i.e. stratification, K-mean clustering, random
+sampling, t-test, representativeness validation used.
+e Sentiment scoring model in python-
+Client: Internal, Mobilytix product
+Aim of the model is to target the subscriber based on their sentiments on
+social Medias toward the product and provide the real time offers.
+o Data collected from twitter social media using public APIs.
+o Data cleaning was performed in python including word tokenization,
+stopword removal, Lemmatization etc.
+o Trained different classification algorithms (Random forest, logistic
+regression, KNN) and then built the model using random forest.
+EDUCATION
+BMS College of Engineering Aug 2014 - Apr 2018
+e B.E/CSE

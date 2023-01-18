@@ -1,0 +1,33 @@
+Tenure : Sep 26, 2019 to Jan 07, 2020
+IT Analyst
+Organization : Teleperformance
+Tenure : July 02, 2018 to May 06, 2019
+Technical Skills
+Machine Learning Linear Regression, Logistic Regression, Polynomial
+(Supervised Learning) Regression, KNN, SVM, Naive Bayes, Decision Trees,
+Ensembling Techniques, Random Forest, AdaBoost,
+Gradient Boosting, XGBoost
+Machine Learning K-means Clustering, Hierarchical clustering, Apriori, ICA,
+Unsupervised Learning PCA
+TimeSeries Forecasting ARIMA, SARIMA, Facebook Prophet
+Deep Learning Neural Networks, ANN, CNN, RNN, LSTM, GRU,
+Autoencoders
+IDE Tools Jupyter Notebook, JupyterLab, PyCharm, Databricks
+Others Statistical Modeling, Data Structures and Algorithms,
+Mathematics, Linear Algebra, Probability
+Operating System Windows, Ubuntu (Linux/Unix)
+Version Control System Git and Github
+ 
+Production Projects
+Projectl):
+Product name : FaceOpen
+Company : Techolution
+Details : Touch Free Door Open and Unlock Technology
+Tools and Technique used _ : Python, OpenCV, Keras, TensorFlow on GPU, PyTorch, Numpy,
+Pandas, Sklearn(Scikit-learn), Matplotlib, Seaborn, CUDA, NVIDIA Drivers, Intel Realsense
+Depth Camera, opencv2, pyrealsense2.
+Architectures used : Transfer Learning, MobileNetV2, DenseNet121, DenseNet169,
+ResNet50, VGG16, NASNet, Efficient Net, Inception, FeatherNetB, YOLO, ImageNet.
+Faceopen is designed to prevent face spoofing. Our 3D face liveness detection technique
+powered by artificial intelligence rejects printed photographs or images shown on digital
+devices, reducing security threats and the risk of unauthorized entry.

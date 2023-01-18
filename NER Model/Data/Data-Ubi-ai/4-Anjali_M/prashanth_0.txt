@@ -1,0 +1,36 @@
+Mr. Prashant Maskale
+Cell No.: +91-9420459686
+Email: prashant.maskale@gmail.com
+Designation: Machine Learning Engineer
+PROFESSIONAL SUMMARY
+A dynamic and motivated Professional having 3+ years of Data Analytics experience as Machine
+Learning Engineer in data-driven solutions to increase efficiency, accuracy, and utility of internal data
+processing
+SUMMARY:
+e Working closely with business and engineering teams to encourage statistical best practices with
+respect to experimental design, data capture and data analysis.
+A detail oriented professional experience in Python, Data Science and Machine learning with
+expertise in Financial and Healthcare domain projects.
+Participating in Data Preprocessing Techniques in order to make data useful for creating
+Machine Learning Models.
+Strong communication and interpersonal skills. Ability to interact with clients with ease and
+professionalism.
+Machine Learning and Data Science
+“* Python
+e Numerical Python (NumPy)
+e Pandas
+e Regular Expressions
+e §=Scikit-learn, SciPy
+e Seaborn, Matplotlib
+e Natural Language Processing, NLTK
+e Flask
+“* Machine Learning
+Linear Regression, Logistic Regression
+K-Nearest Neighbor’s (KNN)
+Decision Tree Regressor, Decision Tree Classifier
+Bagging: Random Forest Regressor & Classifier
+Boosting:
+> Ada-Boost,
+> Gradient Boost,
+> Xtreme GBoost
+e Ridge Regression

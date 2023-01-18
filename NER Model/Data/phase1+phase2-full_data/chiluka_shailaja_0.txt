@@ -1,0 +1,41 @@
+CHILUKA SHAILAJA
+PROFESSIONAL SUMMARY
+Driven Machine Learning Engineer ready to thrive in demanding Artificial Intelligence (Al)
+processing environments. Well-informed on the latest Machine learning (ML) advancements,
+Deep learning (DL) and NLP. Ready to combine tireless hunger for new skills with desire to
+exploit cutting-edge Data Science and Artificial Intelligence technology.
+WORK HISTORY
+Machine Learning Engineer (2020/09 - Present)
+Future Tech IT Global Services, Hyderabad, Telangana
+Worked with R&D team in Machine Learning and Deep Learning models
+Worked on driver’s license confidentiality and verification approach using Image classification
+on DL model.
+Al integrated features and models have been developed for a bike taxi application and
+exposed to Al integrated APIs to Cloud utilities.
+Analysed and Built a Custom Chatbot assistant using NLP technology for an application.
+Currently working in the R&D team to elaborate different conceptual and practically endorsed
+Al features for an Autonomous Vehicle Techstack(Al) such as geofencing, Lane detecting, path
+planning, auto switching modes of vehicle engine and many as such.
+Machine Learning Intern (2020/03 - 2020/08)
+Artificial Penetration Software Solutions, Hyderabad, Telangana
+Excelled in Machine Learning, Deep Learning, Natural Language Processing, open CV and
+Python programming.
+Translated benefits of machine learning technology for non-technical audiences, including
+cost/benefit analyses.
+Created and presented models using Machine Learning tools that computed best accuracy to
+the Managing Holders.
+Developed and implemented Deep learning concepts( RNN, CNN, ANN) to improve the model
+in Traffic Signs Detection.
+Social distancing an open source project was developed which can automatically estimate
+interpersonal distance from uncalibrated RGB cameras.
+Constructed a language model to accomplish Named Entity Recognition, Machine Translation
+and Spellchecker which gave an excellent performance to extract information from the given
+context.
+Created data visualization graphics, translating complex data sets into comprehensive visual
+representations.
+Maintained positive business relationships with both internal personnel and external data
+solution providers.
+lIOT Intern (2018/01 — 2018/07)
+Smart Bridge Educational services pvt Itd., Hyderabad, Telangana
+Exposed to various Hardware and Software components in the Domain - ‘Internet of Things’
+using Arduino programming.

@@ -1,0 +1,15 @@
+Cognizant Technology Solutions | Bengaluru, IN Jun '18 - Feb '21
+Programmer Analyst
+Quality Engineering & Assurance
+e Collected 70 % data using MySQL and MongoDB
+e Analyzed the data, implemented on DAF Application for testing requirement
+e DAF is 100 % OCR based pproject where the legal mortgague documents are transfered to OCR engines
+through FTP process for classification
+e Generated daily level report on the basis of testing results and visulaized using Excel and updating the
+resource with new data
+e Executed automation on DAF for cross vaildation and sharing testing results with the team and other
+stakeholders
+CERTIFICATIONS
+e Training Program , Cognizant Technology Solutions
+e Python for Data Science , NPTEL
+e Certified Associate in Python, CISCO Academy

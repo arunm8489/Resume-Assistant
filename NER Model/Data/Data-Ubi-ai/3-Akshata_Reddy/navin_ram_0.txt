@@ -1,0 +1,37 @@
+Name: Navin Ram Kumar J
+Phone: 8870999227
+Email ID: j.navinramkumar@yahoo.com
+SUMMARY
+ 
+= __ Data Science Enthusiast with a passion to learn and grow; 1.5 years of experience in Life Sciences/Healthcare
+sectors testing web applications and mobile applications; seeking a challenging opportunity in the field of Data
+Science
+= LinkedIn profile = HackerRank profile
+«= Tableau profile = Great Learning e-portfolio
+= GitHub profile
+KEY SKILLS
+Python for Data Science
+MySQL
+Machine Learning (Classification, Regression, Ensemble, Clustering)
+Statistics (Basic Understanding)
+Visual Analytics (Matplotlib, Seaborn)
+Tableau
+ACADEMIC PROJECTS
+Anomaly Detection in Amazon Reviews
+Objective: To find the anomalies between reviews and ratings of Amazon products
+Outcome: Achieved 100% Recall in terms of detecting anomalies. False Positive impacted the F1 score. Since
+False Negative is costlier. Model results were overwhelming.
+Key skills: NLP, Supervised Learning - Classification, EDA, Python, Ensemble Techniques
+California Housing Prices
+Objective: To find out optimum price of a house using features, no. of bedrooms, median income, total
+rooms, population, households in California region.
+Outcome: Obtained three different groups using various features. Regression was performed on each group
+to find the price for the house. The price can be attributed to change in features like number of bedrooms,
+etc.
+Key skills: KMeans Clustering, Agglomerative Clustering, EDA, Python
+Parkinsons’s Disease
+Objective: To predict if a person has Parkinson’s disease using Vocal features of the participant.
+Outcome: Model was able to predict the people with disease very will with 95% accuracy.
+Key skills: Ensemble Techniques, Python, EDA
+HACKATHONS AND OTHER ACHIEVEMENTS
+Secured gold badge in SQL on HackerRank.

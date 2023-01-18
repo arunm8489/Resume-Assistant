@@ -1,0 +1,102 @@
+95 (jo
++91 7014916265
+snehashis.pro@gmail.com
+/in/snehashis-jha-76859798
+https://github.com/O5sjha
+Key skills
+Data Cleaning, Data analysis, Data
+Visualization
+Machine Learning, Deep Learning,
+Natural Language Processing, Com-
+puter Vision, OpenCV, TensorFlow,
+Sklearn,
+Languages: Bengali (native), English
+(professional), Hindi(Fluent).
+Programming/Plat-
+forms
+ 
+Python (Advanced).
+MATLAB (Advanced).
+Tableau (Intermediate).
+MySQL (Intermediate).
+GCP (Intermediate).
+BigQuery (Intermediate).
+MOOCs & Cerifications
+Data Science A-Z™, by Kirill Ere-
+menko, Udemy, April’20 (in progress)
+Using MySQL database with python,
+by John Elder, Udemy, April’20.
+Deep Learning and Applications, by
+IIITDM Jabalpur, Dec’19.
+Python for data science, by R. Ren-
+gaswamy (IIT Madras), on NPTEL on-
+line Courses, Sep’19
+Machine Learning, by Andrew Ng, on
+Coursera, Oct’18.
+Data Science and AI.
+Digital Signal processing, Digital Im-
+age Processing
+Snehashis Jha
+Data Scientist, Data enthusiast, Techni-
+cal Hoarder & Proud Geek
+ 
+Experiences
+Nov’20
+Present
+Sep’ 18-
+Oct’2020
+Jul15
+Sep’18
+- Data Scientist II, at Aprolyx Technologies India Pvt Ltd,
+Kolkata
+¢ Intelligent system development for anomaly detection for faulty
+machinery using ML algorithms
+Project Assistant (Level - III), at CSIR-CSIO, Chandi-
+garh
+¢ Real-time deployment project entitled — Pilot deployment of Intel-
+ligent Elephant Movement Detection and Alert System,
+¢ Sensor data acquisition * Multivariate prediction with neural net-
+works, * Dynamic-data monitoring , * Development of Data analysis
+tools.
+- Assistant Professor, at RIET, Jaipur
+¢ Deputy HOD, dept. of ECE. * Project coordinator of Under Graduate
+Research Wing (UGRW).
+Individual Projects
+2019 - 2020
+2018 - 2019
+Watchdog observatory
+Server end dynamic file handling and real-time data processing for
+different feed forward neural nets and analytical tools with log-file
+integration, developed on PYTHON.
+Facial Expression Detector
+Real-time facial expression detector using OpenCV,FFCNN. Haar
+cascade frontface algorithm, developed on PYTHON.
+GUI Build - BAI calculator
+This is a GUI to calculate body adiposity Index using height, gender,
+hip circumference and age as user input , developed on PYTHON
+Machine Learning webapp
+webapp to distinguish between edible and poisonous mushrooms,
+developed on PYTHON and streamlit.
+GUI build - Preprocessing UI 2.0.1
+GUI of 8-channel time-series signal preprocessing to perform: data
+preparation, time and frequency domain analysis with excel integra-
+tion, developed on MATLAB.
+FFCNN for animal classification
+Development of a FFCNN classifier for multivariate animal classifica-
+tion. data source: Kaggle, developed on PYTHON.
+Education
+2012-2014
+2008 - 2012
+Master’s Degree: ECE at NIT Rourkela
+CGPA : 8.04
+Rourkela, Odisha
+Bachelor’s degree: ECE at SIT, WBUT _ Siliguri, West Bengal
+CGPA : 6.65
+2008 10+2: Science at Malda Zilla School Malda, WB
+Percentage: 74
+Miscellaneous
+eProjects Supervised :
+vised.
+e Publications: 4.
+¢ GATE: Year - 2012, rank - 3183, discipline - ECE
+Two Masters’ project super-

@@ -1,0 +1,53 @@
+Gayathri G. Nair
+Girigokulam
+Kondazhy(PO)
+Thrissur
+Kerala - 679106
+Ph: +91 8086850647
+e-mail: gayathrign96@gmail.com
+www.linkedin.com/in/gayathri-nair-
+699al 13b/_
+https://github.com/Gayathri-G-Nair
+ 
+ 
+To work on a suitable position in a prestigious software company, where I can learn with experience, utilize my
+existing skills and grow in my relevant field, contributing to the development of the organization and nation.
+And to serve my parents as well as the people who suffer in the society by offering a helping hand to them with
+the best of my abilities.
+ 
+ 
+ 
+ 
+ 
+M.Tech Govt. Engineering en Salam 019 912
+(Computational Linguistics) College Palakkad noes
+University
+Sreepathy Institute
+een ter Scj of Calicut University 2017 8.5
+(Computer Science) Management
+H.S.E (12th) G.H.S.S Panjal Kerala State 2013 84
+S.S.L.C nee Kerala State 2011 88
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Natural Language Processing, Machine Learning, Data Mining, Big data, Information Extraction.
+ 
+Programming Languages _ : Python, R, C
+C++ Database Languages : MySQL
+Operating Systems : Windows, Ubuntu
+Machine Learning : Scikit-learn, Tensorflow, Keras, Neural Network, LSTM, CNN, Naive
+Bayes, SVM.
+NLP Tools : NLTK, coreNLP, Spacy, Stanford CoreNLP.
+Applications : FTX, Libre Office, MS Office, Adobe.
+Extras : Docker, Kafka, APIs
+1. Data Engineer — NLP Almug Technologies Pvt. Ltd January’21 - Present
+2. Data Engineer — NLP Almug Technologies Pvt. Ltd June’ 19-November 19
+o Gained experience and expertise with robust NLP products within the organization.
+o Processed with big data and inference Knowledge from them.
+o Extracted specific information and analyzed data.
+o Extracted from unstructured data and converted to structured data.
+o Used Retraining and Transfer Learning Approaches

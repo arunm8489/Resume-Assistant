@@ -1,0 +1,38 @@
+Rohan Chauhan
+Microsoft Certified Azure Data Scientist
+Email: rohanchauhan22@gmail.com | Mobile: +91 79911 54440 | Website: rohanchauhan.co.in
+EXPERIENCE
+Data Scientist - The Shortcut, Finland, Dec 2019 - Mar 2020
+Led a team of 5 interns for developing the internal dashboard project. Accelerated project development by
+spearheading the documentation process. Worked with 2 more interns to train more than 25 data analysts
+in python and SQL. Provided useful insights on KPI using BI dashboards.
+Machine Learning Research Assistant - Aalto University, Finland, Oct 2017 - Feb 2019
+Developed a broad crawler for crawling 1000 fake news websites and analyzed their network in the data
+mining group. Designed a method for expert knowledge elicitation from drawing in the probabilistic
+machine learning group.
+PROJECTS
+Incident Management Report- Power BI, DAX
+The incident management data has been taken from UCI Repository. The report provides the current status
+of the system and further analysis for increasing uptime. LINK
+Azure MLOps Pipeline - Python, Sklearn, Azure SDK, Github Actions
+Simple demonstration project for CI/CD pipeline using Azure Machine Learning and Github Actions. LINK
+Lead Scoring Batch Inference Pipeline- Spark, PySpark, MLflow, Azure SDK
+We use PySpark to train the model and MLflow to track the experiment. After training the model, we deploy
+a batch inference pipeline on Azure and test it using a batch of csv from the marketing dataset. LINK
+Quality Prediction Real Time Inference Service - Python, Sklearn, Azure SDK, ACI
+In this project, we train a quality prediction model on a UCI wine dataset and deploy the model as a real
+time web service. We consume the endpoint using HTTP requests. LINK
+Credit Risk Classification AutoML Interpretable Model- Python, Azure SDK
+We use Azure AutoML to train a model on credit risk dataset and use Permutation Feature Importance
+(PFI) Explainer to provide explanations for predictions of the credit risk model. LINK
+EDUCATION
+Aalto University, Finland, Jun 2019
+MS, Machine Learning, Data Science and Artificial intelligence
+KIIT University, India, April 2017
+BTech, Computer Science and Engineering
+CERTIFICATION
+Microsoft Certified: Azure Fundamentals - Compute, Security, Network
+Microsoft Certified: Azure Data Fundamentals - Storage, Databases, Orchestration
+Microsoft Certified: Azure AI Fundamentals - APIs for CV, NLP, Conversational
+Microsoft Certified: Power Platform Fundamentals - Automate, App, Chatbots
+Microsoft Certified: Azure Data Scientist Associate - SDK, ML Pipelines, Databricks

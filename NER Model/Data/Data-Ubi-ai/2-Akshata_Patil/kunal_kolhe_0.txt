@@ -1,0 +1,49 @@
+ 
+kunalkolhe333@gmail.com &4j _linkedin.com/in/kunalkolhe3 in
+K U N A L K O L H E (+91) 976 638 0702 \ github.com/kunalk3 ®)
+SUMMARY
+Software Engineer having strong analytical ability, problem-solving skill, proficient in Python, C++ with over 3.0 years of industry
+experience in software development, analytics, data science with extensive experience in analysis, manipulating, processing,
+insights and machine learning techniques to meet business needs. Highly motivated individual, team player, quick learner who
+aims to contribute towards consistent organizational growth.
+KEY SKILLS
+Programing Languages/ Tools — Python, C/C++, OOPS, HTML
+Machine/ Deep Learning Libraires — Pandas, Numpy, Scikit-learn, Scipy, TensorFlow, Keras, Selenium, Pycaret
+Data Visualizations — Matplotlib, Seaborn, Tableau
+Natural Language Processing Libraires — NLTK, TextBlob, Gensim, FastText
+Database Technologies — MySQL
+Web Frameworks/ Cloud Services — Flask, Heroku, AWS, API
+IDE/ Platforms — Jupyter Notebook/ lab, Visual Studio, PyCharm, Spider, Google Colab, Eclipse, Windows, Linux
+Issue Tracking/ Version Control System — Jira, Git, SVN
+WORK EXPERIENCE
+ 
+63 Moons Technologies — Andheri, Mumbai (HQ)
+Software Engineer (ML) - (May 2021 — Oct. 2021)
+ODIN is a trading platform for end user to trades in equity, derivatives, mutual funds, IPOs, currencies, commodities from single
+screen in BSE, NSE, MCX and NCDEX.
+Developed solutions for stock data analysis, scripts price predictions under organizational policies for product enhancement
+using python, machine learning and deep learning.
+Automated Jira process, work-logs, validations using selenium and minimized review efforts by 0.5 hours.
+Demonstrated stock data extraction for NSE, BSE markets by web-scraping and provided quality datasets to teams.
+Innodatatics Inc. — Hydrabad (HQ: USA)
+Data Science Engineer - (Jan. 2021 — Apr. 2021)
+Analyzed large and imbalanced data consisting more than 120K records with 24 features using ML techniques to provide data
+insights and strategic directions.
+Built predictive and optimal decision models using machine learning algorithms for various business study cases with features
+engineering and evaluation methods in details.
+Supported in ML/Al and NLP application deployments on web-based frameworks heroku, streamlit and flask.
+Worked on NLP module with text mining techniques, extraction, cleaning, pattern identifications, categorizations and entity
+recognitions.
+KPIT Technologies — Rajiv Gandhi Infotech Park, Pune (HQ)
+Software Engineer - (Jan. 2019 — Dec. 2020)
+Collected data insights from client vehicle sensors raw data with more than 94K records, worked on clustering algorithms and
+generated tableau dashboards.
+Closely interacted with analyst, internal research teams to translate business requirements into technical solutions with review
+process time reduction by 0.75 hours.
+Developed and integrated Ul components with HMI framework in Head Up Display, infotainment system using Python, C++ 11
+with object-oriented approach.
+Collaborated on all the stages of software development life cycle from requirements gathering to production releases.
+Software Trainee - (Oct. 2018 — Dec. 2018)
+Defined automations for test case creation, client inputs online checker using python and increased team productivity by 35%.
+Managed highest levels of development practices including unit test, technical and functional design, issues identification and
+resolution.

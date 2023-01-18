@@ -1,0 +1,41 @@
+Sentiment Analysis with Deep Learning
+Technologies: Python, PyTorch
+Models Used: LSTM
+Description: Built a deep learning model to find the sentiment of the customer.
+Responsibilities:
+e Implemented a LSTM based model to predict the sentiment of a customer from the ticket data.
+e Involved in deploying the model to various clients.
+Text Classification using BERT Model
+Technologies: Python, PyTorch Models
+Used: BERT
+Description: Built model for the Text Classification using BERT for IIA.
+Responsibilities:
+e Involved in the development of Transformer based NLP models for the classification of the data.
+e Involved in the testing and fine tuning the model with variousdatasets.
+COGNIZANT TECHNOLOGY SOLUTIONS Coimbatore, India
+Programmer Analyst Aug 16 —Jan 19
+Conversational Chatbot
+Technologies: Python, AWS S3
+Models Used: Chatterbot
+Description: Helped automobile client to set up a machine learning Chabot using Chatterbot.
+Responsibilities:
+e Built a Conversational Chatbot which provides the information about various the production support activities.
+e The bot developed and deployed using AWS services and the prototype developed using Python Chatterbot.
+EDUCATION
+AMRITA SCHOOL OF ENGINEERING Kollam Sep 14 — Jul 16
+Master of Technology in Wireless Technology GPA: 8.5/10
+RAJAGIRI SCHOOL OF ENGINEERING AND TECHNOLOGY Kochi, India Sep 09 —Jul 13
+Bachelor of Technology in Electronics Engineering GPA 67/100
+TECHNICAL SKILLS
+Data Analytics e Python, MongoDB,PyTorch.
+Programming e Python.
+Database e MongoDB,MySQL
+Machine Learning e Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn.
+Deep Learning e BERT,PyTorch,Keras, Natural Language Processing (NLP),
+Transformers,RNN,LSTM
+e CA DevTest
+e AWS Lex,AWS $3
+e GIT
+Automation testing
+Amazon Web Services
+Version Control

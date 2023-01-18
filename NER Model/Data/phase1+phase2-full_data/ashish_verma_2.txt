@@ -1,0 +1,36 @@
+N
+vO
+e Used face recognition in authenticating application.
+e Invoking C++ face recognition executables from cross-platform c#.
+Contributed in developing internal projects:
+e Calling functionality from the application using Twilio.
+e Playing relevant Virtual Person Avatar videos in application on different events such as body
+detection, Face Recognition, etc.
+e Printing relevant files.
+eFront-end development using WPF.
+e Designing and Developing touch and gesture based (Augmented Reality) UI Feature.
+. Developed and deployed incremental versions for client-projects which makes the use of both touch
+and gesture based (Augmented Reality) interface.
+4. Resolving ad-hoc issues, continuous testing and documenting for all projects.
+5.Developed Convolutional Neural Network frameworks performing classification on the hand
+gestures.
+IFI Tech Solution Pvt. Ltd.: January 2017 - June 2018.
+Software Developer.
+List of Projects:
+1. Power BI Custom Visual Development: Developed a Power BI Embedded Web Application
+to get the reports from a particular workspace onto the webpage which help the Non-Power BI
+User to view the reports without creating their account in Power BI.
+2. Developed the web API for internal Project and Migrated the existing project technology from
+ASP.NET to ASP.NET MVC.
+3. Key Role in developing both front-end and back-end for an application software involving Power
+BI JavaScript API.
+4. Have done the Modification on client website which includes adding a new page, updating
+the content of different pages using NodeJS, PUG.
+5. Integrated Visual Studio Team Server to accomplish Continuous Integration/ Continuous
+Deployment.
+Projects
+eImplemented a Standalone Application ‘Medical Inventory Management System’ for
+managing the medicine inventory using Java, JSF, Primefaces, with connectivity to MySQL
+database.
+e Developed an ‘Online Computer Assembly System’ for assembling the CPU Cabinet online
+using PHP, Bootstrap, MySQL.

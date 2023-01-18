@@ -1,0 +1,54 @@
+ 
+>,
+2019 OCT Machine Learning Engineer VALENS DATALABS - Ahmedabad
+In the latest project, 3 million products corpus were created and
+cleaned using NLTK and the Spacy Library, followed by a handmade
+CNN model to predict 2400 classes. The corpus was further divided
+by the 2400 class model. Then for each class, the entity extraction
+model was used to extract entity from the document.
+Ketul Padariya To obtain identical documents from corpus, first the documents
+was vectorized by the Fasttext model, the TFIDF model, and the LSI
+ 
+Machine Learning Engineer model, then the same matrix class of the Gansim library was used
+for faster extraction of the similar documents.
+04 August 1994 Basket analysis was used to obtain product’s associative products.
+Ahmedabad In the first project, I developed a project for entity tagging in real
++91 90336 99226 word random text data and data augmentation.
+After that, the Stanford and Space Entity tagging models were used
+a www.github.com/KETULPADARIYA to extract noun phrase from the text. The predictive power of the en-
+© ketulpadariya79@gmail.com tity was further enhanced by the statistical model based on the part
+of the speech tag.
+Various statistical tests were used to compare the performance of the
+Skills ———__— models
+Library used : tensorflow, pyspark, Sklearn, Spacy, Nitk, scipy, pan-
+Deep Learning das, numpy, gensim, elasticsearch, pymongo, kafka, SQLite, mat-
+fF plotlib, streamlit, seaborn, flask
+Data Augmentation
+Data Visualisation
+2019 AUG Power BI Developer IN KEY SOLUTION -Surat
+PySpark Collaborated with data engineers and operation team to implement
+LT the ETL process, wrote and optimized SQL queries to perform data
+Gensim extraction to fit the analytical requirements.
+fo Explored and analyzed the customer specific features by using dash-
+Python boards in PowerBI . Technology Use: PowerBI,SQL,excel.
+fo eee 2019 JAN Web Scrapper and Data Analyst WEB SECURE -Surat
+Used the BeautifulSoup and Scrapy Python Library to extract desired
+[ data froma given URL.
+Experimented and built predictive models including ensemble meth-
+Spacy ods such as Gradient boosting trees and Neural Network by Keras to
+Lo predict Sales amount.
+Tensorflow Worked on data cleaning and ensured data quality, consistency, in-
+CC tegrity using Pandas, NumPy.
+Sk! Explored and analyzed the customer specific features by using Mat-
+earn) plotlib, Seaborn in Python and dashboards in Tableau.
+EEE Technology or Library used: BeautifulSoup, Scrapy, Pandas, Numpy,
+NLP PoweBi, Matplotlib, Django, Seaborn, Tableau, SQLIit
+Python mele lersiarela
+Lass 2018 PEC UNIVERSITY OF TECHNOLOGY, Chandigarh
+Testing
+M.tech
+with the average of 79 percentage
+=. 2016 SHANTILAL SHAH ENGINEERING COLLEGE, Bhavnagar B.tech
+SQL and Elastic Searc with the average of 75 percentage
+(*)[The skill scale is from 0 (Fundamental Awareness)
+to 6 (Expert). ]

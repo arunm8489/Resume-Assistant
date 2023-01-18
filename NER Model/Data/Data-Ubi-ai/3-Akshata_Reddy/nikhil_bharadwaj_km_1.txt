@@ -1,0 +1,20 @@
+Project 1: Video Resume
+e This application is to Automating the HR sector, Mostly used for job hunters
+e From Video -> Audio -> Text -> DL (Spacy).
+e Skills, Age, Gender, Organization, Country will be extracted.
+ByteStorm Techno Solutions Private Limited | December 2017 - May 2018
+Designation: Software Engineer
+Gathering and evaluating user requirements, designing graphic user interface elements like
+menus, tabs, widgets. Build page navigation buttons and search fields. Make sure that every page
+and every step a user will experience in their interaction with the finished product.
+Web Technologies Used:
+e HTMLS5
+e CSS
+e JavaScript
+e PHP
+ACADEMICS
+e Bachelor of Engineering, ISE | 2017 | 61%] Jyothy Institute of Technological University,
+Bengaluru, India
+e Board of Pre-University (10+2) | 2013 | 54%| Sri Raghavendra Gurukula Vidyapeetha College,
+Mysore, India
+e Secondary School Certificate | 2010 | 78%| The Best High School, Bengaluru, India

@@ -1,0 +1,37 @@
+ 
+Rakesh Gowda S N
+Senior Associate Consultant | +91 8050802312
+www.github.com/RakeshGowdaSN _ | http://eportfolio.greatlearning.in/rakesh-gqowda-s-n
+www.linkedin.com/in/Rakesh-Gowda-S-N___| mailto:rakesh.sn1607@qmail.com
+SUMMARY
+> Aquick, relentless, continuous learner and enthusiastic about new challenges and
+opportunities in the field of Artificial Intelligence (Al) and Machine Learning (ML).
+> Looking forward to build products using innovative methods and be a pioneer in the field of
+Intelligent automation and hyper automation.
+> Always on the lookout for new and updated methods through articles and research papers
+to improve the design and approach.
+> Experience in requirement gathering, design, development, testing and change
+management of overall 5 years (1.8 as VisionPlus developer and 3.2 as Machine Learning
+Engineer).
+> Domain Expertise — Cards and payments (Banking).
+SKILLS
+Technical skills: Classification, Regression, Clustering, Ensemble techniques, Dimension
+reduction, Recommendation systems, TensorFlow, Keras, Convolutional Neural Networks
+(CNN), Transfer Learning, Computer Vision, Natural language processing (NLP), Supervised
+machine learning, Unsupervised machine learning, RNN, LSTM.
+Programming Languages: Python, COBOL, Easytrieve
+Project Management: Spira, Jira
+Others: IBM-Z, py3270, Flask, Docker, Machine learning, Deep learning, GCP, Kubernetes
+EXPERIENCE
+Infosys - Senior Associate Consultant - EMEA
+April 2021 - Present
+e Maintain state-of-the-art technical expertise in artificial intelligence, machine learning and
+software programming. Planning and executing complex and challenging technical
+projects. Drive the client stakeholder engagement plan to scope the overarching
+opportunity.
+Attra Infotech — Senior Software Engineer - APAC
+August 2016 - March 2021
+e Early member of newly formed ML team to develop POC project for existing clients.
+Worked on projects related to new product launch (credit cards), delinquency aging,
+detecting fraudulent transactions, recommendation systems, NLP for statement change
+etc.

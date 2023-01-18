@@ -1,0 +1,56 @@
+Nitelaymat-)mexclaci
+A passionate data scientist having knowledge in Big Data , SQL, Computer Vision Techniques, Natural
+language processing ,Deep Learning Algorithms, Machine Learning Algorithms and Data Processing to
+solve challenging business problems. Strong background in Python.
+bX nidhirajpatel2014@gmail.com [] 8770637947
+in linkedin.com/in/nidhi-raj-patel-852367112 ©) github.com/nid1234-ni
+ 
+WORK EXPERIENCE SKILLS
+General ops Associate
+Accenture
+09/2019 - Present Bangalore
+Applied Intelligence is Accenture's unique approach to combining Al
+with data, analytics and automation under a strategic vision to scale
+Al and transform business.
+Achievements/Tasks
+© The goal is to help patients to identify accident in Field with
+UGV Robot (UnManned Ground Vehicle) using ROS.
+© Developing and deploying real-time deep learning-based
+object - detection model using the YOLOv5 and SSD
+architecture.
+© Research, design, develop and optimize robotics algorithm
+technology on autonomous robotics program for UGV ( PERSONAL PROJECTS
+Unmanned Ground Vehicle ). Nee
+© Trained and tested the dataset containing diseases of Object Detection- | have created object detection
+various type of diseases using Transfer Learning Technique projects like Fire detection, and Vehicle detection using
+with different DL Algorithms. TensorFlow models like Faster-RCNN, SDD,
+YOLOv5.Smart Banking System -Machine Learning-
+based use case in which we solve banking system's
+Process Associate related processes like home credit, Fraud detection.
+IBM
+06/2018 - 08/2019 Bangalore
+Achievements/Tasks
+© Worked on the create the customer master data using the ACHIEVEMENTS
+sales Force application. Handling the customer data.
+"PP 9 Star Business Awards(Accenture ) (06/2021)
+© Team handling during the research of the huge amount of
+customer data.
+Data Scientist LANGUAGES
+Ineuron.Al Python SOL
+05/2021 - 08/2021 Native or Bilingual Proficiency Native or Bilingual Proficiency
+Achievements/Tasks
+® Chatbots using google dialogue flow English Hindi
+Nati Bili ( Profici Full P ional Profici
+@ |t's a free Cloud-based Al Chatbot Platform to Build Bots. ative or Bilingual Proficiency ull Professional Proficiency
+Node.js drives chatterbot. It is a Python library that acts as a Al
+conversational dialog engine and uses machine learning.
+Moreover, it is language-independent, and this feature
+enables the usage.
+Native or Bilingual Proficiency
+INTERESTS
+EDUCATION
+cee Yoga Dance Travelling Chess
+Bachelor of Engineering in Electronics &
+communication Engineering
+RGPV/Bhopal
+07/2013 - 06/2017 7.54CGPA

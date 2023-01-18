@@ -1,0 +1,42 @@
+HARSHAL HARISH SHAH
++61466341104 1 harshalshah71@gmail.com! www.linkedin.com/in/harshalharishshah
+ 
+OBJECTIVE
+Result focused individual and a data enthusiast with a strong understanding of data science and engineering techniques looking
+forward to applying existing skills in a practical project, and a fast-learning environment. I want to grab the opportunity to grow
+as an individual and be beneficial to a firm that looks forward to working with me.
+SKILLS
+Python, R, BASH, Java, C++, C, SQL, BASH
+ML & Visualization Libraries Scikit-learn, NumPy, Pandas, Keras, NLTK, PyTorch, Matplotlib, Seaborn, Spacy
+Miscellaneous Libraries Dask, MPI, Twitter API, Tweepy, BeautifulSoup, Scrapy, Requests, Jaydebeapi,
+Paramiko, Office365, SharePoint
+Basic AWS & Azure, Spartan (University of Melbourne HPC)
+Databases / DB Languages NoSQL (CouchDB), RDBMS, Oracle, MySQL, Postgres
+Tools BitBucket, Git, Microsoft Office, MATLAB, Tableau, PowerBI, Google Data Studio,
+HubSpot, Jira, DB Visualiser, Putt
+Statistics Descriptive statistics, Distributions, Hypothesis testing, Regression, Variable
+Elimination, ANOVA
+Soft Skills Communication, Presentations, Documentation, Reporting, Customer Service
+EDUCATION
+The University of Melbourne, Australia Feb 2019 — Dec 2020
+Master of Data Science
+ 
+University of Mumbai, India Aug 2014 — Jun 2018
+Bachelor of Technology in Computer Engineering
+WORK EXPERIENCE
+Zetaris Pt Ltd, Melbourne, Australia Jan 2021 — Present
+Data Scientist | Customer Success Team
+e Ingested data from disparate sources using a combination of SQL, Salesforce API’s, Redcap API’s using python to
+create a raw data store and further BI processing
+e Designed network failure prediction algorithms for a telecommunication client using Machine Learning libraries in
+python and Zetaris platform
+e Developed real time data pipelines for clients and ensured that the data quality is validated & maintained along with the
+scripts for migrating the data pipelines from one platform to another
+e Debug spark errors and improve the efficiency of SQL/Ansi SQL/PostgreSQL queries accordingly
+e Maintained pip libraries using JOBC & ODBC driver of Zetaris platform and git repository to ensure code reusability
+& proper maintenance
+Data Disca, Melbourne, Australia Jun 2020 — Dec 2020
+Intern | Trainee Data Scientist
+e Identified the business problems (NLP text classification, different types of visualizations as per the business needs)
+e Performed traditional data science approach to solve the given problems (classification, regression, time series) using
+Python, R, Tableau, and associated libraries

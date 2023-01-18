@@ -1,0 +1,33 @@
+ 
+Subramanya V Maiya
+Data Analyst| +91 7204848776
+subramanyamaiya07@gmail.com |
+Summary
+A Certified Data Analyst and a software developer with 3.8 years of total experience executing data-
+driven solutions in the field of healthcare and life science domain and with an ability to adapt, improvise
+and overcome challenges across different work domains.
+SKILLS
+<Machine Learning: Classification, Regression, Unsupervised Learning
+<Statistical Methods: Predictive Analysis, Hypothesis testing, A/B Testing
+<Programming Languages: Python, C#, Javascript, php | Big Data Language: Spark
+<AWS: S3, Redshift, DynamoDB, Step Function, AWS Glue, IAM roles, EMR, Cognito
+<Database Language: SQL
+<Data Reporting Tool: Tableau, Power BI
+<MS Office: Word, Excel, PowerPoint
+EXPERIENCE
+Indegene, Bangalore — (Data Analyst)
+January 2020 — PRESENT
+¢ Common Data Model: Created a common data model pipeline, which helps to transform and
+store the data from different sources in a common table.
+¢ Network Graphs: Involved in creation of graph-theory based Single and Multi-Layer Network
+graph tool enabling the user to visualize and comprehend interrelation between the disease,
+procedure and drugs for a given therapeutic area.
+¢ Cohort Builder: Dashboard for the user to create the cohort based on his interests which can
+be used for further analysis.
+¢ Patient Stratification using DBSCAN: Identification of high-risk patients from a given
+therapeutic area using variables associated to the medical history, comorbidities, demographics,
+medication-adherence
+¢ Data Wrangling and Exception Handling: Routine cleansing, maintenance and transformation
+of Medical Claims data
+¢ Feature Engineering: Actively involved in the process of feature engineering and feature
+selection supervised under the expertise of the domain team

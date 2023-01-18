@@ -1,0 +1,37 @@
+Work Ex in ML: 3+ Years
+Kamish Upadhyay
+8755 13 9030 | 1000kavya@gmail.com | linkedin.com/in/1000kavya/ | github.com/kavya8755
+WORK EXPERIENCE
+TCS Research | 3 years Bengaluru, KA
+Applied Machine Learning Engineer Feb 2019 — Present
+e Digital Twin: Developed machine learning algorithms and implemented research papers from scratch for
+Comprehensive data quality verification, Automatic data preprocessing, Auto ML and few more classic ML/DL
+nodes. Did A/B testing & analysis of ML models and optimizing models for accuracy.
+e AI Chatbot: Developed a query chatbot leveraged NLP for issue searching on Django framework. Handled
+large-scale training & prediction of ML models with Hadoop/Spark distributed computing systems. The next
+word prediction for the chatbot was also developed using keras sequential model LSTM, TensorFlow/PyTorch.
+@ BFSI Domain: Developed kernel with an accuracy of 96.271% by which classification of genuine customers for
+the banking/financial policies was easier. This improved their reach out to customers & also maintained their
+strong customer relationships by 27%. Did end-to-end system design, data analysis, feature engineering,
+technique selection & implementation, debugging, and maintenance in production.
+GATE Overflow | 6 months Trivandrum, KL
+Machine Learning Engineer Intern Aug 2018 - Jan 2019
+@ Developed code for semantic analysis of user comments/reviews using textblob and sending mail to the
+comment owner using smtplib library.
+EDUCATION
+Kamla Nehru Institute of Technology | KNIT Sultanpur, UP
+Bachelor of Technology, Information Technology Aug 2014 - May 2018
+Main coursework: Applied Machine Learning, AI, OOP, Data Structures, Algorithms, Databases, Operating Systems.
+Certified in Machine Learning and AI IIT Bangalore - upgrade, June 2019-May 20
+SKILLS
+Programming Languages: Python, C/C++, Core Java. | Frameworks: Django, Flask.
+Data Science: pandas, NumPy, Matplotlib, plotly, Hadoop/Spark, TensorFlow, Keras, PyTorch, scikit-learn, Sequence
+Models, NLTK, Time Series, Predictive Modeling, Neural Networks, NLP, Transformers, BERT.
+Miscellaneous: MySQL, Neo4j, Tableau, Spyder, Jupyter, Azure ML.
+CERTIFICATIONS & CONFERENCES
+@ Certified Machine Learning Expert, AppliedAI, ‘18 | GATE Qualified - 97.10 percentile
+@e PG Diploma Machine Learning and AI, Upgrade | IIIT Bangalore, ‘20
+e Certified Deep reinforcement learning Expert | Udemy, ‘20
+e@ Speaker, Open Machine Learning Conference, Bengaluru, ‘20
+HONOR & AWARD
+Extraordinary Performance Award, ‘19 | Best Employee Award, ‘20 | CTO Appreciation Award, ‘20

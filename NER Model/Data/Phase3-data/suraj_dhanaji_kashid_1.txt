@@ -1,0 +1,36 @@
+el Work Experience
+2019-07 - Current
+Software Engineer
+StanceCode Technology Private Limited., Office Address: Office No-!
+| Floor-3 | Ganraj Residency |Lane No-2 | Swati Park |Baner | Pune-45,
+Maharashtra
+Project Title ‘Sunshine Protection
+Technologies :
+e Coding backend language : Python
+e Architecture : Flask MVC design architecture
+e ORM fool: FlaskSQLAIchemy
+e DataBase: MySQL
+e Frontend : HTML,JavaScript
+Description:
+e The objective of this project is provide protection against the risk of
+any health , uncertain loss and financial loss through different
+policies with easy and fast process trom policy enquiry to claiming
+the benefited.
+e Customers will appreciate a clean layout and intuitive navigation.
+And a satisfies the customer by smooth and reliable experience
+with our web application.
+Role and Responsibility:
+# Role : Python Developer.
+e Involved in building the model view controller ( MVC )architecture
+utilizing python,in order to built interactive web base solutions.
+e Analyzing and customizing the source code as per business
+requirements and doing coding and testing by efficient way.
+e Creating Database models that representing and support business
+process using mysql database and flask-sglalchemy library.
+e Daily meeting with team lead and team members and also
+involved in Agile Methodologies and Scrum Process.
+e Responsible for maintaining the application after develooment and
+making changes in terms of enhancement of the code
+performance and client specific requirement .
+e Analyze stories and perform an estimation of the complexity and
+solve It.

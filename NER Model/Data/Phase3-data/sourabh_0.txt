@@ -1,0 +1,76 @@
+Sourabh Hanwat
+Dedicated, passionate, and competent ‘Full Stack Python Developer with Al development’ with 1+ years
+of experience in developing Web/Mobile/other applications and Software. Possess hands-on experience
+in writing codes in various programming languages. Familiar with Docker, TensorFlow, Keras, and
+OpenCvV, and capable of thinking out-of-the-box to create seamless, exciting products For the target
+audience. Excellent analytical thinking, teamwork, and Multi-tasking skills.
+>< GESolUUr=] 8) ny ar- Tan 7-1 80k Xe] par-}| mecoyan)
+1 7489340809
+Q Bangalore €) github.com/sourabhhanwat
+ 
+WORK EXPERIENCE
+Al Developer
+Comportement Software Private Limited
+07/2019 - Present
+Tasks
+e Full stack development with dockerization.
+Bangalore
+© Working on deep learning /NLP/Computer vision based
+project with creating complete user interface.
+® Creating aPython/Django/Flask based web application
+using Python scripting for data processing, SQL/NOSQL for
+the database, and HTML/CSS/JQuery and High Charts for
+data visualization of the served pages.
+© Collaborating with other software personnel to design and
+implement well-engineered, reliable, maintainable, and bug-
+Free code For various applications.
+® Communicating with other team members to inform about
+technical and developmental risks/ obstacles observed
+during development process, and recommending possible
+solutions to complete the version upgrade within given time
+Frame.
+Machine Learning Internship
+Mialo Technology Private Limited
+07/2018 - 03/2019 Bangalore
+Company providing intellectual inputs offers Enterprise Application
+development and mobility soultions.
+Tasks
+® Worked on Mialo Intelligent Vehicle Identification System.
+e dataset preprocessing and Tensorflow model creation.
+® Create application using Django with DB connectivity.
+® Worked under the supervision of senior developers to
+design, implement, test, deploy as well as support new
+artificial intelligence Functionalities For various projects as
+required.
+EDUCATION
+Master in Computer Application (MCA)
+CHRIST (Deemed to be University) Bangalore
+(Karnataka)
+05/2016 - 05/2019 69%
+Bachelor of Science (B.S.C-IT)
+Makhanlal Chaturvedi Rashtriya Patrakarita
+Avam Sanchar  Vishwavidyalaya Bhopal
+(Madhya Pradesh)
+07/2013 - 07/2016 71%
+SKILLS
+ACHIEVEMENTS
+RESEARCH PAPER: Sourabh Hanwat, Chandra J,
+"Convolutional Neural Network for Brain Tumor
+Analysis Using MRI Image" ,International Journal of
+Engineering and Technology (IJET), Vol 11 No 1 Feb-Mar
+(2019)
+Won ist prize at the University level Science Exhibition
+at Christ University. (2017)
+Appreciated by Madhya Pradesh Chief Minister Shivraj
+Singh Chouhan for Representing INDIA in International
+Karate Tournament in Colombo (SL). (2011)
+National Karate Player (Gold Medallist) and Black Belt in
+Karate.
+NCC ‘A’ Certificate.
+CERTIFICATES
+Python and Django Full Stack Web Developer Bootcamp
+(udemy)
+Machine Learning A-Z™: Hands-On Python & R In Data
+Science (udemy)
+INTERESTS
+Music Travel Learning something new

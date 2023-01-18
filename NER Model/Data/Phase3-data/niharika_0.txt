@@ -1,0 +1,34 @@
+Niharika
+Email ID: niharikachandra1995@gmail.com
+Contact No: Mobile: +91-9891228773
+LinkedIn: https://www.linkedin.com/in/niharika-chandra-183964140
+CARRER OBJECTIVE
+Seeking for an opportunity to work in the field of Data Science so as to help customers across various
+organizations to derive insights from their data by leveraging AI and Machine Learning techniques.
+PROFESSIONAL SUMMARY
+e 3 years of experience in IT industry, Data Analytics and Data Science.
+e Currently working with Infosys Limited, in Bangalore as Senior Systems Engineer.
+e Responsible for creating various Machine Learning models to achieve good accuracy and
+developing insights from the data
+e Responsible for data analysis, visualization, pre-processing and post-processing using
+python.
+e Experienced in writing SQL queries to pull and query data from database.
+e Experienced in understanding client’s requirements and objectives of the project.
+e Proven team player with an analytic mind bent to problem solving and delivering solutions.
+Professional Experience
+Senior Systems Engineer Infosys Limited Oct’2020 - Present
+Systems Engineer Infosys Limited Mar’2019 - Sep ‘2020
+Systems Engineer Trainee Infosys Limited Sep 2018 - Feb ‘2019
+QUALIFICATION
+B. Tech Electrical 2014-2018 JSS Academy of Technical Education 71%
+12th 2012-2013 Sunbeam School 86%
+10th 2010-2011 St. Johns D.LW. 91.7%
+TECHNICAL PROFICIENCIES
+Languages: Python, SQL, JAVA
+Tools: Spyder, Jupyter, pgAdmin, Eclipse
+Functional Skills: Data Analysis, Building Machine Learning and Deep Learning Models, Validation,
+Data Visualization
+SELECTED ACHIVEMENTS
+e Achievers Award 2021: Recognition for an outstanding resource, excellent team player and
+technically proficient.
+e Recognition and awarded for earning 21 badges in CARVE Enculturation event by EdgeVerve.

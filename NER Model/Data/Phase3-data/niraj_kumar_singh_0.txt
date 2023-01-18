@@ -1,0 +1,34 @@
+Niraj Kumar Singh
+Durgapur, West Bengal
++91 9647267824 | nirajnjr@gmail.com | /in/niraj-singh-946443138/
+PROFESSIONAL SUMMARY
+e Highly motivated and determined professional with 3+ years IT experience.
+e Proficiency in Python, Python Data Science libraries. Relevant skills include machine learning, data processing,
+analysis & visualization and problem solving.
+e Intermediate knowledge in Deep Learning, NLP and Time Series Analysis.
+e Knowledge on Agile methodology & experience of working in scaled agile (SAFe) framework.
+EXPERIENCE
+Tata Consultancy Services Ltd. 12/13/2018 - Present
+Systems Engineer
+EDUCATION
+Bengal College of Engineering & Technology 2018
+B.Tech (Electronics & Communications)
+CGPA: 7.87
+Bidhan Chandra Institution 2014
+Intermediate (WBCHSE)
+Percentage: 66%
+GTBPS 2012
+High School (CBSE)
+CGPA: 7.2
+TECHNICAL SKILLS
+Programming Language: Python
+Python Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit Learn, TensorFlow (Basics)
+Other skills/Tools: Flask, PyTorch, Jira, GitHub, Visual Studio Code, Jupyter Notebook, PostgreSQL.
+TRAININGS & CERTIFICATIONS
+e Python for Data Science Professional: Edureka
+e TensorFlow 2 & Keras Deep Learning Bootcamp, Udemy
+e SAFe Certification: Agile SAFe Practitioner 5.0
+ACHIEVEMENTS & EXTRA-CURRICULAR ACTIVITIES
+On the Spot Award for solving complex E2E testing scenario.
+Active participation in weekly Hackathons organised in TCS.
+GitHub Profile: nirajsingh0O8 (github.com)

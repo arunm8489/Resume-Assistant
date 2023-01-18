@@ -1,0 +1,33 @@
+Projects :
+e Banking Telmarketing Data Analysis :
+4
+5 i A A ad
+| have worked on call data analysis to different bank customer which include
+multiple features and it is a binary classification problem
+| have worked on complete life cycle of project
+Worked on data cleaning by removing the redundant data, handling the missing
+value, outliar removal , transforming the data, filtering the data
+Worked on Exploratory data Analysis by performing the Scatter Plot , Box Plot
+Histogram , Heat maps to determine the correlation between different features
+Data Visualization
+Classificatiion of Data , Transforming categorical Features to continuous by using
+dummy variable
+Feature selection
+Divide the data to train and test set for model evaluation
+Compared the accuracy of different classification model
+Evaluation of models using classification reports , confusion matrix , fiscore
+Also performed L1 and L2 Regularization to prevent overfitting the train data
+e MultiClass Text Classification and sentiment Analysis using NLP
+4
+et ethUh OH OOH PO
+Worked on analysing the text data for women ecommerce reviews
+Data cleaning which includes missing values , NAN
+Removed the unwanted text from the reviews and replace it with the space
+Calculated the sentiment polarity using the python TextBlob Library
+Determined the top positive reviews from the sentiment of review
+Performed data visualization according to the ratings provided
+Data visualization by category and product according to the ratings
+Which help to understand which product and category have highest rating
+Performed the feature extraction using TFIDF and created Pipeline
+Determined the mostly used unigrams ,bigram and trigrams used in the text
+Topic Modelling for Review Text

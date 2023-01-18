@@ -1,0 +1,39 @@
+Irfan Ahmad
++91 9398174585 + irfanahmad999@gmail.com -*Bengaluru,IN  * www.linkedin.com/in/irfan-ahmad-/
+SUMMARY
+Accomplished one years of relevent experience using data science tools, statistics, Machine learning models and
+data visulaisation tools tableau. IT Profesional with over 3 years of experince as QE&A expertise I can able to
+apply critical thinking and statstical knowladge to big data and machine learning. Adept at performing deep dive
+to gain actionable insights on the basis of test results to benefit key stakeholders & facilitate sound decision-
+making while generating an error-free report. Proficient in MySQL and data visualization to deliver compelling
+business value to clients & successfully execute projects. Seeking to leverage my Analytics skills in the
+organigation.
+KEY SKILLS
+¢ Data Analysis « Statistical Analysis/Data Modelling * Machine Learning ¢ Project Management ¢
+Quality Engeenering &Assurance
+¢ Agile and Scrum ¢ Leadership & Training ¢ Team Incubation ¢ Data Visualization
+TECHNICAL SKILLS
+Tools/Technologies: Advanced Excel, Tableau, Git, Jeera
+Database/Cloud: MS SQL Server, MySQL, NoSQL, AWS
+Programming Language: Python(Scikit-leam, Pandas, Stats-models) SQL, HTML
+EDUCATION
+IIIT Bangalore & upGrad | Bengaluru, IN Nov '20 - Present
+Post Graduate Diploma in Data Science
+¢ Course Modules:
+© Data Analysis | Introduction to Python | Introduction to Machine Leaming and Linear Regression |
+Logistic Regression | Database Design and SQL
+o ‘Tree Models | Advanced Regression | Boosting | Time Series Analysis | Unsupervised Learning:
+Principal Component Analysis | Clustering | Telecom Chum Case Study
+© Business Problem Solving | Business Problem | Lead Score Case Study
+Burdwan University | West Bengal, IN Aug '13 - Jul'17
+Bachelor of Engeneering in Applied Electronics and Instrumentation Engineering
+e Secured 75.5%
+PROFESSIONAL EXPERIENCE
+Cognizant Technology Solutions | Bengaluru, IN Mar '21 - Present
+Data Analyst
+e Coordinated with data miners & analysts for extracting and loading data from multiple data sources using
+SQL.
+e Assisted in designing, executing & monitoring key metrics, reports, dashboards, etc. to drive business
+transformation
+e Utilized hypothesis-driven approach to analyze A/B testing results & offer recommendations based on the
+test performance

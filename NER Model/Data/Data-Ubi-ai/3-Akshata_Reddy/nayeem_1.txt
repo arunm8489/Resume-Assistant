@@ -1,0 +1,8 @@
+Certifications
+Prediction of Heart disease using Machine learning
+This project looks into various Python based Machine learning and data
+Science libraries such as Pandas, Numpy, Matplotlib and Sciket-learn in an
+attempt to build a machine leaning model capable of predicting whether
+or not someone had a heart disease based on their medical attributes.
+Machine Learning Foundations: A case study Approach — Coursera
+Machine Learning A-Z: Hands-on Python in Data Science- Udemy

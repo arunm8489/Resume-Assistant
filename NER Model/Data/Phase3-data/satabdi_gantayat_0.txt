@@ -1,0 +1,89 @@
+CONTACT ME
+Email: satabdi.gantayat@gmail.com
+Mobile: +917008331939
+lal <-tellar
+https://www.linkedin.com/in/Satabdi77
+Github: https://github.com/Satabdi77
+Address: Bangalore, India
+PROFESSIONAL
+SKILLS
+Statistics
+Data Mining
+Data Science
+Machine Learning
+NLP
+Python Full stack development
+Tools & Languages: Python, Sal,
+PostgreSQL, MongoDB, HTML, CSS,
+javascript, Ajax, j}Query,Tableau
+e Framework : Django, Flask
+AWARDS
+RECEIVED
+A Awarded as "Star Rookie" in
+"CCD PRESTIGE AWARDS" of
+Infosys ltd
+Awarded as "Star Of CCD" in
+"CCD PRESTIGE AWARDS" of
+Infosys ltd.
+Awarded in "GOLD Category"
+in Infosys IT Award.
+Certification in "Machine
+learning Specialization"
+sponsored by Electronics & ICT
+Academy, IIT Roorkee
+EDUCATION
+International Institute Of
+Information Technology Bangalore
+2021-2022
+GmmD)| 0} Lo) aat- mia By-le-msvel-Jale=
+National Institute of Science and
+Technology
+2015-2019
+Btech in Computer Science(honors)
+ 
+SATABDI GANTAYAT
+A Data Science aspirant with highly motivated and leadership skills
+having objective is to perceive a career in a renowned firm that
+gives me a chance to update my knowledge. | have the expertise in
+python Full stack development with proven abilities to handle
+pressure, provide quick solution and fixes during critical time.
+Senior System Engineer
+Infosys Ltd | July 2021- present
+e Auto Categorization: This model helps to categorize
+complaints in respective request categories. | have used NLTK
+library for text analysis and SVM, NB classifier to test the
+model. Using this model manual effort can be reduced
+~5hours a day.
+e Data Refresh: It helps to sync and maintain data between
+production and development. We can do performance testing
+here so can Save separate testing time of more than 30hrs ina
+month. It can refresh 1Million of data within a minute so
+accordingly can save ~130 hours per month.
+System Engineer
+Infosys Ltd | May 2019- july 2021
+e DBaasS: This tool helps in automatically allocating of database
+without any manual intervention and any software approval
+from respective team. We can save 15 to 18days in a month.
+DB creation from traditional method was taking 4hours is
+reduced to 5min. DBA effort of 2000+ hours is saved.
+e Teradata Bteq and View Parser: This tool takes bteq/sql
+scripts as input and parses the query and generates detailed
+output of columns ,its transformations and their related
+source and target informations. Manual effort can be saved
+upto 200+ hours ina month.
+e Bike Rental: This predictive model understands how exactly
+the demands for bike rental vary with different features and
+manipulate the business strategy to meet the demand levels
+and customer expectations. Used Regularized Linear
+Regression with Recursive Feature Elimination.
+e Lead Score: This aims to find ways to get more industry
+professionals to join courses in X Education and which
+variables matter the most in the potential buyers. Used Logistic
+Regression. The ballpark of the target lead conversion rate was
+30% which can be increased to around 70%.
+e Telecom Churn: This model can predict if the customer will
+churn or notin a particular month based on the past data. Used
+Logistic Regression with PCA. This predictive model identify
+important predictor attributes which helps the company to
+take action steps such as providing special plans. Hence It can
+be reduced customer churns by 8%.

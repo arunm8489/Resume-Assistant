@@ -1,0 +1,31 @@
+Rahul Kumar
+Phone : +91 8076161365
+Email : kumar.rahul377@hotmail.com
+CAREER OBJECTIVE
+As a motivated and creative individual, my career aspiration is to contribute the best of my services for data
+science solutions along with contributing to the organization's success. Experienced at creating data
+regression models, using predictive data modelling, and using algorithms to deliver insights and implement
+action-oriented solutions to business problems. Skilled in Python, SQL and Data science and ML libraries
+- Pandas, NumPy, Scikit, Matplotlib, TensorFlow.
+EXPERIENCE
+January 2020 — Present: IBM India Pvt Ltd.
+Position: Associate Data scientist
+Responsibilities:
+e Conducted data regression analysis for relationship between software price and trends.
+e Collected, analyzed interpreted and cleaned raw data. Created and conducted weekly reports.
+e Collaborate with different teams and worked with multiple stakeholders.
+e Used data science libraries Pandas, NumPy, Scikit, Matplotlib for importing csv data, data cleaning,
+EDA and feature checking.
+Modelling algorithms: Linear regression, Lasso and Ridge regression, Random Forrest.
+e Also experienced in Grid search analysis and scoring. Have also worked on Neural Network project
+using TensorFlow.
+Skills : Python, SQL, Pandas, Hadoop, NumPy, Scikit, Matplotlib , Regression, Tableau, AI, TensorFlow.
+January 2018 — January 2020: IBM India Pvt Ltd.
+Position: Mainframe Console and Batch Operator.
+Responsibilities:
+e Worked as an Operation analyst for Mainframe Client — Fedex
+e Worked as both Batch and console specialist
+e Handled the workflow of mainframe jobs, along with shift responsibilities such as job abends,
+recycling the LPAR, weekly activities etc.
+Skills : Mainframe console, Batch operations , IBM Lpars and HMC
+ACADEMIC BACKGROUND

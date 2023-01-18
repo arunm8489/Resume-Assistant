@@ -1,0 +1,38 @@
+Arpit Goel
+Data Specialist involved in Data Driven Business Decisions.
+Delhi NCR, India
+civil.arpit@gmail.com
++919212455566
+Experienced in Different Projects by using Machine Learning Algorithms and interpreting their results
+using Visualizations and graphs. Done Exploratory Data Analysis, and Predictive Analysis as part of
+Real-Live Industrial Internship Projects along with giving approaches towards implementation. Worked
+as Team Lead in Product Engineering Department of a B2B SAAS Startup with the role inclined towards
+Product Optimization and Product Enhancement. Sound Knowledge of Python, R, Tableau, SQL, MS-
+Excel. Determined to Learn and Apply Artificial Intelligence and Deep Learning. Efficient in Predictive
+Analytics and Descriptive Analytics.
+Personal Details
+Date of Birth: 1993-05-25
+Eligible to work in: India
+Highest Career Level: 2-5 years experience
+Industry: Banking & Finance, Education & Instruction, Human Resources, Internet, Ecommerce, KPO,
+Research, Analytics, Marketing, Other, Project Management, Sales, Software Development, Technology
+Work Experience
+Data Analyst
+GenLeap Ecosystems Pvt Ltd
+May 2021 to Present
+Being a part of Bootstrap Startup, Involved in Data Analysis and Data Visualization. Playing major role in
+developing an algorithm for calculation of Astromancy scores by an Astrological Calculation Engine using
+Rest API and Python with process efficient approach. Involved in design of Data Warehouse Architecture
+using GCP & BigQuery.
+Intern Data Scientist - Product Engineering Department
+Slintel
+January 2021 to April 2021
+1. Project : Analysis of Salesforce CRM data to derive useful insights for Slintel. This Project was inclined
+towards analyzing the Salesforce CRM Data of our clients to find Insights for Product Optimization. As a
+result of analysis, found KPIs which helped in restructuring the Leads Database by mitigation of obsene
+leads and also Product feature enhancement KPIs which can be used to make a prediction system similar
+to Einstein Score and Pardot Score which are native systems of Salesforce.
+2. Project : Recalculation of Technographics Confidence Score. This Project was taken up as an
+experiment to find out the outcomes of an approach being applied as a POC for Recalculation of
+confidences using machine learning, predictive analytics and mathematical and statistical approaches.
+Using Clustering Algorithm, data was clustered into the groups on the behalf of no. of domains and

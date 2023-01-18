@@ -1,0 +1,38 @@
+Mohammed Kamran
+Kamranme076@gmail.com | Bangalore, Karnataka | 9019907276
+LinkedIn profile: https://www.linkedin.com/in/mohammed-kamran319
+Aspiring to become a skilled Software Engineer.
+Skills
+Communication Problem solving Leadership Flexible
+Time management Positive attitude Team player Relationship building
+Competencies
+Python ML Algorithms Machine Learning Jupiter Notebook
+Anaconda Pandas NumPy Matplotlib
+Data Visualization Seaborn SciPy SKLearn
+Statistical Analysis Predictive Analysis Quantitative Analysis Training & Mentoring
+Clustering & Classification Data Analytics Data Mining Model Development
+NLP NLTK ANN Tensor flow
+OpenCV Neural Networks CNN
+Work Experience
+Mercedes Benz Research and Development India
+Software Engineer Aug 2020—Dec 2020
+e Automated the tasks using python
+e Worked on different software’s like IMACS for data extraction by writing python scripts
+e Worked on EMG project for the parametric task and automated the same using Python
+e Worked on product data management for data analysis
+e Pattern Recognition from the data-sets
+e Keyword extraction and sentiment analysis for the customer compliance
+Near & Learn Pvt Ltd., Bangalore Dec 2019 — Jun 2020
+Machine Learning Intern
+¢ Applied various machine learninglibraries and algorithms for different datasets.
+¢ Developed a Voice Assistant by name — Jessica, during learning process.
+¢ Adapted existing datasets and improved their accuracy by applying different algorithms.
+¢ Created charts in Jupyter Notebook to perform preliminary analysis & visualize data using Matplotlib, Seaborn.
+¢ Worked on various datasets during the internship period such as House Price Prediction, Handwritten Digit
+Recognition, Heart Disease, Titanic Data sets, Hr Analytics, Diabetics Data set, MNIST etc
+Projects
+Titanic Dataset — Kaggle
+Collected the dataset and explored it, checked about missing values and learned which features are important. For
+data visualization used Seaborn and Matplotlib. During the data pre-processing part, computed missing values, converted
+features into numeric ones, grouped values into categories and created a few new features. Then trained the dataset using
+different machine learning algorithms and predicted the accuracy of 98.2 %.

@@ -1,0 +1,39 @@
+Associate - Technology (Data Science) April’17-March’20
+Synechron Technologies PVT LTD., Pune
+e Created a resume parser using python and basic NLP as the base. This
+resume parser would take a batch of resumes as an input and provide a
+visual interface for the HR to analyze those resumes. This application
+also helped the HR to find candidates based on the skills or combination
+of skills. This helped HR reduce the resume review and candidate
+filtering process time by 60%.
+e Worked as python developer to analyze huge amounts of data and
+visually create charts that would explain the data. Worked on Pandas,
+seaborn libraries in python to create charts that would explain the data
+well.
+e Perform data engineering on the datasets to provide the frontend
+developers a right set of data so as to create a chart on the UI.
+e Single handedly created a chatbot as PoC from scratch using Rasa and
+BERT which could carry out a basic conversation with the user and also
+answer the FAQs for a particular mobile insurance company. This project
+helped the organization to attract multiple clients and grow the
+business.
+Jr. Associate - Technology (Data Science) July’16-March'17
+Synechron Technologies PVT LTD., Pune
+e Worked as a Jr. developer in an innovation team where | started
+developing skills on Machine Learning and also had started working in
+python.
+e Also worked as a web developer where | created web applications using
+basic web frameworks which helped the client to attract customers.
+e Also completed multiple training the same period and received a spot
+award for exceptional work.
+Education
+Master of Science (Computer Science) April’18
+Savitribai Phule Pune University
+Bachelor of Science (Computer Science) April’ 16
+Savitribai Phule Pune University
+Certifications
+e Certified Professional Neo4j Graph database developer
+e Certified Rasa Developer
+Accomplishments
+e Received Spot Award for exceptional work twice.
+Place: Pune, Maharashtra Shreyas S

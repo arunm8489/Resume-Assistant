@@ -1,0 +1,33 @@
+Sanya Dikshit
+Senior Project Engineer ( Aspiring Data Scientist)
+GB (+91) 9916011185 8% sanyadikshit2996@gmail.com ff} /sanya-dikshit-1384417126/
+©) https://github.com/SanyaDikshit 9 Bangalore , India
+= Career Summary
+Motivated professional with a total experience of 3.1 years . Experienced at interpreting and analyzing
+data to drive solutions , furnish insights and business intelligence needed to guide decisions for a
+business problem . Passionate about building models that fix problems. Relevant skills include machine
+learning, problem solving, programming, and creative thinking.
+es Skills
+¢ Statistical Analysis - Exploratory Data Analysis ,Inferential Statistics , Hypothesis
+Testing, Z-Test, T-Test , ANOVA
+¢ Machine Learning - Decision Tree, Random Forest, Linear Regression, Logistic
+Regression, K-means clustering, K Nearest Neighbour , SVM
+e Language - Python , Core Java
+¢ Visualization - Matplotlib, Seaborn , Powerbi, Excel , Powerpoint
+¢ Framework - Pandas, Numpy, Scikit learn
+¢ Database - MYSOL
+e Web Development - HTML, CSS, Javascript (basic)
+¢ Tools - Jira , Github , Excel , Jupyter Notebook , Google collab
+#s Work Experience
+Wipro Technologies (July 2018 - Present)
+Projects
+1. Credit Risk Analysis
+Goal - Assessing credit risk for a banking and finance service provider . Develop a decision framework
+using classification techniques to identify the customers who are likely to default .
+Responsibilities -
+e Perform EDA to analyze & summarize the main characteristics of the data .
+e Identifying patterns and trends in data using univariate and bivariate analysis and reporting data
+findings.
+e Cleaning the raw data by performing missing value analysis , outlier analysis , identify correlations ,
+zero variance features .
+Tools - Python , Feature Engineering , EDA , Scikit Learn , Classification Algorithms

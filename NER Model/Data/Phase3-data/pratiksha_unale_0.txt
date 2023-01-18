@@ -1,0 +1,28 @@
+Pratiksha Unale
+ASSOCIATE DATA SCIENTIST
+' +91 7020645339 —° pratikshaunale74@qmail.com
+¢ 3+ Year experience as Associate Data Scientist with strong expertise in building Machine learning, Deep learning and NLP.
+¢ Experience in building model that translate data point into a business in sights
+¢ Programming languages: Python
+¢ Packages: Numpy, SciPy, Pandas, NLTK, Matplotlib, Scikit- learn, Tensorflow, Keras
+¢ Tools : Jupyter Notebook, Anaconda, MS Word and MS Excel.
+¢ Modeling : Regression, Classification like Random forest, Logistic, SVM,Bagging, Clustering -K-Means.
+¢ Deep Learning: Natural Language Processing, ANN, CNN, RNN, LSTM, etc
+ 
+Associate Data Scientist
+ 
+ 
+ 
+Progile Infotech Pvt. Itd
+Predict the Price of Guest House: Problem Build the Machine learning model that can predict the
+price of guest-House on the basis on overall quality, nearby station, area and overall condition, ratings
+for each of the guest houses, basement type, central air, electrical, heating, full/half bedrooms and
+bathrooms, kitchen, full/half furniture, living area, etc. factors.
+Role:
+Skill Set/Tools used: Regression, Decision Tres, Regression, Bagging, data preprocessing, Pandas, Numpy,
+Python, SQL, Ensemble, Train-Test Split, Matplotlib
+¢ Formulating Data, Data Cleaning, Data Preprocessing, Labelling, etc.
+¢ Data Visualization and Modeling: Create charts in jupyter notebook to visualize the data using
+seaborn, matpotlib.
+¢ Clustering & Classification: Conceptualized &implemented analysis to predict prize.
+¢ feature engineering, Overfitting.

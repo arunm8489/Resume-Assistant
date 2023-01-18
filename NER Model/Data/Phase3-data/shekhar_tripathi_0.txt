@@ -1,0 +1,35 @@
+Shekhar Tripathi
+shekhartripathi1810@gmail.come +91 9993538447 elinkedin.com/in/shekhar-tripathi-0b9647140
+DATA SCIENTIST
+Highly motivated professional with 3+ years of rich and versatile experience in analytics and data science. Worked
+across diverse set of industries such as Banking and Retail. Demonstrated experience in stakeholder management
+and helping clients drive business through data-driven insights. Proven experience in building machines learning
+models — supervised and unsupervised learning. Seeking challenging roles to grow and prosper in data science.
+SKILLS
+Machine Learning Specializations: Random Forest, K-Means, XGBoost, FBProphet, Sklearn
+Technical Tools: Python, SQL, PowerBl, Advanced-excel
+EXPERIENCE
+KPS KEPCO 2018 — Current
+Data Scientist
+e Developed Redemption propensity model to predict the likelihood of redemption of the customer in campaign
+for 4 Major provinces in China Market. Increased the ROI by reducing the target base of the customer by greater
+than 30%. Used Random Forest to build the model.
+e Organized personalized campaigns by identifying shopping patterns of the customer for the various objectives
+like increase the sales, new product engagement, increase footfall, enhance customer basket by using statistical
+method & unsupervised learning (K —means clustering).
+e Automated the process for campaign measurement& provided the KPI’s like uplift per customer, ROI & various
+metrics to check for the campaign effectiveness on multiple levels.
+e Performed Ad-hoc analysis to help client understand various underlying insights like impact of the Covid19 &
+quarterly sales increment for making the long-term strategic decisions.
+e Developed Anomaly Detection model using Time series forecasting to ensure the data quality of the variables
+which is the input to various FRAUD models. New framework has reduced the false alerts raised compared to
+existing DMA by 30%. Used Prophet by FB.
+e Investigated the potential alerts raised by the algorithm, drilled downed to root cause for the most significant
+one’s & discovered the fault & frauds in the transactions & implemented the fix.
+e Implemented various statistical technique-based rules for maintaining the quality and integrity of data in the
+data flow.
+EDUCATION
+MCU Bhopal 2017 — 2018
+Post Graduation Diploma in Web Communication
+ADDITIONAL
+e Won the Best Entry Level Employee 2018 for exceptional performance in the first year.

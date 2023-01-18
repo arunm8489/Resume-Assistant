@@ -1,0 +1,45 @@
+ANKUR GUPTA
+ 
+Email: ankurgot70@gmail.com Contact no. :7898876448
+ 
+Address-Shri saidham 9#4,Negr Layout,
+Roopena Agrahara,Bangalore,560068, IN
+OBJECTIVE
+Looking for Results-oriented and challenging career assignments in Data Science/ NLP to translate my passion
+& experience into effective and outstanding solutions, that could help organizations make informed decisions
+and gain an edge in the industry.
+WORK-EXPERIENCE
+ZIAFA TECHNOLOGIES, Bangalore Aug 2019-Present
+Role: Data Scientist
+“* Extracting data from the provided set of documents using NLP techniques, identifying
+patterns, analyzing documents, mining data, Implementing certain codes for extraction.
+“* Creating and utilizing new algorithms to recognize the required data points from
+structured and unstructured documents
+“* Perform process analysis to avoid over-fitting and under-fitting of data models.
+“* Assisting management in project process evaluation and performing bottleneck
+evaluation.
+“* Interpreting data, analyzing results using Statistical Techniques, Machine Learning, Pandas,
+Num-Py
+“* Developing and implementing data analysis, data collection systems and other strategies
+that optimize statistical efficiency and quality using Python .
+“* Data analysis and show graphical representation of data by using Python and Matplotlib
+Work with management to interpret data sets to assist with key business decisions.
+“* Recognize and define problems, understand business and system processes, collect data,
+establish facts, and draw valid conclusions.
+MGNREGA, Balrampur (Chhattisgarh) April2015-Nov2016
+Role : Technical Coordinator
+>
+*%
+Lead the technical team of 48 technical assistants at the district level.
+Worked in GIS system (Q GIS ) for mapping of the village level resources .
+Tagging of village-level resources for digital access of around 124 villages.
+Customized OPEN DATA KIT app for better use for the technical assistants.
+Conducted training programs for the technical team.
+>
+*%
+>
+*%
+>
+*%
+>
+*%

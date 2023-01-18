@@ -1,0 +1,29 @@
+e Data Management, Modelling, Warehousing, Reporting (Validation,
+Integration, Migration, Visualization).Extract Transform Load from
+different data sources to generate automated scheduled jobs for
+business reporting.
+WORK EXPERIENCE:
+e Senior Analyst at Ugam Solutions(2021):
+Designing data flow and models for an Analytical Dell Customer
+Engagement Platform for the business to analytically find the Marketing
+levers to enhance Business. Analyze data from multiple sources to
+transform for business reporting. Identifying and predicting areas to
+focus to increase market for Dell products across various regions.
+Experienced with SQL for extraction of data from different sources to
+integrate to a Tableau dashboard. Creating various predictive models to
+find various marketing areas for business to focus on to increase sales
+and help marketing campaigns. Develop models on previous data to
+predict various marketing levers.
+e Analyst, Bl and Analytics at Empower Retirement (2020-2021):
+File Scan: Developed Python script to run on all folders and subfolders
+to search for a specific file format. Based on the requirement of what to
+search for, the code will extract data from each file and convert it into a
+data frame containing various insight regarding the type of data is
+contained in each folder. Script designed with dynamic capability to
+analyze text and return valuable info from various types of files.
+FDF-FSET Bot: Developed a SAS report from an existing file that was
+being used in a bot. Analyzed various existing SQL files to dive into the
+root cause for the required data. The SAS analytical reports will
+generate all the customer likelihood to purchase different insurance
+plans. An automated weekly report created on SAS to generate all the
+analytical insights for the senior business leaders.

@@ -1,0 +1,46 @@
+Achievements
+¢ Calicut university Rank holder (B.Tech- 2013-2017)
+¢ Elected as school head girl.
+e Participated in intracollege arts competition.
+Academic Activities
+¢ Presented paper in National Conference on ’Innovations in Engineering & Technology.”
+¢ Presented paper in Conference on ’PG Research Conclave 2019”
+¢ Participated in Seminar on Character Recognition.
+¢ Participated for Paper Presentation in Tech fest in inter college level.
+Paper Published
+¢ Published a paper in IIARCCE entitled Survey on satirical news detection and analysis using attention
+mechanism and linguistics features” in National Conference on ’Innovations in Engineering & Technology”
+e Published a paper entitled Hoax News Detection : Transfer Learning over Deep Learning” in PG - Research
+Conclave 2019.
+Projects
+e Library Management System(B.Tech Mini Project)
+Language: Php
+Description: Created a Web Based Application in order to solve the difficulties which was facing by the
+students and the faculties during the different functionalities of existing library management system. The
+concepts of php, and mysql were used to develop the application.
+Election Data Analysis using Machine Learning (B.Tech Main Project)
+Language: R, Php
+Description: It is a concept of using social media to understand the public opinion and trend in the election
+time, and there by predict the election winner by analyze these tweets and sentiments from social networks
+regarding the elections. It’s an machine learning project implemented by Nave Bayes and SVM algorithms.
+The same uses the help of R language for the extraction of data. And also the php and mysql concepts.
+e Structure Recognition and Information Extraction From Scholarly Articles (M.Tech Mini Project)
+Language: Python
+Description: Developed a text classification algorithm that follows a multi-pass sieve framework to
+automatically classify PDF text snippets(for brevity, texts) into Title, Abstract, Body text, Semi
+structure, and Metadata categories. The Rule based classification is implemented with the support of
+Python Language.
+The project code can be accessed here: https://github.com/Gayathri-G-Nair/PDF_ Information Extraction
+¢ Hoax News Detection: Transfer Learning Approach (M.Tech Main Project)
+Language: Python
+Description: Given a news article, the hoax news detection system is to identify whether the given news
+article is a fake news piece or not using Transfer Learning approach. For Transfer learning used ULMFiT. And also
+compared the results with different deep learning models like Long Short Term Memory (LSTM), and
+Convolutional Neural Network (CNN) with the Python implementation.
+The project code can be accessed here: https://github.com/Gayathri-G-Nair/Hoax_News Detection-A_ Transfer Learning Approach
+¢ A high speed implementation of counter mode cryptography using hardware parallelism. (As part of B.Tech
+curriculam)
+ 
+¢ Disambiguating context dependent polarity of words An Information retrieval approach. (As part of M.Tech
+curriculam)
+e Satirical News Detection Using Attention Mechanism and Linguistic Features. (As part of M.Tech curriculam)

@@ -1,0 +1,58 @@
+any hard parts ( sewn edges), extra material(sleeves, collars). Second project
+was to identify the fiber type of the cloth using NIR scanner to scan the cloth
+and third was to identify the color of the cloth using machine learning and
+computer vision
+Concepts and technologies used:
+e Python3, openCV
+e Morphological transformation for Background Subtraction, Linear
+Regression.
+IIIT Vadodara, Gandhinagar
+Al Research Intern - Facial Expression Recognition
+May, 2017 - July 2017
+Build a model which classifies human emotions & it also deals with the
+problem of optimally detecting humans and its face in the given video
+and identifying the faces. Build using following tools and concepts
+e python3, tensorflow
+e Convolutional Neural Network (CNN), LBPH and haar features.
+PROJECTS
+Face recognition using eigen face
+Oct 2017 - Nov 2017
+Worked on face detection and classification problems. EigenFace with
+PCA used for feature extraction and build a machine learning model
+using OpenCV and Python.
+Automatic Speaker Recognition System
+March 2017 - May 2017
+This system made in this project is capable of identifying the speaker.
+Registered speakers provide a given utterance and the system verifies
+the speaker by accepting or rejecting the identity claim of a speaker.
+Two algorithms are used-
+1. MFCC
+2. VQ(Vector Quantization) using LBG
+Human Detection & Recognition
+May 2016 - June 2016
+Worked on the problems of human detection, face detection, and face
+recognition in a video using following technologies and concepts:
+e Python3, Opencv,
+e SVM, HOG, Haar features, LBPH features and background
+subtraction algorithm.
+LANGUAGES
+English, Hindi, Marathi
+INTERESTS & ACTIVITIES
+e Carrom,
+© Solving puzzles
+EDUCATION
+Indian Institute of
+Information
+Technology Vadodara,
+Gujarat
+B.tech in Computer Science,
+CGPA- 8.55/10
+2014-2018
+Jawahar Navodaya
+Vidyalaya , Bhandarej,
+Dausa (Rajasthan)
+Senior Secondary (PCM) -
+90.6% (CBSE)
+April 2012 - March 2013
+Secondary- 9.4/10 (CBSE)
+April 2010 - March 2011

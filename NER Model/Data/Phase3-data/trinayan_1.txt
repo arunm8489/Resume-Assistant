@@ -1,0 +1,33 @@
+Education:
+B. Tech Vellore Institute of
+(Civil Engineering) Technology (VIT). 8.1 2015-2019
+(CGPA)
+Tirumala Junior Kalasala,
+Intermediate Rajahmundry. 94.9% 2013-2015
+KKR Gowtham 9.5
+concept school, (CGPA) 2012-2013
+Rajahmundry.
+Projects:
+ 
+Project Name Automated Ticket Processing Using NLP — Cargill
+Role & Contribution The idea behind this Machine Learning project is Re-routing tickets
+to appropriate teams without using the help-desk team help.
+e Have been involved in analyzing the data.
+e Using pandas, created calculated columns for
+detailed analysis.
+e Created dashboards with required insights.
+We got a final results with 97% accuracy.
+Key Skills 1. Exploratory Data Analysis.
+2. Data Pre-processing.
+3. Navie Bayes Algorithm.
+Project Name Donors Choose.Org
+Role & Contribution The idea behind this Machine Learning project is to predict
+whether or not a DonorsChoose.org project proposal submitted
+by a teacher will be approved .
+Applied Sentiment Analysis on features fromNLP.
+Using Glove Vectors calculated TF-IDF W2V onfeatures.
+Plotted Heat Maps and Confusion matrix .
+Built Logistic Regression Model by taking only non-
+zero features from the dataset.
+AUC scores is used as a performance metric.
+ 

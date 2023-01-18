@@ -1,0 +1,86 @@
+Shahbaj Beg
+Data Analyst -- Flipkart
+Data scientist professional having approx. 3 years of industrial experience in analytics, Skilled professional at creating Machine
+Learning models, predictive modelling, analyzing data mining algorithms to deliver insights and implement action-oriented
+solutions to complex business problems seeking an opportunity with your organization to contribute in growth of your business in
+today’s data driven world.
+><]
+shahwazb@gmail.com
+f
+9770204104
+9
+BTM Layout, Bangalore,
+Bangalore, Inida
+in
+linkedin.com/in/shahbaj-beg-
+2b70a910b
+github.com/SB2505
+SKILLS
+Python
+MYSQL TABLEAU
+o
+Machine learning
+Natural language
+processing/Text Mining
+Clustering
+Classification
+Data mining, Data
+ 
+extraction.
+stastical modelling
+RFM Analysis
+ 
+LANGUAGES
+English
+Native or Bilingual Proficiency
+Hindi
+Native or Bilingual Proficiency
+ 
+WORK EXPERIENCE
+Data Analyst
+Flipkart Internet pvt ltd Via Joules to watt Business Solution.
+05/2021 - Present
+An E-Commerce comapny
+Achievements/Tasks
+O Built out the data and reporting infrastructure from the ground up using Python, Google api to
+improve the performance of CRM Channles and to increase the conversion rate.
+Bangalore
+O Worked with cross-functional teams such as Sales and marketing to structure problems, identify
+appropriate data sources, extract data and provide the meaningful insights.
+Oo Performed the automation of dashboards using SQL and Power bi which has reduced a
+significant amount of time For the team.
+O Worked with large amount of data, utilized Teradata, Written complex SQL queries to pull the
+data From different sources.
+Jr Data Scientist
+ECAPS, Bangalore
+12/2019 - 05/2021
+Ecaps is a payment company based on Bangalore, mainly works in open banking system and Money transfer.
+Achievements/Task
+O Performed data mining, data cleaning, and data pre-processing for the Predictive modelling
+using classification machine learning algorithms,collaboration with analytics team.
+O Identifies most valuable potential retailers for promoted products through a series of sales
+behavior analysis: RFM analysis, basketing, clustering analysis, Segmentation and profiling For
+increasing response rate, sales and incentive discount optimization
+O Worked on machine learning algorithms like Regression, Classification, Clustering etc, Optimize
+models output result and validate model.
+© Collaborate with various stakeholders (e.g. tech, product,) to understand and design best
+solutions which can be implemented
+Analyst- Business intelligence
+India Vigyapan
+02/2017 - 04/2018
+A digital marketing company
+Achievements/Tasks
+O Performed both advanced qualitative and quantitative analysis of high volume data bases, to
+identify trends, patterns and correlations that could improve overall business performance.
+Indore India
+O Provide data backed business insight for better decision making using large data set and
+bringing out insight From data.
+O Developed dashborads/analytics report using Tableau/Excel to enable review decision making
+and continuously engaged with Functional teams to support decision making.
+EDUCATION
+PGP - Data science and engineering
+Great lakes Institute of Management
+03/2019 - 09/2019 Bangalore
+Bachelor of engineering
+RGPV, Bhopal
+07/2012 - 06/2016 Bhoapl

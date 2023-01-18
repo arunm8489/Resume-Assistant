@@ -1,0 +1,41 @@
+About Product : Our proprietary and powerful biometric-based user identification
+system is built on artificial intelligence technologies such as image recognition, deep neural
+networks, and robotic process automation. This allows each Faceopen system to evolve with
+every regular user interaction, enabling adaptability in different environments and conditions.
+Roles and Responsibilities |: Responsible for collecting data (images) from different sources
+through the internet and outside world.
+Collected data using logitech camera (2d) using tensorflow and realsense D435 camera using
+pytorch framework. Optimizing algorithms for hardware acceleration cores.
+Worked on data preprocessing, face detection(DMTCNN), feature extraction(FaceNet) and face
+classification(KNN,SVM). Working with heterogeneous or parallel computing systems.
+Built model for anti-spoofing classifier using various architectures.
+Built model for detecting blur faces (blur-classifier). Used docker for containerizing the
+application (DockerFile). Here deployment of the models is done in edge, which 1s android in the
+form of TensorflowLite (tflite).
+Converted spoofing pytorch model to ONNX format for deployment.
+Project2):
+Product name : Al Educator
+Company : Metagogy Learning Systems Pvt Ltd
+Details : Solving student’s knowledge gaps using graph neural networks
+(Problem solving gap analysis).
+Tools and Technique used: Python, Deep Graph Neural Networks, networkx.
+Use case : Analyzing student’s problem solving skills in assignments which
+he/she solves. Based on student performance in understanding concepts and solving coding problems
+the model will suggest where the student is outperforming.
+Roles and Responsibilities = : Worked on deep graph neural networks such as converting a
+python script into an abstract syntax tree format.
+Worked on analyzing graph data such as finding patterns in the coding assignments.
+Built a python function which takes a coding question as input and gives the output such as the
+user's knowledge score, his/her problem solving score and many more use cases.
+This application also recommends a user what he/she needs to study to solve the particular coding
+assignment.
+Based on these scores we are able to find the root cause of why a user is unable to solve a coding
+problem and fill their knowledge gaps.
+This application is deployed using the django framework at the backend of our web application.
+About Product : AI Educator is an online learning platform which is enabled by
+AI technology. The system and method to find the knowledge gap and problem solving gap using
+the response data from the user. Using this system we can be able to find out why a student 1s not
+able to solve a coding question. By using the current system and method we find the reason why
+an user is unable to solve a coding question and reinforce his knowledge and problem solving
+skills immediately so that he is able to solve the problem with utmost confidence.
+Project3):

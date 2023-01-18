@@ -1,0 +1,59 @@
+NEW =r-]a Ble ardalematci ie
+Certified Data Scientist
+ 
+Data Scientist (D3view)
+¢ Worked on projects for clients for regression and classification
+requirements. One of them being prediction of workflow based on
+previous and current workflows.
+e Part of a team to build generalized packages for different data
+visualizations. And building efficient machine learning algorithms
+(regression models, decision tree, k-means etc ..) for our platform.
+Data Scientist (Rubixe)
+Project : Employee performance analysis
+Project Description: A leading data analytics and automation solution
+provider had issues in reduced employee performance over recent
+years. The objective of this project is to find the core underlying
+causes of performance issue based on current employee data.
+Worked on Machine Learning modelling and evaluation from
+exploratory data analysis (EDA) , feature engineering, model building
+and evaluation.
+From the provided data set Identified 4 key factors as predictor
+variable which significantly contributes to employee performance.
+Trained a model with Decision tree algorithm and obtained prediction
+efficiency to 97%. This model can also be used to hire employees.
+Project : Customer Credit Score - Banking
+Project Description: Client of Rubixe is a major banking client in India.
+The project goal is to calculate customer credit score, which is then
+used for asset risk management and risk modelling of the asset
+portfolio.
+Worked in Machine Learning modelling, exploratory data analysis
+(EDA), feature engineering, model building and evaluation. This
+project required significant data cleaning and transformation. Model
+is successfully delivered to the client.
+Strides Pharma Science Limited : MES Engineer
+¢ Worked on Strides DCS (Distributed Control System) Delta-V
+(Emerson’s product). Includes integrating PLC’s, transmitters and
+HMI’s to the system.
+¢ Worked on Delta-V control module, layout design and monitoring
+activity of the plant. Created control modules and successfully
+deployed them to production
+¢ Simultaneously worked on Syncade application (Emerson’s
+product), which is an MES system.
+Soft Skills
+Problem Solving, Critical Thinking
+Expert @®@@@®@
+Creative and Interpersonal Skills
+Expert @®@@@®@
+Languages
+Business English
+Expert @®@®@®@
+Telugu, Kannada, Tamil
+Expert @®@®@®@
+Interests
+Fitness, Volleyball
+(Represented State Level)
+Travelling and exploring
+Address:
+# 079, 4 cross, 3' main, J P Nagar
+7 Phase, Navodaya Nagar
+Bangalore - 560078

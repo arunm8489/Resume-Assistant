@@ -1,0 +1,38 @@
+Project-2Z
+Project Name Thyroid detection MAR 2019
+Owner Health pointe Solutions MAR 2020
+ 
+HREOG: Bangalore — India Team Size
+Location
+Project Description: In this project we working for client Health pointe Solutions and project name is Thyroid Detection.
+According to this project we can predict person in suffering from thyroid or not In this engagement | am working as a
+Developer for Machine learning use cases so far | have involved multiple use cases in like Data validation Data
+transformation, Data preprocessing and data modeling
+Environment & technology used : Python, Machine learning, Transfer Learning,
+ 
+Contribution:
+SS
+%
+Involved in requirement gathering and Architecture design of the project for machine learning implementation.
+SS
+%
+Building baseline models for the requirements with necessary data preparation.
+SS
+%
+Involve in Data validation, Data Preprocessing, modelling and deployment
+SS
+%
+Involved in data validation data transformation. And data insertion in data base.
+SS
+%
+Responsible to deploy this project in aws
+ 
+ 
+ 
+Education
+Exam / Degree School / College
+BE (Electronics Atria Institute of Technology,
+communication Karnataka
+Engineering)
+ 
+Bengaluru.

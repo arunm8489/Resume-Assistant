@@ -1,0 +1,76 @@
+ 
+ 
+ 
+ 
+Anjali Choudhary
+To succeed in an environment of growth and
+excellence and earn a job which provides me job
+satisfaction and self-development and help me
+achieve personal as well as organization goals.
+EDUCATION
+Bachelor of Engineering
+Siddaganga Institute OF Technology
+08/2015 - 05/2019
+CGPA : 8.44
+© Information Science and
+Engineering
+Tumkur, Karnataka
+WORK EXPERIENCE
+Gnani.ai (04/2020 - Present)
+© NLP Engineer
+© Worked on improving NLUs by providing better approach using
+Transformers
+Worked on building multiple voicebots using Rasa and
+delivered in small span of time with 90%+ accuracy.
+Expert in building - collection bot, feedback bot and rating bot
+Good at attending client calls, understanding requirements
+and giving solutions
+Analog Devices (06/2019 - 03/2020)
+® Deep Learning intern
+® Real time video analysis using Deep Learning
+TechTwigs Technologies (01/2018 - 07/2018)
+® Data Science intern
+® KYC Document Classifier using Fast.ai library and with 99%
+accuracy
+PROJECTS UNDERTAKEN
+Major Project
+Smart Eye for visually disabled people
+using Deep Learning and Computer Vision
+08/2018 - 05/2019
+A picture clicked by the blind person using the camera placed on his
+spectacle generates a caption using CNN and LSTM algorithm. The
+generated caption is then converted to voice using text-to-speech
+module.The blind person can hear what is happening in his
+surrounding by the picture clicked by him.
+Mini Project
+Book Recommendation System using
+Machine Learning
+08/2017 - 05/2018
+A Book Recommendation System which recommends books on basis
+of previous history of a user using k- Nearest Neighbour algorithm.
+ 
+anjali12.ins@gmail.com %
+9945313337 [J
+Bangalore, India Q
+github.com/anjalinagel12 ©)
+SKILLS
+CERTIFICATES
+* Udacity Machine Learning nanodegree (01/2018 - 04/2018)
+3rd year Engineering
+* Udemy complete Python Bootcamp course
+(05/2017 - 06/2017)
+* Team member of DeCoders- a Programming Club of SIT
+(03/2016 - Present)
+* PyTorch Facebook Udacity scholar (10/2018 - 02/2019)
+ACHIEVEMENTS
+* Best Major Project award (Final Year Project) 2019
+Smart Eye for Visually disabled people using Deep Learning
+* 1st prize in ROBOTHON- 8 hour Hackathon 2019
+Smart Eye for Visually disabled people using Deep Learning
+* 2nd prize in Hobby Project Presentation- TECHNISUM 2019
+* 2nd prize in Code For Good- 24 hour Hackathon 2018
+hosted by JP Morgan Chase
+INTERESTS
+Coding Reading Books Problem Solving
+Analytical Thinking BOT Development Reading Blogs
+Playing Table Tennis Drawing

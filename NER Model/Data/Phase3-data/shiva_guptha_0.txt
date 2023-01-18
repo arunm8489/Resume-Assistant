@@ -1,0 +1,83 @@
+Shiva Gupta
+shiva0504@gmail.com | +91-9039991139 | linkedin.com/in/shiva0504
+ 
+EDUCATION
+HIT BANGALORE
+M.TECH. IN COMPUTER SCIENCE
+2018-2020 | CGPA: 7.03
+MITS, GWALIOR
+B.TECH. INCOMPUTER SCIENCE
+2014-2018 | CGPA: 7.34
+SAGAR PUBLIC
+BHOPAL
+INTERMEDIATE(CBSE)
+2012-2013 | Percentage : 79%
+SCHOOL,
+SKILLS
+PROGRAMMING LANGUAGES
+e Python e Javae C e C++
+DATABASES
+e MySQL
+MACHINE LEARNING EXPOS-
+URE
+e K-Means e Decision Trees e Random
+Forest ¢ Logistic Regression « Deep
+Neural Networks
+ACHIEVEMENTS
+e Participated in ZS Data Science
+Challenge (InterviewBit) and secured a
+spot in top 500.
+e Grabbed 21st state position
+world-wide 230th position in
+International Olympiad of Mathematics
+(2013)
+e Attended workshop on “Internet of
+things’ conducted under
+TechnoCruise 16 by IIT Kanpur.
+e Podium finish in Movie Making
+Competition at annual college cultural
+fest.
+e Successfully organized and performed
+Flash mob on Gandhi Jayanti at DD
+Mall, Gwalior.
+ 
+EXPERIENCE
+QUALCOMM(HYDERABAD)
+SOFTWARE ENGINEER
+June 2020 - May 2021
+e Developed Automation tool for finding the faulty commit raised during merging
+of all the changes which helped in Camera Feature Usecases.
+ 
+ 
+e Make My Build - Idea of this project is to reduce developer effort of making
+builds without the dependency of other Team
+QUALCOMM(HYDERABAD)
+SOFTWARE DEVELOPMENT ENGINEER INTERN
+January 2020 - June 2020
+ 
+e Contributed significantly in develooment of Qualcomm Camera Feature
+e Developed and improvised Camera Performance automation tool.
+PROJECTS
+IDENTIFYING CREDIT WORTHINESS OF A LOAN SEEKING
+CUSTOMER | Python
+e Developed a machine learning classifier to do credit check on loan
+applications.
+e Classifier was developed using Random forest algorithm
+CUSTOMER SEGMENTATION USING WEB SESSION ANALYSIS |
+Python
+e Developed a Machine Learning Algorithm to segment users based on
+navigation paths taken by customers on the website.
+e Used K-means algorithm to achieve this aim.
+SENTIMENT ANALYSIS OF MOVIE REVIEW DATASETS | Python
+e Conduct Sentiment Analysis of Customer reviews for Movies.
+e Employed ITF-IDF method for the same.
+NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO
+ALIGN AND TRANSLATE | Python
+e Improve the seq2seq encoder-decoder model for Neural Machine
+Translation by removing a perceived bottleneck in the original
+formulation(using fixed-length vector for translation).
+e Translation is aimed for English to French language using RNN, LSTM.
+WEB DEVELOPMENT FOR DOCTOR@DOOR | Java
+e Built a website that helps patients to book appointment with the
+doctors.
+e Using HI ML,Bootstrap,CSS,PHP.

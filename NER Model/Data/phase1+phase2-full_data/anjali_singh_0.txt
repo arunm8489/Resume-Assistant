@@ -1,0 +1,36 @@
+ANJALI SINGH
+IT Professional
+Email: anjsinghl147@gmail.com
+Contact: +91 9513801637
+Being a data science enthusiast with good statistical knowledge and the ability to identify fine points of
+data in a sea of information, I want to be involved in work where I can utilize skills and creatively
+involved with system. That effectively contributes to the growth of organization as well as me.
+Experience
+Data Engineer, Parthius Technology Pvt limited 01/2020 -Present
+Description:
+e Using Various Machine learning model to build Speech recognition system.
+e Working on multiple domain such as Financial, Healthcare trading etc.
+Projects:
+> Visual Network Graph analysis for social circle data like Facebook and Twitter.
+Re-design an offline Speech Recognition model using BERT.
+Designed Language Translator model for Indian Language like Gujarati, Bengali etc.
+Build an application for speech to text and text to speech using python.
+Language conversion model like Gujarati to Bengali and vise-versa.
+Re-design Ichimoku algorithm and scoring model for stock analysis.
+Worked and analysed various trading algorithm.
+Worked on Restful API s for the Healthcare Web Application.
+VV VV VV WV
+NLP, Python developer, Ebisu Technology Pvt limited 04/2018 — 01/2020
+Description:
+e Working on Natural language processing using python. We are using NLP for chatbot and
+creating ontology. Ontology basically we are using for creating relationship between entities.
+e Developing RPA using python and using NLP for data extraction from pdf and image.
+Project:
+> NLP Applications: I completed projects such as Named entity recognition, Sentimental analysis,
+Spam detection, Language detection, Language translation, Spell checking, Word2vec, Intent
+Classification using Python and NLP.
+Worked on Robotic Process Automation (RPA).
+Worked on Anomaly Detection for Finical Transaction and Portfolios.
+Various techniques used for Anomaly Detection.
+VV V WV
+Build Document Classifier for Insurance and Retails.

@@ -1,0 +1,50 @@
+Praveen Reddy Nelli
+Data Scientist at CGI
+Email: reddypraveen722@gmail.com
+Mobile: +91-8919098852
+LinkedIn URL: https://www.linkedin.com/in/Praveenreddi722/
+Professional Summary:
+> Data Scientist with 4.6 years of industry experience in Statistical Modelling, Predictive Modelling
+algorithms to solve challenging business problems.
+> Experience in mapping business requirements to Data Science solutions and having experience implementing
+POC’s.
+> Expertise in Machine learning, Deep learning , Computer vision models and having experience deploying
+scalable and serviceable Al models using RESTful services and Docker.
+Work Experience:
+Project1:
+Domain Travel
+Client , LUFTHANSA
+Task , Predictive Failure Analysis and Anomaly detection on Time series
+Algorithms , Vector Auto Regression (VAR), Facebook Prophet, Isolation Forest
+Responsibilities:
+> Gathered Multivariate Time Series data collected from ElasticSearch database.
+> Queried the database using elasticsearch-dsl and cleaned it using Python for modeling.
+> Performed EDA: Data integration, outlier analysis, missing value treatment, correlation analysis.
+> Conducted statistical checks: Causality test, Cointegration test, Stationarity check.
+> Applied Multivariate-forecasting algorithm on historic data to predict the future outcomes of the system
+metrics and evaluated the forecasts using RMSE (Root Mean Squared Error), Mean Absolute Percentage Error
+(MAPE) etc.
+> Applied unsupervised machine learning model on system metrics to identify the anomalies present in
+the data.
+> Deployed the models using Flask and the results obtained are sent to the customized monitoring tool
+(UI) via Rest API.
+Project2:
+Domain Retail
+Client SODEXO
+Task Document Verification for KYC with OCR and Computer Vision
+Algorithms , Faster R-CNN, Tesseract-OCR, Google Vision-OCR, Verhoeff
+Responsibilities:
+VVV VVWV
+Pre-processed the input images: Image resizing, Image denoising (Gaussian Noise filter) etc.
+Annotated a set of images with different classes using Labellmg tool for feature extraction.
+Trained an Object Detection model (Faster RCNN) chosen from TensorFlow Object Detection API on custom
+data set using pre-trained weights.
+Exported the Inference Graph and performed Object detection to identify the ROI (Region of interest).
+Performed OCR on the Region of interest and extracted the text.
+Validated the extracted text with regex and verhoeff algorithm, the result is then sent via Rest API in Json
+format.
+Project3:
+Domain Travel
+Client LUFTHANSA
+Task , Sentiment Analysis on Twitter Streaming data
+Technology Python, TwitterAPI, TextBlob, Flask, Streamlit, Heroku

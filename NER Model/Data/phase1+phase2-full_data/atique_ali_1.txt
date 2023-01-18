@@ -1,0 +1,24 @@
+Jan 2016 PROGRAMMER ANALYST
+3%) Jun 2017 = Cognizant Technology Solution / Kolkata, IN
+e Achieved 66% increase in CPU efficiency that resulted in
+decrease in delay frequencies of data transfer to various
+applications and clients.
+e Analysed &improved daily batches runtime and efficiency in CPU
+usage in mainframe using packet sequencing.
+e Designed new modules in Mainframe and implemented in
+production.
+e Performed bug analysis, root cause analysis & implemented
+fix.
+e Developed & managed automated GitLab CI/CD pipelines for
+deployments
+EDUCATION
+gS) Aug 2011 B TECH ELECTRICAL & ELECTRONICS, GPA 7.19
+Mar 2015 | ovely Professional University / Punjab, IN
+RELEVANT COURSEWORK:
+e Electrical Team Lead - Tramways in LPU (Live Mini-Metro Project)
+e Workshop in MATLAB in ICARUS and PCB designing from RISC, LPU
+AWARDS & HONORS:
+e Gold Medal in Interschool Swimming 2010
+e Recognized multiple times by CEO for excellent work
+e Appreciation Badges for demonstration of the products to clients
+e Awarded as the Rising Star of DXC, 2018-2019

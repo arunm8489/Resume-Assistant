@@ -1,0 +1,84 @@
+AKANKSHA
+SAXENA
+B.TECH
+M@ akanksha27398@gmail.com
+\ 8799788177
+Skills
+PROGRAMMING
+LANGUAGE
+Python
+NLP
+Machine Learning
+NLU
+ 
+ALGORITHMS & OPEN
+SOURCE LIBRARIES
+Rasa
+NLTK
+TF-IDF
+Flask
+Apache Kafka
+Transformers
+Neural Network
+DATABASES
+Elasticsearch
+MongoDB
+VERSION CONTROL
+GIT
+PLATFORMS & TOOLS
+AWS EC3
+Google Cloud Platform
+OPERATING SYSTEMS
+Linux
+Windows
+Summary
+ 
+e An IT professional with 2.5+ years of experience as a Python/ML Engineer.
+e Skilled in managing end-to-end development of software products/projects from inception,
+requirement specs, planning, designing, implementation, configuration, and documentation.
+e Knowledge of Python, Machine Learning, Artificial Intelligence, Data Science.
+e Extensive project management and R&D experience, with a conceptual understanding of the
+application development life cycle and software development methodologies.
+ 
+ 
+Education
+G.L. Bajaj Institute of Technology & Management 2015 to 2019
+B.tech
+P.D.S Public School 2014 to 2015
+Intermediate
+P.D.S Public School 2012 to 2013
+High School
+Employment
+Magic Software Noida
+Sr.Associate Engineer Jan. 2019 to Current
+e Worked as an ML Engineer and have created modules for the product.
+e Handling Design, Development of Projects.
+e Leading End to End Chat bot Development with B2C level Use cases focusing on End user in
+Education domain like Students, Teachers etc.
+e Maintaining project schedule and communicating project status to the management.
+Projects
+ 
+Magicbox Chatbot
+e Magic Box is the chat bot based on Online Education Platform like Searching Courses, Searching
+Books. Assignment & Recommendation of Courses on the Chat bot itself.
+e It also offers use-cases to handle Reminders & notifications to students for pending homework etc.
+e Magicbox Chat bot is built on Rasa Framework
+e Magicbox Chat bot is work on Multi-Tenancy
+Semantic Searching for Bots
+e The semantic searching is an advance searching designed to be used in any bot, was made to
+search courses, contents, answer for any question, and useful data based on the searched term
+from the database.
+e It uses concepts like BERT SENTENCE TRANSFORMERS, AUTO TAGGING of all the available data
+along with queries built on top of Elastic Search.
+Magicbox Auto Q&A Assessment
+e Auto QnA assessment is a scoring mechanism of answers with respect to their question for
+students using deep learning models and NLP technologies.
+e It also leverages auto concept recommendation of content based on the assessment. It uses
+Elasticsearch as it’s data storage.
+e It was designed to ease the extra effort of teachers in writing answers for their questions,
+evaluating student’s answer sheets.
+Awards
+ 
+Manager - WOW Award
+e Appreciation for dedication and focus on the work to ensure quality and on time delivery.
+e For outstanding commitment, contribution and passion towards the project - Magicbox chat bot

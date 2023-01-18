@@ -1,0 +1,80 @@
+Ankita Mohapatra
+Hard-working achiever, dedicated to on-time delivery, and enthusiastic team player.
+BQ 040ankita@gmail.com [] 8984521895
+WORK EXPERIENCE
+ASSOCIATE QUALITY ASSURANCE
+ENGINEER
+Oracle India pvt ltd
+06/2019 - Present Bengaluru, Karnataka,/ndia
+PROJECT INTERN
+Oracle India pvt ltd
+07/2018 - 05/2019 Bengaluru, Karnataka, India
+PERSONAL PROJECTS
+PROJECT NAME- BRAND COMPLIANCE MANAGEMENT
+(06/2019 - Present)
+® Over 2.2 years of experience in different phases of testing (
+Functional (Manual) Testing, Regression Testing, Application
+Testing, Feature Testing, API Testing, UI Automation Testing,
+Web Services Testing, and Database Testing ).
+© Good experience on automation testing using Selenium Web
+driver, Java, TestNg, Maven in Selenium Framework and
+developed the automation test scripts in Selenium WebDriver using
+Java based on the design pattern Page Object Model For
+reusability.Firm knowledge in xpath expressions.
+® Strong in Java language and Software Design & Development -
+OOPS methodologies.
+@ Strong skill in Backend testing using SQL queries on Oracle and
+SQL Server, developed SQL queries and Joins to validate the
+reports.
+® Created new database objects like Procedures, Functions,
+Packages, Indexes and Views using ORACLE SQL and ability to
+write and troubleshoot SQL Code and design (stored procedures,
+Functions, tables, views, indexes, constraints).
+® Knowledge on API testing(Rest and Soap services) using SOAP UI
+tool.
+© Experience in logging defects using JIRA , performed defect
+tracking and reporting and involved in the entire QA process, well
+acquainted with all phases of SDLC and STLC, and had experience
+in testing very complicated applications including Agile
+Methodology and Waterfall .
+©@ Created automation test scripts using automated tools and ran test
+scripts on various builds and instances and e xperienced in Writing
+Test Scenarios and Test Cases by using Regular Expressions and
+Black Box Testing and maintained Selenium and Java automation
+code in Source control like SVN .
+@ Basic knowledge in Machine Learning Algorithms, Artificial
+Intelligence, and data visualization tools like Tableau.
+© Good at Data Warehouse techniques - Dimensional data
+Modeling, Star Schema and Snowflake Schema Understanding of
+Business Intelligence and Data Warehouse concepts.
+PROJECT NAME- BRAND COMPLIANCE MANAGEMENT
+(07/2018 - 05/2019)
+© Over 1 year of experience in different phases of testing Functional
+(Manual) Testing, Regression Testing, Application Testing, Feature
+Testing, API Testing, Ul Automation Testing, Web Services Testing.
+Q Bengaluru, India
+in linkedin.com/in/ankita-mohapatra-81a475150
+ 
+SKILLS
+ACHIEVEMENTS
+Published a paper in Springer with topic of “Diagnosis
+of Tuberculosis using Data Mining”
+In book: Advances in Artificial Intelligence and Data Engineering
+(pp.995-1008)
+-https://www.researchgate.net/publication/343657126_Analysis_of
+_Tuberculosis_Disease_Using_Association_Rule_Mining
+Published another paper in Springer with the topic of
+“Analyze and Visualize the Correlation between Heart
+and Cancer Disease using Data Mining Techniques”
+Source: Sixth International Symposium on Intelligent Systems
+Technologies and Applications (ISTA'20) (2020)
+EDUCATION
+M.Tech-Computer Science,Amrita Vishwa Vidyapeetham
+University
+B.Tech-Electronic Telecommunication,Biju Patnaik
+University of Technology
+LANGUAGES
+English Hindi
+Native or Bilingual Proficiency Native or Bilingual Proficiency
+INTERESTS
+Art Traveling Cooking Music

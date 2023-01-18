@@ -1,0 +1,46 @@
+Since Dec 2020 Constient Global Solution Al Intern
+Highlights
+e Synthesize research literature in the areas of statistical modelling, machine learning, operations research to incorporate
+findings into algorithm development
+e Conduct empirical research and develop methods/tools to help improve the effectiveness of modelling tools
+e Support the implementation of state-of-the-art Al algorithms in TensorFlow or PyTorch
+e Design and improve unsupervised algorithm models and deep learning modules
+e Evaluate and validate the model performance with respect to metrics
+Apr 2020 — Jul 2020 Big Data Science Research Data Analyst
+Highlights
+e Learned how to leverage and integrate disparate data sources, including enterprise systems, internal and third-party
+applications, and customer data
+e Worked to identify and diagnose data inconsistencies and errors, forages to fill data gaps
+e Maintained metadata dictionaries to assist in the governance of metrics and flow of data
+e Developed supervised/unsupervised machine learning models using both structured and unstructured data
+e Used statistical modelling to identify patterns in data and conducted exploratory data analysis
+ARTIFICIAL INTELLIGENCE/DATA SCIENCE PROJECTS
+Signature cropping using Computer Vision:
+Objective: validating signature in cheque.
+Tools Used: Python.
+Libraries Used: OpenCV.
+Algorithm: Computer Vision, CNN.
+Description:
+e To validate and compare the current and existing signature.
+e Once the signature got identified, validate with the existing signature.
+e Once both the signature matches for 80-90%, the signature will be cropped.
+Credit Card Default:
+Objective: Predict if the clients would pay the next month's credit card bill.
+Tools Used: Python.
+Libraries Used: Numpy, Maitplot
+Algorithm: Random Forest, Logistic Regression.
+Description:
+e The process is done through a supervised learning algorithm.
+e After validating data unbalancing, visualized the features and understood the relationship between different
+features.
+e Random Forest Classifier has performed well with accuracy score - 0.815 and f1 score - 0.46
+TECLOV Business Analysis Project: Identified the best sectors, countries, and the suitable investment type for an
+asset management company Teclov. Analyzed vast array of data using Pandas library of Python.
+Attrition Rates of Employees: Completed the project to reduce employees' attrition rates by providing them with
+bonuses/incentives. Experimented with the popular classification algorithms such as Logistic Regression, KNN Classification,
+Naive Bayes, Decision Trees and Ensemble models like Gradient Booster, AdaBoost and XGBoost classifiers.
+PERSONAL DETAILS
+Date of Birth: 12 Jun 1995
+Marital Status: Single
+Language: Tamil & English
+References available upon request

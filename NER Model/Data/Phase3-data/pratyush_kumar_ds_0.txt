@@ -1,0 +1,61 @@
+ 
+PRATYUSH KUMAR
+pratyushk2011@gmail.com | 8630368369 | Bangalore, India
+Tangerine.ai
+Data Scientist | Aug 2019 to present
+e Creating inteligent systems to solve challenges
+in automotive industry
+e Implementing research papers and building on
+top of existing models via transfer learning
+e Data analysis and visualisation to supplement
+decision making of Product Team
+e Development of new features and required
+modifications on existing ML stack
+Torrent Power
+Graduate Engineer Trainee | Aug. 2017 to
+July 2018
+e Analysis of electricity meter data to
+identify misuse/theft in residential and
+commercial users
+Post Graduate Diploma in Big Data Analysis |
+2019
+CDAC, Knowledge Park Bangalore | 82%
+B.Tech, Electrical and Electronics Engineering |
+2017
+Krishna Institute of Engineering and
+Technology, APJAKTU | 70%
+12th | 2012
+Bishop Johnson School and College (ISC) | 78%
+10th | 2070
+Bishop Johnson School and College (ICSE)|
+82%
+Hard Driving Event Prediction
+Development of a machine learning model to
+predict sudden Hard Accelerations and
+Brakes from vehicle sensor data to analyse
+driving patterns
+STAG
+Implementation of a paper, based on activity
+recognition to classify car dash cam videos
+under crash and non-crash categories
+Tailgating Detection
+Development of a vision based collision
+avoidance system working on car dash cam
+feed to nudge driver to avoid tailgating the
+vehicle ahead.
+Trading Strategy Simulator
+Simulation and backtesting of equity trading
+strategies to assess max drawdown, CAGR
+and other investment performance
+indicators based on past data
+e Machine Learning
+e Deep Learning
+e Data Analysis
+e Python
+e Tensorflow (Keras)
+e Scikit Learn
+e Numpy
+e Pandas
+e OpenCV
+e SQL
+e Git

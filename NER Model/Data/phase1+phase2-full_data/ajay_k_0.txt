@@ -1,0 +1,59 @@
+Ajay K. Gond
+Graduated from IIT Kanpur Email id: kumar.ajayg9667@gmail.com
+Department of Civil Engineering Mobile No: 9696548367
+EDUCATIONAL QUALIFICATIONS
+XII (Uttar Pradesh Board) Maharshi Arvind Vidya Mandir H.S. School,
+Kushinagar (U.P
+ 
+2013 X (Uttar Pradesh Board) Maharshi Arvind Vidya Mandir H.S. School, 93.7%
+Kushinagar (U.P.)
+SCHOLASTIC ACHIEVEMENTS
+e Participated in the academic and interaction session during Inspire Internship Program 2013 held under 6" Science
+Conclave-2013, a congregation of Nobel Laureates and eminent scientists in IT Allahabad
+e Got certificate of excellence in Corporate Group of Institutions, Bhopal (M.P.)
+e Got first rank in State Science Fair-Saraswati Vidya Mandir Mau (UP) and participated in State Level Science Fair-Sitapur (UP)
+TECHNICAL SKILLS
+e Language: Python, R, C, MATLAB, SQL, HTML, CSS, Node Js
+e Software/Systems : Linux, Windows, MS Excel, MS Word, STAAD.Pro, AutoCAD, ArcMap (QGIS)
+e Cloud Services : Amazon Web Services, Google Cloud, Azure ML Studio
+PROJECTS UNDERTAKEN in COLLEGE
+@ NPAs Prediction of Banking Systems in India
+o This project was part of Data Mining course. Problem statement was to predict NPAs of banking system in India. Used
+different types regression algorithms along with feature engineering techniques e.g. (Relief family of algorithms for
+feature selection)
+e Hypothesis Testing for Multiple Distributions
+o Performed Goodness of fit tests to check type of distribution the raw data is following- Chi Square test, Kolmogorov-Smimov
+and Anderson Darling test.
+2+ years of PROFESSIONAL-EXPERIENCE in QUANTIPHI
+e Interactive Chatbot: - Designed a fully trained insights-interactive chatbot for insurance domain using the Dialogflow and NLP.
+It has all the advanced features like sending mail, push notifications, setting reminder for the calendar invites.
+e Bottle cap Recognition: - Had to recognise characters (combination of number and alphabets in any orientation) on a bottle cap
+image. Used transfer learning for bounding box detection for area of interest and further trained ML modes (CNN+RNN) for
+character level recognition.
+e Table Detection and content Extraction: - Successfully detected tables from articles (Implemented Fast RCNN, Faster RCNN,
+SSD for detection) on top of detection also used OCR to extract the contents in the spreadsheet. Deployed the same in AWS.
+@ Leaving Group Prediction: - This project was based on classification problem in which we had to predict the probabilities of
+leaving groups. Used different types of ML Algorithms (XGBoost, LightGBM, CatBoost, Sklearn Linear models). Deployed the
+same using Flask-Framework to create a RESTAPI and hosted the same on cloud.
+@e Anomaly Detection: - Successfully implemented AutoEncoder for anomaly detection in sensor dataset. Created a RESTAPI and
+deployed it in AWS using custom docker-image.
+@ Key-Value Pair Extraction: - Successfully extracted key value pairs from claim document under a insurance domain. Tried deep
+learning algorithms and Spacy pipeline.
+PUBLICATIONS
+e Article: Wrote an article based on advanced techniques in Deep Learning (NLP). This article stands for back-tracking drivers that
+result a sentiment value for a given description. Here is the link for published article :
+httos://medium.com/analytics-vidhya/extraction-of-sentiment-drivers-9803bb8fecaa
+ 
+e Research Paper : Co-authored and presented the paper in 7" International and 45" National Conference on Fluid Mechanics and
+Fluid Power on 10"-12'" Dec’2018, IIT Bombay, Mumbai
+RELEVANT COURSES
+Introduction to Deep Learning Advanced Machine Learning (Speciality) AWS Machine Learning
+Fundamentals of Computing Data Mining Computational Methods in Engineering
+Partial Differential Equations Applied Probability and Statistics Statistical Analysis and Modelling
+EXTRA-CURRICULAR ACTIVITIES
+e Member of managing committee in Takneek’16 and Techkriti’18.
+e Interested in : Chess, Poker, Cricket, Badminton, Football
+POSITION OF RESPONSIBILITY
+@ Membership in Technical-Content-Writing team under hiring committee.
+e Having a role of machine learning trainer in the organization.
+e Membership in sports club management. Designed automation process for auctions.

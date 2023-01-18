@@ -1,0 +1,44 @@
+AJ AY PANINDRA Contact : 9398586311
+DATA SCIENTIST | MACHINE LEARNING ENGINEER Mail-Id : ajayphanindraaj@gmail.com
+ABOUT ME
+ 
+Throughout my career, I have contributed to positive business results through effective
+organization, prioritization and follow-through of key organizational projects. Expertise in
+managing Data Science project using various statistical and machine learning concepts. Working
+experience in python, R, sql, mongodb, tableau, Bigdata hadoop , Spark , HTML, Deployed
+the machine learning models in Aws, Azure, Gcp, Heroku .
+CAREER OBJECTIVE
+ 
+I am passionate about working with the organizations that want to make effective use of
+their data; from the first ideas arround what they need to measure and how to capture the
+data accurately, which may be through data preparation,analysis, and management, modeling
+and evaluation, & all the way to the impactful presentation of insights from the data.
+TECHNICAL SKILLS
+ 
+e Expertise in managing the full life cycle of Data Science project includes transforming business
+requirements into Data Collection, Data Cleaning, Data Preparation, Data Validation, Data
+Mining, and Data Visualization from various Data Sources
+¢ Experience in Statistical modeling techniques such as LinearRegression, Multiple Linear
+Regression, Logistic Regression, GradientBoosting , AdaBoost, XGBoost, Clustering Analysis,
+RandomForest, Decision Trees , Neural Networks (ANN, CNN,RNN ), Naive Bayes Classifier,
+Dimension Reduction, SVM ,& Tree-Based Methods
+e Experience in Python libraries such as Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn,
+NLTK, Keras, TensorFlow, Gensim
+¢ Experience in Data Visualizations using Matplotlib, Seaborn in Python, Tableau, Excel.
+¢ Hands-on experience using the Big Data Hadoop framework tools( Pig, Hive, Hbase) and Apache
+Spark ( Pyspark , Milib).
+¢ Deploying the machine learning models in the Aws EC2, Microsoft Azure, Google Cloud
+Platform(GCP), Heroku using python flask and html-css
+AREAS OF EXPERTISE
+ 
+Programming Language : Python
+Statical Programming Language : R Programming
+Data Visualization : Tableau
+Database : SQL Server, MongoDB
+Scripting : Html-CSS scripting
+Big Data Ecosystems : Hands-on experience in Hadoop framework ,MapReduce, HDFS, Hive,
+Pig, Hbase, Apache Spark, SparkSql, SparkMlib, Setting the hadoop services
+Platforms : Jupyter Notebook, Spyder, Google Colab, Pycharm, Windows, Linux (Cent os &
+Ubuntu)
+Cloud Servers : AWS (EC2, Sagemaker), Azure, Google Cloud Platform (GCP), Heroku
+Misc knowledge: Dockers, Containers and Kubrnetes

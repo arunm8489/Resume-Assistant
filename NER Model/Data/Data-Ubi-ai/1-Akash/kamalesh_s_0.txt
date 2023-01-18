@@ -1,0 +1,42 @@
+Kamalesh S (Software Engineer)
+Experience in executing full life-cycle development projects; ramping up
+projects within time, budget & quality parameters, as per project management
+Ses foe 86 Sneed & best practice guidelines, targeting assignments in Data Science, Machine
+“Sp, | SEES Learning and Deep Learning with an organization of high repute.
+“Hisiis. 6238 Location Preference: Bengaluru and Chennai
+  
+Ce ed
+a
+) 9750009283 a kamaleshkarthi14@gmail.com
+ 
+fe Profile Summary
+Experience in architecting applications with Algorithms, Data Structures, Binary Tree, Artificial Intelligence,
+Machine Learning, Deep Learning, which includes CNN, Recurrent Neural Network with Python.
+Skilled in libraries such as Sklearn, Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Keras, Tensorflow, NLTK,
+Beautiful Soup and Darknet.
+Rich experience in all phases of the software development life-cycle (requirements, design, development, testing,
+release, support), utilizing multiple development methodologies, including Design Patterns, OOD,
+Extreme Programming, and Structured Programming.
+Expertise in manipulating and analyzing complex, high-volume, high-dimensionality data from varying data
+sources and big data sources.
+Deployment of Machine Learning and Deep Learning Models using PAAS such as Heroku and IAAS such as
+AWS EC2 instance, Amazon Rekognition, AWS Sage Maker and S3 Bucket.
+ 
+4 Career Timeline
+Planys Technologies, Chennai Jan 2021- Present
+Engineer - Software Engineering
+Python Software Developer for Linux, | was involved in developing programs for the following.
+1. Using darknet trained a defect detection model for Al Enabled ROV. Common defects such as (Marine growth,
+Corrosion, Scratches) have been trained using tiny- YOLOV4 .
+2. Python program to display Al Engine and Cockpit Display.
+3. Python Program for Video Enhancement application using Node.js.
+4. Under water image video classification using VGG16 model.
+5. Research and Development on various fields like Under water Defect detection using Reinforcement learning
+and Reverse image Search.
+6. Other Management works like CMake file build, ISO Auditing & Shell Scripting.
+Pantech Solutions, Hyderabad Nov 2017- Jan 2021
+Data Scientist
+Working closely with business and engineering teams to encourage statistical best practices with respect to
+experimental design, data capture and data analysis :
+1. Participating in Data Preprocessing Techniques in order to make data useful for creating Machine Learning
+Models

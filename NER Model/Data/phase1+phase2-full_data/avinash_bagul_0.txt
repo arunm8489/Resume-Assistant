@@ -1,0 +1,62 @@
+Avinash Bagul
+Associate Data Scientist
+Exoerienced and Enthusiastic Data Scientist with around 3 years of experience in Data Analysis, ML and
+Al. Desire to work in a pragmatic way and build a career in Data Science.
+& Work History
+2018-10- Associate Data Scientist
+Current
+IFS India Mercantile Pvt. Ltd, Pune, MH
+Title: Financial Fraud Detection
+( Python, Regression, Data preprocessing, Data preprocessing,
+Ensemble, Train-test split, Cross-validation, SQL)
+Responsibilities:
+e Formulating Data, Data Cleaning, Data Preprocessing,
+Labelling, etc.
+e Data Visualization and Modeling: create charts in jupyter
+notebook to visualize the data using imbalance, overfitting.
+e Clustering and classification.
+e Implementation different machine learning algorithms.
+Title: Pheumonia Detection
+( Python, Seaborn, Transfer learning, Transfer learning, Keras,
+Pickle, Joblib , Tensorboard)
+Responsibilities:
+e An algorithm is developed is developed to detect a visual
+signal for pneumonia in X-ray images.
+e To detect pneumonia X-ray images are trained for Resnet —
+18, 34, 50, 101 Model.
+e Doing feature engineering, image preprocessing, transfer
+learning and fine tuning of pre existed Resnet models.
+e Analysed model performance using Tensorboard.
+e Deployed CNN model using Flask.
+fer Education
+M. Tech.: Computer Engineering
+Dr. Babasaheb Ambedkar Technological University
+B.E.: Information Technology
+Dr. Babasaheb Ambedkar Marathwada University
+ped Contact
+Address
+Pune, Maharashtra,
+411041
+Phone
+866 922 0962
+E-mail
+avinash.bagul365@gmail.
+com
+Skills
+Languages: Python 3.x,
+SQL, Json
+Python Library: Pandas,
+Matplotlio, Seaborn,
+TensorFlow, Keras
+Tools: Mysal, Git, Jira,
+Pickle, Joblib
+IDE: Jupyter, Pycharm
+ML & Al: KNN, Deep
+Learning, NLP
+Personal
+Information
+ 
+DOB: 11/07/1986
+Marital Status: Married
+Language: English, Hindi,
+Marathi

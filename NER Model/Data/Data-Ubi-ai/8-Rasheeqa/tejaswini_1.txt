@@ -1,0 +1,40 @@
+e DB Connectivity
+e DB Refresh
+e Start/Stop of DB tasks
+Developed SCCM Application Deployment Automation for various
+clients (DLG, Nationwide, Matalan, NESTE, Carnival)
+e Create Applications and packages in SCCM
+e Creates Collections
+e Deploy Application/Package
+e Generate Compliance reports
+Automation of SCCM Administrative tasks
+e Housekeeping Activity
+e Daily Health checks
+Streamlining Employee Onboarding Process using ServiceNow
+Created Application in ServiceNow which streamlines the onboarding process to
+the project.
+Onboarding using Sailpoint
+Worked on Sailpoint API's for user onboarding/offboarding and user
+management through sailpoint.
+Developed Disk Space Analyzer for Windows
+Developed a bot for analyzing disk space usage in Windows machines(both
+servers and desktops).
+Bulk Snapshot Creation
+This script is created to reduce the manual effort when there are requests to bulk
+snapshots the script will take a CSV file with all VM names for which you intend
+to create snapshots. The script will check for Datastore capacity, no earlier
+Snapshot, Size of VM and take the snapshot for all the VM mentioned in the CSV.
+Web Designer
+Cavelee — Visakhapatnam, India
+Designed and developed an e-commerce website during my graduation for startup
+named Cavelee where one can book tours, hotel rooms and daily use products.
+EDUCATION
+Bachelor of Technology: Computer Science And Engineering
+MVGR College of Engineering - Vizianagaram, Andhra Pradesh, India
+CERTIFICATIONS
+e Programming, Data Structures And Algorithms Using Python by NPTEL.
+e Automation Engineer Practitioner Certification by Capgemini
+LANGUAGES
+Telugu: Native Language
+English: Proficient
+Hindi: Intermediate

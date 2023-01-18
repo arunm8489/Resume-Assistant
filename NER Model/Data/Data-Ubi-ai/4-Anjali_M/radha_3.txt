@@ -1,0 +1,41 @@
+Improved Operation activities. Used Linear & Logistic Regression,Perform data cleansing, data imputation and
+data preparation using Scikit Learn and Numpy.
+Conduct software analysis, programming, Unit and White box testing and debugging.
+Support continuous improvement, Investigating alternatives and technologies, presenting for architectural
+review.
+Managing Python application development, Develop, test, implement and maintain application software.
+Validated already developed python reports. Fixed the identified bugs and re-deployed the same.
+Recommend changes to improve established python application processes, Develop technical designs for
+application development.
+Develop application code for python programs, Involved in client interaction to sort out the Requirement
+issue.
+Create the Reporting and share with top management.
+Project sequence-3
+Project Name : E2E BSS
+System/Component: Telecom BSS, Siebel CRM
+Technology :Python , Django , Oracle ,GIT ,SVN ,Rest — Webservice ,Pandas ,ETL,Statistical Analysis
+Roles : Python Data analyst
+Roles and Responsibilities:
+Understand and analyze customer requirements and business logic .
+Built multifunction readmission reports using python pandas and Django frame work.
+Involved in preparing low level design of application, to take part in software and architectural development
+activities.
+Involved in designing and preparation of call flows with usability services.
+Perform data exploratory analysis using Matplotlib.
+Collected historical data and third party data from different data source.
+Improved operational activities. Used Linear & Logistic Regression.
+Perform data cleansing, data imputation and data preparation using ScikitLearn and Numpy.
+Conduct software analysis, programming and White box testing and debugging.
+Identifying production and non-production application issues.
+Ensuring designs comply with specifications, transforming requirements into stipulations.
+Support continuous improvement, investigating alternatives and technologies, presenting for architectural
+review.
+Managing Python application development ,develop, test, implement and maintain application software.
+Validated already developed python reports. Fixed the identified bugs and re-deployed the same.
+Recommend changes to improve established python application processes.
+Developed technical designs for application development.
+Developed application code for python programs,I|Involved in client interaction to sort out the Requirement
+issue.
+Creating the report and sharing with top management.
+Location: PUNE
+Date: 11-06-2021

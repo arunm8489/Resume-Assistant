@@ -1,0 +1,39 @@
+Title — Loan Defaulters (ACADEMIC)
+Libraries Used : Pandas,Numpy, Sklearn, Matplotlib, Seaborn, Decission Tree, LabelEncoder
+Platform : Google Colab, Pycharm
+Runtime Environment : Python3 and R
+Business Objective:
+To develop a model which can clasify the customers whether they are going to default or not
+default based on the given input data
+Responsibilities:
+¢ Getting the customers data and Data pre-processing by imputing the na values and removing the
+unwanted columns
+¢ Exploratory data analysis and visualisation of the data
+¢ Getting the label encoder values for the categorical data
+¢ Building the Decission tree algorithm for finding the classification rules by using different
+hyperparameters
+¢ Preparing the powerpoint presentation for the built algorithm
+Title — Movies Classifier (ACADEMIC)
+Libraries Used : Bagging classifier, Adaboost classifier, Gradient booster, Xgboost, Decission
+tree, Randomforest classifier, Pandas, sklearn, Matplotlib, Seaborn, Pandas
+Platform : Pycharm, Google Colab
+Runtime Environment : Python3
+Business objective:
+To develop a machine learning model which can classify the movies which are having the scope for
+an oscar award
+Responsibilities:
+¢ Data Pre-processing ,data cleaning
+¢ Creating the dummy values for the categorical variables , pre-processing, splitting the data
+¢ Implement the bootstrap aggregating, boosting , decission trees algorithm, getting the confusion
+matrix and accuracy score for the algorithms and building the agorithm
+PROFESSIONAL EXPERIENCE
+Innodatatics | (ProjectBased) March 2021 — Current
+Data Scientist:
+¢ Collected the data from various datasources and built the machine learning models
+¢ Involved in preparing the project CRISP-DM sheet
+e Prepared the documentation for machine learning models developed
+¢ Enhanced the skills in various machine learning and data science concepts
+¢ Developed the machine learning models using python and R programming languages
+¢ Presented the ppt to the senior management
+¢ Deploying the machine learning models on different cloud platforms
+ 

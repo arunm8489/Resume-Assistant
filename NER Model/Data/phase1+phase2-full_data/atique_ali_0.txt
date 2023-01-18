@@ -1,0 +1,95 @@
+MY FOOTPRINT...
+@ (+91) 797-401-6342 © atique.ali393@outlook.com
+ATIQUE ALI
+Data Scientist | Machine Learning Engineer
+Over 5.9 years of successful career spanning in technology services industry
+with proven record of accomplishments in architecting products with
+Predictive Modelling, Clustering Segmentation, Machine Learning Algorithm,
+Mainframe Development, Web Scrapping, Data Analytics & Business
+Intelligence.
+A professional in leading high-performance team & SDLC using Agile
+methodologies, writing requirements, modelling products & Data visualization.
+PROFESSIONAL EXPERIENCE
+GU
+Gs),
+Mar 2020
+PRESENT
+Jun 2017
+Mar 2020
+DATA SCIENTIST (MODULE LEAD)
+Sopra Banking Software / Noida, IN
+Led a team of 5-6 developers to deliver the Bank products with
+Product-Costumer Segmentations using machine learning
+algorithms
+Evaluated Bank transaction legitimacy using Statistical/ML
+models
+Build Loan approval/acceptance prediction algorithm for
+various types of loan and bank products.
+Al model of Customer's Exit from the Bank for specific Bank
+product configuration
+Ensured data quality, created stories for team, maintained
+technical documents
+Communicated with team and presented demo to clients on
+Business Intelligence tool (Power BI)
+DATA SCIENTIST (PRODUCT DEVELOPER)
+DXC Technology / Noida, IN
+Build hedging fund algorithm using deep-hedging machine
+learning model.
+Forecasting index rate on the periodic days
+Evaluated risk prediction using machine learning algorithm
+while underwriting policies for Life Insurance
+Web-scrapping to fetch rates for insurance & annuity on daily
+basis more efficiently from websites.
+Modernized Mainframe product, COBOL, RestAPI using
+Webmethod Entirex.
+Experienced working in Business Intelligence Environment
+like Visualization tool — Power BI
+() https://www.linkedin.com/in/atique-ali/
+SKILLS
+ 
+ok
+ok
+ok
+Python Scripting
+Machine Learning Techniques
+SQL
+Matplotlib / Power BI
+Scikit /Keras/Tensorflow/PyTorch
+NLP / Web Scraping
+Clustering/Regression
+Classification/Statistical Inference
+Data Mining/Data Analysis/EDA
+IBM Mainframe (Cobol, JCL, DB2)
+ADDITIONAL SKILLS
+ok
+ok
+ok
+=
+Product Management
+Product Roadmap/Create stories
+Statistics/Mathematics
+Agile & Scrum
+Git, Jira & Cloud (Azure & GCP)
+INTERNSHIP PROJECTS
+DCGANS — Pokémon Faces
+Employee Turnover Prediction
+Bitcoin Prediction
+Fraud Detection
+IPL Data Analysis & Prediction
+Sales Demand Forecast
+Amazon-Best-Selling-Product
+Face Mask Detection
+Sentiment Analysis
+DOMAIN
+ok
+ok
+Insurance & Annuity
+Banking
+INTERESTS
+ok
+ok
+ok
+MMA workout.
+Watching TV shows like ‘Friends’
+& ‘Fresh Prince of Bel Air’.
+Googling.

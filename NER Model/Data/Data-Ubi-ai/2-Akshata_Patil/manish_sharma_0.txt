@@ -1,0 +1,104 @@
+\ +91 8824324738
+Щ@% immanishO106@gmail.com
+in| https://www.linkedin.com/in/manish-
+sharma-737532133/
+9 Jaipur, IN
+SUMMARY
+Technical Enthusiast, always
+open to explore and learn
+from new opportunity.
+Willingness to help a team
+member in need. Committed
+to all the tasks, duties or
+project assigned.
+SKILLS
+e Programming languages:
+Python, Powershell, Bash,
+C++
+в Developer Tools: Git,
+Docker, Google Cloud, VS
+Code, Blue Prism, UiPath
+в Data Processing: MySQL,
+Machine Learning, Deep
+Learning, Tableau,
+Tensorflow, OpenCV,
+Microsoft Excel
+в Interpersonal:
+Leasdership, Public
+Speaking, Project
+Management
+CERTIFICATIONS
+в Al Fundamentals |
+Microsoft
+e Machine Learning by
+Andrew Ng | Coursera
+e Deep Learning by
+Andrew Ng | Coursera
+Achievements
+e Project (All Weather Jacket)
+got published in Times of
+India for most innovative
+project in reducing need of
+AC's/Heaters (2018)
+e Frugal Innovation Award
+for best innovative project
+with least budget for All
+Weather Jacket in intra
+college competition Design
+Practicum (2018)
+ADDITIONAL
+INFORMATION
+e Interests: Chess, Cricket,
+Football, Hockey
+ 
+WiFelalisiamevatclaaats
+Senior Software Engineer {
+EDUCATION
+B.Tech. in Electrical Engineering with Minor in
+Management
+Aug '16 - Jun '20
+Indian Institute of Technology, Mandi H.P., IN
+в CGPA: 8.22
+Professional Experience
+Senior Software Engineer Aug '21 - Present
+Larsen & Toubro Infotech Bangalore, IN
+Application Development & Software Testing
+в Developed and Deployed an automation pipelining solution for application Scheduling Reports
+в Accomplished FTE savings of 1.00 in the span of only 1.5 months
+Graduate Engineer Trainee Aug '20 - Jul '21
+Larsen & Toubro Infotech Bangalore, IN
+Application Development & Software Testing
+вл Created Al Enabled Sales Account Platform for Account Managers
+eл Achieved easy access to insights and personalized front-end view for individual users
+IT Training
+в Finished the training on fundamentals & Essentials of IT
+в Trained in various programming languages such as Powershell, Bash, Python
+Dec '18 - Feb '19
+Gurugram, IN
+Software Engineer - Internship
+Truminds Software systems Pvt. Itd
+в Implemented SIP redirection application that redirects SIP calls to different IPТs connecting
+through Drachtio server
+e Executed Bandwidth control of specified users using iptables & ebtables
+в Applied Password Encryption using MDS, ECC, FFC algorithms to increase network security
+KEY PROJECTS
+в Handwriting Translator | Python, Deep Learning
+й Deep Learning-Based Approach using machine translation and handwriting recognition
+models to translate handwritten text
+й Achieving 73% accuracy ona dataset of 5,000 images
+в Generative and Classification Model | Python, DL, Tensorflow
+й Built a model to generate images of dogs using the deep convolutional generative
+adversarial network
+й Evaluated the model on the ability to generate images that could be classified into dog
+breeds using a different discriminative model
+й Achieving 88% accuracy on a dataset of 10,000 images
+в Automatic Attendance System | Python, Keras, OpenCV
+й Built a system that automatically marks student's attendance using Real-time face
+recognition and identification
+й Achieving 98% accuracy on a dataset of 2,000 images
+e Robotronics Club Inventory Management System | Python, SQL, HTML, CSS
+й Created an mobile app for managing Robotronics club equipment
+й Implemented Elastic Search for analyzing big volumes of data quickly
+All-Weather Jacket | Temp. Sensor, Bluetooth Module
+й Designed a Jacket that keeps the body cool during summers and heated during winters
+й Temperature can be varied from 21░C to 28░C through an Android App

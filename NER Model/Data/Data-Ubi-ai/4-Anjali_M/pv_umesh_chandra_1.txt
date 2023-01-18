@@ -1,0 +1,46 @@
+SOFTWARE SKILLS
+atabases MS SQL Server, MySQL, MongoDB
+ata Visualization Grafana
+AWS Data Analytics Kinesis (data streams, data firehose), S3, DynamoDB, AWS Lambda
+evops Ansible, Git, Docker
+Ansible
+roject Mgmt. Tools MS Office
+ther Tools Postman, GitHub
+rogramming Python, PowerShell
+ey Skills Machine Learning, Data Analysis & Visualization.
+ 
+EXPERIENCE
+ 
+ANALYST SOFTWARE DEVOLEPMENT | MICROLAND Ltd | OCTOBER 2019 — Present
+#Project 1:- Ansible Platform.
+Name: Ayehu eyeShare to Ansible workflow migration project
+Client: GE(General Electric)
+Role: Automation Engineer
+Domain: Network
+Description:
+General Electric Company (GE) is an American multinational conglomerate specifically built
+for many various industries. We use to manage the GE Bussines units of network managing both
+content and data. Companies can now eliminate tool based, which is called Ayehu eyeShare to
+Ansible workflow migration, and streamline their end-to-end clinical processes.
+Core Responsibilities:
+e Developed Python Scripts for updating the data into databases, which gathered from the server
+by executing the specific commands.
+e Developed Python Scripts for getting the specified mails from outlook.
+e Developed Ansible Playbooks for creation of incident in the service now using APIS.
+e Developed Ansible playbook for an alerts getting created in the outlook mail, Need to create an
+incident and update the data base.
+e Developed python script to update the work notes to an incident and assign to group in Service
+Now.
+e Developed Ansible Playbooks, which we got the mails from the outlook and updated the incident
+using APIS.
+e Developed Python Scripts for modifying the required data.
+#Project 2:- Microbots Platform.
+Name: Microbots
+Clients:
+1. Jubilant Life Sciences
+2. Jubilant Pharma
+3. Kotak Life Insurance.
+3. Tata AIG
+4. Ealing Council.
+Role: Automation Engineer
+Domain: Administration orchestration, Network.

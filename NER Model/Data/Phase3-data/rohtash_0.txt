@@ -1,0 +1,46 @@
+Rohtash M.Tech
+ 
+Mechanical Engineering Male
+Indian Institute of Technology, Bombay DOB: 20/11/1996
+Email - rohtashbeniwal.555@gmail.com Ph. No - 9548489161
+Examination University Institute Year CPI/%
+Post Graduation IIT Bombay IIT Bombay 2021 8.33
+Graduation LPU LPU 2018 8.83
+Intermediate /+2 HBSE HGM Public School 2013 85.60
+Matriculation HBSE MD Public School 2011 96.60
+M.Tech Project and Internship
+e Facial Attribute Analysis using Multi-tasking and Open Set Recognition(Deep Learning) (June’20 - June’21)
+(M.Tech Project, Guide: Prof. Biplab Banerjee)
+Detected facial attributes like gender, age, smile, smartness, beard and face recognition, etc.
+Achieved 96 % test accuracy by using transfer learning on VGG16 model with fine tuning for age prediction.
+Improved test accuracy from 91.94 % to 92.94% on VGG16 model using CBAM for gender classification.
+Implementing Open set recognition method to reject unknown classes during a test on digit dataset.
+Oo O O O
+¢ Internship at Karomi Technology (Mar’21 - Apr’21)
+o Web Scraped Amazon Product images to create data set for types of “Daal.
+o Performed Data annotation, trained Faster RCNN model for product recommendation.
+Machine Learning Projects
+¢ ML Algorithm to predict Flight Delay
+(GNR652:Machine Learning, Instructor: Prof. Biplab Banerjee) (Jan’21-May’21)
+o Performed exploratory data analysis and feature engineering techniques on dataset.
+o Improved test accuracy from 88% to 91% by using Support Vector Machine instead of logistic regression.
+e Sentiment Analysis
+(CS772: NLP , Instructor: Prof. Pushpak Bhattacharyya) (Jan’21-May’21)
+o Made anew model to achieve 75.31% accuracy after data analysis, preprocessing and encoding techniques.
+o Solved Data Imbalance and Word Overlapping Problems on dataset of 50k reviews using Pytorch.
+¢ COVID-19 Patient Prediction by Chest X-ray Image
+(GNR652:Machine Learning, Instructor: Prof. Biplab Banerjee) (May’20-Jun‘20)
+o Preprocessed dataset using resizing, normalization and data augmentation techniques.
+o Achieved 93% test accuracy on VGG16 model and explored One-shot learning model like siamese.
+¢ Image Captioning
+(CS772: NLP , Instructor: Prof.Pushpak Bhattacharyya) (Mar’21-May’21)
+o Generated Textual description of images using CNN and NLP.
+o Used Resnet50 model for CNN and LSTM, Transformer for NLP with Flickr8k dataset.
+e Slimmable Neural Network (SNN)
+(IE643: Deep Learning - Theory and Practice , Instructor: Prof. Balamurugan Palaniappan) (Aug’20-Dec’20)
+o Performed Switchable Batch Normalization to reduce computational power requirement on mobile devices.
+o Used convolution block attention module for Resnet50 model to improve classification accuracy.
+e Credit Card Fraud Detection
+(self Project) (Jun’20-Jul’20)
+o Identified correlation between features using heat-map from sea-born library and derived confusion matrix.
+o Achieved 99.75% test accuracy with isolation forest and 99.65% with local outlier factor classifier.

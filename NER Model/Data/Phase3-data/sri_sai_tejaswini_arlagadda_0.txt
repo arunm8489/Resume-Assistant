@@ -1,0 +1,36 @@
+SRI SAI TEJASWINI ARLAGADDA
+7989618395
+srisaitejaswinil2@gmail.com
+SUMMARY
+e Currently, working as a Cognitive Engineer at Wipro Technologies, after working in varied
+roles across IT in my 6 years of experience of which 2 years constitute of my role as Cognitive
+Engineer and 1 year as Python Developer.
+e Expert in Machine Learning Algorithms (both supervised learning and unsupervised learning).
+e Base Language was mainly Python resulting in a good experience and grip on the language.
+e Exposure of python packages include scikit-learn, numpy, pandas, nltk, tensforflow, SpaCy,
+matplotlib, dash, plotly etc.,
+e Worked on Data Visualization and feature engineering as well.
+e Expert in Natural Language Processing, with an exposure to Sentiment analysis, text mining
+etc.,
+e Familiar with Named Entity recognition algorithm.
+e Worked on different deep learning models like RNN, LSTM, CNN etc.,
+e Exposed to recommendation systems and dimensionality reduction algorithms
+e Have a good Knowledge on R, PostgreSQL, Java etc..,
+e Agility to learn and work with new technologies at short notice.
+e Exposure to varied roles in IT industry. Worked as Cognitive engineer, Data engineer, Python
+developer and also as a tester.
+e Exposure to entire Software Development Life Cycle.
+e Smart working with a zeal for personal and professional growth.
+e Strong analytical & problem-solving skills. Quick learner.
+e Anexcellent team player with an ability to meet tight deadlines.
+SKILLS
+Programming Languages: Python, R, Core Java
+Machine Learning Algorithms: Supervised & Unsupervised Algorithms, Ensemble methods
+Deep Learning: ANN, RNN, LSTM, CNN
+Natural Language Processing: Text mining, Text Classification, Sentiment Analysis
+Feature Engineering: Feature Extraction, Feature Selection and Dimensionality Reduction
+Data Visualization Tools: Dash, Plotly, Matplotlib
+Databases: PostgreSQL, SQL
+CERTIFICATIONS:
+IBM Watson Application Developer V3.1
+IBM Watson v4 Developer

@@ -1,0 +1,39 @@
+XZEDS
+IT Skills
+R — Studio 3.1, Visual Studio 2010
+Scripting = Python 3.x, Pandas, Keras, Seaborn, Tensorflow, nlitk, Re
+Operating system Windows /2000/2003/2008/Windows7
+Database MS SQL Server, MongoDB, MS Excel
+ 
+Statistics Descriptive, Predictive, Inferential Analysis
+Project Management Tool Jira 8.1, HPALM
+Version Control SVN,Git
+Academic Qualification
+Data Scientist at Reach out Analytics Pvt.Ltd
+Project: Credit Risk Analytics -Fraud Detection in Vehicle Insurance Claim
+Description: The Aim of this project to identify potential business customers by predicting the
+“defaulters” as well as “Good and Bad customers”. We have used Supervised and Unsupervised
+techniques to come to the conclusion on the customer behavior to offer Credit Card.
+Environment: Python 3.x, Jupyter, NLTK, SPACY
+ 
+Data Scientist at Reach out Analytics Pvt.Ltd
+Project: EHS (EPISCOPAL HEALTH SERVICES Inc), U.S.
+Description: Episcopal Health Services Inc. is an acute care hospital on the Rockaway
+peninsula, southern Queens County, and southwestern Nassau County. The company
+provides medical, surgical, emergency, and diagnostic services for residents of The
+Rockaways, the Five Towns, southern Queens, and southwestern Nassau County.
+Data Scientist at Reach out Analytics Pvt.Ltd
+Project: Paraphrase Detection
+Description: Paraphrase detection, which means analyzing sentences that are semantically
+identical. We propose to detect the semantic similarity between two texts of the same
+language to establish the similarity. To find related sentences written in natural language is
+complex for various applications, like text summarization, plagiarism detection, information
+retrieval and question answering system etc
+Data Scientist at Reach out Analytics Pvt.Ltd
+Project: E-Commerce Review Prediction, Fashionista, US.
+Description: This isa Women’s Clothing E-Commerce dataset revolving around the reviews
+written by customers. Its nine supportive features offer a great environment to parse out
+the text through its multiple dimensions. Because this is real commercial data, it has been
+anonymized, and references to the company in the review text and body have been
+replaced with “retailer”.
+References: Available on Request.

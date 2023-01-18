@@ -1,0 +1,39 @@
+Bharati Suryawanshi
++91-8446001085 Integrate my knowledge and experience to accomplish the organizational
+objective through sincere devotion and dedicated hard work. Looking for
+a challenging career in the field of IT-Software, where my knowledge and
+experience in Development Concepts and Methodologies in Data Science
+are shared and with Development encouraged. I work primarily in
+bharatisuryawanshi553
+@gmail.com
+Pune,India Machine learning, predictive analysis, Financial and Healthcare domain.
+Have expertise in preparing and pre-processing data, deriving useful
+Education: insights from data, developing and deploying highly scalable machine
+e M.E.(Computer) learning models.
+e B.E.(Computer)
+Skill Summary:
+Python Scikit Learn, Pandas, Numpy, Sci-py, Seaborn,
+Python Matplotlib, BeautifulSoup, Flask
+Data Science Data Analytics, Feature Engineering, Supervised Machine
+Learning, Unsupervised Machine Learning, Hyper Parameter
+Text processing NLP, NLTK, Term Frequency-Inverse Document
+Frequency (TF-IDF), Word2Vec, Bag of Words
+Visualization Tableau
+Tool
+ 
+Current Employer:
+Working as a Associate Data Scientist in e-Zest Solutions Ltd, Pune from Jan 2019 to
+till date.
+Designation: Assosciate Data Scientist
+Project handled:
+Project Title: Loan Default Prediction
+Environment: Python, SQL, HTML, CSS, Flask, AWS.
+Tools: Statistics, Empirical Data Analysis, Machine Learning or Natural Language
+Processing
+Team Size: 6
+Description:
+With the enhancement in the banking sector lots of people are applying for bank loans
+but the bank has its limited assets which it has to grant to limited people only. Banks
+gives money to people in exchange for the promise of repayment. Some will default on
+the loans, being unable to repay them for some reason. The main objective was to
+predict which people will default on their loans based on their financial information.

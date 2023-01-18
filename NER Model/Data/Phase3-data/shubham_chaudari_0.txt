@@ -1,0 +1,68 @@
+slalelelar-laam@arcleleialela
+WORK EXPERIENCE
+TATA Consultancy Services — System Engineer
+4 years of experience in software development, design and
+maintenance, unit testing, gained working as a System Engineer in
+Tata Consultancy Services.
+Extensive experience in end-to-end development of software from
+requirement analysis to system study, designing, coding, unit testing
+and de-bugging.
+Managed TPA Management (Health Claim) module single handedly
+for 3 years in activities like - Development, Customer Query, and
+Production Support etc.
+Developed TPA Dashboard with real time data analysis by data
+visualization with stacked bar graph for Health claims using Dash
+and Plotly modules of Python.
+Strong communication, interpersonal and analytical skills with the
+ability to work in a fast-paced team environment and quick learner
+of new software technologies.
+Expert in coding complex and advanced PL/SQL programs using
+Oracle's Object- Oriented programming, collections, records, index-
+by tables, object types, Functions, Procedures, Exception handling,
+Views, Packages, Triggers and other methods.
+Worked in implementation of creating chatbot which provides
+information of Insurance Policy, Claim details and Payment tracker
+of claims.
+Worked in implementation of Image processing using Al in building
+model for License plate detection from car image and matching it
+with RC Book.
+Worked on Production Support with SLA timeline.
+Over 3 years of working experience in Insurance domain and
+Financial Services and its terminologies.
+Experience in web development using HTMLS, Angular JS and MVC.
+Worked in converting Silverlight pages into HTML pages with
+Angular JS and MVC Architecture.
+DAR ol a¥-VU Lol avelamcialelelar-laalCurdearelimeclan
+@® 7001464995
+Mal<cxeliamecelaaValavacialelelat-laaterarclerelalela
+ 
+PROFILE
+A System Engineer with more than 4
+years of experience in the IT industry
+including Data Science, Machine Learning
+and expertise in working in Financial
+Services and Insurance projects handling
+large datasets. Hands-on experience in
+developing, monitoring, debugging, web
+developing, performance tuning and
+production support following Agile
+methodologies. Have Strong analytical and
+quantitative skills and ability to analyze
+patterns and trends in large data sets.
+Knowledge of Data Science, Machine
+Learning, Deep Learning, Python, SQL and
+NLP .
+SKILLS
+e Databases: Oracle 10g/11g/12c
+e SDLC Model: Agile, Waterfall Model
+e Data Science: Machine Learning, Deep
+Learning, NLP, Predictive Analysis ,
+Regression , Classification
+e Cloud: AWS
+e IDE’s & Utilities: Jupyter Notebook,
+PyCharm, PL/SQL Developer, Microsoft
+Visual Studio
+e Programming Languages: Python, SQL
+e Scripting Languages: HTML5, JavaScript
+e Defect Tracking Tool: Web Prompt
+e Framework: Bootstrap, MVC

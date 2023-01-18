@@ -1,0 +1,36 @@
+2. Developing Machine Learning Algorithm both Supervised and Unsupervised Learning to determine processing
+techniques.
+3. Deploying a Machine learning Model and Deep learning Model in Cloud like AWS and Heroku.
+Education
+ 
+Hindusthan College of Engineering and Technology, Coimbatore, Tamil Nadu 08/2013-03/2017
+BTech Infromation Technology - 70.95 %
+Ideal Higher Secondary School, Erode, Tamil Nadu 06/2010-03/2012
+H.S.C. 70.57 %
+Ideal Higher Secondary School, Erode, Tamil Nadu 06/2010-03/2012
+S.S.C. 75.57 %
+ 
+Technical Skills
+Programming Languages:
+1. Python
+2. C/C++
+3. Linux & Shell Scripting
+4. Data Structures & Algorithms
+Databases:
+1. MySQL
+2. Basic knowledge in Oracle
+Platforms and Misc.: Anaconda, Jupyter Notebook, Spyder IDE, Visual Studio 2017,VS 2016, Anaconda, Python
+IIS, Windows XP/W7/W8, Ubuntu 20.0.
+Project Summary:
+1. Classifying Imbalance Data into a Balanced Data using Sampling Technique in Machine
+Learning
+Technology: Python — Machine Learning (Scikit Learn)
+Project Description:
+During training a Machine Learning Fitting of Data in Appro-pirate is important. If you train data in a non
+appro-pirate it may affect prediction results. So, In this project I done a sampling Technique to achieve
+Appro-pirate fitting and Predication result also nice compare to original data.The Data set which I am using
+for this Project is Credit Card Fraud detection in UCI.
+2. Food Item Recognition Using Machine Vision in Mobile Application
+Technology: Python — OpenCV , Keras and Android Studio
+Project Description:
+An approach towards Android Application. Nowadays we are working with Deep learning and Android is

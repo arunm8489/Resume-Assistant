@@ -1,0 +1,36 @@
+Kunal Jha
+Data Scientist
+ 
+Phone: +918583911542
+Address: 134,South Subhaspally,Dankuni Road,Hooghly-712311
+Website: https://github.com/kunaljha32
+Email: kunaljha32@gmail.com
+ 
+Data Scientist with 2+ years of proven experience in Machine Learning, Python with libraries such as Sklearn, Numpy, Pandas,
+Matplotlib, Tableau for Data Visualization. I have also done some internal projects as Data Analyst with using tools such as
+Tableau for Data Visualization. Recognized by managers, colleagues, and peers as a personable, dedicated performer who
+demonstrates innovation, communication, and teamwork to ensure quality and timely project completion
+Telerad, A Division of Systronics(India) Ltd. July 2016 to Present
+Engineer
+e Design & Installation of Video Editing System at HAL,Koraput
+e Design & installation of HD archiving system at DRDO, Balasore
+e Design & supply of Inter-comm system at Hindalco Belur & Zee AKash news channel,
+e Design & supply of Audio Editing System at SRFTI,Kolkata
+Academy Of Technology, Adisaptgram 2012 to 2016
+B.Tech
+Graduate in Electronics & Communication Engineering.
+Language:Python.
+Tools:PyCharm,Jupyter Notebook,MySQL, Tableau,MS EXCEL.
+Data Science:Machine learning, Statistical modelling,Pandas,Numpy,scikit-learn,Matplotlib,Seaborn,Exploratory
+Data Analysis,Web Scraping,Natural language Processing,Statistics.
+EDA of Haberman Cancer Survival Dataset,911 Call dataset & Stock market Data
+https://github.com/kKunaljha32/Machine-Learning-Data-
+Science/blob/master/Data%20Visualization%20with%20Habermann.ipynb
+Sentiment Analysis of Amazon Fine Food Review
+https://github.com/kunaljha32/Machine-Learning-Data-Science
+Web Scraping of Bankbazzar
+https://github.com/kunaljha32/Machine-Learning-Data-Science/blob/master/bankbazzar_scraping.ipynb
+Language
+English,Hindi,Bengali
+DOB
+22/03/1994

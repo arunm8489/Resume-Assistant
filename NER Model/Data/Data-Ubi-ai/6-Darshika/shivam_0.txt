@@ -1,0 +1,37 @@
+SHIVAM ABOUT ME
+lam a Data Scientist with robust problem solving
+Y A D A V skills and proven experience in developing
+business solution software for airline pricing.
+Bringing forth a proven track record of analyzing
+Di oho mrexre | enti St data sets and serving as a strong advisor.
+EDUCATION
+Indian Institute of Technology Roorkee
+June 2015 - July 2019 | Metallurgical & Materials Engineering
+EXPERIANCE
+Data Scientist, FlyNava Bangalore
+July 2019 - Aug 2020
+e Worked on building Analytic Engine for Jupiter
+(an airline pricing intelligence system) including
+Database and schema design, data wrangling
+and model development
+e Developed Triggers, a Predictive Engine and
+Automatic Alert System based on market
+fluctuation and irregularities, performance
+variation, events, competitor action and
+seasonality.
+e Developed Autopilot, a system which helps
+airline to automatically file fares with required
+changes within seconds.
+e Created methods to target individual customers
+with appropriate products by performing
+Customer Segmentation which helped in
+creating the right demand and increasing the
+market share.
+HOW TO REACH PROFESSIONAL SKILLS
+ME:
+Python, MongoDB, Statistics, Probability, Machine Learning,
+Modeling, OpenCV, Data Visualization, Data Munging
+Cell: (+91)7500367789
+Email: shivam.y17297@gmail.com
+Linkedin : shivam-yadavb2a155156
+ 

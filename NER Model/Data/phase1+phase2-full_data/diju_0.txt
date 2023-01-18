@@ -1,0 +1,36 @@
+DIJU BORO diju.boro@gmail.com, phone- 9051575225, 8617218490
+EDUCATION
+MOOC Courses: Machine Learning, Deep Learning, Andrew Ng, Stanford University, from Coursera.
+Probability 101, Harvard University, Python
+B. Tech (Electrical Engineering) from Malviya National Institute of Technology, Jaipur
+(Formerly MREC, Jaipur) University of Rajasthan, 2001
+Senior secondary - Cotton College, 1997
+Higher secondary- Assam Board (SEBA) with 68.90% _, 1995
+CAT Score: 91%ile 2008
+JOB EXPERIENCE
+ENDEAVOR CAREERS, KOLKATA, 2016 JANUARY — PRESENT
+Taking classes for Quantitative Aptitude portion of GRE, GMAT, SAT, other Indian National level
+Examinations. CLAT Classes
+Successfully coached more than 500 students and have placed many students in India and many US
+Universities.
+THE CHOPRA’S/ KAPLAN, WORLDWIN, EDUWEST, KOLKATA.
+Worked as part-time faculty member for Quant portion of GMAT GRE SAT.
+THE CHOPRAS/ KAPLAN, QUANT FACULTY, Nov 2014— Nov 2015
+Worked as a faculty member for Quant portion of GMAT GRE SAT.
+JAN 2004 — AUG 2013, SENIOR SOFTWARE ENGINEER/ TRAINER, SAKRI IT SOLUTIONS/
+APPOTECH
+Develop firmware applications for consumer electronic products on MCUs using C and Assembly
+Language. Applications for 8-bit microcontrollers of Appotech IC’s
+AX2021 8-Bit CMOS Microcontroller
+Description of a recent project: The AX2021 is a line of 8051-compatible, the digital peripherals include
+UART, EMI, and SPI interfaces, four timers, a USB 2.0 full-speed host/device controller, and an MP3
+decoder engine. The analog peripherals include an RC oscillator, crystal oscillator, DAC, ADC, PLL,
+brown-out protection, Power Gate, and low-dropout regulator. Instruction throughput is up to 48 MIPS,
+with all instructions single-cycle except program branches. The USB 2.0 host/device controller FIFO is
+shared with instruction RAM. It supports full-speed USB 2.0. The MP3 Decoder Engine can decode
+MPEG-1, MPEG-2, MPEG-2.5 Audio Layer 1, 2, 3 decoder under 24 MHz.
+Programming Language: C
+Tools: [AR Embedded Workbench for MCS-51 V7.20H
+Hardware: 8051 MCU
+Firmware testing for HP products, mainly into MFP’s over network
+> Executing Test Cases, Types of Testing, Bug tracking and reporting, Knowledge of SDLC, STLC, Test Planning

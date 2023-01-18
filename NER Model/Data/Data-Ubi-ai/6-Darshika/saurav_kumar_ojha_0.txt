@@ -1,0 +1,66 @@
+DATA SCIENTIST
+PROFILE SUMMARY
+Experienced and driven data scientist with 2 years of experience in
+advanced predictive analytics with main focus on consumer
+analytics in the industry. A candidate with strong background in
+developing predictive models from scratch using the knowledge of
+techniques like Data Science & Machine Learning Techniques.
+SAURAV KUMAR OJHA
+WORK EXPERIENCE
+Data Scientist
+Data Scientist
+9 Bangalore Infinito Solution | Aug 2019- present
+Project-Sales Forecasting for retail domain(Client- 99 cents Store)
+&@ saurav.ojha29@gmail.com
+1.The project aimed at forecasting (Time Series Analysis) of sales of
++91-9661597057 products which are profitable to the store and develop a predictive
+model from scratch using concepts of algorithms (ARIMA, Exponential
+LinkedIn:- Smoothing) and R programming language and to forecast them based
+www.linkedin.com/in/saurav-kumar-ojha on the business problem shared by the Client.
+2.To understand the Business problem and interact with the client on
+SKILLS SUMMARY regular basis to get more and deep insight of the data shared by the
+client.
+Python, R Programming, SQL, 3.To do exploratory data analysis on the data which includes to prepare
+Tableau, Excel, Machine the quality data for model building. This was being done with the help
+Learning, Deep Learning, Time of the programming language -R.
+Series Analysis, Artificial 4,.Leveraged 50k+ reviews to develop sentiment analysis model that
+Intelligence, Natural Language helped sales improved and marketing strategies.
+Processing(NLP) Pandas, 5.To recommend measurable actions and provide deep understanding of
+Numpy, Scikit Learn, Seaborn, forecasting using packages of R and ARIMA model to predict the future
+WeeluelColdti oMmets40) (oh #2 lV] olalel-la-e sales.
+dplyr, caTools, MLmetrics,
+Data Mining, Statistical
+Analysis, Exploratory Data
+Analysis(EDA) Linear
+Regression, Logistic
+Regression, Decision Tree,
+Project- Bank Marketing Campaign For Term Deposit(Client-Northfield
+Bank)
+1.In this project, we applied machine learning algorithms to build a
+predictive model of the data set to provide a necessary suggestion for
+marketing campaign team. The goal is to predict whether a client will
+subscribe a term deposit or not.
+Random Forest, K-Means
+Clustering, ARIMA,
+HOBIES
+Playing Outdoor
+Sports, Travelling,
+Movies & Series
+LANGUAGES
+English
+Hindi
+Bengali
+ 
+2.To fetch the data from the database based on the business criterion
+and load the same in the csv file for further processing using python.
+3.To select the important variables and deep dive in the patterns
+followed in the data set to understand the client’s problem.
+4.To develop the predictive model (term deposit) using decision tree and
+random forest algorithm about the probability that the customer will
+subscribe the term deposit or not.
+5. This project was done with the help of the programming language -
+python.
+EDUCATION
+BCA
+Swami Vivekananda Institute Of Modern Science
+July 2014-July 2017

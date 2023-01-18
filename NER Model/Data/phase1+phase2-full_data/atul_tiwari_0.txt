@@ -1,0 +1,43 @@
+Curriculum Vitae
+Atul Tiwari Social Profile:
+Data Scientist and Machine Learning Github : www.github.com/atul1234tiwari
+Faridabad, Haryana
+Phone: 7011452978
+Email Id: atul. tiwari2799@gmail.com LinkedIn : www.linkedin.com/in/atul-tiwari-a892a01a2/
+Career Objective:
+Toobtainachallenging job with greater responsibility this will provide me a greater opportunity to enhance my
+technical skills & knowledge in Python, NLP, Computer vision, Neural Network, Deep Learning, Machine Learning
+and Django.
+Academic Qualification:
+Education Institution Board / Year of Percentage Division
+University Passing (%)
+Rawal Institute of Engineering Maharshi
+and Technology. Dayanand (2016-2020)
+University
+12% Science | Government Senior Secondary
+School HBSE
+Tagore Shiksha Niketan Public HBSE
+High School
+ 
+Experience:
+Data Scientist:
+Simplify Reality Inc. (June,2020-july 2021)
+ 
+» Collect comments and links from websites using selenium, Bs4 and pandas and store it in Database.
+» Developed Sentiment analysis model using NLP pipelines and logistic regression to help the classify the sentiments of
+the comments and give answers of the comments of users on their website.
+«» Developed Al Chatbot on Rasa framework to communicate with the customers of the company to resolve their
+problems.
+Training & Projects:
+Summer Training Tech Explica South Extension Data Analyst, Machine Learning
+From: 10 July to 10”
+March 2020.
+Workshop on Rawal Institute of Rawal Institute of Design a HTML page
+design of Engineering and Engineering and
+HTML page Technology Technology
+Summer Training xtension Technologies Extension Technologies Python Developer as a backend developer.
+From:15/04/2020 to
+26/06/2020
+IT Skills:
+Basic Knowledge of MS Office
+Basic knowledge of Photoshop.

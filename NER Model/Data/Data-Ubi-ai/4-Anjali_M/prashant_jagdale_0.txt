@@ -1,0 +1,34 @@
+Prashant Jagdale
+9970191232 | prashantjagdale9505@gmail.com
+CARRIER SUMMARY
+Seeking a challenging position in a reputed organization where | can learn new skills, expand my
+knowledge, and leverage my learnings.
+EXPERIENCE
+MACHINE LEARNING ENGINEER | 04/2019 to current
+Sap India, Pune.
+e A professional with 2+ years of experience in Python, Data Science and Machine
+learning.
+e Proficient in Core Python and Machine Learning libraries and Modeling -
+regression, Classification, etc.
+Strong communication and interpersonal skills. Ability to interact with customers
+with ease and professionalism.
+SKILLS SETS
+Sound Knowledge of Python’s, Data Analysis and Machine Learning Libraries.
+Implementation of regularization techniques like Lasso and Ridge in regression.
+Data mining algorithm experience in the families of predictive algorithms (Regression,
+KNN, Decision Trees and Random Forest) and clustering algorithms (k-means clustering).
+Thorough understanding of Probability and Statistics, Bayesian methods.
+PROJECT SUMMARY
+Project : Good Loan /Bad Loan Prediction
+Domain : Finance
+Description
+Loan Classification to help the financial organization to build a model to
+accurately predict the status of a loan application (Good/Bad). Good loan with EMI will be
+repaid to organization properly and Bad loan will not.
+Roles and Responsibilities:
+Performed analysis to assess the quality of the data, determine the meaning of the
+data, and provide data facts and insights.
+Handled Data Preprocessing.
+Deal with Feature Extraction and feature selection.
+Performed EDA (Exploratory Data Analysis).
+Deal with missing values, outlier as categorical Encoding

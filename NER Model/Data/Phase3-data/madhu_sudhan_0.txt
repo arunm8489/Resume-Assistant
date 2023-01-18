@@ -1,0 +1,58 @@
+Duddela Madu Sudhan Reddy
+Address: Door No: 4/15, Hanumana Gutty, Yerraguntla, Kadapa, A.P, 516360, India
+Nationality: Indian, Phone No: +91-7095811801, Email: madusudhanreddyd@gmail.com
+CAREER OBJECTIVE
+To secure a position in an institution/organization which enable me to utilize my knowledge and professional
+skills by assigning challenging projects and help me in advancing my career.
+KEY SKILLS
+v
+Data Analysis, Machine Learning, Statistics, Python, SQL, Microsoft Azure(Azure data factory and
+data bricks), AWS, Django
+PROFESSIONAL EXPERIENCE
+GLOBAL DATA PLC, HYDERABAD, INDIA
+Data Analyst - June 2019 - Till Date
+v
+v
+v
+~
+LYNN NN
+Client Interaction, Requirement Analysis, developing the code according to the business requirements
+Developing and implementing advanced analytics approaches including statistical modelling, machine
+learning principles etc. to answer business questions & drive actionable insights using Python.
+Hands on experience in Analytics - deriving key business impact from data and in creating algorithms,
+implementing an analytical solution based on analysis with large, complex, structured and unstructured
+data sets to provide better insights.
+Experience in statistical and machine learning: Linear/logistic regression, Decision trees, Random
+Forest, SVM, KNN, SVR, Naive Bayes and Clustering etc.
+Created the ensemble models, to choose the best model by using various algorithms.
+High degree of flexibility, independent and proactive working style.
+Ability to work well under pressure and on multiple and conflicting priorities.
+Extracted the data from various sources like SQL server and csv files.
+Developing and managing data factory pipelines responsible for end-to-end orchestration from copying
+data from source to target.
+Responsible for designing and building large data extracts, full end-to-end Data Warehouse
+infrastructure from the ground up on Amazon Redshift for large scale data handling Millions of records.
+Involved in Code Reviews and prepared unit test case scenarios
+Involved in guiding the new members of the team for the existing processes and providing knowledge
+transfer for multiple applications.
+Involved in implementation of different types of graphical reports like Cross Tabs, Scatter Plots,
+Geographic Maps, Heat Maps, Gauge, Tree Maps visualize reports using Power BI. He has performed fine
+tuning of the SQL queries and implementation of Indexes for faster performance and _ also
+Implementation of Partitions
+Project 1: To predict “Credit card fraud transactions” using machine leaning techniques and identify key
+drivers for fraud transactions.
+Responsibilities:
+v
+v
+v
+v
+v
+Created master table in SQL Database by deriving relevant columns from multiple tables using SQL
+queries
+Involved in Exploratory Data Analysis (EDA) for the given data.
+Processing, cleansing and verifying the integrity of data used for analysis in python.
+Applied various data visualization techniques like bar plot and scatter plot for better data
+interpretation.
+Implemented Logistic/Random forest algorithms for classifying application analysis and validate the
+models based on accuracy.
+Technologies: Machine Learning, Python, Sklearn, SQL

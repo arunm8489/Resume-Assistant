@@ -1,0 +1,39 @@
+functionalities.
+2. Fire Detection:
+e Used Optical Flow technique to detect motion of individual pixel in image plane.
+e Developed Convolutional Neural Network frameworks performing classification on fire
+using Keras library.
+3. MLasa Service:
+e Integrated most of the TensorFlow Image Classification and Object Detection model such as
+VGG, DenseNet, ResNet, MobileNet, EfficientNet, YOLO-v3, etc.
+Created an Image Preprocessing Pipeline.
+e Integrated MLFlow for managing the end-to-end machine learning lifecycle.
+e Developed a Model Serving system using FastAPI.
+Integrated Data Version Control (DVC) tool for controlling the dataset version.
+Implemented Dask for lazy dataset loading.
+4. Video Surveillance System:
+e Significantly contributed to integrate MQTT messaging protocol for data exchange between
+constrained devices and server applications.
+e Integrated TensorFlow Serving to serve TensorFlow model using Python.
+e Trained Rodent Detection model using SSD MobileNet Architecture to detect rodent in the
+frame.
+5. Integrated a table detection model. Extracting the data from the table using OpenCV, and stored
+the data in json format.
+6. Written a code to manage the models inside the Azure container.
+FitnessForce(Grip Technologies Pvt Ltd) September 2019 - February 2020.
+Data Scientist.
+List of Projects:
+1. Face Recognition System:
+e Have used transfer learning methodology by extracting the features from a Pre-Trained Model and
+feeding the extracted data to a Neural Network and training it for Image Classification.
+Trained and deployed the model on Amazon Web Service (AWS) using AWS Sagemaker ,S3 Bucket.
+Deployed the Face Recognition Model on Mobile device (Android, iOS).
+Face Spoofing Detection:
+Implemented Anti-Spoofing Techniques for Face Recognition Solutions.
+Fluid AI (Trutech Webs Pvt. Ltd.): July 2018 - August 2019.
+Software Developer.
+List of Projects:
+1. Developed incremental update for face Recognition using OpenCV and Dlib :
+e Choosing the most relevant face(s) from a group ofpeople.
+e Detecting face position to make face recognition rotation invariant.
+e Restricting the region of screen for the face(s) to be detected.

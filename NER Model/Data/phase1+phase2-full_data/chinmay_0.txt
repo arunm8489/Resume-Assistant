@@ -1,0 +1,34 @@
+Profile
+Chinmay Ramesh Dalvi
+8408052099/8999269851
+chinmay.18394@gmail.com
+LinkedIn
+Machine Learning/Al Engineer and QA Engineer with close to 3 year of experience in
+Manual and Automation testing of web based , desktop and mobile applications. Capable
+of collecting , pre-processing and performing analysis of data with Machine Learning and
+Deep Learning.
+Primary Skills
+- Python(Pandas,Numpy,scikit).
+- Machine Learning ( Supervised and Unsupervised Learning)
+- Deep Learning (TensorFlow 2.0)
+- MySQL
+Experience
+Cybage Software Pvt. Ltd. / QA Engineer
+Years of Experience : 2 Years 10 Months , Location : PUNE
+1) Project Name : KWI Retail POS
+Technologies and Software : Ranorex Studio ,,C#,SVN, TestRail, JIRA
+Project Description: It is a Retail Mobile Point of Sale application that caters business to
+business needs. It also involves the development of Mobile Automation scripts and
+Framework improvement using Ranorex and C#.
+2) Project Name: Davisware
+Technologies and Software: Ranorex Studio , C#, JIRA, TFS.
+Project Description: It is a Field Service Management software application that involves
+business to customer needs.It involves development of Mobile Automation(iOS and
+Android), Web and Desktop Automation.
+Main Responsibilities :
+1) Ranorex Framework creation, maintenance and enhancements.
+2) Work on automation scripting , creating application level libraries , performing
+automated test execution for Mobile(iOS/Android) , Web and Desktop level
+applications and posting the Execution Reports on to the Confluence page..
+3) Creating Customized Locators in Ranorex Object Spy and edit/update Object
+Repository.

@@ -1,0 +1,75 @@
+Partha Sarathi Mohapatra
+Software Engineer
+Do it with your passion otherwise Don't
+MM) parthai15599@gmail.com
+oa @Yeltar-Palavel t=
+[] (+91)7608930068
+in linkedin.com/in/partha-sarathi-mohapatra-9203b4179
+ 
+WORK EXPERIENCE
+Associate Software Developer
+Eximius Tech Innovations Pvt. Ltd.
+10/2019 - Present
+Achievements/Tasks
+© Worked on Taxation system like Einvoicing and Ewaybill.
+Hyderabad, India
+© Creating and maintaining API's on generate IRN number and
+E-Waybill number.
+© Worked on API's like Pull API.
+© Worked on services like Print Service, CSV Transformation
+Service, BOE Service and API Transformation.
+© Created REST API's by using Django RESTFul API.
+© Building reusable components and back-end libraries For
+Future use.
+© Maintaining quality and ensure responsiveness of
+applications.
+Python Development Training
+Naresh i Technologies
+07/2019 - 10/2019
+Achievements/Tasks
+© Learnt Python, OOPS.
+© Learnt Django, and RESTful API.
+Hyderabad, India
+EDUCATION
+BSc.ITM
+Nabapravat Academy for Management
+Education
+07/2016 - 07/2019 Salipur, Cuttack
+INTERMIDIATE(Science)
+Sabitri Devi College of Science
+04/2014 - 04/2016 Salipur, Cuttack
+10th
+Chandra Shekhar High School
+06/2014 Belarnuagan, Kendrapara
+SKILLS
+PROFESONAL SKILLS
+*Having Strong knowledge of BackedEnd technologies
+like Python, Django, RESTful API .
+*Strong knowledge on Object oriented programming
+and ORM.
+*Familiar with Front-end technologies like HTML, CSS,
+Bootstrap.
+*| have knowledge on Oracle, MySQL, AWS, Jenkins,
+Jira.
+PERSONAL PROJECTS
+Email Sending App (02/2019 - 02/2019)
+© A python based application which is done by smtplib. Simple Mail
+Transfer Protocol (SMTP ) is a protocol , which handles sending e-
+mail and routing e-mail between mail servers. Python provides
+smtplib module, which defines an SMTP client session object that
+can be used to send mail to any Internet machine with an SMTP
+Library Management System (10/2019 - 10/2019)
+© A python based web application which stores books of BSc Strem
+(Physics ,;mathematics , Chemistry ,Biology ,IT) and collects
+information from the user and shows this book available or not in
+library
+ACHIEVEMENTS
+- 5 Star coder at Hacker Rank
+- Solved 300+ questions from Geeksforgeeks
+LANGUAGES
+English Hindi
+Full Professional Proficiency Native or Bilingual Proficiency
+Odia
+Native or Bilingual Proficiency
+INTERESTS
+Coding Travelling

@@ -1,0 +1,43 @@
+EDUCATION SKILLS
+Master of Science in Machine Learning & Artificial Intelligence
+upGrad Educations in affiliation with IIIT, Bangalore and Liverpool John Moores ° Data Science
+. ; - e Python
+University, England - completing in 2023
+e = Shell
+Bachelor of Engineering in Electrical and Electronics * Spark
+Rajalakshmi Engineering College, Anna University, Chennai, CGPA:7.0, 2017 ° SOL
+e
+12" Standard, Computer Science e Scala
+New Prince Matriculation Higher Secondary School, Chennai, Score:79%, 2013 °© AWSS3
+e Docker
+10° Standard
+Prince Matriculation Higher Secondary School, Chennai, Score:83%, 2011
+CERTIFICATIONS
+e Business Analytics, IMS Proschool, Chennai
+e ANIIT for Engineers (Programming), NIIT, Chennai
+e Keizan Robotics Program- Level 1, Lema Labs, IIT Madras Research Park, Chennai
+e Industrial Automation, Technocrat Automation
+AWARDS & RECOGNITIONS
+e Winner of Keizan Robotics Competition — Level 1 conducted at IIT Madras Research Park
+by Lema Labs, Chennai
+e Member of organizing committee in “COULOMB 2K15"- symposium by department of Electrical
+and Electronics, Rajalakshmi Engineering College, Chennai
+e Paper Presentation at International conference - ICTPACT by IEEE
+PROJECTS (https://github.com/spragad)
+Sentiment Analysis/Feedback Analysis: A real-time feedback analysis of twitter data using python. Web
+scraping data from twitter using API, Data cleaning and pre-processing using NLTK and Text-Blob,
+sentiment scores, analysis of scores and visualization of results.
+Regression: A complete solution with python and flask for predicting the number of bikes rented from a bike
+renting service at Korea. After the analysis, Random Forest Regressor is used for training the model. With
+Flask and HTML/CSS, a web based interactive app is built using this model and the Demo is hosted on
+http://spragad.pythonanywhere.com
+Detection: A real time detection algorithm in Al using open-source models like Yolo and fine tuning it, to
+detect humans & their faces. This project has a future scope of face-recognition, activity tracking and many
+other applications.
+Classification: A basic image classification technique done using Convolution Neural Network, using Keras
+with TensorFlow backend in Python. Trained a Convolution Neural Network model that performs a binary
+image classification.
+| hereby declare that the above particulars furnished by me are true to the best of my knowledge
+and belief.
+rw
+(PRAGADEESH S)

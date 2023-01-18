@@ -1,0 +1,51 @@
+Dombivli, Maharashtra India. (+91) 9819479729
+PIN - 421203 SAMRUDDHI CHITNIS samruddhichitnisO2@gmail.com
+EMPLOYMENT
+Software Engineer II(Machine Learning Engineer) 63 Moons Technologies Jan 2021 — Present.
+“+ Lanquage Translation:
+> | did research on custom language translation using encoder decoder architecture with long short term
+memory(Istms) .
+> Created a proof of concept where the aim was to develop a multilingual translation model, developed a
+custom language translation model using encoder-decoder with keras and tensorflow as backend for the
+poc.
+> Did another poc using Hugging Face library’s mbart-50 multilingual encoder-decoder model.
+The translation was between regional Indian languages and English.
+> Developed a flask application for both the poc’s for the demo purpose.
+V
+“+ Person Counter:
+> Developed a Person counter application for counting the total number of people entering and exiting a
+place in different camera configurations.
+> The technologies used for developing the application was: yolov3, single shot detectors(SSDs) for object
+detection, centroid tracking algorithm and dlib library for tracking people, opencv for basic preprocessing,
+flask framework,basic html and css for developing the web application.
+“+ Automatic license plate detection and reading the number on license plate:
+> Developed a model that captures the car, the license plate of the car from videos and then recognizes the
+numbers on the number plate.
+> The technologies used for developing the model was: yolov3 for object detection and license plate
+detection, opencv for basic video preprocessing, pre-trained character segmentation model for recognising
+the numbers on the license plate, flask framework,basic html and css for developing the web application.
+Software Developer(Machine Learning Engineer) XYZ innovations Dec 2019 — Dec 2020
+“+ Worked as a part of the machine learning team to solve various problems related to image processing
+¢* Indoor Image Segmentation:
+> Developed a model for detecting the amount of work done in indoor construction sites.
+The Model was developed using Unet architecture from scratch.
+Libraries used for developing the model were:deep learning libraries like keras with
+tensorflow as backend for developing the main model, opencv for image preprocessing
+and augmentation, numpy for image augmentation.
+VY Vv
+“+ Outdoor Image Seqmentation:
+> Developed a semantic segmentation model for construction sites to classify various stages of outdoor
+construction.
+> The Model was developed using Unet architecture. In the encoder part | used a transfer learning technique,
+where | used vgg 16 as the encoder and the decoder was developed from scratch based on the encoder
+layers.
+> Libraries used for developing the model were:deep learning libraries like keras with
+tensorflow as backend for developing the main model, opencv for image preprocessing
+and augmentation, numpy for image augmentation.
+Machine Learning Intern Bridgelabz Solutions LLP June 2019 - Dec 2019
+¢* | was working as a fellowship engineer in a machine learning team where | was trained on python and
+machine learning concepts.
+“* Developed a very basic conversational bot using Rasa Framework.
+“* Worked on different problems (tasks assigned) like sentiment analysis, classification problem,
+regression problem.
+“* Implemented single layer neural network and multilayer neural network from scratch.

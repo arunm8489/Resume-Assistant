@@ -1,0 +1,39 @@
+Shaik Mohammad Imran smdimran838@gmail.com
+ 
+OBJECTIVES
+COURSES
+SKILLS
+EMPLOYMENT
+INTERNSHIPS
++91 8886587216
+13-404/11-1-7, Bismillah Nagar, Renigunta
+To be able to attain the proficiency in the field of software technologies and be able to solve almost any real-
+world problems faced by the people in their daily lives. | will take every opportunity as one of my
+steppingstones for my career. I'm quick learner, while working with such organisation, | can improve myself
+to adapt the organisation's rapidly changing decisions, technologies and contribute to organisation with my
+Skillsets.
+Deep Learning - Udacity, Online certified
+Machine Learning - Kaggle, Online certified
+Django - Udemy, Online certified
+Python - IIT Bombay, Online certified
+Android - Udacity, Online certified
+Java - IIT Bombay, Online certified
+Advance - Java, Python
+Intermediate - Machine Learning, Deep Learning, Chrome Extensions
+Beginner - Android, Django, AWS
+Product Developer
+Stealth Mode Start-Up
+Jul 2020 — Present
+Working as developer to develop software products which uses the power of ML models,
+which decides which contents to be shown to the users by taking appropriate action on
+the websites content such as text, images and videos.
+Software Developer
+Beyond Union corporation
+Jan 2020 — Jun 2020
+Developed a website where people will play games like quizzes by looking at the short
+movie videos.
+Full Stack Django Developer
+ErcessLive corporation
+Feb 2019 — Apr 2019
+Developed a website where people choose High traffic websites for branding their
+products by subscriptions.

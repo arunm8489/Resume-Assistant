@@ -1,0 +1,44 @@
+Mohit Pareek
++91 8386046016 github.com/MohitPareek
+mohit97pareek@gmail.com linkedin.com/in/mohit97pareek
+PROFESSIONAL SUMMARY
+Software Development Professional with 2 years of experience armed with a PG Program in Machine Learning and Data Science.
+Expertise in making Web Based Framework Using Java and SoapAPI and has the knowledge of Spring Boot, Hibernate and Rest
+API. Experienced in making ML Models using ML Algorithms, Deep Learning and Reinforcement Learning.
+TECHINCAL SKILLS
+e Programming Languages: Python, Java, C++, SQL
+e Libraries: Numpy, Pandas, Plotly, Matplotlib, Seaborn, ScikitLearn, TensorFlow, Keras, Spacy, NLTK, Spacy
+e Tools: Jupyter Notebook, Microsoft Excel, Jira, Git, PowerBl,Rasa Framework
+EDUCATION
+e il! -—B & UpGrad, Bangalore, KA - PG-Diploma in AL-ML — 3.14 out 4 CGPA- August 2019 - October 2020
+e Srm Institute of Science and Technology, Delhi - B.Tech in Computer Science - 8.3 CGPA- July 2015 - May 2019
+WORK EXPERIENCE
+Sterlite Technologies, Anmadabad - Software Engineer- June 2019 — Present
+e Working on Web Based Framework to create API using Java and REST API and received an award from the client for
+continuous support and proactive solutions.
+e Expertise in Jasper-soft software to provide Automatic Database Report and Skilled in working windows based server.
+e Followed sprint methodology and communicated with onshore team and client regularly to provide solution.
+DVS Web InfoTech, Jaipur - Android Intern- May 2017 - July 2017
+e Was an integral part of the team which developed projects like Jaipur Metro.
+e Expertise in working on Front End Design and collaborated with Ul Team to work on the client requirement.
+PROJECTS
+Telecom Churn Predictor
+Accuracy- 96.40% Algorithm Used Is: - Logistic Regression
+e Segmented the customer base using classification methods and analyzed to identify most valuable customers.
+e Also predicted the probability of customer churning to another company using past behavior.
+e Used this dataset to understand different ML techniques like PCA & RFE and used them to improve the model.
+e Tools -Google Colaboratory, Python.
+Book Rating Analyser
+Accuracy- 93.40% Algorithm Used Is: - Multiple Linear Regression
+e Analyze the dataset from Good Read's Website and identify most valuable field to which affects rating of book.
+e Used Data Visualization step to better understand the problem statement.
+e Applied Hyper-Parameter, Cross-Validation & Lasso Regularization Technique to reduce the complexity of model.
+e Tools used for coding - Jupyter Notebook, Python, Power BI.
+Email Spam Classifier
+Accuracy- 90.80% Algorithm Used Is: - Naives Bayes Algorithm
+e Created a model which process more than 10K of data entry to create a bag of words for prediction.
+e Analyzed the frequency of different trends types in prediction and used different metric to confirm the model.
+e Tools used for coding- Jupyter Notebook.
+CERTIFICATIONS
+e Introduction to Computational Thinking and Data Science.
+e Neural Networks and Deep Learning.

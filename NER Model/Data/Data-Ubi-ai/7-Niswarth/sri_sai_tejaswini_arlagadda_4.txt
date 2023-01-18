@@ -1,0 +1,10 @@
+FedEx has created a standardized application System (Desktop/Online) to maintain the
+established system of quote generation for different zone delivery.
+Responsibilities:
+e Analyzing and understanding the Business requirements
+e Test Case Creation and implementation.
+e Execution of Regression test cases.
+e Cross browser testing to check functionality and flexibility
+DECLARATION:
+| hereby declare that all the details mentioned above are true to the best of my knowledge.
+SRI SAI TEJASWINI ARLAGADDA

@@ -1,0 +1,59 @@
+SKILLS
+ 
+MANSHA
+e Programming Languages: Python, R
+D AS e Databases: MySQL
+e Tools and Libraries: Pandas, Numpy, Matplotlib, Google Data
+Studio, Tableau, Excel
+SUMMARY e Algorithms: Regression, Classification, Clustering,
+Association, CNN
+PROJECTS
+ 
+Post graduate in Data Science, having
+more than 2 years of experience in IT
+industry .Eager to implement my
+¢ Image Classification: CNN
+Objective: Scan the documents and leverage the information
+knowledge and skills in the field of data by reducing manual efforts significantly.
+analytics/data science Analysis: CNN was created to classify images at various
+documents.
+* Customer Segmentation
+Objective: To understand the customers like who can be
+easily converge target Customers so that the sense can be
+CONTACT given to marketing team and plan the strategy accordingly.
+Analysis: The model using K means clustering was created to
+get a better understanding of them which in turn could be
+used to increase the revenue of the company.
+ 
+@ +91 - 9513789300
+&) mansha95@gmail.com ¢ Predicting forest Fire area and coordinates
+Objective:- Predicting burned area of forest taking into
+consideration different independent variables
+Analysis:- Feature Extraction ,EDA and Machine Learning
+QO Cuttack ,Odisha
+ 
+()  github.com/manshadas Models -KNN, Decision Tree, Random Forest.
+EXPERIENCE
+EDUCATION Accenture India Pvt Ltd : Feb 2018 to July 2020
+Application Development Analyst
+*Worked with ETL tool (Informatica) and SQL. Implemented
+simple Informatica jobs as per the requirement.
+eAcquired knowledge and _ experience in software
+- PGP in Data Science
+Praxis Business School
+2020-2021 development life-cycle including gathering, analysis,
+developing and deployment
+-BTech in Electronics ‘Well understanding of Data warehouse concepts ,Star
+& Electrical Schema ,Snowflake schema ,Fact & Dimension tables.
+KIIT University, BBSR eAnticipated client needs and formulated solutions to client
+2013-2017 issues.
+*Participated in weekly status meetings and conducted
+internal and external reviews as well as formal walk through
+among various teams and documented the proceedings.
+ 
+CERTIFICATES
+LANGUAGES
+¢ Introduction to R(DataCamp)
+- English ¢ Machine Learning for Business(DataCamp)
+- Hindi
+- Odiya

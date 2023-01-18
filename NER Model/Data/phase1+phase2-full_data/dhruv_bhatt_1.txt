@@ -1,0 +1,38 @@
+Intrusion Detection System Using Auto-encoder | Tech Stack: Python
+e Inthis project when the new request comes it checks if it is normal or not. Training is done with nb-15 Datasets. And implemented
+with Auto-encoder and Keras.
+Comparison Between Restic and Snapmirror | Tech Stack: Python
+e Inthis project, it will find which backup system is best-suited restic or snapmirror by doing some testing and analyzing.
+PDF to Word conversion | Tech Stack: C#, OpenCV
+e Inthis project convert pdf document into word document with OCR. Users will upload the pdf or give a pdf path and then the text is
+shown on board and the User can Save it to a word file.
+Online Banking System | Tech Stack: C#, Oracle DB
+e Inthis project, User will open their account and after that, they can transfer the money from one account to another. And also able
+to request the withdrawal request and also some banking services.
+Codester Online IDE | Tech Stack: Java, JSP
+e Inthis project, the User will compile their C, C++, and Java code on online IDE. Context hoster can host the context and students
+can register in the context, give coding round and the system will automatically calculate the result and mail it to students by their
+rank.
+POSITIONS OF RESPONSIBILITIES
+Teaching Assistant for Artificial Intelligence '20 - '20
+BITS Pilani
+Worked as a teaching assistant in "Artificial Intelligence". Conducted lab and helped professor in exam evaluations.
+Teaching Assistant for Neural Network and Fuzzy Logic '20 - '20
+BITS Pilani
+Worked as a teaching assistant in "Neural Network and Fuzzy Logic". Conducted lab and helped professor in exam evaluations.
+Teaching Assistant for Object Oriented Programming 19 - '19
+BITS Pilani
+Worked as a teaching assistant in "Object-Oriented Programming". Conducted lab and helped professor in exam evaluations.
+CERTIFICATIONS
+e Coursera Certifications: Machine learning | Convolutional Neural Networks | Image Denoising Using AutoEncoders in Keras |
+Build a Machine Learning Web App with Streamlit and Python | Classification with Transfer Learning in Keras
+e Udemy Certifications: Complete Python Bootcamp| Deep Learning with Python Keras | Natural Language Processing |
+Introduction to Generative Adversarial Networks | DevOps Project | Kubernetes On The Cloud & The CNCF CKA_ | Web Scraping
+with Python | Introduction to Machine Learning for Data Science
+¢ TABLEAU DESKTOP CERTIFIED PROFESSIONAL (Valid till 2024)
+RESEARCH PAPER
+e Emotion Recognition Using Multimodalities in Hybrid Intelligent Systems. HIS 2020
+DOI: 10.1007/978-3-030-73050-5_31
+Journal: Springer
+ADDITIONAL INFORMATION
+e Languages: English (working experience), Gujarati (native), Hindi

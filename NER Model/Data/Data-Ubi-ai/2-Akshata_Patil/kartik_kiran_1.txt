@@ -1,0 +1,41 @@
+Technical skills: python , C++ , Data science , Machine learning , Deep Learning, Natural
+language processing , Exploratory Data analysis, Feature Engineering , Data
+visualization ,Regression algorithms , clustering algorithm , Bagging ,Boosting , Statistics,
+dimensionality reduction , Neural Network, CNN, RNN, LSTM, Attention based models and transfer
+learning
+Libraries : Scipy,Numpy , pandas ,seaborn ,sklearn , plotly ,matplotlib ,NLTK , Xgboost
+Spacy ,genism ,cufflinks ,TensorFlow, keras , PyTorch ,pyspark , Time series ,
+LSTM ,Transformers ,BERT ,spark mlib ,xgboost , vgg16, Resnet
+Courses and Certifications:
+Introduction to Data science (Coursera)
+Machine learning A to Z (Udemy)
+Deep learning specialization (Coursera)
+Deep learning NLP Masters (Ineuron.ai)
+Introduction to Data science (Coursera)
+Projects
+1.Quora question Pair similarity: Quora is the application where users can answer question
+and experts can give answers , Identify which questions asked on Quora are duplicates of questions that
+have already been asked This could be useful to instantly provide answers to questions that have been
+already answered. But users ask many questions which are repeated or someone asked it before , or they
+can be asked in different wording . hence it is time consuming and hectic to the expert who are going to
+answer . SO we are created a ML model which can find the text similarity and let us know that incoming
+question is repeated or not if it is repeated then the answer of the same question which is asked before
+will be send to user and load on expert or answer giver will be reduced.
+ROLE :
+1)gathered Data from Kaggle 2) perform EDA 3) text and Data preprocessing (Stopwords removal ,
+creating tokens , word to vector representation ) 4) Feature Engineering (created new features like
+Common word counts, common word share, question 1 and question 2 length cosine similarity, Minimun
+edit distance) 5)created features like wordvector 6) created a random model and check performance
+7)created machine learning models like Logistic regression ,Random forest and Xgboost 8)Use log loss as
+performance metric
+2.Linkous (Detection of Malicious links and URL'S using Machine learning )
+(Final year project) http://linkous.herokuapp.com/#
+In this project is related to cybersecurity and machine learning and NLP. in this project we are
+classifying links and URL's as malicious or safe using Lexical analysis of strings and machine learning
+classifier. we have also used features like page rank and DNS features to check the authenticity of
+that link , we used logistic regression algorithm for prediction because it is giving High accuracy . we
+check the parameters in link for classification like [ no of @, no of /, no of _] and using all these
+features we are able to classify the link as safe or unsafe
+ROLE: 1)Created a front end using HTML, CSS and Bootstrap 2) preprocess the data ( remove
+duplicated values and remove Nan) 3) created machine learning models Like SVM and Logistic regression
+Page 2

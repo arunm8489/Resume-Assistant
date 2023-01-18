@@ -1,0 +1,42 @@
+Skills:
+Programing Languages: Python, C
+Programing Basics: Data Structure and Algorithms
+Data Science: Data Analysis, Visualization, Interpretation
+Digital Image Processing, Digital Signal Processing, Computer Vision, NLP
+Machine Learning: Regression, Classification, Clustering, Ensemble Modeling, Bayesian Networks.
+Experienced with classical ML algorithms such as Decision Trees, Random Forest, K-NN, SVM and others
+Deep Learning: Statistical Theory of Deep Learning, Neural Networks (Dense Networks, Convolutional
+Networks, Recurrent Networks), Generative Modeling and State of the art techniques.
+Frameworks: PyTorch, Keras, Scikitlearn with descent knowledge of other Data Science libraries
+Cloud Computing Platform: Google Cloud Platform (GCP), Azure, Paperspace
+Embedded System and Robotics: Arduino Programming, Embedded System
+Publications:
+1.
+Contact-Less Heart Rate Detection in Low Light Videos, accepted in ACPR 2021 (Authors: Tamal Chowdhury,
+Sukalpa Chanda, Saumik Bhattacharya, Soma Biswas and Umapada Pa)
+Exploring the Correlation between Deep Learned and Clinical Features in Melanoma Detection, accepted in
+MIUA 2021 (Authors: Tamal Chowdhury, Angad R.S. Bajwa, Tapabrata Chakraborty, Jens Rittscher,
+Umapada Pal)
+DCINN: Deformable Convolution and Inception Based Neural Network for Tattoo Text Detection through
+Skin Region accepted in ICDAR 2021 (Authors: Tamal Chowdhury, Palaiahnakote Shivakumara, Umapada
+Pal, Tong Lu, Ramachandra Raghavendra, Sukalpa Chanda)
+MhURI: A Supervised Segmentation Approach to Leverage Salient Brain Tissues in Magnetic Resonance
+Images, accepted in Computer Methods and Programs in Biomedicine (Authors: Palash Ghosal, Tamal
+Chowdhury, Amish Kumar, Ashok Kumar Bhadra, Jayasree Chakraborty, Debashis Nandi)
+CSNet: A New DeepNet Framework for Ischemic Stroke Lesion Segmentation, accepted in Computer
+Methods and Programs in Biomedicine (Authors: Amish Kumar, Neha Upadhyaya, Palash Ghosal, Tamal
+Chowdhury, Dipayan Das, Amritendu Mukherjee, Debashis Nandi)
+Analysis of Multi-Class Classification of EEG signals using Deep Learning on MUSE Dataset, accepted in
+ICPRAI 2020 (Authors: Dipayan Das, Tamal Chowdhury, Umapada Pal)
+Breast Lesion Segmentation in Ultrasound Images Using Deep Convolutional Neural Networks, accepted in
+CALCON 2020 (Authors: Dipannita Ghosh, Amish Kumar, Palash Ghosal, Tamal Chowdhury, Anup Sadhu and
+Debashis Nandi)
+Personal Projects and Hackathons:
+Dual Axis Solar Tracker Using Arduino
+Medical Assistance ChatBot using Seq2Seq Model
+Implemented a vanilla Generative Adversarial Network (GAN) on CIFAR-10 dataset.
+82% accuracy in Analytics Vidya’s Ship Classification Hackathon (Within top 150).
+84.05% accuracy in ZS Associate’s Data Science Hackathon (Within top 200).
+95.5% accuracy in Machine Hack’s News Category Prediction Hackathon (Within top 10).
+Certifications:
+Indian School of Ethical Hacking (05/2018 — 07/2018): Short term course on Machine Learning

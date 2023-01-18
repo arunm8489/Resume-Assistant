@@ -1,0 +1,29 @@
+e Creation of the sub workflows using Mimictron tool on Holmes Automation Studio, a
+personalized automation tool developed by Wipro Technologies.
+e Fixing the bugs post the application testing.
+Project Name: PI Remediation, Thames Water
+Project Abstract:
+Thames Water is one of the top six water supplying companies across Europe. And it is decided
+that all the water supplies should be metered. OSISoft Pl applications and interfaces, with the
+variations in servers, are to be upgraded to use as enterprise data historian for real time data.
+Responsibilities:
+e Understanding business requirements.
+e Brain storming with the team for improvisations on the enhancement features.
+Development of the features to enchase the application for the new version created.
+e Unit testing the features before sending them for approval from onsite.
+Project Name: Workday Services, FedEx Corp
+Project Abstract:
+FedEx Corporation is an American Multinational Courier Services providing services across
+countries and regions.
+It has incorporated Workday Services to have their financial and human capital managed.
+Responsibilities:
+e Analyzing and understanding the Business requirements.
+e Creation of Sample Test Data.
+e Creation of Test Cases for different modules.
+e Design and development of the automation scripts.
+e Cross testing the developed automation scripts.
+e Execution of Test Cases.
+Project Name: Application Testing, FedEx
+Project Abstract:
+FedEx Corporation is an American Multinational Courier Services providing services across
+countries and regions. The services provided include ground, domestic, international and freight.

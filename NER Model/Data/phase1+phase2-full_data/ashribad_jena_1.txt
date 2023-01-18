@@ -1,0 +1,47 @@
+deliver whether employees would be allowed or not to the workplace.
+PROJECT
+Title: Vision-based Smart Walker for Blind people.
+Business case:
+1: detects the objects.
+2: Distance calculation between the objects and how much distance is far away
+from the vertical line and notify.
+3: Text generation according to the action and distance calculation, then text to speech.
+Roles and Responsibilities: We gathered a huge number of images; images are collected from the stakeholder's site. Now we are in
+the fourth stage of the project, building an object detection model.
+PROJECT
+Title-1: Deasis detection of chest x-ray
+Business case: The stakeholder wants to detect Deasis(8-12 diseases) in the human chest by scanning the whole chest.
+Roles and Responsibilities: We gathered a huge number of images, images are collected from the client's chest scan record, which is
+captured image previously. And started to analyze the images of different diseases. we planned to deliver whether the patient has
+been infected from chest Deasis or not. And using the pertained model we successfully detected all the chest diseases.
+PROJECT
+TITLE: Reduce Service Ticket Allocation Time.
+Business Case: Amough Solutions is an e-commerce company delivering a wide range of products to its customers. Due to more
+issues from the customers, even the service team takes a huge amount of time to close a ticket. We built a
+solution to reduce the ticket closing time. Roles and Responsibilities: Based on the problem we thought to automate the
+process of ticket allocation to the concerned team member based on the ticket, based on the time taken by a team member, and
+based on its severity. We looked into the nature of data, most of the data were text format so by using NLP we converted this text
+data into vector representation - We built a word cloud to understand which issues are highly generated, which issues are taking
+more time and we captured more information on high repeated information. Then, we sent to the pertained or state of the art
+algorithm for training and testing.
+PROJECT
+TITLE: Educational Chatbot
+Business Case: Stakeholders is from educational background; they have a number of educational institutes. So, our client wants to
+automate the answer of educational quarries.
+Roles and Responsibilities: Due to a huge number of questions arising per day, it was impossible to answer all the questions by
+coordinating team members. After better understanding the business problem, then we decided to create a
+chatbot. Then we gathered a huge number of data based on the educational quarries with the predefined answers. Then pre-
+processed the data and sent it to the pertained or state-of-the-art algorithm for training and testing. We got a good result in this
+transfer learning algorithm.
+PROJECT
+TITLE: stock market analysis.
+Business Case: Stakeholders is from stock market, they want to analyze the next 30 days stock.
+Roles and Responsibilities:
+Then we got huge number of data based on the previous stock history(data consist of 2 variables are:date, adclose).Then pre-
+processed the data and sent it to the arima model for training and testing. We got a 31% accuracy in the fisrt approch, then we
+implemented a research paper and got good accuracy.
+KEY SKILLS
+creating programs _ predictiveanalysis data mining and computational statistics Deep Learning
+machine learning artificial intelligence algorithms text-to-speech rawdata machine learning algorithm
+Linear Regression  LogisticRegression KNN SVM _= NaiveBayes’~ Clustering object detection
+NATURAL LANGUAGE PROCESSING NLP cloud” algorithm  Chatbot

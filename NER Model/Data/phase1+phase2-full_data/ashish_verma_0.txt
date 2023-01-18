@@ -1,0 +1,36 @@
+Ashish Verma
+Machine Learning Developer
+Mumbai, MH, India | Contact (M): +91 9137317043 | Email: ashishvermas18@gmail.com
+Summary
+Passionate Machine Learning Engineer with 3+ years of experiences in developing end-to-end Machine
+Learning Projects. Effectively researches techniques for novel approaches to problem, develops
+prototypes to assess viability of approach, and deploys application to production. Skilled in Python,
+Computer Vision, Deep Learning, Machine Learning.
+Skills:
+Python, C#, TensorFlow, Keras, Fast API, Flask, NumPy, OpenCV, DLIB, scikit-learn, Tesseract, MQTT, Dask,
+MLFLow, DVC (Data Version Control), Docker, AWS Sagemaker, Azure Storage, Tensorflow Serving,
+GitHub.
+Experience
+Konsultera Solutions Pvt Ltd March 2020 - Present.
+Machine Learning Developer.
+List of Projects:
+1. End-To-End ID Card Data Extractor:
+e Trained Id Card Detection model using TensorFlow YOLO-v3 architecture.
+e Have Trained Id Card Field Detection model using TensorFlow YOLO-v3 Architecture.
+e Retrained tesseract model for Optical Character Recognition (OCR).
+e Digital Image Tampering: Research and Developed Machine Learning Model for localizing
+the forged region.
+e Blurriness Detection: Performed binary classification using Machine Learning technique
+such as SVM.
+e Character Classification: Developed Convolutional Neural Network frameworks for
+predicting single character image.
+e Image Angle Detection: Developed Convolutional Neural Network frameworks performing
+classification on the image angle, using Python and keras library. Leveraged weight matrix
+of pre-trained models such as VGG, Inception & ResNet, performed hyper parameter tuning
+to improve model’s performance.
+e Image Denoise: Design and Developed CNN Autoencoder to eliminate noise from the image.
+Used Ensemble technique with Autoencoder to train the model.
+e Integrated Tesseract OCR by initially preforming different preprocessing technique using
+OpenCV.
+e Used Flask framework to develop entire backend modules in Python. Created independent
+libraries in Python which can be used by multiple projects which have common

@@ -1,0 +1,30 @@
+ERROR Report: An SAS automated report to produce the top fund
+providers for the organization and to filter out all the Errors/Unwanted
+data. Developed an automated script in Python to filter out data and a
+Tableau dashboard to produce a weekly report with various data
+visualizations with top grocers and other insights. Script to ensure
+various sensitive data like SSN's, IDs are encrypted before sending out
+dataset for downstream teams.
+Jeffries SR Report: Developed a Python script that will import data from
+multiple data sources and count the number of SR's assigned to each
+manager. Created various plots from the data to display the
+performance of each manager. Code to predict the performance of
+each manager periodically.
+e ETL Developer at SLK Software Services(2017-2020):
+Wealth Management System, (First Tennessee Bank): Developing
+various jobs in DataStage to create scheduled reports for the entire
+flow of data for an application. Worked with various application teams
+to understand the frontend and analyze the data sources and create
+flows to produce accurate data for the application users and reports.
+Responsibilities included transformation of code and creating data
+flows. Developing various data extracts for business-based
+requirements.
+MLA Status, (Fifth Third Bank): Developing ETL jobs to identify
+customers who have served the US army if they are eligible for a certain
+MLA status for some fee waiver. Successfully extracted data from
+various data sources to generate a consolidated set of customers based
+on different business requirements.
+Book of Business Purge (Fifth Third Bank): Developing automated jobs
+to successfully purge different history data based on different
+timelines. The bank wanted to have a separate dataset for the different
+old records consuming much space on the server. The new developed

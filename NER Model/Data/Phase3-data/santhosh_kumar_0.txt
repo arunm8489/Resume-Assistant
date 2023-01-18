@@ -1,0 +1,76 @@
+SANTHOSH KUMAR
+Seeking for a position to utilize my skills and abilities, which offers a high professional growth, while
+being resourceful, innovative and Flexible
+MX =santhoshrobotai@gmail.com
+Q No: 9 Thillai mestry st, Puducherry - 605 001,
+pondicherry
+WORK EXPERIENCE
+Machine Learning Engineer
+JP Infotech, Puducherry
+08/2019 - Present PUDUCHERRY
+Deep Learning Project
+Garbage classification using image processing
+Description
+© This project aims to develop a technology for trash
+processing using image processing
+© To gather all the dry waste with less effort for better
+outcome.
+© Tool used: Python,CNN,Tensorflow, Keras,AWS
+Machine Learning Project
+Sales prediction For a supermarket in machine
+learning
+Description
+e Predict Future sales of a product with machine learning.
+® Sales Forecasts can be used to identify benchmarks and
+determine incremental impacts of new initiatives
+® Tool used: Python,Pandas, Scikit-learn,
+Web developer
+Bluish Technologies, puducherry
+10/2016 - 06/2019 PUDUCHERRY
+EDUCATION
+Bachelor of Technology in Computer
+Science and Engineering
+Alpha College of Engineering and Technology,
+Puducherry
+05/2011 - 06/2014 7.87CGPA
+Higher Secondary
+Amalorpavam Higher Secondary School under
+State Board of Tamil Nadu
+05/2009 - 03/2010 65.5%
+SSLC
+Amalorpavam Higher Secondary School under
+State Board of Tamil Nadu
+03/2007 - 04/2008 77.7%
+ +918610567391
+© github.com/sandy199351/santhosh
+ 
+SKILLS
+Machine Learning Scikit-learn
+Deep Learning
+PERSONAL PROJECTS
+Machine Learning Project
+Title: covid cases future prediction
+Title: Heart Disease Identification Method Using Machine Learning
+Title: Crop Yield Prediction based on Indian Agriculture using
+Machine Learning
+Title:Detecting A Twitter Cyberbullying Using Machine Learning
+Title: Detection of Malicious Social Bots Using Learning Automata
+With URL Features in Twitter Network
+Title: Performance Analysis on Student Feedback using Machine
+Learning Algorithms
+Deep Learning project
+Title: Artificial Intelligence and COVID-19: Deep Learning
+Approaches for Diagnosis and Treatment
+Title: Rice Leaf Diseases Classification Using CNN With Transfer
+Learning
+Title: A Mask Detection Method for Shoppers Under the Threat of
+COVID-19 Coronavirus
+Title: driver drowsiness detection using deep learning
+Title: emotion detection using deep learning
+ACHIEVEMENTS
+Achievement Name
+LANGUAGES
+ENGLISH TAMIL
+Professional Working Proficiency Professional Working Proficiency
+INTERESTS
+Al

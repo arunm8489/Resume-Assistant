@@ -1,0 +1,54 @@
+Feb '19 - Apr ‘21
+Jan '16 - Jan '19
+Data Science and Analyst
+e Created multivariate classification-based model using patient data helping to find the most
+probable patients
+e Developed segmentation models using K-means Clustering for exploring new patient segments
+e With the help of Tableau, we created the end-to-end Tableau dashboard solution using the FDA
+data which helped in finding the adverse events and the reasons for the same.
+e This app helped Doctors to analyze the data with ease.
+e Deployed Python to develop a patient segmentation algorithm for segregating the patients into
+various severity. This algorithm helped hospital doctors to target the correct patients on time and
+helped in the reduction of adverse events by 28%
+Performance Enhancement & Business Transformation
+e Utilized data mining techniques to resolve a wastage of medical costs which improved the cost-
+saving of INR 3.2 million
+e Achieved an MoM 14% increase in revenue through the application of hospital performance
+assessment.
+Data Analyst
+Eduguide Searchurcollege Pvt. Ltd. | Noida, IN
+Data Visualization & Application Development
+e Analyzing the total site traffic and categorizing the traffic based on the key features by applying the
+clustering technique using Python, helped the business to understand the current traffic segments
+and their choices.
+e Applied the time series prediction to understand the traffic over the period of time and plan the
+marketing actions according to the predictions.
+e Analyzing the current trend and giving any intimation to the business about the changes and
+approach towards expanding the business.
+Performance Enhancement & Business Transformation
+e Developed and Deployed a segmentation algorithm for boosting sales leads and increasing market
+Share by 34%
+e Increased the subscriber base by 10% YoY after implementing the time series analysis and taking
+marketing correct actions based on the clustering model.
+Data Analyst
+Global Standards | Lucknow, IN
+Worked with one of the largest hospitals
+Data Analysis of New and Existing Ventures According to ISO Standards
+e Created the end-to-end Data Preprocessing App for the client who are applied for ISO Certification
+and helped them to meet the standard parameter of ISO Marks. This was the end-to-end Data
+Science App where aim was to make the product for the client as a Self Service Data Science
+solution without a single coding.
+e Using SQL, Excel, Tableau for the Data gathering, Analysis, Create Visualizations and Dashboards of
+the Vendors and Clients.
+e Main Challenges is Missing Data and not messed data.
+Performance Enhancement & Business Transformation
+e With the help of Tableau, we created the end-to-end Tableau dashboard solution using the FDA
+data which helped in finding the adverse events and the reasons for the same.
+e This app helped Vendors to analyze the data with ease.
+e Saved 40% of the time in cleaning and processing the data by implementing the End-to-End Data
+Preprocessing App.
+ 
+Dec '19 - Dec '21
+Birla Institute of Technology and Science, Pilani
+MTech in Data Science And Engineering | Pilani
+Data Science and Engineering

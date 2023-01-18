@@ -1,0 +1,47 @@
+Twinkle Vatwani
+Phone: +91-7435921620 | Email: vatwanitwinklel3@gmail.com
+ 
+Education Summary
+Post Graduate Program in Data Science, Business Analytics & Big Data Data scientist with 2 years of
+Aegis School of Business, Data Science, Cyber Security & Telecommunications 2017-2018 experience in developing ML/AI
+Bachelor’s of Engineering in Electronics and Communication solutions to deliver insights and
+C.K. Pithawala College of Engineering and Technology, Surat. 2013-2017 helping business take informed
+decisions.
+Experience
+Skills
+Freelancer March 2021- October 2021
+e Working with a leading beverage company in UAE as Data Scientist.
+My work includes analyzing the customer demands based on the| ® Machine Learning
+product search generated and build the recommendation system for the} e Python
+customers. NLP
+e Working on the sales data to create automated and dynamic dashboard
+for analyzing the company’s performance and forecasting future sales. | ° Text Analysis
+e Predictive Modelling
+Data Scientist,Datalabs July 2018 — December 2019 | e Voice Analysis
+HDFC LIFE INSURANCE, Bangalore e Data Visualization
+e Email Sentiment Analyzer (NLP): To identify the sentiment of
+customer emails to take an early action on risky customers to avoid ¢ SQL
+policy lapse. (NLTK, Wordnet).
+e Voice Analytics: A solution to identify the sentiment of customer call
+recordings. Interests
+e Customer Segmentation: Clustered the entire customer base (~1 Cr)
+into 12 segments that have similar characteristics, priorities and| e Reading
+interests for (Predictive Modelling, K- Means Clustering) e Doddling
+e Experience in Chatbot frameworks like RASA,DialogFlow ,wit.ai etc.,
+also good knowledge of text analytics.
+e Built an automated script to check the bot performance.
+e Worked with digital marketing team for building a classification and
+segmentation model to check the performance of various campaigns run
+by the team
+Technical Skills
+e Travelling
+Machine Learning
+Linear regression, Logistic Regression, Decision Trees, Random Forest,
+GBM, XgBoost, SVM, Naive Bayes, K- Means Clustering.
+Natural Language Processing
+Text Processing, Web Scrapping, Sentiment Analysis, Regular Expressions.
+Programming Languages & Tools
+Python, R, SQL
+Data Visualization
+Qliksense, Tableau
+ 

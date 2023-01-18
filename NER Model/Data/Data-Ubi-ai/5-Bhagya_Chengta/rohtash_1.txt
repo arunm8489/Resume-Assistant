@@ -1,0 +1,47 @@
+¢ Data Compression and Visualization using Principle Component Analysis
+(self Project) (Apr’20-May’‘20)
+o Removed non-significant features and created new features through principal component analysis.
+o Applied k-means clustering method to classify data and used Elbow curve to find optimum k-value.
+e Machine Translation of Dates with Attention Mechanism
+(self Project) (Aug’20-sept’20)
+o Applied attention mechanism with LSTM and word embedding for machine translation of date dataset.
+o Achieved Blue score of 0.4 for date translation.
+e Object Detection with YOLO
+(self Project) (Feb’20-Mar’20)
+o Achieved 70% accuracy with YOLO using Keras for car detection with bounding box coordinates.
+o Used convolution implementation of sliding window technique to improve computational speed.
+Positions of Responsibility
+e Vice-Captain Go-kart Championship, Lovely Professional University Punjab (2015-2016)
+o Worked as vice-captain of a team of 20 members to make a go-kart from scratch.
+o Assigned duties, conducted market survey for vehicle parts and handled day to day activites.
+¢ Mood Indigo (MI) Media and Publicity organizer, IIT Bombay (Nov‘19-Dec‘19)
+o Data-based and contacted 50+ Instagram and YouTube influencers, helped in organizing influencer meet.
+o Helped in managing 30+ photographers according to events’ time-slot during Mood Indigo cultural fest.
+e Interview Coordinator, Placement cell, IT Bombay (Nov’19-Dec’l19)
+o Coordinated with a team of 250+ members for interviews of 1600+ students.
+o Assisted in conducting Pre-placement talks and tests for 15+ firms.
+¢ Teaching Assistant
+o ME 657: Thermal and Fluids Engineering Laboratory. (Jan’20-May‘20)
+(under Prof. Shivasubramanian)
++ Conducted lab activities and experimental setup to help students.
++ Assisted 140+ Mechanical students to understand experimental theory and clarified their doubts.
+o ME 209: Thermodynamics (Aug’20-Nov‘20)
+(under Prof. Shivasubramanian)
+x Assisted professor in conducting exams, tutorials, evaluated answers and guided 30+ students.
+Technical Exposure and Certifications
+¢ Tools & Technologies: NumPy, Pandas, Matplotlib, Scikit-learn, Keras, TensorFlow, PyTorch , MATLAB
+e Programming Languages: Python, C++
+¢ Certifications: Basic Python Program (HackerRank), Workshop on mobile robotics by Tech-fest IIT Bombay
+Courses Taken
+e Deep Learning for Natural Language Processing e What is Data Science (IBM)
+e Machine Learning e Object Oriented Programming(Oops)
+e Deep Learning Specialization (deeplearning.ai) e Data Management System
+e Deep Learning Theory and Practice e Mathematical Models in Engineering
+¢ Computer Programming(C) ¢ Computational Methods
+Achievements and Extracurricular Activities
+e Secured 98.09 percentile amongst 1.94 lakh students in GATE Mechanical(ME).
+e Cracked BARC examination with >95 percentile among 80k+ students.
+e Achieved 4th rank amongst 250+ students in 12th standard and was recognized in State Merit List.
+e Secured 1st rank among 50+ students in 10th standard and was recognized in State Merit List.
+¢ Won Gold medal as part of 11 member team of ME department in Kho-Kho in PGGC, HT Bombay.
+e Participated in 12 km cyclothon with the motto “Brake Pollution to break Pollution” organized by ITT Bombay.

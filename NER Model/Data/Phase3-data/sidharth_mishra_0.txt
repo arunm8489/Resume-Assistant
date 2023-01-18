@@ -1,0 +1,33 @@
+SIDHARTH MISHRA
++917873054212
+sidharthmishra.ac@gmail.com
+SUMMARY
+e 2 years of hands-on experience in Cloud, Configuration and Release management.
+e Extensive experience in DevOps, AWS, GIT, Docker, Kubernetes.
+e Detailed knowledge on Configuration management tools for automation of application
+configuration and deployment for managing across the network.
+e Proficiency in designing, deploying and operating highly available, scalable and fault tolerant
+systems using Amazon Web Services (AWS).
+e Build and configure a virtual data center in the AWS cloud to support Enterprise Data
+Warehouse hosting including Virtual Private Cloud (VPC), Public and Private Subnets, Security
+Groups, Route Tables, Elastic Load Balancer(ELB), S3 and CloudWatch.
+e Good knowledge on ISC tools like Cloud Formation and Terraform.
+e Experienced with Docker container service and Docker applications by creating Docker images
+from Docker file.
+e Experienced with built-in tools like Jenkins.
+e Experienced in version control and source code management tools like GIT, GitHub.
+e Good knowledge on development lifecycles of Waterfall and Agile methodologies.
+e Ability to work effectively while working as a team member as well as individually. Having good
+communication and interpersonal skills, willingness to learn continuously.
+TECHNICAL SKILLS
+DevOps Culture: Jenkins, Docker, AWS, Terraform .
+Cloud Platforms: Amazon Web Services (AWS)
+Operating Systems: Red Hat Linux, CentOS, Windows
+Version Control Systems: Git, GitHub
+Configuration Management Tools: Terraform
+Continuous Integration Tools: Jenkins
+Container Concepts: Docker, Kubernetes
+WORK EXPERIENCE
+Cloud engineer
+Ingenuitas Software Private Limited, (06/2019- Present)
+Bangalore, Karnataka.

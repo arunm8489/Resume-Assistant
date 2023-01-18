@@ -1,0 +1,50 @@
+¢ Conducting Root Cause and Trend Analysis on negative impacts to system
+resources to help establish and maintain Service Level Agreements and
+increase corporate revenue.
+¢ Designing prediction algorithm using advanced data mining algorithms to
+classify similar properties together for developing sub-markets; performing
+cleaning of data which includes understanding & removing unnecessary &
+repetitive data .
+¢ Maintaining healthy business relations with clients, ensuring high customer
+satisfaction matrices by achieving delivery & service quality norms.
+Projects Undertaken:
+1. Title: Named Entity Extraction for Personal Identity Information(PIl) data.
+Client: SISA Information Security.
+Team Size: 4 members
+Tools & Technology: Python, Natural Language Processing, NLTK library, Named Entity
+Recognition, CRF classifier, Pycharm.
+Datasets: PII data(name, geographic location, others entity, and more) scanned by the
+Radar tool.
+Role: Data Collection, Feature Engineering,Model Creation,Model Hyper- parameter
+Tuning, Model Deployment.
+Description: Reduced the false positives to 94% encountered by the customer after the
+scan of PIl data by the Radar tool. The elimination of false positives data need manual
+efforts of the customer success team which is reduced by the machine learning model.
+2. Title: Masking credit card numbers on Image .
+Client: SISA Information Security.
+Team Size: 4 members
+Tools & Technology: Python, SSD Mobilenet (Object Detection) model, Tensorflow 1.15,
+Google-Colab, Tesla-T4 GPU .
+Datasets: Credit card images of major six types (VISA, DinersClub, AMEX, MasterCard,
+Maestro, JCB).
+Role: Data Collection, Feature Engineering, Model Creation, Model Deployment.
+Description: Masked the 16 digits credit card or debit card numbers on image with the
+confidence range between 80%-95% which allow the customer to fulfil the requirements of
+PCI DSS.
+3. Title: False Positive Reduction in PCI Data
+Client: SISA Information Security
+Team Size: 4 members
+Tools & Technology: Python, Natural Language Processing, NLTK library, Logistic
+Regression, Pycharm.
+Datasets: Various card data keywords and card brand keywords.
+Role: Data Collection, Feature Engineering, Model Creation,Model Hyper- parameter
+Tuning, Model Deployment.
+Description: Reduced the false positives in the PCI data scanning to 95% which
+encountered by the customer after the scan of PCI data by the Radar tool. The elimination
+of false positives data need manual efforts of the customer success team which is reduced
+by the machine learning model.
+4.Title: Forecasting the Usage Pattern of Subscriber for Telecom.
+Client: Lebara Mobile UK.
+Team Size: 3 members
+Tools & Technology: Python, Seaborn and Matplotlib libraries for visualisation,RNN LSTM,
+Tensorflow, Pycharm.

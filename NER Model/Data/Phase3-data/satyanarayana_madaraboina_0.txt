@@ -1,0 +1,105 @@
+\% +91 9620462680
+™% jobsforsatyanarayana@gmail.com
+9 Hyderabad,|N
+satyanarayana
+WiPeYors} as) eleliare
+in https://www.linkedin.com/in/satyanarayanamadaraboina/
+SUMMARY
+Data Science enthusiast with 4 years
+of experiences having 3+ years
+experience in delivering bug-free
+software aS a quality assurance
+engineer and 1+ years of industry,
+academic proficiency in creating,
+developing, testing, and deploying
+data regression, classification
+models, using predictive data
+modeling, data processing, and
+analyzing data mining algorithms to
+deliver insights and = implement
+action-oriented solutions to complex
+business problems as a data scientist.
+KEY SKILLS
+¢ Data Analysis * Machine learning
+Techniques * Deep learning
+framework
+¢ Statistical Methods « Natural
+Language Processing * Exploratory
+Data Analysis * Data Visualization
+Quality Assurance
+e Leadership & Training * Data
+Insights * SQL query
+TECHNICAL SKILLS
+Tools/Languages: Python,
+C#,VScode,VB scripting, Jupyter
+Notebook
+Cloud: Microsoft AZURE
+Database: MS SQL Server, MySQL,
+MS Excel (Advance)
+Achievements
+e Published articles on GPU
+installation and its usage
+e Participated in KAggle
+competitions
+ADDITIONAL
+INFORMATION
+e Team player | Worked with cross
+functional teams
+e Languages: English (Professional
+working proficiency), Hindi( Full
+professional
+proficiency), Telugu(Full
+professional professional
+proficiency), Tamil(Elementary
+proficiency)
+Data science,Machine Learning Engineer
+ 
+EDUCATION
+Master of Science in Artificial intelligence &
+Machine Learning
+Jan'21 - Present
+Liverpool John Moores University Liverpool, ENG
+e Research portfolio:
+o Research on various classification,Prediction models | Literature review and
+Background analysis on Various classification, prediction models for bug priority
+prediction | Literature review and Background analysis on Various
+classification, prediction models for bug fix time prediction
+°o Analysis on Multi Target/Label classification | Prediction and evaluation of various
+Multi target machine learning algorithms for bug priority and bug fix time prediction
+o Presented comparison study of Multi Target classification models for the
+considered problem statement| Thesis submission
+Nov '19 - Jan '21
+New Delhi, IN
+PG Diploma in Machine learning
+IIIT Bangalore
+e Secured 4.3/5 CGPA
+KEY PROJECTS
+Domain: Electronics-consumer | Tech Stack: Python| JAN'20
+e Objective: To develop a feature which recognise five different gestures performed by
+the user that help users control the Smart-TV without using a remote.
+e Solution: Convolution 3D and CNN LSTM neural networks are modeled to predict the
+user control based on the recognised user gesture.
+e Key Achievement: Experimented Convolution 3D and Convolution LSTM models with
+different filter sizes, number of layers,dropout and various parameters.CNN-LSTM
+outperformed CNN 3D model for gesture recognition with training accuracy of 88%
+and validation accuracy of 73%.
+KEY PROJECTS
+Domain: Hospitality | Tech Stack: Python| JAN'20
+e Objective: To help users discover restaurants quickly and efficiently and to provide a
+good restaurant discovery experience
+e Solution: Build conversational bot (chatbot) which can help users discover restaurants
+across several Indian cities
+e Key Achievement:Able to develop a chatbot which gives users top 10 restaurants with
+rating,reviews and the cuisines,cost of cuisines available in tier-1 and tier-2 restaurants
+based on user inputs.
+KEY PROJECTS
+Domain: Travel | Tech Stack: Python| JAN'20
+e Objective:To build an RL-based algorithm which can help cab drivers maximise their
+profits by improving their decision-making process on the field.
+e Solution: Taking long-term profit as the goal, we proposed Markov Decision Process
+based on reinforcement learning to optimize taxi driving strategies for profit
+maximisation
+e Key Achievement: created an environment and a RL agent that is trained using vanilla
+Deep Q-learning (DQN) which learns to choose the best request from the pool of
+requests a cab driver receives.We are able to achieve a good convergence rate for
+agent with optimal Q-Value.

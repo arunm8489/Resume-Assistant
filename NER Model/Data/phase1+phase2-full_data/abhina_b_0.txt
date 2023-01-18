@@ -1,0 +1,40 @@
+AN) aliat-1ey- et-1aale(ate
+Data Scientist looking For a Senior role to deal with Big Data and Deep Learning algorithms, and having professional experience with
+creating chatbots using python, NLP, machine learning and RASA chatbot framework.
+MM abhinaba.banerjee@ieseg.fr [] +919433234225 Q Kolkata, India Ta an Un) <-XelfamecoyanVAtayé-]=)a}fat-]0y-b oy-1a\-ip[(-X-m P46)
+ 
+TECHNICAL SKILLS
+SETS CS CS ES CS pata leaning
+Data Analytics I eYolayiavom et-] al iate NLP(Natural Langugage Processing)
+WORK EXPERIENCE
+Data Scientist
+Operanka Associates
+06/2018 - 04/2021 Paris, France
+Fintech startup trying to create a chatbot based product
+Achievements/Tasks
+® Created a restaurant chat bot based on the RASA NLU and RASA Core architecture as part of a training in Python Visual Studio Code
+environment in Ubuntu.
+© Designed a web scraping tool to retrieve data For various Financial based regulations.
+© Made an automatic tool for creating data-sets for Financial regulation chat-bot using questions framed by a linguistic expert.
+© Improve the quality of the data by adding co-occurrences. Automate the formatting of data by converting From an Excel file to a json File
+Format useful for the bot.
+® Created questions using stems of various type e.g. where, why, how, what, etc. and used named entity recognition tool to Format the
+questions.
+® Tools and packages used: Python3 , Rasa nlu and Rasa core, Pandas, numpy, beautifulsoup4, scrapy.
+Data Science Intern
+Wegravit
+07/2017 - 12/2017 Lille, France
+Achievements/Tasks
+© Made a filtering based algorithm using SQL and R to suggest the right users according to the specific keywords For the users to find the
+right connections For them to socialize.
+© Worked on designing a static navigation tool which assembled the navigation data of bus, metro, tram, train, cycle using R considering
+traffic scenarios and weather at hand.
+® Tools and packages used: R, SQL, ggplot2, dplyr, tidyr.
+EDUCATION
+MSc in Big Data Analytics for Business
+IESEG School of Management
+08/2016 - 05/2017 Lille, France
+Courses
+© Descriptive and Predictive Analytics © Text Mining
+© Recommender Systems ® Data Visualization
+Page 1 of 2

@@ -1,0 +1,20 @@
+Freelance Project
+Cricket Prediction Model for 3D Max India (10/2021 - Present)
+e To aim of this project is to build a model that predict the win ratio of playing teams based on a player
+characteristic, | worked in extracting and transforming the data for modelling
+Personal Projects
+Customer Segmentation for online retailer
+e The aim of this project was to segment the customers into different — different group using unsupervised
+machine learning methods so that company can give different — different offers to different — different
+groups of customers based on their previous purchasing behaviors
+Movie Recommendation with Sentiments Analysis (09/2021 - 10/2021):
+e The aim of this project was to create a movie recommendation same as Netflix or Amazon Prime with
+Sentiments Analysis of the movie reviews
+Virtual Mouse and Voice Control (OpenCV) (11/2021 - 12/2021):
+e The aim of this project was to create virtual mouse and voice control, controlled by hand gesture using
+OpenCvV library
+Hobbies
+e —_ Listening Song
+e Computer Gaming
+e = Travelling
+e §=6 Trekking

@@ -1,0 +1,44 @@
+6303502028
+ol at=ler= lacey) ys ltalelt=|aaPe-col ole laatslimexolan C n d Ke N Te] a Ne d d y
+Hyderabad, India, IN Data Analyst
+ 
+SUMMARY
+Aspiring Data Scientist with ademonstrated ability to deliver valuable insights via Data Analytics, applied Machine Learning
+and Deep Learning Frameworks. Proficient in deploying complex machine learning and _ statistical modeling
+algorithms/techniques for identifying patterns and extracting valuable insights for key stakeholders and organizational
+leadership. Looking to apply my Skills and Certification on Data Science, machine learning and Deep Learning to manage
+statistical machine learning and data-related solutions at your organization.
+KEY SKILLS
+Tools : Jupyter Notebook, Amazon Web Service (AWS),Anaconda, Tableau(Basics)
+Programming Language : Python, R Programming
+Data Mining : Numpy, Pandas, Scipy
+Statistical Models : Linear Regression, Logistic Regression, PCA, LDA, Feature Selection
+Machine Learning: Decision trees, Ensemble Technique(Random Forest), KNN, Bagging & Boosting, SVM, Naive Bayes, Web
+Scrapping(Scrapy), Gradient Boosting Machine, XGBoost
+Deep Learning : CNN, RNN, LSTM, Tensorflow, Keras
+NLP : Spacy, AWS Comprehend, AWS Transcribe
+EDUCATION
+¢ Computer Science and Engineering with 6.7 CGPA from NBKR Institute of Science and Technology (2012- 2016)
+¢ Class XI and Class XII with 92% from srichaithanya Junior College
+¢ Class X with 89 CGPA from AP Residential school
+PROFESSIONAL EXPERIENCE
+Data Analyst
+Responsibilities and Expertise
+¢ 3 years2 months of hands-on in Data Analytics, ETL and Machine Learning Development focusing on quality,
+process and timelydelivery.
+¢ Determining Customer requirement and designing proposed case along with scope and timelines
+¢ Performing Exploratory Data Analysis and applying right Machine Learning technique
+¢ Demonstrating the solution as a Business Designed case for the future Predictions
+¢ Investigating the Revenue Leakage for the client from the provided data and taking the Various actions to curb the
+Revenue Leakage
+¢ Extracting the datafrom the IBM Cognos Tool and forecasting the details and insights to the client
+¢ Proposed solutions to improve system efficiencies and reduce total expenses
+PROFESSIONAL PROJECTS
+Project : Insurance Premium Prediction
+Description: The Main aim of this use case is to Train and develop Regression model on Insurance Premium data and
+prediction of the insurance premium for the new customers.
+¢ Cleaning and pre-processing the data. Getting the insights of the data from exploratory data analysis and Visualizations.
+Various Regression models are developed and after validation of the models picking out the best regression model which
+can predict the premiums.
+¢ This helps the insurance company with the data of the customers asking the relevant customers to pay the different
+premiums.

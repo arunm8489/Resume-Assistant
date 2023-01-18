@@ -1,0 +1,79 @@
+Contact Details
+WZ
+Pradip.vetal07@gqmail.com
+No +91 9511809298
+Technical Skills
+Python (NumPy, Pandas, Scikit-
+Learn, Matplotlib, Keras, Flask)
+WW WWW
+Expert
+Machine Learning
+W WWW
+Advanced
+Artificial Neural Networks
+WWW
+Good
+Deep Learning
+WWW
+Good
+Predictive Modelling
+WWW
+Good
+Statistics
+W WWW
+Advanced
+NLP
+WWW
+Good
+Apache Spark
+WWW
+Good
+AWS
+WWW
+Good
+Debugging
+W WWW
+Advanced
+PRADIP RAYBHAN VETAL
+Data Scientist-Python Developer
+3.5 years of experience in Solution driven Python web
+develooment and adept at contributing to highly collaborative
+work environment and finding solutions. Proven experience in
+Python, Deep Learning and Machine Learning. Looking forward
+to collaborating with cross-functional team and ensuring the
+accuracy and integrity aground data to boost business efficiency
+and strategic goals. Targeting assignments in Data Science,
+Machine Learning and Deep Learning with organization.
+PROFILE SUMMARY
+e Achievement-driven professional with experience of 3.5
+years.
+e Skilled in libraries such as Sklearn, NumPy, pandas,
+Matplotliob, Seaborn, TensorFlow, HTML, CSS.
+WORK EXPERIENCE
+Addvic Tech Pvt. Ltd., Pune
+03/2021-Present- ML/Data Scientist
+Domain -Marketing campaign
+e Collaborated with all team members to optimize
+Customer Relationship Management database.
+e Build predictive model using various machine learning
+tools to predict the possibility.
+e Develop algorithm using NLP and Deep learning models
+for predictive models.
+e Deploying solutions and analysing customer data,
+understanding their purchasing behaviour and predicting
+customer's behaviour using linear regression in python
+(NumPy and Pandas)
+e Python programming to produce reports and analysis on
+Google Collab.
+10/2020-03/2021- Intern Data Scientist
+e Project-1-Predicting flight Delays using local Weather
+Data
+e Predicted airline delays caused by weather conditions
+using data mining and supervised machine learning
+algorithms. Flight and weather data from 2005 to 2015
+were extracted to train the model.
+e Project - 2- Predict loan eligibility for dream housing
+finance company
+e Automated the loan eligibility process based on customer
+details provided while filling online applications form.
+e Provided insight into Data mining and processing data.

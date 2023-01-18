@@ -1,0 +1,62 @@
+Soft Skills
+e Problem Solving
+WW WWW
+Expert
+e = Structure Thinking
+WW WWW
+Expert
+e Creative Thinking
+WW WWW
+Expert
+e §=Storytelling Skill
+WW WWW
+Expert
+e Interpersonal Skills
+WW WWW
+Expert
+Wipro Tech. Pvt. Ltd. - Associate Project Engineer
+06/2017-08/2019
+Joined Wipro Trainee program as fresher got training in Python
+and SAP skill set for duration of 3-month period.
+Knowledge of Python web framework Flask.
+Able to integrate multiple data sources and databases
+into one system.
+Got to work on frontend technologies such as HTMLS,
+and CSS3.
+Worked on accessibility and security compliance of
+website.
+Got Knowledge of user authentication and authorization
+between multiple systems, servers, and environments.
+Worked on scalable applications such as mobile vs
+desktop, and optimizing output to match the specific
+platform.
+Worked with event - driven programming in Python.
+Able to create database schemas that represent and
+support business processes.
+Strong unit test and debugging skills.
+Proficient understanding of code versioning tools such as
+Git.
+Excellent time management and multitasking Skills.
+EDUCATION
+Bachelor of Engineering. SRCOEM, Nagpur.
+2013-2016
+Graduated with Gold Medal in Electronics Design Tech.
+Final project was designing Power Amplifier for wireless
+devices with IEEE standard 802.11 using Advance Design
+Software.
+Participated in Technical programs with real time
+problem solving.
+Diploma in Engineering. GP, Beed.
+2010 - 2013
+Exolored the amazes about Electronics and
+Communication engineering in Diploma program.
+Completed real life projects throughout the Diploma and
+got introduced to engineering fields.
+CERTIFICATION
+Udemy Professional program in Data Science and
+Machine Learning.
+Certified in Infosys ltd. Software coaching program in
+Python, SQL and JAVA during UG.
+ADDITIONAL ACTIVITIES
+Participated in Analytica Vidhya Data Hackathon for
+Loan Prediction and Big Mart Sales Prediction.

@@ -1,0 +1,39 @@
+The University of Melbourne, Australia Feb 2020 - Oct 2020
+Data Science Intern | One CRM Team
+e Predicted Student Success using python & various machine learning algorithms from Scikit Learn library
+e Attained an overall accuracy of 87% for the prediction system for the RF model after hyperparameters tuning
+e Integrated scenario modeling system to the prediction system, to help students who are at the risk of failure
+The University of Melbourne, Australia Dec 2019 — Jan 2020
+Data Science Intern | Campus Analytics Team
+e Identified efficiency and sustainability of The University of Melbourne buildings
+e Analysed usage of libraries utilizing space and occupancy data (visitors) to understand the overcrowded places
+e Achieved an accuracy of approximately 90% for various ML models (SVM, RF) and made it ready for deployment
+PROJECTS
+Generic Sentiment Analysis Tool for Analyzing Reviews (Python, Flask) Jun 2020 — Jul 2020
+e Created a generic model to scrape reviews from travel websites to assess reviewer’s sentiments and recommend
+prospective customers accordingly
+e The Decision Tree classifier was used to categorize reviews as Positive, Negative and Neutral along with the Text Blob
+Library and accomplished an overall accuracy of 77%
+e Delivered entire project to the client after deploying on the web operating on Python’s Flask
+Climate Misinformation Detection System (Python) May 2020 — Jun 2020
+e Worked on the collection of data for climate change information & misinformation leveraging BeautifulSoup and
+Scrapy libraries in python
+e Applied text processing techniques in NLP and generated features from text deploying Vectorisation methods
+e Proposed various Machine Learning models such as SVM, Decision Tree, Logistic Regression and Deep Learning
+models such as RNN, LSTM to restrict texts as ‘Climate Change Information’ and ‘Climate Change Misinformation’
+e Succeeded best results (85% percent approx.) using the Logistic Regression model along with TF-IDF, N-gram level
+vectorised features
+City Analytics on the Cloud (Python & Cloud) Apr 2019 — May 2019
+e Devised a tweet harvesting system by accessing Twitter API and managed to store tweets to CouchDB cluster with the
+help of Tweepy and CouchDB libraries in python
+e Programmed Map-Reduce queries in CouchDB and python to fetch specific data related to the hypothesis
+EXTRA CURRICULAR & VOLUNTEER ACTIVITIES
+e Working with University of Melbourne students to develop a web scraping & ML based project (Aug 2021 - Present)
+e Mentor for Datazen, the official Data Science council at Somatya Vidyavihar University, India (Jun 2021 - Present)
+e Participated in the MYOB Datathon 2020 and Telstra Innovation Hackathon 2020 and developed prototypes (MVP)
+for the same in September 2020
+e Participated & got second prize in the GovHack 2020 Datathon where main aim was to build a prototype of a real
+time system which detects waste using Deep Learning (CNN) techniques in August 2020
+e Alumni Mentor for data science at K. J. Somatya college of Engineering, India in July 2020
+e Peer to peer data science mentor at The University of Melbourne in June 2020
+e Implemented a data science based project in MBS Datathon hosted by The University of Melbourne in Aug 2019

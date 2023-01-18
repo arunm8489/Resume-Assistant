@@ -1,0 +1,57 @@
+Noida, UP
+SHANU GARG in
+8) (491) 7017070256 , 9457748272
+I shanugargsg@gmail.com
+Data Science Associate - TCS &D shanu-garg
+Data Science Associate with 3+ years of rich experience in Natural Language Processing and in Machine Learning. Skilled in modelling,
+statistical, mathematical, and other analytical techniques. Highly organized, motivated, and diligent with significant background in
+technical skills.
+Languages Python, C/C++, JavaScript
+Databases SQL, PostgreSQL, MongoDB, CouchDB
+Libraries Scikit Learn, NLTK, Spacy
+Models BERT, BIO-BERT, Word2Vec, Embedding, NER
+WebFrameworks Flask, FASTAPI, NodeJS
+Utilities Anaconda, Git, Jira, Sublime Text, Jupyter Notebook, Databricks, Docker, PTC Thingworx
+es | | rojects
+Aug 2021 — Data Science Associate, AMGEN.
+Ongoing Extracted Data from multiple data sources like Pubmed with the help of automated scripts implemented in Airflow.
+Developed pipeline on Databricks with PySpark for data information saved in s3 storage.
+Worked on machine learning models, which enable to assist speciality of Doctor.
+Worked on fuzzy name Matching Algorithms.
+Worked on Geography prediction with the help of multiple data sets.
+Oo O00 0 0
+May 2020 - Data Science Associate, TCS SAFETY LITERATURE SURVEILLANCE (SLS) .
+March 2021 o Designed NER models in NLP by using BERT on the abstract part of article (like protein, drugs etc.)
+© Designed NER pipeline with the help of AIRFLOW.
+o Analyzed and designed the Database schema in POSTGRESQL and in MONGODB.
+o Also, Developed REST APIs using python flask.
+Nov 2019 — Python Developer, TCS PROMOREV MLR.
+March 2020 © Worked on multiple algorithms according to business rules on text (like reference, authors)
+© Developed PDF Layout Analysis, Text Extraction programs and scripts.
+Developed REST APIs using python flask.
+o Also, Analyzed and Designed the machine learning architecture of the code.
+oO
+Aug 2018 — 1OT Developer, AMERICAN MULTINATIONAL CONSUMER GOODS CORPORATION.
+Oct 2019 o Developed an IOT Application by using Thingworx.
+© Developed an IOT fluctuation Analysis at multiple levels by using Thingworx.
+o Also, Developed REST APIs for application using Nodejs.
+o Additionally, Developed multi-chaining scripts using Nodejs.
+ms f-(11)CatiON
+2014-2018 GLA University Mathura,
+Computer Science and Engineering, Bachelor of Technology.
+GPA - 8.17/10
+ms Ct fications
+Machine Learning A-Z™: Hands-On Python & R In Data Science.
+Machine Learning by Stanford University.
+Master SQL for Data Science.
+The Complete Hands-On Introduction to Apache Airflow.
+REST APls with Flask and Python.
+Oo O00 0 0
+mens ACH eVveEments
+Secured 94 percentile in GATE 2018.
+Group Representative in TCS Initial Learning Programme (ILP).
+Selected as a part of TCS Innovations.
+Conducted Webinar on Python in TCS.
+Acquired Digital Profile in TCS.
+Selected for Technical Grade in Indian Air force (IAF).
+Oo O000 0 0

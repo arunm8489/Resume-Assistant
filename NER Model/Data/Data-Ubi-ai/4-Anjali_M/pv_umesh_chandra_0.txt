@@ -1,0 +1,49 @@
+ 
+P V UMESH CHANDRA
+Analyst - Software Development
+A distinguished and accomplished IT Professional of Information
+Technology and Software Engineering with consistent track record of
+Professional Excellence in IT Automation and Data Science with interest in
+analyzing raw data and statistics, brings excellent communication abilities
+with building machine learning models.
+Profile Summary
+ 
+A competent professional with 2+ years of professional experience in IT Automation, Data
+Science and Build release Management Engineer that includes environment setup, build
+automation, continues Integration, scripting and deployments.
+Expertise in writing Python, Shell and Yaml scripts to automate the tasks/deployments.
+Strong knowledge on source controller concepts like Branches, Merges and Tags using GIT.
+Developed ansible playbooks for installing, configuring services on servers and for other
+operations.
+Exposure of working with end users &application teams to install, improve or deploy updates to
+their
+Applications installed.
+Expertise in developing the bots like CPU, Memory, Patching Activity and automated the entire
+process using Ansible, Python and AWX(Tower).
+Experience in creating custom Docker Images using Docker file and Docker environments to
+deploy.
+Implemented Exploratory Data Analysis (EDA) in Python with Pandas, Matplotlib and NumPy,
+such as sampling, feature engineering, correlation, etc.
+Having Good knowledge on the databases like Sql (MySQL, MSSQL), NoSql (MongoDB).
+Performed various operation like inserting the data and fetching data from the databases like
+MySQL, MSSQI and Mongo DB using Python.
+Expertise in python script for visualization of data, which is retrieved from the databases.
+Developed python script for Microbots Platform integrated with the Service Now by using APIS.
+Developed python script automatically reassign incidents stuck in the Queue.
+Developed PowerShell scripts for Service Manager Ticketing tool for integrating with Microbots
+Platform.
+Created APIS using python flask wrapper for integrating with the Service Manager Incident
+Management.
+Exposure of working with end users &application teams to install, improve or deploy updates to
+their applications installed.
+Having good knowledge on the AWS (Amazon Web Services).
+Performed data analytics using Kinesis Data Streams and SQS (Simple Queue Services).
+Possess good interpersonal, documentation and oral communication skills, positive work attitude.
+Persuasive communicator with exceptional relationship management skills with the ability to
+relate to People at any level of business and management.
+Outstanding ability to provide application support from development to production.
+Dedicated and highly ambitious to achieve personal goals as well as organizational goals.
+Adroit at learning new concepts quickly and working well under pressure.
+Ability to think both strategically and tactically in a high-energy, fast-paced environment,
+understand business context and integrate cognitive and advanced analytics levers for solutions,
+Ability to work in a global collaborative team environment.

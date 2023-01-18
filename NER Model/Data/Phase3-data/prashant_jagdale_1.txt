@@ -1,0 +1,29 @@
+Project : Credit Card Defaulter Prediction
+Domain : Finance
+Description
+Perform Classification to help the organization to determine whether a person
+defaults the credit card payment for the next month or not (1/0).
+Roles and Responsibilities:
+e Data Preprocessing
+e Checked for null values in the columns.
+e Performed scaling
+e Checked for correlation between different independent variables.
+e Performed clustering on input dataset.
+e Performed EDA (Exploratory Data analysis)
+EDUCATION
+Bachelor of Engineering in Electronics and Telecommunication | BE(E&TC)
+Shivaji University Kolhapur | 2018.
+Diploma in Electronics and Telecommunication(E&TC)
+MSBTE,Mumbai | 2014.
+PERSONAL DETAILS
+Name: Mr. Prashant Bapuso Jagdale
+Current Address:
+A/P: Ishan Building, Kalakhadak, wakad, Pune.411027
+Permanent Address:
+A/P: Ambak,
+Tal: Kadegaon, Dist: Sangli.
+PIN: 415303
+Mob No: 9970191232
+Date of Birth: 02.06.1993
+Gender: Male
+Marital Status : Married

@@ -1,0 +1,55 @@
+Jayant Kumar Jha
+Rohini, New Delhi, India
+Q (+91) 9650756657 | & jayantj.pe.17@nsit.net.in | @ cognitojayant | @ jayant-k-jha | #Blog
+Summary
+I have learned machine learning and deep learning from massive collections of Literature’s and MOOC’s and to be
+precise still learning. Interested in creating Neural Network with application in mind for computer vision and
+Natural Language Processing. Advanced understanding of statistical, algebraic and other analytical techniques.
+Highly motivated and diligent with significant background in Mathematical Modelling.
+Work Experience
+Machine Learning Scientist Dec 2019 — present
+ArabEasy LLC
+e Manage team & Technology Agile Scrum practices for development of In-house product and features. Define
+and develops best practices and tools for project executions and management. Creating project plans, schedules,
+estimates and forecasts. Resolving project issues, mitigate risks and manages change management.
+e¢ Responsible for hiring, Mentoring & training Juniors and interns, planning technology roadmap, driving agile
+development with focus on architecture and scale. Setting up internal coding standard guidelines..
+e Act on items identified in retrospectives, implement process improvements in future sprints for continous
+development.
+e Creation of deep learning Rig for training of Deep Learning Models.
+e Development of OCR using Deep Learning end to end pipeline for English and Arabic printed documents.
+¢ Development of Image enhancement module which includes traditional machine learning algorithms as well as
+deep learning models such as SRGAN, CNN etc..
+e Development of Neural machine translation model using Transformer model for Eng-Ara Language pair on
+custom data.
+e Development of Recreation of PPTX module for files directly from pdf files.
+e XML-Parsing for docx, pptx and xlsx for data generation.
+Data Analyst July 2019 — Dec 2019
+CogniTensor
+e Implemented YOLOV8, SSD and Deep Learning Models for Image and Video Analytics using OpenC'V and
+TensorFlow.
+e Developed a Deep Learning Model DWT-LSTM for Time Series Forecasting of Metals Prices using PyTorch
+e Contributed to development of Data Science Platform DeepOptics by developing optimization methods such as
+BayesOpt etc. Coordinated Statistical data analysis, design and information flow.
+Research Consultant Apr 2019 — Oct 2019
+WorldQuant
+e Researching different Quant or trading Strategies for financial instrument.
+e Creating different mathematical models for financial instrument to be utilized as trading strategies in portfolio
+management.
+Education
+ 
+Netaji Subhas Institute of Technology, Delhi University, New Delhi Augest 2017 — July 2019
+M Tech « Production Engineering « CGPA: 8.5/10 Institution of Engineers, Kolkata July 2013 — Mar 2016
+Graduation « Mechanical Engineering « CGPA: 7.33/10
+Technical Skills
+e IDE: PyCharm, Visual Studio Code, Jupyter, Spyder, R Studio
+¢ Programming languages: C/C++, Java, Julia, Latex, MATLAB, Python, R, Scala, Shell Scripting
+e Data Science & Machine Learning: NumPy, NGBoost, NLTK, OpenC\V, Scikit Learn, TensorFlow, Keras,
+PyTorch, Horovod, Pyspark, Pandas, MatPlotlib, Seaborn, LightGBM, XGBoost, Tidy Verse
+¢ Software: AutoCAD, AnSYS,MiniTAB, Design Xpert, MS Office Suite
+¢ Developer Essential: Github, Bitbucket, JIRA, Trello, Confluence
+¢ Devops: PostgreSQL, MongoDB, AWS, GCP, Docker, Django, Flask, FastAPI, Kubernetes
+Areas of Interest
+Mathematical Modeling « Optimization « Data Science & Big Data « Deep Learning « Machine Learning and
+Data Mining « Computer Vision « Natural Language Processing « Time Series Forecasting « Pattern
+Recognition e¢ Probabilistic Representation & Reasoning « Distributed Computing

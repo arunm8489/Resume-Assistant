@@ -1,0 +1,91 @@
+SHIVARAJ KARKI
+Deep Learning Engineer
+\% 8867788150 @ karki.shivaraj@gmail.com
+2? https://www.linkedin.com/in/shivaraj-karki/ 9 Bangalore
+EXPERIENCE
+ 
+Software (Deep Learning) Engineer
+EmageSoft
+E41 07/2019 - Ongoing
+ 
+ 
+ 
+ 
+ 
+9 Bangalore, India
+Emagevisionpl.com
+Leading team of two in end to end deep learning project.
+e Customized input pipeline for Deep learning models, Data
+preprocessing.
+e Setting up GPU server.
+e Implementing SoA CNN algorithms, Object Detection and Image
+Classification - Training, prediction.
+e Analyzing and visualizing activation maps of different models and
+finalizing a model with better performance.
+e Hyperparameter tuning, Cutomized Loss Function, Ensemble Model.
+e Data parallelism and Distributed training.
+e Prototyping prediction pipeline by integrating both classification and
+detection model.
+e NLP Sentiment analysis, Speech to Text conversion
+Assistant Professor
+PESIT
+3 07/2014 - 01/2019
+ 
+ 
+ 
+ 
+ 
+9 Bangalore, India
+Technical Teaching
+e Machine Learning, ANN, Linear Algebra, Probability and Random
+Process, Real Analysis
+e Convex Optimization, Python Programming.
+e Networking lab-NS2 simulator, Microprocessor
+e Network Security, Signal processing labs in python
+Internee
+Honeywell
+Ff 09/2012 - 05/2013 9 Bangalore, India
+e Wireless sniffing module using Wireshark tool
+ 
+ 
+ 
+ 
+ 
+TECH STACK
+ 
+Python Tensorflow Keras OpenCV
+Object Detection Deep Learning Al LSTM GRU NLP
+Matplotlib numpy pandas EDA PIL
+www.enhancv.com
+ 
+ACHIEVEMENTS
+ 
+VY
+VY
+Technical paper:
+Quality of Service for Differentiated
+Traffic using Multipath in Wireless Sensor
+Networks International Journal of
+Inventive Engineering and Sciences
+(IUIES) ISSN: 2319-9598, Volume-3 Issue-
+1, December 2014
+Organising International
+Conference
+Exemplary Volunteer in 6th International
+Conference on Information Processing
+August 2012, in compiling and editing
+technical papers for Springer publication.
+University Topper
+Topper in M.E, UVCE
+MY TIME
+ 
+oN
+Team Discussion
+Technical paper, Articles
+Data Analysis and Coding
+Reports and Analysis
+Blogging and github
+Family
+Meditation, SKY, Yoga
+CY Enhancy
+Powered by

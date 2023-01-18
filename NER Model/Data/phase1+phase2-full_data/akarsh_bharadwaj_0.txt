@@ -1,0 +1,37 @@
+Ak arsh Bangalore - 54, Karnataka
++91 78996 25624 &
+B h aradwaj akarshcool.30@gmail.com
+Data Scientist with 2+ years of hands-on experience in delivering valuable insights via Data Analytics and
+Advanced Data driven methods using predictive modelling, Data Pre-processing, and Machine learning
+algorithms to solve challenging Business problems. Proven ability to understand Customer requirements
+and translate into actionable project plans. Dedicated and hard-working with a passion for Data Science.
+Skills
+e Strong in Data Science Technologies using Python Libraries of programming
+e Data Analysis, Statistical and Predictive Modelling
+e Have good experience in Machine Learning - ML Algorithms (Linear Regression, Logistic, Decision Tree,
+SVM, KNN, etc.)
+e Experienced in working with Python Libraries (SciPy, NumPy, Pandas, Matplotlib, Scikitlearn, NLTK,
+TensorFlow, Keras, etc.)
+e Basics on Deep Learning- Neural Networks, ANN, RNN, CNN.
+e Hands on Experience with NLP and Computer Vision Projects.
+e Exposed to complete Project Life Cycle — Analysis, Design, Coding, Testing and Implementations
+e Worked on OCR- Tesseract OCR and Abby.
+e Strong Communications and creative problem-solving skills
+Experience
+TECH MAHINDRA: BANGALORE, KARNATAKA (JAN 2019 — PRESENT)
+PROJECTS
+MARCH 2020 — PRESENT (Al COMPETENCY TEAM)
+1.Menu Maker Tool on-prem/UberEATS, Bengaluru- Karnataka
+A Leading online Food Delivery Company that is interested in creating a tool that will capture
+Menu’s from Restaurant to generate a custom CSV format for further process. Also making the tool
+applicable for Multi-Language (Cantonese, Mandarin, Spanish and Japanese).
+Role: Data Analyst/ Python Developer.
+Language: Python
+Technology & Packages: Computer Vision, NLP, PyQt, OCR (Tesseract, OCR.space, Abbey), Pillow,
+OpenCV, Text blob.
+Responsibilities:
+e Understanding the whole documentation of the Business problem and acquiring knowledge.
+e Built a tool using Python to capture Menu’s by labelling the items.
+e Used Tesseract OCR and improved accuracy with different techniques to capture the labels.
+e For Multi-Languages - Adding a suggestion box in Tool for Agents to assist them for selection of
+item using Python Packages — (Google Translate, Text Blob, Wiki)

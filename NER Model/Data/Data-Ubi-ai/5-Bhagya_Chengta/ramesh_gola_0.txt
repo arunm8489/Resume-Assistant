@@ -1,0 +1,34 @@
+Mahadevapura, Bangalore (+91) 9901572465
+RAMESHA GOLA
+Country. PIN - 500032 rameshgola9@gmail.com
+SUMMARY
+Data scientist and Data Analyst with More than Two years of tech industry experience in a wide range of functions
+including predictive modeling, statistical analysis, Data visualization, Machine learning algorithms, Model
+development and product analytics.
+SKILLS
+Data analysis, Machine Learning algorithms, Data Visualization, Hadoop, Python, Anaconda, MySQL,
+Mathematics, Data Mining, Statistical analysis, Predictive modeling, Model Development.
+WoRrRK EXPERIENCE
+DATA SCIENTIST.
+PHATAKE GLOBAL SERVICES. JUNE 2020 — May 2021
+Linear regression (project)— In this section, we have built a Linear Regression model to predict Sales
+using an appropriate predictor variable.
+RESPONSIBILITIES —
+DATA UNDERSTANDING: In this process need to load the Data and understand the attributes meaning,
+shape of Dataset etc.
+Data Analysis: Data analysis involves manipulating, transforming and visualizing data in order to infer
+meaningful insights from the results.
+Data Visualization: methods used to summarize the distribution and relationships between variables using
+visualization such as charts, graphs and plots.
+Statistical analysis: the statistical methods used to clean and prepare data ready for modelling.
+Data preprocessing: Rescaling the variables, splitting into train and test Data sets etc.
+MODEL Development: Building the linear model
+HYPER PARAMETER TUNING : K-Fold Cross Validation, Grid Search to find optimal Hyper parameter C
+OPTIMIZING FOR OTHER EVALUATION METRICS: in this case, we had optimized the model based on the
+accuracy though that may not always be the best metrics to optimize.
+DATA SCIENTIST. JUNE 2019 - DEC 2019
+PEOPLE CLICK TECHNO SOLUTIONS.
+CREDIT CARD DEFAULT PREDICTION (project):- in this lab, we will build a random Forest model to
+predict the whether a given customer defaults or not. Credit default is one of the most import problem in
+the banking and risk analytics. There are various attributes which can be used to predict default, such as
+demographical Data behavioral Data etc.

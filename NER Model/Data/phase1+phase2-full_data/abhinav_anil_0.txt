@@ -1,0 +1,85 @@
+Abhinav Anil
+ 
+To achieve the goal and expand my horizon by gaining insights and knowledge on various domains like Image Processing, Computer Vision
+Data Scientist (Computer Vision)
+abhinav.anil2206@gmail.com
+7677326151
+linkedin.com/in/abhinav-anil-4a0528168 j
+github.com/Abhinav-Anil?tab=repositories
+and Data Analytics from the field of Data Science and work on cutting edge technologies to develop real-world applications.
+WORK EXPERIENCE
+Data Scientist (Computer Vision)
+Senguire Analytics Pvt Ltd
+11/2019 - Present Pune
+Senquire is an Al centric, global visioned startup. Its mission is to use the
+power of Al to simplify our day to day lives.
+Achievements/Tasks
+- As a Data Scientist, | have developed image processing
+algorithms and processed datasets tailored for individual
+applications, enhancing the product capabilities
+- R&D on various OpenCV and Unsupervised Learning
+Techniques that are tailor made to solve complex
+customer application requirements
+—- Hands on Project Delivery on Embedded Devices - Nvidia
+Jetson Nano and Xavier NX, with Al Models based on
+Frameworks such as Tensorflow and Keras
+- Automate the measurement processes directly through
+the Image Processing Techniques. Works on input images
+as well as open source CAD file formats
+- Devise & utilize algorithms and ML models on various kinds
+of data to improve, clean & validate data for efficiency,
+uniformity and accuracy
+Trainee, Maintenance and Support
+Indian Oil Corporation Limited
+06/2017 - 05/2018 Patna
+Achievements/Tasks
+- Worked as an IT Trainee, at Pradhan Mantri Ujjwala Yojna
+Project (PMUY) and handling Bihar and Jharkhand
+- Worked on Problem Troubleshooting associated with
+Distributor - Customer relationship.
+—- Part of development team IOCL Mumbai Branch, worked
+on the development of the internal Software for different
+states of India.
+EDUCATION
+O Master of Science in Computer Application
+Symbiosis Institute of Computer Studies and
+Research
+06/2018 - 06/2020
+Courses
+- Deep Learning
+Pune, 7.39GPA
+- Machine Learning
+- Data Analytics
+- Predictive Analytics
+SKILLS
+PERSONAL PROJECTS
+A Deep Neural Network based approach to segment
+medical echocardiography PLAX images into 6 main
+heart structures. (03/2021 - Present)
+— It has managed to achieve an intersection-over-union (IOU)
+accuracy of 89.3% on average (71 test images).
+Anomaly Detection on Proprietary Image Dataset
+using Nvidia Jetson Xavier NX (05/2021 - 06/2021)
+- Model trained ona ‘hazelnut’ dataset of size 800 images. Accuracy
+in the ballpark of 95%, evaluation crietria based on heatmap and
+dataframe
+Boundingbox and Illusion effect in static background
+(03/2020 - 05/2020)
+— The main achievement is that applying partial segmentation on
+each Frame that could be recorded and visible by our eyes and
+treat as illusion on the retina.
+ACHIEVEMENTS
+Published paper under IEEE for Understanding the
+need For Machine Learning as a solution For Financial
+analysis of IT industries. (10/2018 - 01/2020)
+(https://ieeexplore.ieee.org/abstract/document/9104170)
+ 
+Won ist Prize in Institute Level Debate Competition
+(06/2017 - 06/2017)
+26th Rank in the National Science Olympiad
+(06/2013 - 08/2013)
+LANGUAGES
+English Hindi
+Full Professional Proficiency Full Professional Proficiency
+INTERESTS
+Research Writing Poems Violin

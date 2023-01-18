@@ -1,0 +1,27 @@
+Approach
+---------
+
+Stage 1 - Text Parsing with CNN + rule based
+---------------------------------------------
+
+phase 1 -  
+Finding the ROI
+multimodal cnn for identify regions of intrest 
+(https://clgiles.ist.psu.edu/pubs/CVPR2017-connets.pdf)
+(https://nanonets.com/blog/ocr-for-resume-parsing-deep-learning/#advantages-of-ocr-based-parsing)
+-  highly complex
+
+
+phase 2 - 
+Apply some image processing techniques and make the borders of segmentation maps clear.
+Extract the regions and tag them and just take the required regions 
+- highly complex
+
+
+
+Stage 2 - Generating vector from text and training a ML model
+-------------------------------------------------------------
+
+phase 3 -
+- parsing and text summarization and generate vectors for each of regions like experience, technical skills - complex
+- find similarity score with JD and train a ML model - easy

@@ -1,0 +1,68 @@
+Machine
+Learning
+Deep Learning
+NLP
+Computer
+Vision
+Data
+Engineering
+Hadoop
+ETL
+GCP
+Azure
+AWS
+MLOps and
+DevOps
+Good
+EERE
+Excellent
+ae
+Average
+| | |
+Good
+|
+Average
+| | |
+Good
+a
+Basic
+| |
+Very Good
+| |
+Very Good
+|
+Average
+EERE
+Excellent
+| yf
+Good
+2018-07 -
+2019-07
+Learn, Pandas, TensorFlow, Keras, Excel, MLIib,
+etc.
+Research Consultant
+WorldQuant, Mumbai, Maharashtra
+e Developed around 125+ stock market strategies
+using Statistical and Machine Learning techniques.
+e Implemented Multivariate Regression, Statistical
+Modelling, Predictive Analysis and various
+Statistical methods to preprocess/clean data and
+created market strategy.
+e Backtesting strategies using Python/R in order to
+check performance on historical data.
+e Achieved average Sharpe Ratio of 2.00+ and fitness
+of 1.50+ with correlation with pool of less than 0.5.
+» Other Experience
+e Developed Speech to Text Analytics workflow
+using GCP speech-to-text which outputs user
+wise sentences as csv file.
+e Developed real time pipeline to do sentiment
+analysis on documents uploaded to Cloud
+Storage using GCP Natural Language.
+e Developed Advanced NLP Search using AWS
+Textract, Comprehend and Elastic Search.
+» Certifications
+e AWS Machine Learning Specialty - March'21
+e GCP Professional Cloud Architect - March'21
+e AWS Developer Associate - May'21
+e AWS Solutions Architect Associate - July'20

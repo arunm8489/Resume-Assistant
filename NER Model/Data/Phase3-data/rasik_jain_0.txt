@@ -1,0 +1,50 @@
+Data Scientist +91-6354259293
+Phase 1, Hinjewadi +91-9601259301 (whats app)
+Pune, Maharashtra 411057 RASI K JAI N rasik.jain@mtech2017.iitgn.ac.in
+https://www.linkedin.com/in/rasik- rasik6627265@gmail.com
+jain-79a18519a/ D.O.B: 17/06/1996
+EDUCATION
+Indian Institute of Technology Gandhinagar, Gujarat July 2017 — June 2019
+Gandhinagar (IITGN)
+e M.Tech. in Mechanical, CGPA: 7.5
+e Research Project: Modelling and Simulation of Active vibration control system for a flexible structure (plate) using finite
+difference method.
+Chhattisgarh Swami Vivekananda Bhilai, Chhattisgarh June 2013 — June 2017
+Technical University (CSVTU)
+e B.E. in Mechanical, CGPA: 8.99
+e Research Project: To design and developed a working model of air cushion vehicle (ACV) or hovercraft.
+WorK EXPERIENCE
+Data Science Trainee Almabetter, Bangalore, KA June 2021 — Present
+¢ Fundamental of python, introduction to NumPy, Introduction To Pandas, Pandas operation, Introduction to data visual-
+ization using Matplotlib and Seaborn.
+e Ml calculus, Linear Algebra, probability theory, descriptive and inferential statistics, Hypothesis testing, A/B testing.
+e Introduction to Machine Learning, Linear Regression Implementation, Bias-Variance Tradeoff, Regularized Linear Re-
+gression, Cross-Validation & Hyperparameter Tuning, Logistic Regression, Decision Trees, Ensembles of Decision Trees,
+K-Nearest Neighbors, Naive Bayes Classifier, Support Vector Machines, Neural Networks, K-Means Clustering, Hierarchi-
+cal Clustering, Principal Component Analysis, Anomaly Detection, Introduction to Natural Language Processing, Topic
+Modeling, Recommender Systems - Collaborative Filtering, Content Based Filtering,Time Series Analysis
+Product Engineer Rightbot Pvt. Ltd., Bangalore, KA June 2020 — June 2021
+e Focuses on development of robots for picking totes and cardboard boxes in warehouses.
+e Manufactured parts and components using plethora of manufacturing process and machines like laser cutting, water
+jet cutting, electrical discharge machining, 3D printing (FDM & SLA), VMC, CNC wood and plastic cutters etc.
+e Managed vendor selection and communicate requirements to vendors. Task management on JIRA
+¢ Contribute to development of innovative solution to difficult problems in warehouse automation domain
+Product Design Engineer Addverb Technology, Noida, UP July 2019 - June 2020
+e Worked with a team of mechanical engineers on design,innovation and production of products related to warehouse
+Intra-logistic automation domain such as automated guided vehicle (AGV), autonomous mobile robot (AMR), pallet
+stacker crane, pallet shuttle system, sorter robot, safety trolley, roller, belt and chain conveyors etc.
+¢ Coordinate with purchase, quality control, manufacturing and project management team to resolve any design related
+issue impacting onsite projects or in-house production and to improve product design.
+e Prepared bill of material (BOM), design calculation, product specification and assembly documentation, animation and
+presentation using MS-Office, NX-MCD, blender and filmora
+PROJECTS
+NYC trip prediction
+e Built a regression model using linear regression, Decision tree regressor and XGBoost models to predict taxi time in NYC.
+e Used a folium graph to visualize the pickup and drop o locations.
+e Employed processing techniques such as feature scaling, outliers treatment, missing values and performed sampling to
+generate train and test data.
+e Applied Lasso and Ridge regularisation for optimizing the t of the model and hyperparameter tuning, which resulted in
+an Adjusted R square score of 0.71 on the test data
+Credit card default prediction
+e Developed a binary classication model using algorithms such as XGBoost and SVC to predict whether a customer will
+default on credit card payments.

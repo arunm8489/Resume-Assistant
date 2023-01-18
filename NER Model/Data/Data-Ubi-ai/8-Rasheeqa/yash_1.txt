@@ -1,0 +1,38 @@
+PROJECTS
+Auto essay grading project
+Implementation of an Automated Essay Grading System with
+deep learning and NLP that helps schools and institutes to
+rank their students and improve their quality of writing.
+ineuron.ai
+Student education analysis platform
+Implementation of an Automated Grading System with an
+Adaptive Learning Component to affect student feedback
+and response time that able to give us the notification the
+area where student is lagging and needed improvement for
+successful transition in their career.
+Trivium Eduservices pvt./td
+Detect the defects in air pressure system
+This project aims to develop a pattern recognition system for
+the ‘Air Pressure System Failure’ which generates the
+pressurized air that are utilized in various functions in
+vehicles in order to minimize the overall maintenance cost.
+iNeuron.ai (academy project)
+CERTIFICATION
+Internship completion certificate
+iNeuron.ai
+BENGALURU, INDIA
+Certified Machine Learning Engineer
+iNeuron.ai
+BENGALURU, INDIA
+EDUCATION
+B-tech(Mechanical Engineering)
+GLA University, Mathura
+Bachelor
+CGPA - 7.47
+ENDORSEMENT
+| hereby declare that the information furnished above is complete and true to the best of my Knowledge.
+Date:
+Jan '21 - May '21
+Aug '20 - Dec '21
+Jun '20 - Jan '21
+Aug '12 - May '16

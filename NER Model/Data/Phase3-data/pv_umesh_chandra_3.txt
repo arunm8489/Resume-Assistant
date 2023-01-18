@@ -1,0 +1,42 @@
+e Implemented to check and eliminate the missing values and outliers in our dataset. In case
+there are any missing entries, we will impute them with appropriate values (mode in case of
+categorical feature, and median or mean in case of numerical feature).
+e Performed a descriptive statistics on the data like numerical parameters, fields like mean,
+standard deviation, percentiles, and maximum have been distributed. For categorical features,
+count, unique, top (most frequent value), and corresponding frequency have been distributed.
+e Implemented the machine learning model called linear regression in Supervised Learning
+which predicts the major profits of distribution of foods across the world.
+e Predicted values are stored in variables to visualize major profitable distribution of food
+works across the world.
+e Finally concluded the most profitable distribution of food works across the world by Data
+Visualization.
+Certifications
+ython Programming Master Class
+ython MySQL Data Base From Scratch.
+Ansible Absolute for Beginners-Hands-On-Devops
+achine Learning (Stanford University)
+xploratory Data Analysis for Machine Learning (Coursera)
+hat is Data Science (IBM Data Science Professional)
+ools for Data Science (IBM Data Science Professional)
+ata Science Methodology (IBM Data Science Professional)
+ython for Data Science, AI & Development (IBM Data Science Professional)
+atabases and SQL for Data Science with Python (IBM Data Science Professional)
+etting Started with Data Analytics on AWS
+What is Data Science (IBM Data Science Professional)
+ 
+EDUCATION
+ 
+Sree Vidyanikethan Engineering College, Tirupati.
+Electrical and Electronics Engineering.
+Accolades
+ 
+e Awarded as a Top Performer.
+e Customer Delight award for outstanding performance.
+e SUPER SQUARD award for outstanding performance.
+Personal Details
+ 
+Date of Birth: 14th August 1998
+Languages Known: English, Hindi, and Telugu
+Address: #21/581, Beside Muni Reddy Colony, Colony, Near Honda Show Room, Jammalamadugu,
+Kadapa District, Andhra Pradesh — 516434.
+LinkedIn: http://linkedin.com/in/umesh-chandra-reddy-60a3551a0/

@@ -1,0 +1,13 @@
+popular. So I built a Deep Neural Network learning model (CNN). Which is used for predicting foods using
+an Android mobile camera.
+3. Heart Diseases Prediction using Flask Framework With Platform as a Cloud Services
+Technology: Python — Scikit Learn, Flask Framework, Heroku Cloud
+Project Description:
+In this Project I developed a Machine Learning model using Pickle file and PAAS . I trained a different type
+of Machine Learning algorithm that gave the best accuracy result. I dumped an algorithm model as a .pkl
+file and I worked on it with HTML and Flask framework to build a web application. Then dumped all
+code and files into Heroku Cloud .
+Work Towards The Data Science
+@ Linkedin
+e Github
+e Youtube

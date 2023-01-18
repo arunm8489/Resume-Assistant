@@ -1,0 +1,32 @@
+Key Skills 1. Univariate Analysis.
+2. Exploratory Data Analysis.
+3. Vectorization on each Feature.
+e Bag of Words
+e TFIDF Vectorization.
+e One Hot Encoding.
+4. Navie Bayes Algorithm.
+5. Decision Tree Classifier.
+ 
+Case Studies:
+Title Facebook Friend Recommendation using Graph Mining
+(Machine Learning Case-Study)
+Description Problem Statement :
+Given a directed social graph, have to predict missing links to
+recommend users.
+Business objectives and constraints :
+a) No low-latency requirement.
+b) Probability of prediction is useful to recommend highest
+probability links.
+Performance metric :
+a) Precision & Recall & F1 Score
+b) Confusion Matrix
+Key Skills 1. Exploratory Data Analysis.
+2. Feature Engineering
+Jaccard & Cosine Similarities
+Page Rank
+Shorest Path
+Adar index
+Kartz Centrality
+HITS Score
+3. Modelling
+ 

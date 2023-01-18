@@ -1,0 +1,43 @@
+Pooja M Ambali
+4 pujaambli@gmail.com , 8867841824 in www.linkedin.com/in/pooja-m-ambali-891292148
+Profile
+Meticulous developer with 3 years of work experience in Deep Learning, Computer Vision, Image
+Processing, Machine Learning, and Model Deployment. Keen interest in solving Video Analytics Solutions
+and have been entrusted upon taking the responsibilities.
+Professional Experience
+10/2020 - present
+08/2018 - 09/2020
+Skills
+Programming languages
+C, Python
+Computer Vision
+Cloud Platform
+AWS
+Python Libraries
+Senior Al Engineer, Tata Elxsi
+Worked extensively with Deep Neural Networks (DNN), Convolution Neural
+Network (CNN), Recurrent Neural Network (RNN) architectures to develop
+various Image and Video Analytics solutions.
+Identified client needs and suggested appropriate services to enhance user
+experience.
+Worked on designing models in ML/DL as per requirements of the problem
+statement.
+Worked on model optimization, fine-tuning, and evaluation.
+Experience in Deploying Al Models on AWS using SQS, S3, EC2 Instance, ECR,
+Lambda Functions.
+Al Engineer, Tata Elxsi
+Experience in working on Object Detection algorithms (FasterR-CNN, YOLO),
+Image Classification, and Semantic Segmentation.
+Good understanding of Neural Network Architecture and Data Preparation.
+Experience in various techniques like Data Gathering, Data Visualization, Data
+Cleaning, Data Preprocessing, Data Augmentation, and Data Post-processing.
+Experience in running Al models with celery.
+Hands-on Experience in working with Dockers, GPU environments.
+Deep Learning Frameworks
+Keras, TensorFlow, PyTorch
+Machine Learning
+Database
+MongoDB
+Tools and Others
+OpenCV, Pandas, Numpy, Matplotlib, Celery, Jupyter Lab, Sublime, Jira, Git, Docker
+Seaborn, Scikit-Learn, PIL

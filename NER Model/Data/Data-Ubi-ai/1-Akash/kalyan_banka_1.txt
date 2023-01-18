@@ -1,0 +1,54 @@
+(i Work Experience
+Since Dec 2018 with NeelBlue Technologies, Hyderabad as Software Engineer
+Project Undertaken:
+1.Ecam Security Project — (UPS) One of the Top Logistics in USA:
+Description: The Application itself has to provide ecamsecurity for organizations. Which means we should do identify
+the vehicles belongs to organizations or not and humans also. When we found vehicle or human belonging to
+organization we will allow them inside by open gate if not they will not allowed.
+Technologies Used: Python & Azure.
+Responsibilities:
+© Extract the text from vehicle images by Tesseract OCRt 0 know the vehicle belongs to organization or not.
+© Creating ML models such as YOLO for customized Logo detection.
+© Classify Vehicles in different segments using Azure customized image classification.
+© Write some shell scripts to know the new images get into the folders. The shell scripts will automatically execute
+python scripts when the new vehicle get into the server folders.
+@ Execute Axis Media Camera url’s by python program to open the gate when we found organization vehicle or
+human.
+2.Linkedin automation — Grand Welcome USA:
+Description: We need to get the LinkedIn profile url’s for sales purpose which required some automation click on
+LinkedIn website. Here we need to take details like first name and last name and Zip code by entering these details we
+will get some profiles and copy those profiles into CSV file.
+Technologies Used: Python & Selenium
+Responsibilities:
+@ Need to automate the web clicks on LinkedIn page through selenium.
+© Need to solve the issue when the automation not fallow the process.
+Apr 2017 — Oct 2017 with Betamonks, Visakhapatnam as Executive software Developer
+Project Undertaken:
+1.Banking — Weswap from Europe:
+Description: The client will get the VISA and Master card files by EOD which have details of all the transactions details
+of last 24 hrs. So we need to extract those files details by using Pro* c language and insert the details into appropriate
+tables and then we need to compare these transactions with initial transaction tables and insert financial entries for
+bank end.
+Technologies Used:C,C++,Oracle.
+Responsibilities:
+© Developing the applications for Extract the data from VISA and Master cards on daily basis through Pro * C.
+© Solving the issues when daily process stuck anywhere.
+© Developing applications for Sending reports on weekly basis and monthly basis.
+@ Taking new requirements from client and developing those.
+Nov 2017 — Jul 2018 with Betamonks, Visakhapatnam as Executive software Developer
+Project Undertaken:
+2.Banking — Onepay from Europe:
+Description: The client will get the VISA and Master card files by EOD which have details of all the transactions details
+of last 24 hrs. So we need to extract those files details by using Pro* c language and insert the details into appropriate
+tables and then we need to compare these transactions with initial transaction tables and insert financial entries for
+bank end.
+Technologies Used:C,C++,Oracle.
+Responsibilities:
+© Developing the applications for Extract the data from VISA and Master cards on daily basis through Pro * C.
+© Solving the issues when daily process stuck anywhere.
+© Developing applications for Sending reports on weekly basis and monthly basis.
+© Taking new requirements from client and developing those.
+Personal Details
+Date of Birth: 29" Jun 1993
+Languages Known: English and Telugu
+Address:1-116, Dukkavanipalem,Visakhapatnam(530052)

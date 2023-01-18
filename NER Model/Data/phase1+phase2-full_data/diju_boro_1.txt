@@ -1,0 +1,36 @@
+Requirement Analysis, Manual Testing, Technical Documentation
+Performing various type of testing related to product like Functional testing, Smoke, Performance,
+Exploratory etc.
+Conducting sessions on newly identified Bugs and difficult topics
+Responsible for assigning work to the team in the absence of the lead.
+VV VV
+1. Project Name :H P (Firmware testing)
+Client : Hewlett Packard
+Team Size : 20
+Summary : Firmware is the Software which is embedded into the MFP, (Multi
+functional peripheral) a HP product .This is used for performing various operations like Fax, E-
+mail, Scan, Copy etc .I worked on CPE 6, CPE 7, & CPE 8 Releases of the firmware. Various
+servers such as Sun One, Active Directory, Linux, Microsoft Exchange Servers, Fax Servers,
+SMTP Servers, VMRE servers are used to test the firmware.
+Responsibilities:
+> Security testing (Authentication, Authorization using LDAP, Kerberos and other servers).
+> Writing Test Issue for the Test Cases that show some inconsistency.
+> Finding bugs and Secondary Defects (Abnormal behavior by the MFP which is a part of
+observation during the test).
+> Writing Defect Logs.
+> Reviewing Test cases along with the lead.
+Project Name : Digital send Service
+Client : Hewlett Packard
+Team Size : 10
+Summary : DSS (Digital sending Service) is HP tool. DSS is the tool which is
+used to access the MFP with in the network .This is a highly sophisticated tool through which multiple
+MFP’s are accessed at a time.
+Responsibilities:
+Requirement Analysis, Design Analysis, Manual Testing, Technical Documentation
+Test Case review and creation of Review Log.
+Involved in the Functional Testing, System Testing and Regression Testing.
+Reporting and Verifying Bugs using ATMS bug tracking tool.
+ 
+PERSONAL DETAILS
+E-mail: diju.boro@gmail.com
+Languages: English, Hindi, Assamese, Bengal.

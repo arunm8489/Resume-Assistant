@@ -1,0 +1,112 @@
+ 
+ 
+ 
+ 
+Sayan Mondal
+Data Analyst
+Data Science enthusiasts would like to add analytical
+value to the organization using Data Science skills &
+tools. Proficient in predictive modeling, data
+processing, and data mining algorithms.
+ 
+WORK EXPERIENCE (3 YEARS 8 MONTHS)
+Data Analyst
+Ganit Business Solutions Pvt. Ltd.
+02/2021 - Present
+Achievements/Tasks
+e Conceptualize client business problem statements into data-based analytical
+hypotheses. Develop analytics project approach & present insights using multiple
+ML techniques. Demonstrate knowledge and execution on different ML models to
+different stakeholders
+Data Scientist (Intern)
+Innodatatics
+12/2019 - 09/2020
+Tasks
+e Data Mining, Exploratory data Analysis, Feature Engineering, Feature selection,
+Model Building, Used RandomizedSearchCV & GridSearchCV to tune the
+hyperparameter of Random forest and XgBoost & Logistic Regression to improve
+the model performance.
+Assistant Manager Sales & Marketing
+Synergy Cargo Management(l) Pvt. Ltd.
+07/2018 - 03/2019
+Achievements/Tasks
+e Handled key accounts & helped them grow their business by implementing sales
+analytics. Competitors Analysis to understand competitors pricing, strategy.
+Developed problem-solving approach pertaining to business process issues using
+small data models in cargo management.
+Business Associate
+Porter.in
+04/2017 - 10/2017
+Achievements/Tasks
+e Developed & implemented Data analytics-based sales strategy using dashboard-
+based analytics insights. Developed proof of concepts on new negotiation skills,
+solution building. Researched & analyzed market innovations, process
+development.
+Sales Engineer
+Larsen & Toubro Ltd.
+09/2012 - 11/2013
+Achievements/Tasks
+e Identified and structured client’s business requirements to help ,increase visibility
+pertaining to demand & supply, Managed sales & delivery process to the assigned
+customer ,Provided full management and operations support to the sales
+department.
+EDUCATION
+MBA- Marketing
+ITM Business School
+06/2015 - 07/2017
+B.E- Electrical
+Pune University
+08/2008 - 09/2012
+Data Science professional Certification
+ExcelR
+06/2019 - 11/2019
+sayan.m@itm.edu
+Xd
+8828250310 a
+Bengaluru, India Q
+linkedin.com/in/sayan-mondal-a7096b36 jn
+github.com/sayan-ai91 €)
+SKILLS
+PROJECTS
+Restaurant customer segmentation & Food
+recommendation (Top Indian Restaurant chain)
+® Established segmentation of customer depending on
+their Food habbit, time based preference,deal based
+preference
+®@ This project helped the client to target specific segment
+according to their behaviour
+Credit Card fraud detection -(Leading Indian
+Bank)
+©@ Identified Fraud transaction with 98% recall value .which
+prevents the the business from massive loss
+Topic modelling From chatbot data
+(Educational Institution)
+@ Find out the top 5 important topic From 90 days
+conversational data and take meaningful marketing
+action on it.
+® Through this project conversion rate is increased to 7%
+Medicine Review Sentiment Analysis
+® Analyzing the sentiment of medicine review and Find
+out the side effects and rectify it
+® acccuracy level 82%
+Cancer Prediction From patient's data
+® Cancer prediction with kappa score 0.96. Check the
+Feature importance through Random forest and
+implemented it accordingly.
+@ Through this project people will understand earlier the
+chance of cancer and take the necessary precaution at
+earliest
+IMPLEMENTED MODELS &
+LIBRARIES
+Machine Learning Algorithm
+XGBoost,CatBoost,RandomForest, Logistic Regression, Ridge
+& Lasso,ElasticNet Regression, KNN, Naive Bayes, K-
+Means,APRIORI/Market Basket Analysis ,DBSCAN,RFM,LDA
+Deep Learning Algorithm
+Artificial Neural Network,LSTM, BI-LSTM
+Python Libraries
+NumPy,Pandas,Pandas profiling, Matplotlib,
+Seaborn,Sweetviz, Keras,TensorFlow, Scikit-Learn
+Text Mining
+NLTK, Genism, Spacy, Stanford NLP,Glove,Word2vec, Text
+Blob

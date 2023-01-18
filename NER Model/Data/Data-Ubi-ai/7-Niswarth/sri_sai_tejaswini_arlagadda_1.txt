@@ -1,0 +1,31 @@
+EDUCATION
+Degree Title with Branch College/University Year Of Passing
+ 
+Bachelor Of Technology in | Jawaharlal Nehru Technological 2015
+Mechanical Engineering University, Hyderabad
+EXPERIENCE
+Project Name: Migration To Airflow, MBRDI
+Project Abstract:
+Mercedes Benz Research and Development India, works on providing innovative/optimized
+solutions by managing and processing the data, obtained using the sensors/equipment of the
+Mercedes-Benz vehicles, on road.
+Responsibilities:
+e Migration of the workflows (used for big data processing) from Oozie to Airflow.
+Parallelizing the steps (tasks) to attain maximum usage of nodes and the shortest
+possible time.
+e Adding new features to either Develop/ Master branch based on requirement.
+e Debugging the scenarios in the classic process and employing the code to be suited for
+Airflow.
+e Reporting to the onshore team about the design and development of the new features.
+e Providing hotfixes in the minimum possible time to efficiently streamline the data to the
+concerned teams.
+Project Name: Classification in Chat bot, DEM Plastics
+Project Abstract:
+DEM Plastics provides its customers with varied collections of Plastics and Steel materials for
+industrial usage. With a varied range of plastics available in the market along with the difference
+in its purposes and usage, DEM Plastics has decided to provide all this information to the user via
+Chat bot.
+Responsibilities:
+e Analyzing and understanding the Business requirements.
+e Data Analysis & Data Cleansing
+e Preparation of the data

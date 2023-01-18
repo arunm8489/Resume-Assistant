@@ -1,0 +1,41 @@
+Shashank Kodhati Email :
+in
+ 
+i Y Mobile : +91-8919315110
+EDUCATION
+; National Institute of Technology Karnataka, Surathkal 2019
+Karnataka, India B.Tech, Mining Engineering- 8.25 CGPA
+; Govt Science College-IGNOU 2020-2021
+Karnataka, India PG, Pg Diploma in Applied Statistics - Pursuing
+EXPERIENCE
+; Quantiphi Analytics Bangalore,India
+Data Engineer May 2019 - May 2021
+e Qognition - AI:
+o A UI based training and inference platform for different NLP tasks that has features for fine tuning of model on
+different datasets. Google AI Platform was used for model training and deployment.
+o A generic ETL pipeline for pre-processing is developed in Apache beam to create tf-records for training the ML
+model for text Summarization .
+o Created Flask API endpoint for the deployment of text summarization model on Docker for online inference.
+e Operational Data lake :
+o Humongous real time data pipeline is built using pub-sub and data flow where data is stored across Neo4j for
+establishing relationships, in big query and timescale db for KPI Metrics.
+o To lower the operational costs, provisioned Timescale db across 3 nodes for high availability, faster query
+performance and almost achieved the performance of big-query using optimization techniques.
+o Timescale db is employed for back filling operations and Calculated KPI metrics are visualized in Looker
+e Computer Vision for Safety:
+o Computer Vision pipeline is for safety in parks, resorts, etc. This involves generating real-time safety alerts using
+applications of computer vision on the live camera feed.
+o Built a custom solution for classification on top of Object Detection model based on SSD Algorithm followed by a
+rule-based approach to describe the cause for movement of the hand during movement of the passage.
+o Developed Flask API to trigger model deployed on Kubernetes engine to infer the results on video for
+action(stand/sit) with an average latency of 0.3s
+e DriveBoard(Product) :
+o One-stop platform for all the DevOps activities which include Infrastructure provisioning, security checks, template
+generator, Git and Jira Project creation, etc are developed using Django as back end.
+o This product minimized the time of Infra provisioning by about 1 day, Security Checks while provisioning reduced
+attacks and real-time alerts for project helped in minimizing costs.
+e Cyber attack Prediction on websites :
+o Kafka is employed in building near real time streaming pipeline on web logs and pre processed data is stored in
+HDFS for re-training.
+o The web logs are sent to model hosted on ECS and able to classify in 4-5 seconds.
+o A batch job is built on web logs where data from HDF%S is further processed and sent to model for Prediction.

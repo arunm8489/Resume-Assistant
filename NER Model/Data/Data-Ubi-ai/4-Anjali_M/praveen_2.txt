@@ -1,0 +1,30 @@
+> Split the data into train and test set, applied various machine learning models on the training data, and
+evaluated the models on test set.
+> Evaluated the results of the misclassification using AUC and binary confusion matrix methods.
+> Deployed the model using Flask framework and the response is sent via RestAPI in json format.
+Achievements:
+> Received Star award for recognizing as best employee of the year in 2019.
+> Performance and Outstanding Contributor award as per managers based rating.
+Certifications:
+> Machine Learning with Python(MLO101ENv3) Issued by IBM.
+> Deep learning masters (DLO12007) issued by iNeuron.
+> Data Analysis with Python (DAO101EN) Issued by IBM.
+> Neural Networks and Deep learning issued by coursera from deeplearning.ai
+Education:
+> Bachelor of Technology from JNTU College of engineering Anantapur in the year 2016 with 77%.
+> Intermediate from Narayana Junior College in the year 2012 with 96%.
+>» SSC from Sri Srija School in the year 2010 with 91.3%.
+Skills:
+> Algorithms Machine Learning, Deep Learning, Computer Vision
+> Programming Languages Python, Shell
+> Visualization Kibana, Matplotlib library
+> Other libraries numpy, pandas, Scikitlearn, keras, Tensorflow,Statsmodels
+> Framework Flask.
+Personal Details:
+> Date of Birth May 15,1995
+> Nationality Indian
+> Father’s Name Mr. Satya Narayana Reddy Nelli
+> Languages Known English, Hindi, Telugu
+Declaration:
+| hereby acknowledge that all the above given details are true up to my knowledge and belief.
+(Praveen Reddy)

@@ -1,0 +1,43 @@
+> Web Service :- REST-JSON, DRF (Django Rest Framework)
+> Development Tools :- Pycharm, Notepad ++
+> OS and Networking :- Windows XP,Windows 10, Ubuntu/Linux 18.2
+PROFESSIONAL EXPERIENCE SUMMARY
+Currently working as a Python Data scientist with Tech Mahindra, Pune since May 2019 to till date.
+Project-Sequence 1
+Project Title: Intelligent Analytical Grid
+System/Component: Payment, E- commerce, CRM
+Technology: Python , ETL ,Django Rest, Pandas
+Role — Python Data scientist
+Important Modules:
+e Sales Analytics ,Data Repository collection ,Customer Behavior Analytics ,Marketing Performance analysis
+e Conversion Optimization ,Product analytics
+Roles and Responsibilities:
+Involved in requirement analysis, design, estimation and testing of the assigned tasks in open stack with BA.
+Interpreting data, analyzing results using statistical techniques.
+Developing and implementing data analyses, data collection systems and other strategies that optimize statistical
+efficiency and quality.
+Design python script wrt to ensure functionalities meets customer requirements.
+Acquiring data from primary or secondary data sources and maintaining databases.
+Work with stakeholders to determine how to use business data for valuable business solutions.
+Search for ways to get new data sources and assess their accuracy.
+Browse and analyze enterprise databases to simplify and improve product development, marketing techniques,
+and business processes.
+Create custom data models and algorithms.
+Use predictive models to improve customer experience, ad targeting, revenue generation, and more.
+Develop the organization’s test model quality and A/B testing framework.
+Coordinate with various technical/functional teams to implement models and monitor results.
+Develop processes, techniques, and tools to analyze and monitor model performance while ensuring data
+accuracy.
+Project-Sequence 2
+Project Name_: Integrated Virtual Terminal
+System/Component: Payment System, Telecom BSS
+Technology:Python , Django , Oracle ,GIT ,SVN ,Rest — Web service ,Pandas ,ETL,Statistical Analysis
+Roles: Python Data analyst
+Roles and Responsibilities:
+Understand and analyze customer requirements and business logic .
+Built multifunction readmission reports using python pandas and Django frame work.
+Involved in preparing low level design of application .
+To take part in software and architectural development activities.
+Involved in designing and preparation of call flows with usability services.
+Perform data exploratory analysis using Matlplotlib,Collected historical data and third party data from
+different data source.
