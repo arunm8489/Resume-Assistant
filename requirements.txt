@@ -3,6 +3,6 @@ pandas==1.1.5
 xgboost==0.90
 pytesseract==0.3.8
 PILLOW==8.4.0
-sklearn
+scikit-learn==0.24.2
 pdf2image
 streamlit
