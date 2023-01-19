@@ -1,6 +1,6 @@
 spacy==3.4.4
 pandas==1.1.5
-xgboost==1.2.0
+xgboost==0.9.0
 pytesseract==0.3.8
 PILLOW==8.4.0
 pdf2image
