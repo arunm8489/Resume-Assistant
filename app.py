@@ -68,6 +68,7 @@ if Submit :
         shutil.rmtree('tmp')
 
     df = pd.DataFrame(data,columns=['file name','Shortlisted','Probability'])
+    df = df.sort_values(by=['Probability'],ascending=False)
 
 
     ## color dataframe
