@@ -54,13 +54,14 @@ if Submit :
     st.text(" ")
     st.markdown("**File Uploaded Successfully. Calculating results....**")
     data = []
+    threshold=0.45
     for i in range(len(Files)):
         pdf_file = Files[i]
         file_name = pdf_file.name
         pdf_file_path = save_file(pdf_file,file_name)
         text = convert_pdf_to_text(file_path=pdf_file_path)
         label,prob = predict_label(text)
-        label = 'Yes' if label == 1 else 'No'
+        label = 'Yes' if prob >= threshold else 'No'
         data.append((file_name,label,prob))
         # os.remove(pdf_file_path)
     
@@ -68,7 +69,7 @@ if Submit :
         shutil.rmtree('tmp')
 
     df = pd.DataFrame(data,columns=['file name','Shortlisted','Probability'])
-    df = df.sort_values(by=['Probability'],ascending=False)
+    df = df.sort_values(by=['Probability'],ascending=False).reset_index(drop=True)
 
 
     ## color dataframe
